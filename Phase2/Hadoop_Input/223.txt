@@ -1,0 +1,2443 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>Copernicus Project</title> 
+  <meta name="vs_defaultClientScript" content="JavaScript" /> 
+  <meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5" /> 
+  <meta name="GENERATOR" content="Microsoft Visual Studio.NET 7.0" /> 
+  <meta name="ProgId" content="VisualStudio.HTML" /> 
+  <meta name="Originator" content="Microsoft Visual Studio.NET 7.0" /> 
+  <link rel="stylesheet" type="text/css" href="menu.css" /> 
+  <script type="text/javascript">
+			window.onload=show;
+			function show(id) 
+			{
+				var d = document.getElementById(id);
+				for (var i = 1; i<=10; i++) 
+				{
+					if (document.getElementById('smenu'+i)) 
+					{
+					document.getElementById('smenu'+i).style.display='none';
+					}
+				}
+				if (d) 
+				{
+				d.style.display='block';
+				}
+			}
+    </script> 
+ </head> 
+ <body> 
+  <table style="width: 700px; margin: 0px; font-family: trebuchet MS;" align="center" id="Table1" border="0"> 
+   <tbody>
+    <tr> 
+     <td> 
+      <table style="width: 700px; margin: 0px;" border="0" id="Table2"> 
+       <tbody>
+        <tr> 
+         <td> <img src="images/coper.jpg" alt="The Copernicus Project" border="0" width="140" height="115" /></td> 
+         <td> <img src="images/spacer.gif" alt="" width="350" height="1" border="0" /></td> 
+         <td> <a href="http://education.ucr.edu/"> <img src="images/ucr_logo.gif" alt="UC Riverside Graduate School of Education" border="0" /></a></td> 
+        </tr> 
+       </tbody>
+      </table> </td> 
+    </tr> 
+    <tr> 
+     <td style="background-image: url(images/bar.jpg); background-repeat: no-repeat; width: 700px;
+                height: 90px"> </td> 
+    </tr> 
+    <tr> 
+     <td> <font color="red"> This website will be unavailable from 9:00 PM - 12:00 AM for regular maintenance every Friday!</font> <br /> </td> 
+    </tr> 
+    <tr> 
+     <td> <h2 style="color: #991A00;"> PROJECT INFORMATION</h2> 
+      <table style="width: 700px; margin: 0px; text-align: left; padding: 5px;" border="0" id="Table4"> 
+       <tbody>
+        <tr> 
+         <td style="width: 350px; vertical-align: top;"> The critical need for science teachers across our region, state and country is abundantly clear, by many measures. The Copernicus Project is centered in early identification of future science teachers, systematic recruitment from a diverse pool of candidates, high quality and focused teacher preparation beginning at the community college level, and sustained, mentored support of new and veteran teachers through ongoing professional development. Copernicus project partners cover a broad spectrum of education leaders, K-12 teachers, institutions of higher education, parents and the business community. The project's goals reflect what research underscores: that the single most important element in the academic achievement of students is the quality of their teachers.</td> 
+         <td style="width: 300px; vertical-align: top; text-align: left; padding-left: 50px;" valign="top"> <a href="http://www.copernicusproject.ucr.edu/Coperni_Comm.pdf">Newsletter</a><br /> <a href="friends.htm">Community &amp; Business Friends</a><br /> <a href="http://www.copernicusproject.ucr.edu/ssi/">Science Summer Institute</a> <img src="images/SSI.jpg" width="30" height="15" alt="" /><br /> <a href="http://www.copernicusproject.ucr.edu/cci/">Community College Internships</a> <img src="images/CCI.jpg" width="30" height="15" alt="" /><br /> <a href="BecomingTeacher.htm">Becoming A Teacher...</a><br /> <a href="http://www.copernicusproject.ucr.edu/ssi/Summit.aspx">Summit Information</a><br /> <a href="http://www.copernicusproject.ucr.edu/BeckmanCoulter.htm">Beckman Coulter Foundation</a> <br /> <a href="http://www.copernicusproject.ucr.edu/SuccessDay.aspx">Succes Day</a> <br /> <a href="http://www.copernicusproject.ucr.edu/FamilyScienceNight.pdf" target="_blank">Family Science Night</a><br /> <a href="http://www.iawp.ucr.edu/">Inland Area Writing Project</a> 
+          <ul> 
+           <li>&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.copernicusproject.ucr.edu/Application.pdf" target="_blank">Application</a></li> 
+           <li>&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.copernicusproject.ucr.edu/Information.pdf" target="_blank">Information</a></li> 
+          </ul> <a href="http://www.copernicusproject.ucr.edu/NorrisFoundationGrant.htm" target="_blank">Norris Foundation Grant</a> <br /> <a href="http://www.copernicusproject.ucr.edu/Videos.aspx" target="_blank">Teaching Science in 5EZ Pieces ? An interactive Guide to Teaching Science using the 5E Model</a> <img src="images/New.gif" alt="" /> <br /> <a href="http://www.copernicusproject.ucr.edu/ssi/ActionResearchSummary.htm">Summary of Action Research Projects</a> <img src="images/New.gif" alt="" /> <br /> <br /> <a href="images/GroupPhoto_Small.jpg"> <img src="images/GroupPhoto_Small.jpg" border="0" width="350" height="233" alt="" /></a><br /> 
+          <div style="font-size: 80%; width: 350px; font-family: Times New Roman trebuchet MS;
+                                text-align: left"> 
+          </div> </td> 
+        </tr> 
+       </tbody>
+      </table> 
+      <div id="menu"> 
+       <dl> 
+        <dt onmouseover="javascript:show('smenu1');">
+         PROJECT INFO
+        </dt> 
+        <dd id="smenu1" onmouseover="javascript:show('smenu1');" onmouseout="javascript:show('');"> 
+         <ul> 
+          <li><a href="Abstract.htm">Abstract</a></li> 
+          <li><a href="Biography.doc">Who was Copernicus?</a> </li> 
+          <li><a href="images/CopernicusProject.ppt">Copernicus Project Overview (ppt)</a></li> 
+          <li><a href="jobs.htm">Employment Opportunities</a></li> 
+          <li><a href="http://www.copernicusproject.ucr.edu/Coperni_Comm.pdf">Newsletter</a></li> 
+          <li><a href="PressReleases.htm">Press Release</a></li> 
+         </ul> 
+        </dd> 
+       </dl> 
+       <dl> 
+        <dt onmouseover="javascript:show('smenu3');">
+         PARTNERSHIPS
+        </dt> 
+        <dd id="smenu3" onmouseover="javascript:show('smenu3');" onmouseout="javascript:show('');"> 
+         <ul> 
+          <li><a href="friends.htm">Community &amp; Business Friends</a></li> 
+          <li><a href="partnerships.htm">Partners</a></li> 
+         </ul> 
+        </dd> 
+       </dl> 
+       <dl> 
+        <dt onmouseover="javascript:show();">
+         <a href="Contact.htm" title="Contacts">CONTACT INFO</a>
+        </dt> 
+       </dl> 
+       <dl> 
+        <dt onmouseover="javascript:show();">
+         <a href="http://www.copernicusproject.ucr.edu/ssi/pictures.aspx"> PROJECT PICTURES</a>
+        </dt> 
+       </dl> 
+      </div> </td> 
+    </tr> 
+   </tbody>
+  </table>   
+ </body>
+</html><!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+  <title>C&amp;C Antispam: Home</title> 
+  <meta http-equiv="last-modified" content="2012-01-23" /> 
+  <meta name="version" content="2.60 2.122 " /> 
+  <!-- 03/11/14 15:32:39 03/11/14 15:53:29 --> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/g=6bis-bluea-narrow" media="all" /> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /--> 
+  <link rel="stylesheet" type="text/css" href="/css/cncmod.css" media="all" /> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/f=css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/antispam/css/local.css" media="all" /> 
+  <script type="text/javascript" src="http://www.ucr.edu/min/g=js-sifr"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript" src="/highslide/highslide-full.packed.js"></script> 
+  <script type="text/javascript" src="/highslide/highslide.config.js" charset="utf-8"></script> 
+  <link rel="stylesheet" type="text/css" href="/highslide/highslide.css" /> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://cnc.cmsdev.ucr.edu/antispam" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr /> 
+   <div id="brandingbar"> 
+    <img class="overlay" src="/antispam/images/design6/overlay_home.png" alt="" /> 
+    <h1><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="" /><span class="accessibility">University of California, Riverside</span></a></h1> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/antispam/images/design6/masthead.jpg);"> 
+   <h1><a href="http://cnc.cmsdev.ucr.edu/antispam"><span class="printonly">C&amp;C Antispam</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr /> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://cnc.ucr.edu">Computing &amp; Communications</a> &gt;</li> 
+    <li class="lastitem">C&amp;C Antispam</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox" action="http://www.ucr.edu/search.php">
+     <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" size="18" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+    </form> 
+    <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+   </div> 
+   <hr /> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>Home</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li class="currentpage"><h3><dfn>Current page is: </dfn>Home</h3></li>
+       <li><a href="/antispam/smtp.html" title="SMTP Authentication">SMTP Authentication</a></li>
+       <li><a href="/antispam/realtime.html" title="Realtime Blocking Lists">Realtime Blocking Lists</a></li>
+       <li><a href="/antispam/spamtagging.html" title="Spam Tagging">Spam Tagging</a></li>
+       <li><a href="/antispam/graylisting.html" title="Graylisting">Graylisting</a></li>
+       <li><a href="/antispam/facultyhelp.html" title="Faculty Help">Faculty Help</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <hr /> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy.css" cssmenu="" width="790" --> 
+     <div class="header"> 
+      <!-- com.omniupdate.div label="title" group="Everyone" button="734" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="484" --> 
+      <!-- /com.omniupdate.div -->
+     </div> 
+     <div id="omnicontent"> 
+      <!-- com.omniupdate.div label="home-image" group="Everyone" button="657" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="484" -->
+      <p><img title="Banner" src="/antispam/images/spambanner.jpg" alt="Banner" width="484" height="190" /></p>
+      <!-- /com.omniupdate.div --> 
+      <!-- com.omniupdate.div label="maincontent" group="Everyone" button="657" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="484" -->
+      <h3>Anti-Spam Efforts at UCR</h3> 
+      <p>Spam poses a serious threat to productivity and Computing and Communications is therefore committed to providing effective solutions aimed at reducing the amount of unsolicited and unwanted e-mail that arrives at the e-mail inboxes of UCR faculty, students and staff.</p> 
+      <p>During the past several years, UCR has utilized <em>spam tagging </em>as its primary defense against e-mail spammers. Spam tagging works by checking all incoming mail and rating the mail with a number; when this number reaches a certain level (determined by the campus) the e-mail is tagged as spam. This tagging process makes it easy to create a <em>filter</em> allowing an e-mail client (e.g. Eudora, Outlook, Exchange) to automatically move these messages to a spam (or trash) folder.</p> 
+      <p>Unfortunately, great care must be taken to select the point at which e-mail is tagged as spam. Setting the threshold <em>too low</em> results in &quot;false positives&quot; (legitimate e-mail tagged as spam). Setting the level <em>too high</em> allows spam to avoid the tagging process altogether. Moreover, spammers (those responsible for sending spam mail) have become increasingly effective disguising spam as legitimate e-mail, thus avoiding campus tagging efforts.</p> 
+      <p>As a result, Computing and Communications (C&amp;C) has adopted additional measures aimed at further reducing the impact of spam at UCR. The latest initiative to control spam is SMTP authentication. SMTP authentication requires users connecting to UCR's e-mail servers to send mail from outside the campus network to possess a valid set of UCR credentials. Spammers, who frequently attempt to send mail with a fictitious @ucr.edu e-mail address, lack these credentials, and their e-mail is rejected by the system. UCR users on campus will be unaffected by these changes, but those who send mail from home, the road, or smartphones and tablets should <a href="/antispam/authhome.html">learn about changes they may need to make to their systems</a>. More information on all of UCR's antispam initiatives can be found by clicking on the left hand menu.</p> 
+      <!-- /com.omniupdate.div --> 
+      <!-- com.omniupdate.efp -->
+      <!-- /com.omniupdate.efp --> 
+     </div> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR">Visit UCR</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <address><strong>Computing &amp; Communications</strong><br /> <a href="http://campusmap.ucr.edu/campusMap.php?loc=HINHL" title="Campus Map">Computing &amp; Communications Bldg.</a><br /> <br /> Tel: (951) 827-4741<br /> Fax: (951) 827-4541<br /> E-mail: <a href="mailto:helpdesk@ucr.edu?subject=Website%20Inquiry">helpdesk@ucr.edu</a></address> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a>Computing &amp; Communications</a></li> 
+       <li><a href="http://post.ucr.edu">Exchange</a></li> 
+       <li><a href="/security">C&amp;C Security</a></li> 
+      </ul> 
+      <ul class="footer_links"> 
+       <li><a id="footer_link_facebook" class="footer_link_icon" href="http://www.facebook.com/UCRiverside" title="external site: Facebook">Visit UCR’s Facebook page</a></li> 
+       <li><a id="footer_link_twitter" class="footer_link_icon" href="http://twitter.com/UCRiverside" title="external site: Twitter">Follow UCR on Twitter</a></li> 
+       <li><a id="footer_link_youtube" class="footer_link_icon" href="http://www.youtube.com/UCRiverside" title="external site: YouTube">Visit UCR’s YouTube channel</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://cnc.cmsdev.ucr.edu/antispamsendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>&copy; 2012 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=ORG21&amp;site=cnc&amp;path=%2Fantispam%2Findex.html">Last modified: 2012-Jan-23</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+  <!-- Generated in 0.119514 seconds using 2.00 MiB of memory. -->   
+ </body>
+</html><!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>UC Riverside Academic Senate: Issues Under Review</title> 
+  <meta http-equiv="last-modified" content="2014-02-07" /> 
+  <meta name="version" content="1.202 1.232 " /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all" /> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr-config.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/swfobject.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/prototype.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/scriptaculous.js?load=effects"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/lib.js"></script> 
+  <script type="text/javascript" src="/js/functions.js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/pngfix.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/ie6.css" media="all" />
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+// ]]>
+</script> 
+  <script type="text/javascript">
+// <![CDATA[
+try {
+var pageTracker = _gat._getTracker("UA-3051875-1");
+pageTracker._setDomainName("ucr.edu");
+pageTracker._trackPageview();
+} catch(err) {}
+// ]]>
+</script> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://senate.ucr.edu/" accesskey="1">Home Page</a></li> 
+    <!--li class="skip"><a href="/about/accessibility.asp" accesskey="0">Accessibility Statement</a></li--> 
+   </ul> 
+   <hr /> 
+   <div id="brandingbar"> 
+    <img class="overlay" src="/images/overlay.png" alt="" /> 
+    <h2><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="UCR" title="UCR Home page" /></a></h2> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/images/masthead.jpg);"> 
+   <h1><a href="http://senate.ucr.edu/"><span class="printonly">UC Riverside Academic Senate</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr /> 
+  <!-- Start Breadcrumbs --> 
+  <div class="breadcrumbs"> 
+   <h3 class="accessibility">Breadcrumbs</h3> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://senate.ucr.edu/">UC Riverside Academic Senate</a> &gt;</li> 
+    <li class="lastitem">Issues Under Review</li> 
+   </ul> 
+  </div> 
+  <!-- End Breadcrumbs --> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox" action="http://www.ucr.edu/search.php">
+     <p> <label for="SearchText" accesskey="4">Search for:</label> <input type="text" size="19" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+    </form> 
+    <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+   </div> 
+   <hr /> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>Issues Under Review</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li><a href="/" title="Academic Senate Home">Academic Senate Home</a></li>
+       <li><a href="/about/" title="About the Academic Senate">About the Academic Senate</a>
+        <ul> 
+         <li><a href="/about/calendar.html" title="Calendar">Calendar</a></li>
+         <li><a href="/about/work_flowchart.html" title="Document Review Process">Document Review Process</a></li>
+         <li><a href="/about/duties_structure.html" title="Duties and Structure">Duties and Structure</a></li>
+         <li><a href="/about/faculty_code_of_conduct.html" title="Faculty Code of Conduct">Faculty Code of Conduct</a></li>
+         <li class="currentpage"><h3><dfn>Current page is: </dfn>Issues Under Review</h3>
+          <ul> 
+           <li><a href="/about/issues/2007-2008/" title="2007-2008 Archive">2007-2008 Archive</a></li>
+           <li><a href="/about/issues/2008-2009/" title="2008-2009 Archive">2008-2009 Archive</a></li>
+           <li><a href="/about/issues/2009-2010/" title="2009-2010 Archive">2009-2010 Archive</a></li>
+           <li><a href="/about/issues/2010-2011/" title="2010-2011 Archive">2010-2011 Archive</a></li>
+           <li><a href="/about/issues/2011-2012/" title="2011-2012 Archive">2011-2012 Archive</a></li>
+           <li><a href="/about/issues/2012-2013/" title="2012-2013 Archive">2012-2013 Archive</a></li>
+          </ul></li>
+         <li><a href="/about/meetings.html" title="Meetings">Meetings</a></li>
+         <li><a href="/about/newsroom/" title="News Archive">News Archive</a></li>
+         <li><a href="/about/officers.html" title="Officers">Officers</a></li>
+         <li><a href="/about/organization_powers.html" title="Organization &amp; Powers">Organization &amp; Powers</a></li>
+         <li><a href="/about/policies/" title="Policies and Procedures">Policies and Procedures</a></li>
+         <li><a href="/about/staff.html" title="Staff">Staff</a></li>
+        </ul></li>
+       <li><a href="/awards/" title="Awards">Awards</a></li>
+       <li><a href="/bylaws/" title="Bylaws, Regulations, Appendix">Bylaws, Regulations, Appendix</a></li>
+       <li><a href="/committee/" title="Committee Listings">Committee Listings</a></li>
+       <li><a href="/agenda/" title="Division Meetings and Agendas ">Division Meetings and Agendas </a></li>
+       <li><a href="/elections/" title="Elections">Elections</a></li>
+       <li><a href="/emeriti/" title="Emeriti Resources">Emeriti Resources</a></li>
+       <li><a href="/research_grants/" title="Research Grants">Research Grants</a></li> 
+      </ul> 
+     </div> 
+     <div class="center"> 
+      <img src="/images/calendar/left_fancy_break.png" alt=" " width="174" height="10" /> 
+      <a href="/about/calendar.html" class="img_link"><img src="/images/calendar/left_calendar.png" alt="See the complete Academic Senate Calendar" width="165" height="63" /></a> 
+      <img src="/images/calendar/left_fancy_break.png" alt=" " width="174" height="10" /> 
+      <form method="post" name="quicklinks" action=""> 
+       <select onchange="window.open(this.options[this.selectedIndex].value,'_top')" style="width:174px;" name="Quick_Links"> <option selected="selected">Other UC Senate Sites</option> <option value="http://www.universityofcalifornia.edu/senate/">UC Senate</option> <option value="http://academic-senate.berkeley.edu/">UC Berkeley Academic Senate</option> <option value="http://academicsenate.ucdavis.edu/index.cfm">UC Davis Academic Senate</option> <option value="http://www.senate.uci.edu/">UC Irvine Academic Senate</option> <option value="http://www.senate.ucla.edu">UC Los Angeles Academic Senate</option> <option value="http://senate.ucmerced.edu">UC Merced Academic Senate</option> <option value="http://www-senate.ucsd.edu/">UC San Diego Academic Senate</option> <option value="http://senate.ucsf.edu/">UC San Francisco Academic Senate</option> <option value="http://www.senate.ucsb.edu">UC Santa Barbara Academic Senate</option> <option value="http://senate.ucsc.edu/">UC Santa Cruz Academic Senate</option> </select> 
+      </form> 
+     </div> 
+     <h3 class="nopad center"><img src="/images/titles/log_in_top.jpg" alt="Academic Senate Log-in" width="174" height="45" /></h3> 
+     <p>Not currently logged in</p> 
+     <p><a rel="nofollow" href="/login.html" title="Log In" class="login"> </a></p> 
+     <div class="center">
+      <img src="/images/titles/administrative_tools_bottom.gif" alt=" " width="174" height="17" />
+     </div> 
+    </div> 
+    <hr /> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy-wide.css" cssmenu="" width="992" --> 
+     <!-- com.omniupdate.div label="title" group="Everyone" button="734" --> 
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" --> 
+     <!-- /com.omniupdate.div --> 
+     <div id="omnicontent"> 
+      <!-- com.omniupdate.div label="maincontent" group="Everyone" button="657" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" --> 
+      <h3>2013 - 14 UC Systemwide Issues Under Review Tracking Log</h3> 
+      <p>This log documents issues brought to the UCR Academic Senate from the UC Systemwide Academic Council for review during this calendar year.</p> 
+      <ul> 
+       <li>Release date is the day the proposal was brought to the senate.</li> 
+       <li>Committee due date is the date the subcommittees should respond to the Senate.</li> 
+       <li>Division report due is the date that the response is required by the Systemwide Academic Council.</li> 
+       <li>Response is the full response by the senate, in PDF format.</li> 
+      </ul> 
+      <table class="data3" border="1" cellspacing="0" cellpadding="0"> 
+       <thead> 
+        <tr>
+         <th width="30%"><strong>Issue</strong></th>
+         <th><strong>Release Date</strong></th>
+         <th width="30%"><strong>Committees Participating</strong></th>
+         <th><strong>Committee Due Date</strong></th>
+         <th><strong>Division Response Due</strong></th>
+         <th><strong>Response</strong></th>
+        </tr> 
+       </thead> 
+       <tbody class="striped"> 
+        <tr> 
+         <td> <p><a href="/about/issues/2013-2014/13-14. Campus review. Proposal for a MPP in SPP.pdf">Campus Review: Proposal for a MPP in SPP</a></p> </td> 
+         <td> <p>10/23/2013</p> </td> 
+         <td> 
+          <ul> 
+           <li><a href="/about/issues/2013-2014/13-14. Campus review. Proposal for a MPP in SPP. GC response.pdf">Graduate Council</a></li> 
+           <li><a href="/about/issues/2013-2014/13-14. Campus review. Proposal for a MPP in SPP. Library response.pdf">Library</a></li> 
+           <li><a href="/about/issues/2013-2014/13-14. Campus review. Proposal for a MPP in SPP. P&amp;B response.pdf">Planning &amp; Budget</a></li> 
+          </ul></td> 
+         <td> <p>ASAP</p> </td> 
+         <td> <p>10/29/2013</p> </td> 
+         <td><a href="/about/issues/2013-2014/13-14. Campus review. Proposal for a MPP in SPP. to division for special meeting.pdf">UCR Response</a></td> 
+        </tr> 
+        <tr> 
+         <td> <p><a href="/about/issues/2013-2014/13-14. APM systemwide review. APM 600 series.to Ed Pol, PB, CAP, FW, Grad Council, R&amp;J, CoDEO. sent Oct 24. 2013.pdf">Systemwide Review: APM 600</a></p> </td> 
+         <td> <p>10/31/2013</p> </td> 
+         <td> 
+          <ul> 
+           <li><a href="/about/issues/2013-2014/13-14. APM systemwide review. APM 600. Acad Personnel response.pdf">Academic Personnel</a></li> 
+           <li><a href="/about/issues/2013-2014/13-14. APM systemwide review. APM 600. Diversity response.pdf">Diversity</a></li> 
+           <li><a href="/about/issues/2013-2014/13-14. APM systemwide review. APM 600. Ed Pol response.pdf">Educational Policy</a></li> 
+           <li><a href="/about/issues/2013-2014/13-14. APM systemwide review. APM 600. Faculty Welfare response.pdf">Faculty Welfare</a></li> 
+           <li><a href="/about/issues/2013-2014/13-14. APM systemwide review. APM 600. Grad Council response.pdf">Graduate Council</a></li> 
+           <li>Planning &amp; Budget</li> 
+           <li><a href="/about/issues/2013-2014/13-14. APM systemwide review. APM 600. R&amp;J response.pdf">Rules &amp; Jurisdiction</a></li> 
+          </ul> </td> 
+         <td> <p>11/18/2013</p> </td> 
+         <td> <p>11/25/2013</p> </td> 
+         <td><a href="/about/issues/2013-2014/13-14. APM systemwide review. APM 600. Riverside response to OP.pdf">UCR Response</a></td> 
+        </tr> 
+        <tr> 
+         <td> <p><a href="/about/issues/2013-2014/13-14. Bylaw Review. CEP bylaw change. received 10.8.13. due asap.pdf">Bylaw Change: Committee on Ed Pol</a></p> </td> 
+         <td> <p>10/18/2013</p> </td> 
+         <td> 
+          <ul> 
+           <li><a href="/about/issues/2013-2014/13-14. Bylaw Review. CEP. bylaw change. CoC 2nd response.pdf">Committees</a></li> 
+           <li><a href="/about/issues/2013-2014/13-14. Bylaw Review. CEP. bylaw change. R&amp;J response.pdf">Rules &amp; Jurisdiction</a></li> 
+          </ul> </td> 
+         <td> <p>n/a</p> </td> 
+         <td> <p>n/a</p> </td> 
+         <td><a href="/about/issues/2013-2014/13-14. Bylaw Review. CEP. bylaw change. to Division meeting.pdf">UCR Response</a></td> 
+        </tr> 
+        <tr> 
+         <td> <p><a href="/about/issues/2013-2014/13-14. Bylaw Review. Grad Council  bylaw change. sent 10.28.2013.pdf">Bylaw Change: Graduate Council</a></p> </td> 
+         <td> <p>10/18/2013</p> </td> 
+         <td> 
+          <ul> 
+           <li>Committees</li> 
+           <li>Rules &amp; Jurisdiction</li> 
+          </ul> </td> 
+         <td> <p>ASAP</p> </td> 
+         <td> <p>n/a</p> </td> 
+         <td>UCR Response</td> 
+        </tr> 
+        <tr> 
+         <td> <p><a href="/about/issues/2013-2014/13-14. Bylaw review. Bylaw 55 systemwide review. to CAP, P&amp;T, R&amp;J, CoDEO, FW. due Nov 27, 2013.pdf">Systemwide Review: Bylaw 55 Revision</a></p> </td> 
+         <td> <p>10/24/2013</p> </td> 
+         <td> 
+          <ul> 
+           <li>Academic Personnel</li> 
+           <li>Diversity</li> 
+           <li>Faculty Welfare</li> 
+           <li>Privilege &amp; Tenure</li> 
+           <li>Research</li> 
+           <li>Rules &amp; Jurisdiction</li> 
+           <li>BCOE Executive Council</li> 
+           <li>CHASS Executive Council</li> 
+           <li>CNAS Executive Council</li> 
+           <li>GSOE Executive Council</li> 
+           <li>SOBA Executive Council</li> 
+           <li>SOM Executive Council</li> 
+          </ul> </td> 
+         <td> <p>11/27/2013</p> </td> 
+         <td> <p>1/17/2013</p> </td> 
+         <td>UCR Response</td> 
+        </tr> 
+        <tr> 
+         <td> <p><a href="/about/issues/2013-2014/13-14. APM systemwide review. APM 025, 670 and 671.to CAP,  FW, CAF, COR, P&amp;B. due 1.17.2014.pdf">Systemwide Review: APM 025, 670, &amp; 671</a></p> </td> 
+         <td> <p>10/31/2013</p> </td> 
+         <td> 
+          <ul> 
+           <li><a href="/about/issues/2013-2014/13-14. APM 670 &amp; 671. Acad Freedom response.pdf">Academic Freedom</a></li> 
+           <li><a href="/about/issues/2013-2014/13-14. APM 670 &amp; 671. Acad Personnel response.pdf">Academic Personnel</a></li> 
+           <li>Faculty Welfare</li> 
+           <li><a href="/about/issues/2013-2014/13-14. APM 670 &amp; 671. Planning &amp; Budget response.pdf">Planning &amp; Budget</a></li> 
+           <li><a href="/about/issues/2013-2014/13-14. APM 670 &amp; 671. Research response.pdf">Research</a></li> 
+           <li><a href="/about/issues/2013-2014/13-14. APM 670 &amp; 671. Xec. BCOE response.pdf">BCOE Executive Council</a></li> 
+           <li><a href="/about/issues/2013-2014/13-14. APM 670 &amp; 671. Xec. CHASS response.pdf">CHASS Executive Council</a></li> 
+           <li><a href="/about/issues/2013-2014/13-14. APM 670 &amp; 671. Xec. CNAS response.pdf">CNAS Executive Council</a></li> 
+           <li>GSOE Executive Council</li> 
+           <li>SOBA Executive Council</li> 
+           <li><a href="/about/issues/2013-2014/13-14. APM 670 &amp; 671. Xec. SOM response.pdf">SOM Executive Council</a></li> 
+          </ul> </td> 
+         <td> <p>1/17/2014</p> </td> 
+         <td> <p>2/15/2014</p> </td> 
+         <td>UCR Response</td> 
+        </tr> 
+        <tr> 
+         <td> <p><a href="/about/issues/2013-2014/13-14. APM systemwide review. APM 035. to Acad Freedom, Charges, CoDEO, FW, R&amp;J, P&amp;T. due 1.6.2014.pdf">Systemwide Review: APM 035 - Appendices A-1 &amp; A-2</a></p> </td> 
+         <td> <p>12/6/2013</p> </td> 
+         <td> 
+          <ul> 
+           <li>Academic Freedom</li> 
+           <li><a href="/about/issues/2013-2014/13-14. APM systemwide review. APM 035. Charges response.pdf">Charges</a></li> 
+           <li><a href="/about/issues/2013-2014/13-14. APM systemwide review. APM 035. CODEO response.pdf">Diversity &amp; Equal Opportunity</a></li> 
+           <li><a href="/about/issues/2013-2014/13-14. APM systemwide review. APM 035. Faculty Welfare response.pdf">Faculty Welfare</a></li> 
+           <li><a href="/about/issues/2013-2014/13-14. APM systemwide review. APM 035. P&amp;T response.pdf">Privilege &amp; Tenure</a></li> 
+           <li>Rules &amp; Jurisdiction</li> 
+           <li><a href="/about/issues/2013-2014/13-14. APM systemwide review. APM 035. Xec Comm response. BCOE.pdf">BCOE Executive Council</a></li> 
+           <li><a href="/about/issues/2013-2014/13-14. APM systemwide review. APM 035. Xec Comm response. CHASS.pdf">CHASS Executive Council</a></li> 
+           <li><a href="/about/issues/2013-2014/13-14. APM systemwide review. APM 035. Xec Comm response. CNAS.pdf">CNAS Executive Council</a></li> 
+           <li>GSOE Executive Council</li> 
+           <li>SOBA Executive Council</li> 
+           <li><a href="/about/issues/2013-2014/13-14. APM systemwide review. APM 035. Xec Comm response. SOM.pdf">SOM Executive Council</a></li> 
+          </ul> </td> 
+         <td> <p>1/20/2014</p> </td> 
+         <td> <p>1/23/2014</p> </td> 
+         <td><a href="/about/issues/2013-2014/13-14. APM systemwide review. APM 035. Riverside Response.pdf">UCR Response</a></td> 
+        </tr> 
+        <tr> 
+         <td> <p><a href="/about/issues/2013-2014/13-14. Bylaw Review. P&amp;B bylaw change. R&amp;J and CoC.pdf">Bylaw Change: Planning &amp; Budget</a></p> </td> 
+         <td> <p>11/20/2013</p> </td> 
+         <td> 
+          <ul> 
+           <li>Committees</li> 
+           <li>Rules &amp; Jurisdiction</li> 
+          </ul> </td> 
+         <td> <p>ASAP</p> </td> 
+         <td> <p>n/a</p> </td> 
+         <td>UCR Response</td> 
+        </tr> 
+        <tr> 
+         <td> <p><a href="/about/issues/2013-2014/13-14. Bylaw Review. CIE bylaw change. sent to R&amp;J and CoC. due asap.pdf">Bylaw Change: Committee on International Education</a></p> </td> 
+         <td> <p>11/20/2013</p> </td> 
+         <td> 
+          <ul> 
+           <li><a href="/about/issues/2013-2014/13-14. Bylaw Review. CIE bylaw change.R&amp;J response.pdf">Rules &amp; Jurisdiction</a></li> 
+          </ul> </td> 
+         <td> <p>ASAP</p> </td> 
+         <td> <p>n/a</p> </td> 
+         <td>UCR Response</td> 
+        </tr> 
+        <tr> 
+         <td> <p><a href="/about/issues/2013-2014/13-14. Campus review. Creation of joint committee for summer session oversight. to Grad Council, CoC, Courses, R&amp;J and Exec Committees. due Mar 3.pdf">Campus Review: Summer Session Oversight Committees</a></p> </td> 
+         <td> <p>n/a</p> </td> 
+         <td> 
+          <ul> 
+           <li>Committees</li> 
+           <li>Planning &amp; Budget</li> 
+           <li>Undergraduate Admissions</li> 
+           <li>University Extension</li> 
+          </ul> </td> 
+         <td> <p>n/a</p> </td> 
+         <td> <p>n/a</p> </td> 
+         <td>UCR Response</td> 
+        </tr> 
+        <tr> 
+         <td> <p><a href="/about/issues/2013-2014/13-14. Campus review. Revised HSCP to FW and CAP.pdf">Campus Review: HSCP revisions</a></p> </td> 
+         <td> <p>n/a</p> </td> 
+         <td> 
+          <ul> 
+           <li>Academic Personnel</li> 
+           <li>Faculty Welfare</li> 
+          </ul> </td> 
+         <td> <p>n/a</p> </td> 
+         <td> <p>n/a</p> </td> 
+         <td>UCR Response</td> 
+        </tr> 
+        <tr> 
+         <td> <p><a href="/about/issues/2013-2014/13-14. Systemwide Review. Revised Self-Supporting Graduate Professiona Degree Program Policy. to P&amp;B, GC and all exec comm. due 1.9.14.pdf">Systemwide Review: SSGPPD Policy Review</a></p> </td> 
+         <td> <p>11/27/2013</p> </td> 
+         <td> 
+          <ul> 
+           <li><a href="/about/issues/2013-2014/13-14. Systemwide Review. Revised Self-Supporting Graduate Professiona Degree Program Policy. GC response.pdf">Graduate Council</a></li> 
+           <li><a href="/about/issues/2013-2014/13-14. Systemwide Review. Revised Self-Supporting Graduate Professiona Degree Program Policy. P&amp;B response.pdf">Planning &amp; Budget</a></li> 
+           <li><a href="/about/issues/2013-2014/13-14. Systemwide Review. Revised Self-Supporting Graduate Professiona Degree Program Policy. BCOE response.pdf">BCOE Executive Council</a></li> 
+           <li><a href="/about/issues/2013-2014/13-14. Systemwide Review. Revised Self-Supporting Graduate Professiona Degree Program Policy. CHASS response.pdf">CHASS Executive Council</a></li> 
+           <li>CNAS Executive Council</li> 
+           <li>GSOE Executive Council</li> 
+           <li><a href="/about/issues/2013-2014/13-14. Systemwide Review. Revised Self-Supporting Graduate Professiona Degree Program Policy. SOBA response.pdf">SOBA Executive Council</a></li> 
+           <li><a href="/about/issues/2013-2014/13-14. Systemwide Review. Revised Self-Supporting Graduate Professiona Degree Program Policy. SOM response.pdf">SOM Executive Council</a></li> 
+          </ul> </td> 
+         <td> <p>1/9/2014</p> </td> 
+         <td> <p>1/22/2014</p> </td> 
+         <td>UCR Response</td> 
+        </tr> 
+        <tr> 
+         <td> <p><a href="/about/issues/2013-2014/13-14. Bylaw Review. Academic Personnel. to R&amp;J. CoC. Shadow CAP.pdf">Bylaw Change: Academic Personnel</a></p> </td> 
+         <td> <p>12/16/2013</p> </td> 
+         <td> 
+          <ul> 
+           <li><a href="/about/issues/2013-2014/13-14. Bylaw Review. Academic Personnel. Shadow CAP approval.pdf">Shadow CAP</a></li> 
+           <li><a href="/about/issues/2013-2014/13-14. Bylaw Review. Academic Personnel. R&amp;J approval.pdf">Rules &amp; Jurisdiction</a></li> 
+          </ul> </td> 
+         <td> <p>1/20/2014</p> </td> 
+         <td> <p>n/a</p> </td> 
+         <td>UCR Response</td> 
+        </tr> 
+        <tr> 
+         <td> <p><a href="/about/issues/2013-2014/13-14. Systemwide Review. Prof Degree Supp Tuition. to Grad Council, P&amp;B, exec committees. due 2.5.2014.pdf.pdf">Systemwide Review: Professional Degree Supplementation Tuition</a></p> </td> 
+         <td> <p>1/9/2014</p> </td> 
+         <td> 
+          <ul> 
+           <li><a href="/about/issues/2013-2014/13-14. Systemwide Review. Prof Degree Supp Tuition. Grad Council response.pdf">Graduate Council</a></li> 
+           <li>Planning &amp; Budget</li> 
+           <li><a href="/about/issues/2013-2014/13-14. Systemwide Review. Prof Degree Supp Tuition. exec com. BCOE response.pdf">BCOE Executive Council</a></li> 
+           <li><a href="/about/issues/2013-2014/13-14. Systemwide Review. Prof Degree Supp Tuition. exec com. CHASS response.pdf">CHASS Executive Council</a></li> 
+           <li><a href="/about/issues/2013-2014/13-14. Systemwide Review. Prof Degree Supp Tuition. exec com. CNAS response.pdf">CNAS Executive Council</a></li> 
+           <li>GSOE Executive Council</li> 
+           <li>SOBA Executive Council</li> 
+           <li>SOM Executive Council</li> 
+          </ul> </td> 
+         <td> <p>2/5/2014</p> </td> 
+         <td> <p>2/20/2014</p> </td> 
+         <td>UCR Response</td> 
+        </tr> 
+        <tr> 
+         <td> <p><a href="/about/issues/2013-2014/13-14. Campus review. Off Scale Policy revisions.pdf">Campus Review: Off-scale Policy</a></p> </td> 
+         <td> <p>1/24/2014</p> </td> 
+         <td> 
+          <ul> 
+           <li>Academic Personnel</li> 
+           <li>Faculty Welfare</li> 
+           <li>Planning &amp; Budget</li> 
+          </ul> </td> 
+         <td> <p>2/14/2014</p> </td> 
+         <td> <p>n/a</p> </td> 
+         <td>UCR Response</td> 
+        </tr> 
+        <tr> 
+         <td> <p><a href="/about/issues/2013-2014/13-14. Campus review. dept name changes. to CAP, CEP, Grad Council, P&amp;B, UA. due Feb 14.pdf">Campus Review: Departmental Name Changes</a></p> </td> 
+         <td> <p>1/24/2014</p> </td> 
+         <td> 
+          <ul> 
+           <li>Academic Personnel</li> 
+           <li><a href="/about/issues/2013-2014/13-14. Campus review. dept name changes. CEP response.pdf">Educational Policy</a></li> 
+           <li>Graduate Council</li> 
+           <li>Planning &amp; Budget</li> 
+           <li>Undergraduate Admissions</li> 
+          </ul> </td> 
+         <td> <p>2/14/2014</p> </td> 
+         <td> <p>n/a</p> </td> 
+         <td>UCR Response</td> 
+        </tr> 
+        <tr> 
+         <td> <p>Bylaw Change: K. Pyke Academic Personnel</p> </td> 
+         <td> <p>2/3/2014</p> </td> 
+         <td> 
+          <ul> 
+           <li>Academic Freedom</li> 
+           <li>Academic Personnel</li> 
+           <li>Committees</li> 
+           <li>Faculty Welfare</li> 
+           <li>Privilege &amp; Tenure</li> 
+           <li>Rules &amp; Jurisdiction</li> 
+           <li>BCOE Executive Council</li> 
+           <li>CHASS Executive Council</li> 
+           <li>CNAS Executive Council</li> 
+           <li>GSOE Executive Council</li> 
+           <li>SOBA Executive Council</li> 
+           <li>SOM Executive Council</li> 
+          </ul> </td> 
+         <td> <p>3/17/2014</p> </td> 
+         <td> <p>n/a</p> </td> 
+         <td>UCR Response</td> 
+        </tr> 
+        <!-- Copy the Template
+<tr>
+<td>
+<p><a href="/about/issues/2013-2014/.pdf">title</a></p>
+</td>
+<td>
+<p>Review</p>
+</td>
+<td>
+<ul>
+<li><a href="/about/issues/2013-2014/.pdf"></a></li>
+</ul>
+</td>
+<td>
+<p>SenateChair</p>
+</td>
+<td>
+<p>SystemwideorCampus</p>
+</td>
+<td>UCR Response</td>
+</tr>
+--> 
+       </tbody> 
+      </table>
+      <!-- /com.omniupdate.div --> 
+      <!-- com.omniupdate.efp --> 
+      <!-- /com.omniupdate.efp --> 
+     </div> 
+     <hr /> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div>
+  <!-- end pagewrapper --> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2>More Information</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span><br /><br /> </span> <a href="http://www.ucr.edu/employment.html">Career Opportunities</a> • <a href="http://library.ucr.edu/">UCR Libraries</a><br /> <a href="http://campusstatus.ucr.edu/">Campus Status</a> • <a href="http://campusmap.ucr.edu/directions.php">Directions to UCR</a></address> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <address><strong>Academic Senate Office</strong><br /> 900 University Avenue<br /> <a href="http://campusmap.ucr.edu/campusMap.php?loc=UOB" title="Campus Map">231 University Office Bldg</a> <br />Riverside, CA 92521<br /><br /> Tel: (951) 827-5538<br /> Fax: (951) 827-5545<br /></address> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="/about/issues/">UC Systemwide Issues Under Review</a></li> 
+       <li><a href="/about/policies/">Policies and Procedures</a></li> 
+       <li><a href="/about/newsroom/">Senate Newsroom</a></li> 
+       <li><a href="/about/links/">Web Sites of Interest to Academic Senate Members</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_admissions" href="http://www.ucr.edu/admissions/"><span>Admissions</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="/sendmail.html?type=feedback" title="Send Feedback E-mail" accesskey="9">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html">Terms and Conditions</a></li> 
+      <li>&copy; 2014 Regents of the University of California</li> 
+      <li><a href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01092&amp;site=senate&amp;path=%2Fabout%2Fissues%2Findex.html">Last modified: 2014-Feb-07</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div>   
+ </body>
+</html><!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>Applied Biological Control Research: Harry Scott Smith Scholarship Fund</title> 
+  <meta http-equiv="last-modified" content="2014-01-17" /> 
+  <meta name="version" content="2.45 2.72 " /> 
+  <!-- 03/11/14 15:54:14 03/11/14 15:54:14 --> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all" /> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr-config.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/swfobject.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/prototype.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/scriptaculous.js?load=effects"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/lib.js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://biocontrol.ucr.edu/" accesskey="1">Home Page</a></li> 
+   </ul> 
+   <hr /> 
+   <div id="brandingbar"> 
+    <img class="overlay" src="/images/overlay_home.png" alt="" /> 
+    <h2><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="University of California, Riverside" title="UCR Home page" /></a></h2> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/images/masthead.jpg);"> 
+   <h1><a href="http://biocontrol.ucr.edu/"><span class="printonly">Applied Biological Control Research</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr /> 
+  <div class="breadcrumbs"> 
+   <h3 class="accessibility">Breadcrumbs</h3> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://entomology.ucr.edu">Department of Entomology</a> &gt;</li> 
+    <li><a href="http://biocontrol.ucr.edu/">Applied Biological Control Research</a> &gt;</li> 
+    <li class="lastitem">Harry Scott Smith Scholarship Fund</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox" action="http://www.ucr.edu/search.php">
+     <p> <label for="SearchText" accesskey="4">Search for:</label> <input type="text" size="18" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+    </form> 
+    <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+   </div> 
+   <hr /> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>Harry Scott Smith Scholarship Fund</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li><a href="/" title="Home">Home<br /><span></span></a></li>
+       <li><a href="/research.html" title="Research Projects">Research Projects<br /><span></span></a></li>
+       <li><a href="/staff.html" title="Lab Staff">Lab Staff</a></li>
+       <li><a href="/past_researchers.html" title="Past Researchers">Past Researchers</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <hr /> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy-wide.css" cssmenu="" width="992" --> 
+     <!-- com.omniupdate.div label="title" group="Everyone" button="734" -->
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" toolbar="TITLE" --> 
+     <!-- /com.omniupdate.div --> 
+     <!-- com.omniupdate.div label="maincontent" group="Everyone" button="707" -->
+     <!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700"/ -->
+     <p><a name="Top of Page"> </a> &nbsp;</p> 
+     <div class="nota-bene"> 
+      <ul class="people"> 
+       <li> <h3><img class="img_L" title="Mark Hoddle" src="/images/hoddle_thumb.jpg" alt="Mark Hoddle" width="50" height="50" />A Special Message from Mark Hoddle about the Scholarship</h3> Invasive Species are an ever-increasing problem in California agriculture, and obviously citrus is no exception. One tool that can be used to combat invasive species is biological control. The science of biological control - the use of a pests natural enemies to suppress it's populations to less damaging densities - was pioneered in southern California. This new discipline in entomology.....&nbsp;<a href="/pdfs/special_message_harry_scott.pdf">Read more</a></li> 
+      </ul> 
+     </div> 
+     <table class="img_R_borderless" style="font-size: 10px; width: 210px;" border="0"> 
+      <tbody> 
+       <tr> 
+        <td> <p>&nbsp;</p> </td> 
+        <td> <p>&nbsp;</p> <img style="display: block; margin-left: auto; margin-right: auto;" title="Harry Scott Smith" src="/images/harrysmith_thumb2.jpg" alt="Harry Scott Smith" width="200" height="308" /><br /> <h3 style="text-align: center;">Harry Scott Smith <br />1883 - 1957</h3> <p style="text-align: center;"><a href="/pdfs/harry_scott_smith_memoriam_ucr.pdf">Memoriam, 1959</a></p> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+     <h3>Harry Scott Smith Scholarship Fund to Support Students in Biological Control at UC Riverside</h3> 
+     <p><br />Harry S. Smith, was born in 1883 to a poor farming family in Nebraska. He was trained in Biological Control in the northeast U.S.A. where he worked on the biological control of gypsy moth with the USDA. Upon his appointment to Sacramento in 1913 to work on biological control issues important to California, Smith brought recognized entomological training in biological control to California for the first time.</p> 
+     <p>The phrase “Biological Control” was first used by Smith in August 1919 at the meeting of Pacific Slope Branch of the American Association of Economic Entomologists at the Mission Inn in downtown Riverside.</p> 
+     <p>Based on his experiences on biological control of forest and pasture pests, Smith brought caution and tempered exaggeration about biological control in California as he worked with citrus growers and other commodity groups.</p> 
+     <p><img class="img_L" title="Fundraising Goal" src="/images/thermometer_january_14.jpg" alt="Fundraising Goal" width="150" height="528" />In 1923, Smith and four colleagues moved from Sacramento to the University of California Riverside Campus which had evolved from the Citrus Experiment Station (est. 1915) and he formed the Division of Beneficial Insect Investigations which was a unit distinct from the Division of Entomology. Prof. Harry, as he was<br />&nbsp;affectionately known, is fondly remembered by his&nbsp;students as a patient and generous supervisor who encouraged research and work on applied and<br />practical aspects of biological control.</p> 
+     <p>Smith went on to create the Department of Biological Control which offered the only graduate training in Biological Control in the world. The Department of Biological Control became the Division of Biological Control in 1969 which then merged into Department of Entomology at UC Riverside in 1988.&nbsp;Prof. Harry had two sons, both trained to be entomologists. Instead of pursuing biological control they went into the pesticide industry and Sam Smith died accidentally from pesticide poisoning. Prof. Harry passed away in 1957 and left UC Riverside $15,000 to develop a scholarship fund to support training and education in biological control. This fund has grown to approximately $45,000 today, but is insufficient to provide meaningful support to students wanting to be trained in biological control.</p> 
+     <p>Our goal is to build the Harry S. Smith Scholarship fund to a significant level where the corpus of the fund will be able to generate enough revenue to provide substantial support to students wanting to be trained in biological control. This can only be achieved by actively soliciting donations from individuals, industries, and organizations that have benefited over the years from biological control projects that have that have been run by UC scientists, in particular entomologists at UC Riverside. If biological control is to continue to prosper in southern California we need to continue recruiting and training high quality students. To do this, we need to be able to provide substantial financial support, and the Harry S. Smith Scholarship is one way to attract excellent students to UC Riverside.</p> 
+     <p>&nbsp;</p> 
+     <h3>Help with the Harry Scott Smith Scholarship</h3> 
+     <p>If supporting this scholarship is of interest, please contact&nbsp;<a href="mailto:mark.hoddle@ucr.edu">Mark Hoddle</a>&nbsp;at UC Riverside for more details or&nbsp;<a href="/hoddle/pdfs/smith_scholarship_fund_brochure.pdf">download the brochure</a>&nbsp;detailing how you can offer support. All donations are&nbsp;<strong>tax deductible</strong>.&nbsp;Mark Hoddle, Department of Entomology, University of California, Riverside CA 92521&nbsp;Phone: (951) 827-4714, Email:&nbsp;<a href="mailto:mark.hoddle@ucr.edu">mark.hoddle@ucr.edu</a></p> 
+     <p>&nbsp;</p> 
+     <p class="attention"><span style="line-height: 24px; font-size: 18px;">Thank you to our supporters<br /><span style="color: #444444; line-height: 18px; font-size: 12px;">The Fall 2013 fundraising campaign was a huge success with $17,600 raised. Special thanks go to Leavens Ranches, Brian and Claire Federici and Marrone Bio Inovations for each providing $1,500 (for a total of $4,500) in matching donations for each $250 donation received.</span></span></p> &nbsp;
+     <br />
+     <em style="color: #000000;"><br /> </em> 
+     <table style="font-size: 10px; width: 700px;" border="0"> 
+      <tbody> 
+       <tr> 
+        <td colspan="4"> <h2 style="text-align: center;">Recent Scholarship Recipients</h2> </td> 
+       </tr> 
+       <tr> 
+        <td><a href="/harry_scott_smith_recipients.html"><img class="img_L" title="Aviva Goldmann" src="/images/goldmann_main.jpg" alt="Aviva Goldmann" width="150" height="180" /></a></td> 
+        <td><a href="/harry_scott_smith_recipients.html"><img class="img_L" title="Judith Herreid" src="/images/herreid_main.jpg" alt="Judith Herreid" width="150" height="180" /></a></td> 
+        <td><a style="color: #f1ab00; border-bottom-color: #f1ab00;" href="/harry_scott_smith_recipients.html"><img class="img_L" title="Jesus R. Lara Artiga" src="/images/lara_small.jpg" alt="Jesus R. Lara Artiga" width="150" height="180" /></a></td> 
+        <td><a style="color: #f1ab00; border-bottom-color: #f1ab00;" href="/harry_scott_smith_recipients.html"><img class="img_L" title="Holly Hills" src="/images/hills_small.jpg" alt="Holly Hills" width="150" height="180" /></a></td> 
+       </tr> 
+       <tr> 
+        <td> <p style="text-align: center;">&nbsp;2013<br />Aviva Goldmann&nbsp;</p> </td> 
+        <td style="text-align: center;">&nbsp;2013<br />Judith Herreid</td> 
+        <td style="text-align: center;">&nbsp;2011<br />Jesus R. Lara Artiga&nbsp;</td> 
+        <td style="text-align: center;">&nbsp;2011<br />Holly Hills&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td> <p style="text-align: center;"><a style="color: #f1ab00; border-bottom-color: #f1ab00; line-height: normal; text-align: start;" href="/harry_scott_smith_recipients.html"><img class="img_L" title="Jennifer Henke" src="/images/henke_small.jpg" alt="Jennifer Henke" width="150" height="180" /></a></p> </td> 
+        <td style="text-align: center;"><a style="color: #f1ab00; border-bottom-color: #f1ab00; text-align: start;" href="/harry_scott_smith_recipients.html"><img class="img_L" title="Casey Butler" src="/images/butler_small.jpg" alt="Casey Butler" width="150" height="180" /></a></td> 
+        <td style="text-align: center;">&nbsp;</td> 
+        <td style="text-align: center;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td> <p style="text-align: center;">&nbsp;2008&nbsp;<br />Jennifer Henke</p> </td> 
+        <td style="text-align: center;">&nbsp;2008<br />Casey Butler</td> 
+        <td style="text-align: center;">&nbsp;</td> 
+        <td style="text-align: center;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td> <p style="text-align: center;">&nbsp;</p> </td> 
+        <td style="text-align: center;">&nbsp;</td> 
+        <td style="text-align: center;">&nbsp;</td> 
+        <td style="text-align: center;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td> <p style="text-align: center;">&nbsp;</p> </td> 
+        <td style="text-align: center;">&nbsp;</td> 
+        <td style="text-align: center;">&nbsp;</td> 
+        <td style="text-align: center;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td colspan="4"> <h2 style="text-align: center;">Contributors to the H.S. Smith Scholarship Fund</h2> </td> 
+       </tr> 
+      </tbody> 
+      <tbody> 
+       <tr> 
+        <td style="vertical-align: top; text-align: center;"><strong>$1-$99</strong></td> 
+        <td style="vertical-align: middle; font-weight: bold; text-align: center;">$100-$499</td> 
+        <td style="vertical-align: top; font-weight: bold; text-align: center;">$500-$999</td> 
+        <td style="vertical-align: top; font-weight: bold; text-align: center;">$1,000-$4,999</td> 
+        <td style="vertical-align: top; font-weight: bold; text-align: center;">$5,000-$9,999</td> 
+        <td style="vertical-align: top; font-weight: bold; text-align: center;">&gt;$10,000</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">Joseph L. Spychaj Sr. (2006)</td> 
+        <td style="vertical-align: top;">Roger Essick <br /> (2005)</td> 
+        <td style="vertical-align: top;">Hofshi Foundation (2005)</td> 
+        <td style="vertical-align: top;">Logan Hardison (2005)</td> 
+        <td style="vertical-align: top;">California Avocado Society (2005)</td> 
+        <td style="vertical-align: top;">South African Avocado Grower's Association (2007)</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">Shirley &amp; Gerald Duryee (2006)</td> 
+        <td style="vertical-align: top;">Dickson Shafer (2005)</td> 
+        <td style="vertical-align: top;">Mr. &amp; Mrs. C. W. Froehlich (2006)</td> 
+        <td style="vertical-align: top;">Matt Hand (2005)</td> 
+        <td style="vertical-align: top;">California Avocado Commission (2006)</td> 
+        <td style="vertical-align: top;">Anonymous (2011)</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">Art Harris (2006)</td> 
+        <td style="vertical-align: top;">Paul Lofthouse (2005)</td> 
+        <td style="vertical-align: top;">Dorcas H. McFarlane (2006)</td> 
+        <td style="vertical-align: top;">CAPCA San Diego (2005)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">Peter &amp; Patricia Miller (2006)</td> 
+        <td style="vertical-align: top;">Wesley Humphrey (2005)</td> 
+        <td style="vertical-align: top;">CAPCA San Diego (2007)</td> 
+        <td style="vertical-align: top;">CAPCA Ventura (2005)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">Reed Webb (2006)</td> 
+        <td style="vertical-align: top;">Don &amp; Susan Deardorff (2005)</td> 
+        <td style="vertical-align: top;">David Lanthier, Emerald Plains Inc (2007)</td> 
+        <td style="vertical-align: top;">Robert L. and Carol L. Hardison (2006)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">Jane Delahoyde (2007)</td> 
+        <td style="vertical-align: top;">John M. Grether (2006)</td> 
+        <td style="vertical-align: top;">van der Kar Family Trust (2008)</td> 
+        <td style="vertical-align: top;">Association of Applied IPM Ecologists (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">Art Harris (2007)</td> 
+        <td style="vertical-align: top;">Robert &amp; Sharon Coleman (2006)</td> 
+        <td style="vertical-align: top;">Index Fresh (2008)</td> 
+        <td style="vertical-align: top;">CAPCA Ventura (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">Robert Q. Stanton &amp; Marie Harrison Stanton (2007)</td> 
+        <td style="vertical-align: top;">William F. &amp; Glenna B. Horton (2006)</td> 
+        <td style="vertical-align: top;">David Lanthier, Emerald Plains Inc (2008)</td> 
+        <td style="vertical-align: top;">John Deere Landscapes (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">Carol L. Engelhardt (2007)</td> 
+        <td style="vertical-align: top;">Carl Stucky (2006)</td> 
+        <td style="vertical-align: top;">J. K. Thillie Ranches (2008)</td> 
+        <td style="vertical-align: top;">Mary Matava &amp; Agri Service Inc. (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">Richard Hatano (2007)</td> 
+        <td style="vertical-align: top;">Nishimura Farms Inc. (2006)</td> 
+        <td style="vertical-align: top;">Royalties from the Biological Control Text Book (2009)</td> 
+        <td style="vertical-align: top;">Leavens Ranches (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">Evelyn Little Bono &amp; J. C. Bono (2007)</td> 
+        <td style="vertical-align: top;">Oro Del Norte LLC (2006)</td> 
+        <td style="vertical-align: top;">Syngenta Bioline (2011)</td> 
+        <td style="vertical-align: top;">Mr. &amp; Mrs Robert L. Hardison (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">Peter &amp; Patricia Miller (2007)</td> 
+        <td style="vertical-align: top;">Holly Stosic (2006)</td> 
+        <td style="vertical-align: top;">&nbsp;Brokaw Ranch Co. (2011)</td> 
+        <td style="vertical-align: top;">California Avocado Society (2008)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">Dr. Edward Stika &amp; Carol Stika (2007)</td> 
+        <td style="vertical-align: top;">Glen Rees (2006)</td> 
+        <td style="vertical-align: top;">&nbsp;Brokaw Nursery (2011)</td> 
+        <td style="vertical-align: top;">Mary Matava &amp; Agri Service Inc. (2008)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">Nancy Shimamoto &amp; Daniel Collins (2007)</td> 
+        <td style="vertical-align: top;">Henry &amp; Myrta Thys (2006)</td> 
+        <td style="vertical-align: top;">&nbsp;Edward Traynor (2011)</td> 
+        <td style="vertical-align: top;">Robert &amp; Carol Hardison (2008)</td> 
+        <th style="vertical-align: top;">&nbsp;</th> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">George Goodall (2007)</td> 
+        <td style="vertical-align: top;">Keyes Fibre Corporation (2006)</td> 
+        <td style="vertical-align: top;">Mud Creek Ranch, in memory of Ted Debbs (2012)</td> 
+        <td style="vertical-align: top;">Leavens Ranches (2008)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">Ron Nichols (2007)</td> 
+        <td style="vertical-align: top;">Molly S. King, in memory of C. Russell King (2006)</td> 
+        <td style="vertical-align: top;">Edward C. Brainard (2013)</td> 
+        <td style="vertical-align: top;">CAPCA Ventura County (2008)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">Dudley Ranch (2007)</td> 
+        <td style="vertical-align: top;">Anita Tate, in memory of Ed Tate (2006)</td> 
+        <td style="vertical-align: top;">California Rare Fruit Growers, Foothill Chapter (2013)</td> 
+        <td style="vertical-align: top;">California Avocado Society (2008)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">King &amp; King Ranch (2008)</td> 
+        <td style="vertical-align: top;">Steven &amp; Robin Smith (2006)</td> 
+        <td style="vertical-align: top;">E Fred and Suzanne Legner (2013)</td> 
+        <td style="vertical-align: top;">CAPCA Ventura (2009)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">Dickson Schafer (2008)</td> 
+        <td style="vertical-align: top;">Shane L. Butler Family Growers (2006)</td> 
+        <td style="vertical-align: top;">Syngenta Bioline (2013)</td> 
+        <td style="vertical-align: top;">Leavens Ranches (2010)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">Richard Hatano (2008)</td> 
+        <td style="vertical-align: top;">James Lloyd Butler Family Partnership (2006)</td> 
+        <td style="vertical-align: top;">The Mud Creek Ranch Trust (2013)</td> 
+        <td style="vertical-align: top;">Dr. T. Wofford, Monsanto R&amp;D Vegetable Division (2011)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">Dr. Edward Stika &amp; Carol Stika (2008)</td> 
+        <td style="vertical-align: top;">PL-B Ranch (2006)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Edward Traynor (2011)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">William J. Kaffer, Kaffer Enterprises LLC (2011)</td> 
+        <td style="vertical-align: top;">Mark McKee (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Gary Veeh (2011)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">Carol Englehardt (2011)</td> 
+        <td style="vertical-align: top;">Enrico Ferro (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Harry C. Johnson &amp; James W. Johnson, Rancho Simpatico (2011)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">McEwan Nursery (2011)</td> 
+        <td style="vertical-align: top;">James Llyod-Butler Family Partnership (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">CAPCA Ventura (2011)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">Peter &amp; Patricia Miller (2011)</td> 
+        <td style="vertical-align: top;">PL-B Ranch (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Leavens Ranches (2011)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">Rancho Vista Del Rincon (2011)</td> 
+        <td style="vertical-align: top;">Shane L. Butler Family Growers (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">CAPCA Ventura (2012)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">GFK Kynetec (2012)</td> 
+        <td style="vertical-align: top;">Bailard Citrus (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Leavens Ranches (2012)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">Mina Gardner (2013)</td> 
+        <td style="vertical-align: top;">M. L. Coykendall (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Rachel Levin (2013)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">Bill Lambert (2013)</td> 
+        <td style="vertical-align: top;">Wilde Residual Trust (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Barton &amp; Merla Gaut (2013)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">Stephen Bailey (2013)</td> 
+        <td style="vertical-align: top;">Kaffer Enterprises (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">E. H. Traynor (2013)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">Lorraine C. Forester (2013)</td> 
+        <td style="vertical-align: top;">Nishimura Farms (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Marrone Bio Innovations Inc. (2013)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">McEwen Nursery (2013)</td> 
+        <td style="vertical-align: top;">Lorraine C. Foster (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;Leavens Ranches (2013)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;Peter K. and Patricia C. Miller (2013)</td> 
+        <td style="vertical-align: top;">William &amp; Bernice Yarak (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;Gary R. Veeh (2013)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">Rudolph John Haluza (2013)</td> 
+        <td style="vertical-align: top;">Five Points Limited Partnership (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">C.A.P.C.A. Ventura County Chapter (2013)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">Patrick S. &amp; Norma D. Yarbrough (2013)</td> 
+        <td style="vertical-align: top; text-align: left;">Landon Stableford (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">William &amp; Glenna Horton (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Bill &amp; Carol Steel, Fairfield Farms (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Martin Wildgoose, Aftermarket Insurance Marketing (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Snow Ranch (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Gary Ross &amp; Allison Thomas (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Joe Barcinas (FAR Inc) (2007</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">King &amp; King Ranch (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Lofthouse Landscaping (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Stehly Grove Management (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Stehly Enterprises (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">LF Grove Management (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Ward &amp; Mary Lou Whaling (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Howard W. Vipperman (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">K. R. Tanaka (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Steven &amp; Robin Smith, in memory of Howard Dawson&nbsp;(2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Rudy Haluza (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Janet W. Davis (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Anita Tate (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Roger Essick (2007)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">David Holden (Holden Research &amp; Consulting) (2008)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Steve &amp; Robin Smith, &nbsp;in memory of Jane Skelley Wigley (2008)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Steve &amp; Robin Smith, in memory of Geraldine Morris (2008)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Kaffer Enterprises (2008)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Lofthouse Ranch (2008)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Al Stehly &amp; Stehly Grove Management (2008)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Robin Smith, in memory of Claude Wells (2009)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Robin Smith, in memory of Joy Rogers (2009)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Robin and Steve Smith, in memory of Mason Dollar (2009)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Scott van der Kar, Pinehill Ranch&nbsp;(2010)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Robin and Steve Smith, in memory of Andrew Rusin (2011)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;"> <p>&nbsp;</p> </td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Arthur Bliss (2011)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Charles Froehlich (2011)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">King &amp; King Ranch (2011)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Lofthouse Ranch (2011)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Ronald Nichols (2011)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Nishimura Farms (2011)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Rancho Largo (2011)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Harold E. Ross (2011)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Charles C. Starn (2011)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Shane L. Butler Family Growers (2011)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">James Lloyd Butler Family Partnership (2011)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">PL-B Ranch (2011)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Rancho Abuelos (2011)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">JMS Ranch (2011)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Crystal Cove Farms (2011)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Harlan Beck, Few Acres Ranch, LLC (2011)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Dorcas McFarlane,&nbsp;J. K. Thrille Ranches (2011)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Ross-Thomas 1995 Trust (2011)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Richard Pidduck, Santa Paula Creek Ranch (2011)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Kirby Yale, Yale Insurance Service (2011)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Wilde Residual Trust (2011)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Mud Creek Ranch (2011)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Jane Delahoyde (2011)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Dr. Kevin Heinz (2011)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Robin and Steve Smith, in memory of Meg Jackson (2011)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;"> <p>&nbsp;</p> </td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Jane Delahoyde (2012)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;"> <p>&nbsp;</p> </td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">John Orr, Oro del Norte, LLC (2012)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">Robin and Steve Smith, in memory of Carl Barringer (2013)</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;"> <p>Tim Kelley (2013)</p> </td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;"> <p>Norma Yarbrough (2013)</p> </td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;"> <p>Sony Pictures Entertainment, Inc. (2013)</p> </td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;"> <p>Book Royalties from Mark Hoddle (2013)</p> </td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;"> <p>Dr. Devin P. Carroll (2013)</p> </td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;"> <p>Crystal Cove Farms (2013)</p> </td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;"> <p>Dr. Richard D. and Joan A. Goden (2013)</p> </td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;"> <p>Dr. Kevin M. Heinz (2013)</p> </td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;"> <p>Pidduck Ranch Partnership (2013)</p> </td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;"> <p>Cynthia King (2013)<br />King &amp; King Ranch</p> </td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;"> <p>Arthur Bliss Ranch (2013)</p> </td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;"> <p>Kabashima Family Living Trust (2013)</p> </td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;"> <p>Nishimura Farms, Inc. (2013)</p> </td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;"> <p>Dudley Ranch Partnership (2013)</p> </td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;"> <p>Dorcas H. Thille and TT J.K. Thille Ranches (2013)</p> </td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;"> <p>Lynn M. Lebeck and Marshall W. Johnson (2013)</p> </td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;"> <p>Carl F. Stucky (2013)</p> </td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;"> <p>Robert E. and Martha H. Orth (2013)</p> </td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;"> <p>Roger Essick (2013)</p> </td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;"> <p>E. Fred &amp; Suzanne Legner (2013)</p> </td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;"> <p>Gabrielle G. and John P. Watson (2013)</p> </td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;"> <p>PL-B Ranch LLC (2013)</p> </td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;"> <p>Shane L Butler, Family Growers, LLC (2013)</p> </td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;"> <p>James Lloyd-Butler Family LLC (2013)</p> </td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;"> <p>Kouichi &amp; Grace Tanaka (2013)</p> </td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;"> <p>Ms. Rachel C. Levin (2013)</p> </td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;"> <p>J. A. &amp; M.C. McMurtry (2013)</p> </td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;"> <p>David L. Holden, Holden Research and Consulting (2013)</p> </td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+       <tr> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;"> <p>Marjie Bartels, Bartels Ranch (2013)</p> </td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+        <td style="vertical-align: top;">&nbsp;</td> 
+       </tr> 
+      </tbody> 
+     </table> 
+     <p>&nbsp;</p> 
+     <p><a class="top_page" href="#Top of Page">Return to Top</a>&nbsp;</p> 
+     <ul> 
+      <li><a href="/pdfs/harry_scott_smith_memoriam_ucr.pdf">Harry Scott Smith Memoriam, 1959</a></li> 
+      <li><a href="http://www.entomology.ucr.edu/">UCR Entomology Department</a></li> 
+      <li><a href="/pdfs/special_message_harry_scott.pdf">Special Message from Mark Hoddle</a></li> 
+     </ul>
+     <!-- /com.omniupdate.div --> 
+     <!-- com.omniupdate.efp -->
+     <!-- /com.omniupdate.efp --> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2>More Information</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span><br /><br /> </span> <a href="http://library.ucr.edu/">UCR Libraries</a> • <a href="http://campusstatus.ucr.edu/">Campus Status</a><br /> <a href="http://www.ucr.edu/employment.html">Career Opportunities</a> • <a href="http://diversity.ucr.edu/">Diversity</a><br /> <a href="http://my.ucr.edu/visit/Pages/default.aspx">Visit UCR</a> • <a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></address> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <address><strong>Applied Biological Control Research</strong><br /> <a href="http://campusmap.ucr.edu/campusMap.php?loc=ENTOM" title="Campus Map">Department of Entomology</a><br /> <br /> Tel: (951) 827-4714<br /> Fax: (951) 827-3086 <br /> E-mail: <a href="mailto:mark.hoddle@ucr.edu?subject=Website%20Inquiry">mark.hoddle@ucr.edu</a><br /><br /> <a href="http://entomology.ucr.edu">Department of Entomology Website</a></address> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="/research.html">Collective Research</a></li> 
+       <li><a href="/hoddle/harrysmithfund.html">Harry Scott Smith Scholarship</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://biocontrol.ucr.edu/sendmail.html" title="Send Feedback E-mail" accesskey="9">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html">Terms and Conditions</a></li> 
+      <li>&copy; 2014 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01048&amp;site=biocontrol&amp;path=%2Fhoddle%2Fharrysmithfund.html">Last modified: 2014-Jan-17</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.363037 seconds using 2.25 MiB of memory. -->   
+ </body>
+</html><!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>UCR SoBA: SoBA News</title> 
+  <meta http-equiv="last-modified" content="2014-03-11" /> 
+  <meta name="version" content="2.45 2.63 " /> 
+  <!-- 03/11/14 15:55:35 03/11/14 15:55:35 --> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/medblue6.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/css/news/news.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="/css/directory/directory.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="/css/soba_local.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all" /> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr-config.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/swfobject.js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/soba_ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  _gaq.push(['t2._setAccount', 'UA-2729934-1']);
+  _gaq.push(['t2._setDomainName', '.ucr.edu']);
+  _gaq.push(['t2._setAllowHash', false]);
+  _gaq.push(['t2._trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://soba.ucr.edu/" accesskey="1">Home Page</a></li> 
+   </ul> 
+   <hr /> 
+   <div id="brandingbar"> 
+    <h2><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="University of California, Riverside" title="UCR Home page" /></a></h2> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/images/masthead.jpg);"> 
+   <h1><a href="http://soba.ucr.edu/"><span class="printonly">UCR SoBA</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr /> 
+  <div class="breadcrumbs"> 
+   <h3 class="accessibility">Breadcrumbs</h3> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://soba.ucr.edu/">UCR SoBA</a> &gt;</li> 
+    <li class="lastitem">SoBA News</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox" action="http://www.ucr.edu/search.php">
+     <p> <label for="SearchText" accesskey="4">Search for:</label> <input type="text" size="18" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+    </form> 
+    <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+   </div> 
+   <hr /> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>SoBA News</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li><a href="/" title="Home">Home<br /><span>SoBA</span></a></li>
+       <li class="nav_inline2_last"><h3>Information for:</h3>
+        <ul>
+         <li><a href="/alumni" title="Alumni">Alumni</a></li>
+         <li><a href="/friends.html" title="Business &amp; Community Members">Business &amp; Community Members</a></li>
+        </ul></li>
+       <li><a href="/about/" title="About SoBA">About SoBA<br /><span>Who &amp; Where We Are, What We Do</span></a></li>
+       <li><a href="/directory/faculty_directory.html" title="Our Faculty &amp; Academic Appointees">Our Faculty &amp; Academic Appointees<br /><span>World-Class Researchers</span></a></li>
+       <li><a href="/news_events/" title="News and Events">News and Events<br /><span>Stories, Schedules and Speakers</span></a>
+        <ul>
+         <li class="currentpage"><h3><dfn>Current page is: </dfn>News</h3></li>
+         <li><a href="/calendar/" title="Events Calendar">Events Calendar</a></li>
+         <li><a href="/news_events/series.html" title="Dean's Speakers Series">Dean's Speakers Series</a></li>
+         <li><a href="/news_events/forecast.html" title="Economic Forecast Conference">Economic Forecast Conference</a></li>
+        </ul></li>
+       <li><a href="/schools_areas/" title="Schools and Areas">Schools and Areas<br /><span>The Structure of SoBA</span></a></li>
+       <li><a href="/academics/" title="Academic Programs">Academic Programs<br /><span>Programs that Make Up SoBA</span></a></li>
+       <li><a href="/facilities/" title="Research Centers and Facilities">Research Centers and Facilities<br /><span>Home to Research</span></a></li>
+       <li><a href="/employment/" title="Employment at SoBA">Employment at SoBA<br /><span>Work for the Business School</span></a></li>
+       <li><a href="/global/" title="Global Programs">Global Programs<br /><span>Your Passport to the World's Emerging Markets</span></a></li>
+       <li><a href="/involved/" title="Alumni, Friends, and Partners">Alumni, Friends, and Partners<br /><span>Getting Involved with SoBA</span></a></li>
+       <li><a href="/connect/" title="Social Media">Social Media<br /><span>Facebook, LinkedIn, YouTube</span></a></li> 
+      </ul> 
+     </div> 
+     <link rel="stylesheet" type="text/css" href="/css/jquery_ui/agsm.jquery.ui.all.css" /> 
+     <link rel="stylesheet" type="text/css" href="/css/alert/jquery.alerts.css" /> 
+     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script> 
+     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script> 
+     <script type="text/javascript" src="/js/plugin/jquery.alerts.min.js"></script> 
+     <script type="text/javascript" src="/js/plugin/jquery.cookie.min.js"></script> 
+     <link rel="stylesheet" type="text/css" href="/css/carousel/jquery.carousel.css" /> 
+     <link rel="stylesheet" type="text/css" href="/css/calendar/sidebar.css" /> 
+     <script type="text/javascript" src="/js/plugin/jquery.jcarousel.min.js"></script> 
+     <script type="text/javascript">
+
+var calserver = "http://ragsm.ucr.edu/agsmevents/";
+var prog      = "all";
+var ishover   = false;
+var autorate  = 7;
+var animrate  = 'fast';
+
+function scarousel_initCallback(carousel) {
+  $('#jd_news_sidebar').hover(function() {
+	ishover = true;
+    carousel.startAuto(0);
+    carousel.animation(0);
+  }, function() {
+    ishover = false;
+    carousel.animation(animrate);
+    carousel.startAuto(autorate);
+  });
+
+}
+
+$(document).ready(function(){
+
+  var path = document.location.pathname;
+  var dir = path.substring(path.indexOf('/', 0)+1, path.lastIndexOf('/'));
+
+  if (dir == "calendar") {
+    $("#sidebar_events").hide();
+  } else {
+    $.getJSON(calserver + "ae_get_website_sidebar.php?jsoncallback=?&prog="+prog,
+    function(data) {
+      $("#jd_news_sidebar").html(data.sidebar);
+      $('#jd_news_sidebar ul').attr('id','sidebar_carousel');
+      //$('div.jd_news_scroll').jdNewsScroll();
+      $('#sidebar_carousel').jcarousel({
+        initCallback: scarousel_initCallback,
+        vertical: true,
+        scroll: 1,
+        auto: autorate,
+		wrap: 'last',
+		animation: animrate
+      });
+    });
+  }
+
+});
+
+</script> 
+     <div id="sidebar_events"> 
+      <h4><a href="/calendar/" onclick="window.location = '/calendar/';">Events &amp; Activities</a></h4> 
+      <div class="news_sidebar l_agsm_news_sidebar"> 
+       <div class="jd_news_scroll" id="jd_news_sidebar"> 
+        <!-- AJAX DATA --> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <hr /> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy-wide.css" cssmenu="" width="992" --> 
+     <!-- com.omniupdate.div label="title" group="Everyone" button="734" --> 
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" toolbar="TITLE" -->
+     <div id="article_title"></div> 
+     <!-- /com.omniupdate.div --> 
+     <div class="l_agsm_news_header"> 
+      <!-- com.omniupdate.div label="NewsHeading" group="Everyone" button="707" --> 
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" --> 
+      <h3><b> LATEST NEWS </b> from the School of Business Administration</h3> 
+      <!-- /com.omniupdate.div --> 
+     </div> 
+     <!-- com.omniupdate.div label="maincontent" group="Everyone" button="707" --> 
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" --> 
+     <div class="l_agsm_current_news"> 
+      <div class="newssynopsis">
+       <table>
+        <tbody>
+         <tr>
+          <td style="width: 120px; text-align:center;"><img class="newssynopsis" style="width:115px;" src="http://ragsm.ucr.edu/tools/show_doc.php?docid=nws00000229" /></td>
+          <td style="padding-left: 10px;"><h4>AGSM Reads Across America</h4><i>(3/3/14)</i> As part of the National Education Association's Read Across America Day, AGSM students and staff traveled to a local elementary school to read their favorite books to children. <a class="Morelink" href="/news/news_article.html?news=175" target="_top">Read&nbsp;More…</a></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div class="newssynopsis">
+       <table>
+        <tbody>
+         <tr>
+          <td style="width: 120px; text-align:center;"><img class="newssynopsis" style="width:56px;" src="http://ragsm.ucr.edu/tools/show_doc.php?docid=nws00000227" /></td>
+          <td style="padding-left: 10px;"><h4>Dr. Ye Li to Speak at Citizens University Committee</h4><i>(2/18/14)</i> Assistant Professor Ye Li has been invited to share his research on how age plays a role in making financial decisions at the Citizens University Committee Meeting in March <a class="Morelink" href="/news/news_article.html?news=174" target="_top">Read&nbsp;More…</a></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div class="newssynopsis">
+       <table>
+        <tbody>
+         <tr>
+          <td style="width: 120px; text-align:center;"><img class="newssynopsis" style="width:58px;" src="http://ragsm.ucr.edu/tools/show_doc.php?docid=nws00000224" /></td>
+          <td style="padding-left: 10px;"><h4>Dr. Yunzeng Wang Named Dean of School of Business Administration</h4><i>(2/11/14)</i> Yunzeng Wang, who has served an interim dean of the University of California, Riverside School of Business Administration since October 2011, has been named permanent dean <a class="Morelink" href="http://ucrtoday.ucr.edu/20261" target="_blank">Read&nbsp;More…</a></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div class="newssynopsis">
+       <table>
+        <tbody>
+         <tr>
+          <td style="width: 120px; text-align:center;"><img class="newssynopsis" style="height:68px;" src="http://ragsm.ucr.edu/tools/show_doc.php?docid=nws00000223" /></td>
+          <td style="padding-left: 10px;"><h4>UCR School of Business Administration partners with The City of Riverside</h4><i>(2/4/14)</i> The UCR School of Business Administration enter into a partnership with The City of Riverside that extends a discounted tuition to interested CSI employees <a class="Morelink" href="/news/news_article.html?news=170" target="_top">Read&nbsp;More…</a></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div class="newssynopsis">
+       <table>
+        <tbody>
+         <tr>
+          <td style="width: 120px; text-align:center;"><img class="newssynopsis" style="width:100px;" src="http://ragsm.ucr.edu/tools/show_doc.php?docid=nws00000222" /></td>
+          <td style="padding-left: 10px;"><h4>SoBA Global Programs Team Returns from India and Turkey</h4><i>(1/21/14)</i> During the winter break (December 11-19, 2013), the SoBA Global Programs held their second trip to Mumbai, India concluding in Istanbul, Turkey. The week-long intensive exposed the team to the massive city of Mumbai, India's financial capital and Turkey's largest city located both in Europe and Asia. <a class="Morelink" href="/news/news_article.html?news=169" target="_top">Read&nbsp;More…</a></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div class="newssynopsis">
+       <table>
+        <tbody>
+         <tr>
+          <td style="width: 120px; text-align:center;"><img class="newssynopsis" style="height:72px;" src="http://ragsm.ucr.edu/tools/show_doc.php?docid=nws00000219" /></td>
+          <td style="padding-left: 10px;"><h4>UCR School of Business Administration partners with CSI</h4><i>(12/13/13)</i> The UCR School of Business Administration and California Steel Industries enter into a partnership that extends a discounted tuition to interested CSI employees <a class="Morelink" href="/news/news_article.html?news=168" target="_top">Read&nbsp;More…</a></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div class="newssynopsis">
+       <table>
+        <tbody>
+         <tr>
+          <td style="width: 120px; text-align:center;"><img class="newssynopsis" style="width:112px;" src="http://ragsm.ucr.edu/tools/show_doc.php?docid=nws00000216" /></td>
+          <td style="padding-left: 10px;"><h4>SoBA Visits APM Terminals at the Port of Los Angeles</h4><i>(11/18/13)</i> SoBA Students Tour the Port of Los Angeles - The Hub of Global Distribution <a class="Morelink" href="/news/news_article.html?news=164" target="_blank">Read&nbsp;More…</a></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+     </div> 
+     <!-- /com.omniupdate.div --> 
+     <!-- com.omniupdate.div label="archive" group="Everyone" button="707" --> 
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" --> 
+     <h3 class="l_agsm_recent_news_header"><b>Recent News</b></h3> 
+     <div class="l_agsm_recent_news"> 
+      <h4>AGSM Reads Across America</h4>
+      <i>(3/3/14)</i> As part of the National Education Association's Read Across America Day, AGSM students and staff traveled to a local elementary school to read their favorite books to children. 
+      <a class="Morelink" href="/news/news_article.html?news=175" target="_top">Read&nbsp;More…</a> 
+      <h4>UCR School of Business Administration partners with The City of Riverside</h4>
+      <i>(2/4/14)</i> The UCR School of Business Administration enter into a partnership with The City of Riverside that extends a discounted tuition to interested CSI employees 
+      <a class="Morelink" href="/news/news_article.html?news=170" target="_top">Read&nbsp;More…</a> 
+      <h4>SoBA Global Programs Team Returns from India and Turkey</h4>
+      <i>(1/21/14)</i> During the winter break (December 11-19, 2013), the SoBA Global Programs held their second trip to Mumbai, India concluding in Istanbul, Turkey. The week-long intensive exposed the team to the massive city of Mumbai, India's financial capital and Turkey's largest city located both in Europe and Asia. 
+      <a class="Morelink" href="/news/news_article.html?news=169" target="_top">Read&nbsp;More…</a> 
+      <h4>UCR School of Business Administration partners with CSI</h4>
+      <i>(12/13/13)</i> The UCR School of Business Administration and California Steel Industries enter into a partnership that extends a discounted tuition to interested CSI employees 
+      <a class="Morelink" href="/news/news_article.html?news=168" target="_top">Read&nbsp;More…</a> 
+     </div> 
+     <h3 class="l_agsm_recent_news_header2">Past News</h3> 
+     <ul class="l_agsm_standoutlist_alt3"> 
+      <li><a href="/news/archive.html?year=2013">2013 AGSM News Archive</a></li>
+      <li><a href="/news/archive.html?year=2012">2012 AGSM News Archive</a></li>
+      <li><a href="/news/archive.html?year=2011">2011 AGSM News Archive</a></li>
+      <li><a href="/news/archive.html?year=2010">2010 AGSM News Archive</a></li>
+      <li><a href="/news/archive.html?year=2009">2009 AGSM News Archive</a></li>
+     </ul> 
+    </div> 
+    <!-- /com.omniupdate.div --> 
+    <!-- com.omniupdate.efp -->
+    <!-- /com.omniupdate.efp --> 
+   </div> 
+   <!-- End Content Area --> 
+   <div class="clear"></div> 
+  </div> 
+  <!-- End Content -->  
+  <div class="clear"></div> 
+  <div id="l_tagline"> 
+   <span class="accessibility">Leading Thinkers Leading Growth</span> 
+   <img src="/images/footer/soba_footers_collage_02.jpg" alt="" height="53" width="940" /> 
+  </div> 
+  <div class="footerwrapper"> 
+   <h2>More Information</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span><br /><br /> </span> <a href="http://library.ucr.edu/">UCR Libraries</a> • <a href="http://campusstatus.ucr.edu/">Campus Status</a><br /> <a href="http://www.ucr.edu/employment.html">Career Opportunities</a> • <a href="http://diversity.ucr.edu/">Diversity</a><br /> <a href="http://my.ucr.edu/visit/Pages/default.aspx">Visit UCR</a> • <a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></address> 
+     </div> 
+     <div class="column49"> 
+      <h3>School Information</h3> 
+      <address><strong>School of Business Administration</strong><br />Dean's Office<br /><a href="http://campusmap.ucr.edu/imap/index.html?loc=ANDHL">Anderson Hall</a><br />Tel: (951) 827-6329<br />Email: <a href="mailto:agsmdean@ucr.edu?subject=SoBA%20Website%20Inquiry">agsmdean@ucr.edu</a><br /><br /> <a href="http://undergradbusiness.ucr.edu/"><strong>Undergraduate Business Program</strong></a><br /><a href="http://campusmap.ucr.edu/imap/index.html?loc=OLMH">2340 Olmsted Hall</a><br />Tel: (951) 827-4551<br />E-mail: <a href="mailto:undergradbiz@ucr.edu?subject=SoBA%20Website%20Inquiry">undergradbiz@ucr.edu</a><br /><br /> <a href="http://agsm.ucr.edu/"><strong>Graduate Business Programs</strong></a><br /><a href="http://campusmap.ucr.edu/imap/index.html?loc=ANDU2">102 Anderson Hall, South</a><br />Tel: (951) 827-6200<br />E-mail: <a href="mailto:ucr_agsm@ucr.edu?subject=SoBA%20Website%20Inquiry">ucr_agsm@ucr.edu</a><p></p> 
+       <ul class="footer_links"> 
+        <li> <a href="http://soba.ucr.edu/rss/news.xml" class="footer_link_icon" id="footer_link_rss">Subscribe to SoBA news via RSS</a> </li> 
+       </ul></address> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://agsm.ucr.edu/">The A. Gary Anderson Graduate School of Management</a></li> 
+       <li><a href="http://undergradbusiness.ucr.edu/">Undergraduate Business Program</a></li> 
+       <li><a href="http://sobaalumni.ucr.edu/">SoBA Alumni Network</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://soba.ucr.edu/sendmail.html" title="Send Feedback E-mail" accesskey="9">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html">Terms and Conditions</a></li> 
+      <li>&copy; 2014 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01039&amp;site=soba-dev&amp;path=%2Fnews%2Findex.html">Last modified: 2014-Mar-11</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.718965 seconds using 2.50 MiB of memory. -->   
+ </body>
+</html>

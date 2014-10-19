@@ -1,0 +1,2460 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>UCR Happenings: UCR Happenings</title> 
+  <!--link rel="stylesheet" type="text/css" href="/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/narrow6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/sifr.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="/min/g=6bis-bluea-narrow" media="all" /> 
+  <!--link rel="stylesheet" type="text/css" href="/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="/min/f=css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/happenings/css/local.css" media="all" /> 
+  <link href="https://fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css" /> 
+  <script type="text/javascript" src="/min/g=js"></script> 
+  <script type="text/javascript" src="/js/lib.js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="/css/ie6-narrow6.css" media="all" />
+<script defer type="text/javascript" src="/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/css/ie7.css" media="all" />
+<script type="text/javascript" src="/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <link rel="alternate" type="application/rss+xml" title="University of California, Riverside Campus News" href="http://ucrtoday.ucr.edu/feed" /> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip_main"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip_main"><a tabindex="2" href="/happenings/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr /> 
+  </div> 
+  <div id="masthead_home"> 
+   <script type="text/javascript">
+// <![CDATA[
+document.getElementById("masthead_home").style['backgroundImage'] = 'url(/images/design6/mastheadslt/masthead' + Math.floor(Math.random() * 5) + '.jpg)';
+// ]]>
+</script> 
+   <h1><a href="/"><span class="printonly">UC Riverside</span></a></h1> 
+   <div class="pagewrapper"> 
+    <div id="search"> 
+     <div id="nav_utility"> 
+      <ul> 
+       <li><a href="/alpha.html">A to Z Listing</a></li> 
+       <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+       <li><a href="/find_people.php">Find People</a></li> 
+      </ul> 
+     </div> 
+     <form id="searchbox" action="/search.php">
+      <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" size="28" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+     </form> 
+     <script type="text/javascript" src="/js/watermark.js"></script> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="nav_main"> 
+   <h2 class="accessibility">Campuswide Navigation</h2> 
+   <ul>
+    <li><a id="nav_main_home" href="/"><span>Home</span></a></li>
+    <li><a id="nav_main_about_ucr" href="/about/"><span>About UCR</span></a></li>
+    <li><a id="nav_main_academics" href="/academics/"><span>Academics</span></a></li>
+    <li><a id="nav_main_athletics" href="/athletics/"><span>Athletics</span></a></li>
+    <li><a class="active" id="nav_main_happenings" href="/happenings/"><span>Happenings</span></a></li>
+    <li><a id="nav_main_research" href="/research/"><span>Research</span></a></li>
+    <li><a id="nav_main_resources" href="/resources/"><span>Campus Resources</span></a></li>
+    <li><a id="nav_main_giving" href="/giving/"><span>Giving to UCR</span></a></li>
+   </ul> 
+  </div> 
+  <div id="nav_audience"> 
+   <h2 class="accessibility">Audience Navigation</h2> 
+   <ul>
+    <li><a id="nav_audience_future" href="/future/" title="For Prospective Students"><span>Prospective Students</span></a></li>
+    <li><a id="nav_audience_students" href="/students/" title="For Current Students"><span>Current Students</span></a></li>
+    <li><a id="nav_audience_parents" href="/parents/" title="For Parents"><span>Parents</span></a></li>
+    <li><a id="nav_audience_faculty" href="/faculty/" title="For Faculty"><span>Faculty</span></a></li>
+    <li><a id="nav_audience_staff" href="/staff/" title="For Staff"><span>Staff</span></a></li>
+    <li><a id="nav_audience_alumni" href="/alumni/" title="For Alumni"><span>Alumni</span></a></li>
+    <li><a id="nav_audience_friends" href="/friends/" title="For Friends"><span>Friends</span></a></li>
+    <li><a id="nav_audience_industry" href="/industry/" title="For Industry"><span>Industry</span></a></li>
+    <li><a id="nav_audience_media" href="/media/" title="For Media"><span>Media</span></a></li>
+   </ul> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr /> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li class="lastitem">UCR Happenings</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <hr /> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2 class="long">UCR Happenings</h2> 
+    <a name="main"></a> 
+    <ul class="bigtab-control"> 
+     <li><a href="#arts" id="arts-link"><span class="accessibility">Arts</span></a></li> 
+     <li><a href="#lectures" id="lectures-link"><span class="accessibility">Lectures</span></a></li> 
+     <li><a href="#sports" id="sports-link"><span class="accessibility">Sports</span></a></li> 
+     <li><a href="#other" id="other-link"><span class="accessibility">Other</span></a></li> 
+    </ul> 
+    <div id="arts"> 
+     <div class="bigtab-column"> 
+      <h3><img alt="" height="31" src="/happenings/images/spotlight_ttle_shadow.gif" width="738" /><span class="accessibility">Spotlight</span></h3> 
+      <a href="http://events.ucr.edu/cgi-bin/display.cgi?event_id=41035"> <img alt="Music as Medicine Concert Series" height="219" src="http://www.ucr.edu/images/happening/2349.jpg" width="478" /> 
+       <div class="spot"> 
+        <div> 
+         <h4>Music as Medicine Concert Series</h4> 
+         <h5>Choral Society and Blue Grass Ensemble</h5> 
+         <p>Thursday, April 3<br />Noon–1 p.m.</p> 
+         <p>School of Medicine Education Bldg On the Patio</p> 
+        </div> 
+       </div> </a> 
+     </div> 
+     <div class="subsection"> 
+      <div class="column2"> 
+       <p> <img alt="Search by Date" height="49" src="/happenings/images/cal_top.gif" width="218" /> </p> 
+       <table class="calendar" cellspacing="3" cellpadding="0"> 
+        <caption>
+         <a href="http://events.ucr.edu/cgi-bin/display.cgi?month=201402&amp;unit=0" title="prev" class="prev">&laquo;</a>&nbsp;
+         <span class="month">March</span>&nbsp;
+         <span class="year">2014</span>&nbsp;
+         <a href="http://events.ucr.edu/cgi-bin/display.cgi?month=201404&amp;unit=0" title="next" class="next">&raquo;</a>
+        </caption>
+        <tbody> 
+         <tr>
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td>1</td> 
+         </tr>
+         <tr> 
+          <td>2</td> 
+          <td>3</td> 
+          <td>4</td> 
+          <td>5</td> 
+          <td>6</td> 
+          <td>7</td> 
+          <td>8</td> 
+         </tr>
+         <tr> 
+          <td class="today" title="today">9</td> 
+          <td>10</td> 
+          <td>11</td> 
+          <td>12</td> 
+          <td>13</td> 
+          <td>14</td> 
+          <td>15</td> 
+         </tr>
+         <tr> 
+          <td>16</td> 
+          <td>17</td> 
+          <td>18</td> 
+          <td>19</td> 
+          <td>20</td> 
+          <td>21</td> 
+          <td>22</td> 
+         </tr>
+         <tr> 
+          <td>23</td> 
+          <td>24</td> 
+          <td>25</td> 
+          <td>26</td> 
+          <td>27</td> 
+          <td>28</td> 
+          <td>29</td> 
+         </tr>
+         <tr> 
+          <td>30</td> 
+          <td>31</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+         </tr>
+        </tbody>
+       </table> 
+       <img alt="." height="30" src="/happenings/images/cal_bottom.gif" width="218" /> 
+      </div> 
+      <div class="column2"> 
+       <h3><a href="http://culvercenter.ucr.edu/Performance/Mobius-Trio"><img alt="Read more" height="100" src="http://www.ucr.edu/images/happening/2343.jpg" width="218" />Mobius Trio at the Culver Center</a></h3> 
+       <h4>Wednesday, March 12<br />Concert: 8pm–9:30pm</h4> 
+       <p>Mobius Trio has made it its mission to fully integrate the classical guitar into the 21st century's nascent musical lexicon.<a class="read_more_link" href="http://culvercenter.ucr.edu/Performance/Mobius-Trio"><span class="accessibility">Read more</span></a> </p> 
+      </div> 
+      <div class="column2R"> 
+       <h3><a href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=41037:20140309150000"><img alt="Read more" height="100" src="http://www.ucr.edu/images/happening/2356.jpg" width="218" />UCR Concert Band</a></h3> 
+       <h4>Sunday, March 9<br />3 p.m.</h4> 
+       <p>Music from the turn of the 20th Century and the American Civil War<a class="read_more_link" href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=41037:20140309150000"><span class="accessibility">Read more</span></a> </p> 
+      </div> 
+      <div class="clear"> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="lectures"> 
+     <div class="bigtab-column"> 
+      <h3><img alt="" height="31" src="/happenings/images/spotlight_ttle_shadow.gif" width="738" /><span class="accessibility">Spotlight</span></h3> 
+      <a href="http://palmdesert.ucr.edu/programs/Boyd13.html"> <img alt="Animal Oceanographers" height="219" src="http://www.ucr.edu/images/happening/2324.jpg" width="478" /> 
+       <div class="spot"> 
+        <div> 
+         <h4>Animal Oceanographers</h4> 
+         <h5>Using Animals to Tell Us About Their Environment</h5> 
+         <p>March 13<br />6 p.m.</p> 
+         <p>UCR Palm Desert auditorium (RSVP Today!)</p> 
+        </div> 
+       </div> </a> 
+     </div> 
+     <div class="subsection"> 
+      <div class="column2"> 
+       <p> <img alt="Search by Date" height="49" src="/happenings/images/cal_top.gif" width="218" /> </p> 
+       <table class="calendar" cellspacing="3" cellpadding="0"> 
+        <caption>
+         <a href="http://events.ucr.edu/cgi-bin/display.cgi?month=201402&amp;unit=0" title="prev" class="prev">&laquo;</a>&nbsp;
+         <span class="month">March</span>&nbsp;
+         <span class="year">2014</span>&nbsp;
+         <a href="http://events.ucr.edu/cgi-bin/display.cgi?month=201404&amp;unit=0" title="next" class="next">&raquo;</a>
+        </caption>
+        <tbody> 
+         <tr>
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140301&amp;unit=0">1</a></td> 
+         </tr>
+         <tr> 
+          <td>2</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140303&amp;unit=0">3</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140304&amp;unit=0">4</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140305&amp;unit=0">5</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140306&amp;unit=0">6</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140307&amp;unit=0">7</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140308&amp;unit=0">8</a></td> 
+         </tr>
+         <tr> 
+          <td class="today" title="today">9</td> 
+          <td>10</td> 
+          <td>11</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140312&amp;unit=0">12</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140313&amp;unit=0">13</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140314&amp;unit=0">14</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140315&amp;unit=0">15</a></td> 
+         </tr>
+         <tr> 
+          <td>16</td> 
+          <td>17</td> 
+          <td>18</td> 
+          <td>19</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140320&amp;unit=0">20</a></td> 
+          <td>21</td> 
+          <td>22</td> 
+         </tr>
+         <tr> 
+          <td>23</td> 
+          <td>24</td> 
+          <td>25</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140326&amp;unit=0">26</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140327&amp;unit=0">27</a></td> 
+          <td>28</td> 
+          <td>29</td> 
+         </tr>
+         <tr> 
+          <td>30</td> 
+          <td>31</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+         </tr>
+        </tbody>
+       </table> 
+       <img alt="." height="30" src="/happenings/images/cal_bottom.gif" width="218" /> 
+      </div> 
+      <div class="column2"> 
+       <h3><a href="http://cnas.ucr.edu/sciencelectures/index.html"><img alt="Read more" height="100" src="http://www.ucr.edu/images/happening/2318.jpg" width="218" />What's for Dinner?</a></h3> 
+       <h4>Wednesday, April 2<br />5:30–6:30 p.m.</h4> 
+       <p>Molecular Signatures of Plants, Animals, and Water in Early Human Habitats. Public lecture by Kate Freeman.<a class="read_more_link" href="http://cnas.ucr.edu/sciencelectures/index.html"><span class="accessibility">Read more</span></a> </p> 
+      </div> 
+      <div class="column2R"> 
+       <h3><a href="https://events.r20.constantcontact.com/register/eventReg?oeidk=a07e8fv7d66b3a0f5ea&amp;oseq=&amp;c=&amp;ch="><img alt="Read more" height="100" src="http://www.ucr.edu/images/happening/2340.jpg" width="218" />Arts &amp; Letters: Teresa Rhyne</a></h3> 
+       <h4>Wednesday, April 2<br />6:30–8 p.m.</h4> 
+       <p>Shortly after adopting a dog, Teresa Rhyne learns he has less than a year to live and soon finds herself facing a cancer diagnosis of her own. <a class="read_more_link" href="https://events.r20.constantcontact.com/register/eventReg?oeidk=a07e8fv7d66b3a0f5ea&amp;oseq=&amp;c=&amp;ch="><span class="accessibility">Read more</span></a> </p> 
+      </div> 
+      <div class="clear"> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="sports"> 
+     <div class="bigtab-column"> 
+      <h3><img alt="" height="31" src="/happenings/images/spotlight_ttle_shadow.gif" width="738" /><span class="accessibility">Spotlight</span></h3> 
+      <a href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=41358:20140329100000&amp;unit=15"> <img alt="Men's Track &amp; Field: UC Riverside Spring Track Classic" height="219" src="http://www.ucr.edu/images/happening/2352.jpg" width="478" /> 
+       <div class="spot"> 
+        <div> 
+         <h4>Men's Track &amp; Field: UC Riverside Spring Track Classic</h4> 
+         <p>Saturday, March 29<br />10 a.m.–6 p.m.</p> 
+         <p>UC Riverside Track Facility</p> 
+        </div> 
+       </div> </a> 
+     </div> 
+     <div class="subsection"> 
+      <div class="column2"> 
+       <p> <img alt="Search by Date" height="49" src="/happenings/images/cal_top.gif" width="218" /> </p> 
+       <table class="calendar" cellspacing="3" cellpadding="0"> 
+        <caption>
+         <a href="http://events.ucr.edu/cgi-bin/display.cgi?month=201402&amp;unit=0" title="prev" class="prev">&laquo;</a>&nbsp;
+         <span class="month">March</span>&nbsp;
+         <span class="year">2014</span>&nbsp;
+         <a href="http://events.ucr.edu/cgi-bin/display.cgi?month=201404&amp;unit=0" title="next" class="next">&raquo;</a>
+        </caption>
+        <tbody> 
+         <tr>
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140301&amp;unit=0">1</a></td> 
+         </tr>
+         <tr> 
+          <td>2</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140303&amp;unit=0">3</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140304&amp;unit=0">4</a></td> 
+          <td>5</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140306&amp;unit=0">6</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140307&amp;unit=0">7</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140308&amp;unit=0">8</a></td> 
+         </tr>
+         <tr> 
+          <td class="today hlite" title="today"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140309&amp;unit=0">9</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140310&amp;unit=0">10</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140311&amp;unit=0">11</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140312&amp;unit=0">12</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140313&amp;unit=0">13</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140314&amp;unit=0">14</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140315&amp;unit=0">15</a></td> 
+         </tr>
+         <tr> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140316&amp;unit=0">16</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140317&amp;unit=0">17</a></td> 
+          <td>18</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140319&amp;unit=0">19</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140320&amp;unit=0">20</a></td> 
+          <td>21</td> 
+          <td>22</td> 
+         </tr>
+         <tr> 
+          <td>23</td> 
+          <td>24</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140325&amp;unit=0">25</a></td> 
+          <td>26</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140327&amp;unit=0">27</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140328&amp;unit=0">28</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140329&amp;unit=0">29</a></td> 
+         </tr>
+         <tr> 
+          <td>30</td> 
+          <td>31</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+         </tr>
+        </tbody>
+       </table> 
+       <img alt="." height="30" src="/happenings/images/cal_bottom.gif" width="218" /> 
+      </div> 
+      <div class="column2"> 
+       <h3><a href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=40158:20140308190000"><img alt="Read more" height="100" src="http://www.ucr.edu/images/happening/2353.jpg" width="218" />Baseball v. Stony Brook</a></h3> 
+       <h4>Friday, March 14-Sunday, March 16<br />Friday: 6–9 p.m.; Sunday: 1–4 p.m.</h4> 
+       <p><a class="read_more_link" href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=40158:20140308190000"><span class="accessibility">Read more</span></a> </p> 
+      </div> 
+      <div class="column2R"> 
+       <h3><a href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=41345:20140320150000&amp;unit=15"><img alt="Read more" height="100" src="http://www.ucr.edu/images/happening/2354.jpg" width="218" />Softball v. Dartmouth</a></h3> 
+       <h4>Thursday, March 20<br />3–5 p.m.</h4> 
+       <p><a class="read_more_link" href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=41345:20140320150000&amp;unit=15"><span class="accessibility">Read more</span></a> </p> 
+      </div> 
+      <div class="clear"> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="other"> 
+     <div class="bigtab-column"> 
+      <h3><img alt="" height="31" src="/happenings/images/spotlight_ttle_shadow.gif" width="738" /><span class="accessibility">Spotlight</span></h3> 
+      <a href="http://events.ucr.edu/cgi-bin/display.cgi?event_id=41072"> <img alt="Botanic Gardens Spring Plant Sale" height="219" src="http://www.ucr.edu/images/happening/2342.jpg" width="478" /> 
+       <div class="spot"> 
+        <div> 
+         <h4>Botanic Gardens Spring Plant Sale</h4> 
+         <p>Saturday, April 5–Sunday, April 6<br />Sat: 11 a.m.–4 p.m.; Sun: 9 a.m.–3 p.m.</p> 
+         <p>Botanic Gardens Information Center</p> 
+        </div> 
+       </div> </a> 
+     </div> 
+     <div class="subsection"> 
+      <div class="column2"> 
+       <p> <img alt="Search by Date" height="49" src="/happenings/images/cal_top.gif" width="218" /> </p> 
+       <table class="calendar" cellspacing="3" cellpadding="0"> 
+        <caption>
+         <a href="http://events.ucr.edu/cgi-bin/display.cgi?month=201402&amp;unit=0" title="prev" class="prev">&laquo;</a>&nbsp;
+         <span class="month">March</span>&nbsp;
+         <span class="year">2014</span>&nbsp;
+         <a href="http://events.ucr.edu/cgi-bin/display.cgi?month=201404&amp;unit=0" title="next" class="next">&raquo;</a>
+        </caption>
+        <tbody> 
+         <tr>
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140301&amp;unit=0">1</a></td> 
+         </tr>
+         <tr> 
+          <td>2</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140303&amp;unit=0">3</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140304&amp;unit=0">4</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140305&amp;unit=0">5</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140306&amp;unit=0">6</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140307&amp;unit=0">7</a></td> 
+          <td>8</td> 
+         </tr>
+         <tr> 
+          <td class="today" title="today">9</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140310&amp;unit=0">10</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140311&amp;unit=0">11</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140312&amp;unit=0">12</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140313&amp;unit=0">13</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140314&amp;unit=0">14</a></td> 
+          <td>15</td> 
+         </tr>
+         <tr> 
+          <td>16</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140317&amp;unit=0">17</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140318&amp;unit=0">18</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140319&amp;unit=0">19</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140320&amp;unit=0">20</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140321&amp;unit=0">21</a></td> 
+          <td>22</td> 
+         </tr>
+         <tr> 
+          <td>23</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140324&amp;unit=0">24</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140325&amp;unit=0">25</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140326&amp;unit=0">26</a></td> 
+          <td>27</td> 
+          <td>28</td> 
+          <td>29</td> 
+         </tr>
+         <tr> 
+          <td>30</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140331&amp;unit=0">31</a></td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+         </tr>
+        </tbody>
+       </table> 
+       <img alt="." height="30" src="/happenings/images/cal_bottom.gif" width="218" /> 
+      </div> 
+      <div class="column2"> 
+       <h3><a href="http://artsblock.ucr.edu/Performance/The-Face-in-the-Reeds"><img alt="Read more" height="100" src="http://www.ucr.edu/images/happening/2347.jpg" width="218" />The Face in the Reeds</a></h3> 
+       <h4>Thu, Mar 20–Sat, Mar 22<br />8pm–10pm</h4> 
+       <p>When a family gathers to celebrate Passover dinner, a variety of conflicts emerge—about the value of faith, conversion, and the truth or falsity of religion<a class="read_more_link" href="http://artsblock.ucr.edu/Performance/The-Face-in-the-Reeds"><span class="accessibility">Read more</span></a> </p> 
+      </div> 
+      <div class="column2R"> 
+       <h3><a href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=40889:20140313150000&amp;unit=143"><img alt="Read more" height="100" src="http://www.ucr.edu/images/happening/2350.jpg" width="218" />Sunset Stroll to the &quot;C&quot;</a></h3> 
+       <h4>Thursday, March 13<br />3–6 p.m.</h4> 
+       <p>Lace up you’re hiking boots and put one foot in front of the other until you reach the “C”.<a class="read_more_link" href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=40889:20140313150000&amp;unit=143"><span class="accessibility">Read more</span></a> </p> 
+      </div> 
+      <div class="clear"> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <!-- End Content --> 
+  </div>
+  <!-- end pagewrapper --> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://library.ucr.edu/']);">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://campusstatus.ucr.edu/']);">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://campusstore.ucr.edu/']);">Campus Store</a></li> 
+       <li><a href="/employment.html" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','/employment.html']);">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://diversity.ucr.edu/']);">Diversity</a></li> 
+       <li><a href="/about/directions.html" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','/about/directions.html']);">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://admissions.ucr.edu/VisitUCR']);">Visit UCR</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <address><strong><a href="http://strategiccommunications.ucr.edu/">Office of Strategic Communications</a></strong><br /> <a href="http://campusmap.ucr.edu/campusMap.php?loc=HINHL" title="Campus Map">1156 Hinderaker Hall</a><br /><br /> E-mail: <a href="mailto:virginia.odien@ucr.edu?subject=Happenings%20Website%20Inquiry">virginia.odien@ucr.edu</a></address> 
+      <ul class="footer_links"> 
+       <li><a id="footer_link_facebook" class="footer_link_icon" href="http://www.facebook.com/UCRiverside" title="external site: Facebook">Visit UCR's Facebook page</a></li> 
+       <li><a id="footer_link_twitter" class="footer_link_icon" href="http://twitter.com/UCRiverside" title="external site: Twitter">Follow UCR on Twitter</a></li> 
+       <li><a id="footer_link_youtube" class="footer_link_icon" href="http://www.youtube.com/UCRiverside" title="external site: YouTube">Visit UCR's YouTube channel</a></li> 
+       <li><a id="footer_link_rss" class="footer_link_icon" href="http://ucrtoday.ucr.edu/feed">Subscribe to UCR Today via RSS</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://events.ucr.edu/cgi-bin/display.cgi" onclick="javascript:_gaq.push(['_trackEvent','Related','Link','http://events.ucr.edu/cgi-bin/display.cgi']);">Events Calendar</a></li> 
+       <li><a href="http://culturalevents.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Related','Link','http://culturalevents.ucr.edu/']);">Cultural Events</a></li> 
+       <li><a href="http://performingarts.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Related','Link','http://performingarts.ucr.edu/']);">Performing Arts</a></li> 
+       <li><a href="http://fineartsticketoffice.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Related','Link','http://fineartsticketoffice.ucr.edu/']);">Fine Arts Ticket Office</a></li> 
+       <li><a href="http://sweeney.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Related','Link','http://sweeney.ucr.edu/']);">Sweeney Art Gallery</a></li> 
+       <li><a href="http://cmp.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Related','Link','http://cmp.ucr.edu/']);">California Museum of Photography</a></li> 
+       <li><a href="http://artsblock.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Related','Link','http://artsblock.ucr.edu/']);">ARTSblock</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="/"><span>UCR Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="/privacy.html">Privacy Policy</a></li> 
+      <li><a href="/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>&copy; 2014 Regents of the University of California</li> 
+      <li>Last modified: 2014-Mar-09</li> 
+     </ul> 
+    </div> 
+    <!--[if lte IE 7]>
+      <div id="ie6_notice">
+         <p>You are using an outdated version of Internet Explorer. Please consider upgrading to any of the following browsers:</p>
+         <div class="column49">
+            <ul class="tight">
+               <li><a href="http://getfirefox.com" class="external" title="external site: Mozilla Foundation">Firefox</a></li>
+               <li><a href="http://www.opera.com/" class="external" title="external site: Opera Software">Opera</a></li>
+            </ul>
+         </div>
+         <div class="column49">
+            <ul class="tight">
+               <li><a href="http://www.microsoft.com/windows/products/winfamily/ie/" class="external" title="external site: Microsoft">Internet Explorer 8</a></li>
+               <li><a href="http://www.apple.com/safari/" class="external" title="external site: Apple Inc.">Safari</a></li>
+            </ul>
+         </div>
+         <div class="column49R">
+            <ul class="tight">
+               <li><a href="http://www.google.com/chrome" class="external" title="external site: Google">Chrome</a></li>
+            </ul>
+         </div>
+         <div class="clear"></div>
+      </div>
+      <![endif]--> 
+   </div> 
+  </div>  
+ </body>
+</html><!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>UCR Happenings: UCR Happenings</title> 
+  <!--link rel="stylesheet" type="text/css" href="/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/narrow6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/sifr.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="/min/g=6bis-bluea-narrow" media="all" /> 
+  <!--link rel="stylesheet" type="text/css" href="/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="/min/f=css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/happenings/css/local.css" media="all" /> 
+  <link href="https://fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css" /> 
+  <script type="text/javascript" src="/min/g=js"></script> 
+  <script type="text/javascript" src="/js/lib.js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="/css/ie6-narrow6.css" media="all" />
+<script defer type="text/javascript" src="/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/css/ie7.css" media="all" />
+<script type="text/javascript" src="/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <link rel="alternate" type="application/rss+xml" title="University of California, Riverside Campus News" href="http://ucrtoday.ucr.edu/feed" /> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip_main"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip_main"><a tabindex="2" href="/happenings/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr /> 
+  </div> 
+  <div id="masthead_home"> 
+   <script type="text/javascript">
+// <![CDATA[
+document.getElementById("masthead_home").style['backgroundImage'] = 'url(/images/design6/mastheadslt/masthead' + Math.floor(Math.random() * 5) + '.jpg)';
+// ]]>
+</script> 
+   <h1><a href="/"><span class="printonly">UC Riverside</span></a></h1> 
+   <div class="pagewrapper"> 
+    <div id="search"> 
+     <div id="nav_utility"> 
+      <ul> 
+       <li><a href="/alpha.html">A to Z Listing</a></li> 
+       <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+       <li><a href="/find_people.php">Find People</a></li> 
+      </ul> 
+     </div> 
+     <form id="searchbox" action="/search.php">
+      <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" size="28" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+     </form> 
+     <script type="text/javascript" src="/js/watermark.js"></script> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="nav_main"> 
+   <h2 class="accessibility">Campuswide Navigation</h2> 
+   <ul>
+    <li><a id="nav_main_home" href="/"><span>Home</span></a></li>
+    <li><a id="nav_main_about_ucr" href="/about/"><span>About UCR</span></a></li>
+    <li><a id="nav_main_academics" href="/academics/"><span>Academics</span></a></li>
+    <li><a id="nav_main_athletics" href="/athletics/"><span>Athletics</span></a></li>
+    <li><a class="active" id="nav_main_happenings" href="/happenings/"><span>Happenings</span></a></li>
+    <li><a id="nav_main_research" href="/research/"><span>Research</span></a></li>
+    <li><a id="nav_main_resources" href="/resources/"><span>Campus Resources</span></a></li>
+    <li><a id="nav_main_giving" href="/giving/"><span>Giving to UCR</span></a></li>
+   </ul> 
+  </div> 
+  <div id="nav_audience"> 
+   <h2 class="accessibility">Audience Navigation</h2> 
+   <ul>
+    <li><a id="nav_audience_future" href="/future/" title="For Prospective Students"><span>Prospective Students</span></a></li>
+    <li><a id="nav_audience_students" href="/students/" title="For Current Students"><span>Current Students</span></a></li>
+    <li><a id="nav_audience_parents" href="/parents/" title="For Parents"><span>Parents</span></a></li>
+    <li><a id="nav_audience_faculty" href="/faculty/" title="For Faculty"><span>Faculty</span></a></li>
+    <li><a id="nav_audience_staff" href="/staff/" title="For Staff"><span>Staff</span></a></li>
+    <li><a id="nav_audience_alumni" href="/alumni/" title="For Alumni"><span>Alumni</span></a></li>
+    <li><a id="nav_audience_friends" href="/friends/" title="For Friends"><span>Friends</span></a></li>
+    <li><a id="nav_audience_industry" href="/industry/" title="For Industry"><span>Industry</span></a></li>
+    <li><a id="nav_audience_media" href="/media/" title="For Media"><span>Media</span></a></li>
+   </ul> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr /> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li class="lastitem">UCR Happenings</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <hr /> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2 class="long">UCR Happenings</h2> 
+    <a name="main"></a> 
+    <ul class="bigtab-control"> 
+     <li><a href="#arts" id="arts-link"><span class="accessibility">Arts</span></a></li> 
+     <li><a href="#lectures" id="lectures-link"><span class="accessibility">Lectures</span></a></li> 
+     <li><a href="#sports" id="sports-link"><span class="accessibility">Sports</span></a></li> 
+     <li><a href="#other" id="other-link"><span class="accessibility">Other</span></a></li> 
+    </ul> 
+    <div id="arts"> 
+     <div class="bigtab-column"> 
+      <h3><img alt="" height="31" src="/happenings/images/spotlight_ttle_shadow.gif" width="738" /><span class="accessibility">Spotlight</span></h3> 
+      <a href="http://events.ucr.edu/cgi-bin/display.cgi?event_id=41035"> <img alt="Music as Medicine Concert Series" height="219" src="http://www.ucr.edu/images/happening/2349.jpg" width="478" /> 
+       <div class="spot"> 
+        <div> 
+         <h4>Music as Medicine Concert Series</h4> 
+         <h5>Choral Society and Blue Grass Ensemble</h5> 
+         <p>Thursday, April 3<br />Noon–1 p.m.</p> 
+         <p>School of Medicine Education Bldg On the Patio</p> 
+        </div> 
+       </div> </a> 
+     </div> 
+     <div class="subsection"> 
+      <div class="column2"> 
+       <p> <img alt="Search by Date" height="49" src="/happenings/images/cal_top.gif" width="218" /> </p> 
+       <table class="calendar" cellspacing="3" cellpadding="0"> 
+        <caption>
+         <a href="http://events.ucr.edu/cgi-bin/display.cgi?month=201402&amp;unit=0" title="prev" class="prev">&laquo;</a>&nbsp;
+         <span class="month">March</span>&nbsp;
+         <span class="year">2014</span>&nbsp;
+         <a href="http://events.ucr.edu/cgi-bin/display.cgi?month=201404&amp;unit=0" title="next" class="next">&raquo;</a>
+        </caption>
+        <tbody> 
+         <tr>
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td>1</td> 
+         </tr>
+         <tr> 
+          <td>2</td> 
+          <td>3</td> 
+          <td>4</td> 
+          <td>5</td> 
+          <td>6</td> 
+          <td>7</td> 
+          <td>8</td> 
+         </tr>
+         <tr> 
+          <td>9</td> 
+          <td>10</td> 
+          <td class="today" title="today">11</td> 
+          <td>12</td> 
+          <td>13</td> 
+          <td>14</td> 
+          <td>15</td> 
+         </tr>
+         <tr> 
+          <td>16</td> 
+          <td>17</td> 
+          <td>18</td> 
+          <td>19</td> 
+          <td>20</td> 
+          <td>21</td> 
+          <td>22</td> 
+         </tr>
+         <tr> 
+          <td>23</td> 
+          <td>24</td> 
+          <td>25</td> 
+          <td>26</td> 
+          <td>27</td> 
+          <td>28</td> 
+          <td>29</td> 
+         </tr>
+         <tr> 
+          <td>30</td> 
+          <td>31</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+         </tr>
+        </tbody>
+       </table> 
+       <img alt="." height="30" src="/happenings/images/cal_bottom.gif" width="218" /> 
+      </div> 
+      <div class="column2"> 
+       <h3><a href="http://culvercenter.ucr.edu/Performance/Mobius-Trio"><img alt="Read more" height="100" src="http://www.ucr.edu/images/happening/2343.jpg" width="218" />Mobius Trio at the Culver Center</a></h3> 
+       <h4>Wednesday, March 12<br />Concert: 8pm–9:30pm</h4> 
+       <p>Mobius Trio has made it its mission to fully integrate the classical guitar into the 21st century's nascent musical lexicon.<a class="read_more_link" href="http://culvercenter.ucr.edu/Performance/Mobius-Trio"><span class="accessibility">Read more</span></a> </p> 
+      </div> 
+      <div class="column2R"> 
+       <h3><a href="http://artsblock.ucr.edu/Exhibition/Quintessential"><img alt="Read more" height="100" src="http://www.ucr.edu/images/happening/2334.jpg" width="218" />Quintessential: Selections from the Permanent Collection</a></h3> 
+       <h4>Through March 22</h4> 
+       <p>A showcase of UCR ARTSblock Sweeney Art Gallery’s growing art collection<a class="read_more_link" href="http://artsblock.ucr.edu/Exhibition/Quintessential"><span class="accessibility">Read more</span></a> </p> 
+      </div> 
+      <div class="clear"> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="lectures"> 
+     <div class="bigtab-column"> 
+      <h3><img alt="" height="31" src="/happenings/images/spotlight_ttle_shadow.gif" width="738" /><span class="accessibility">Spotlight</span></h3> 
+      <a href="http://palmdesert.ucr.edu/programs/Boyd13.html"> <img alt="Animal Oceanographers" height="219" src="http://www.ucr.edu/images/happening/2324.jpg" width="478" /> 
+       <div class="spot"> 
+        <div> 
+         <h4>Animal Oceanographers</h4> 
+         <h5>Using Animals to Tell Us About Their Environment</h5> 
+         <p>March 13<br />6 p.m.</p> 
+         <p>UCR Palm Desert auditorium (RSVP Today!)</p> 
+        </div> 
+       </div> </a> 
+     </div> 
+     <div class="subsection"> 
+      <div class="column2"> 
+       <p> <img alt="Search by Date" height="49" src="/happenings/images/cal_top.gif" width="218" /> </p> 
+       <table class="calendar" cellspacing="3" cellpadding="0"> 
+        <caption>
+         <a href="http://events.ucr.edu/cgi-bin/display.cgi?month=201402&amp;unit=0" title="prev" class="prev">&laquo;</a>&nbsp;
+         <span class="month">March</span>&nbsp;
+         <span class="year">2014</span>&nbsp;
+         <a href="http://events.ucr.edu/cgi-bin/display.cgi?month=201404&amp;unit=0" title="next" class="next">&raquo;</a>
+        </caption>
+        <tbody> 
+         <tr>
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140301&amp;unit=0">1</a></td> 
+         </tr>
+         <tr> 
+          <td>2</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140303&amp;unit=0">3</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140304&amp;unit=0">4</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140305&amp;unit=0">5</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140306&amp;unit=0">6</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140307&amp;unit=0">7</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140308&amp;unit=0">8</a></td> 
+         </tr>
+         <tr> 
+          <td>9</td> 
+          <td>10</td> 
+          <td class="today" title="today">11</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140312&amp;unit=0">12</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140313&amp;unit=0">13</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140314&amp;unit=0">14</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140315&amp;unit=0">15</a></td> 
+         </tr>
+         <tr> 
+          <td>16</td> 
+          <td>17</td> 
+          <td>18</td> 
+          <td>19</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140320&amp;unit=0">20</a></td> 
+          <td>21</td> 
+          <td>22</td> 
+         </tr>
+         <tr> 
+          <td>23</td> 
+          <td>24</td> 
+          <td>25</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140326&amp;unit=0">26</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140327&amp;unit=0">27</a></td> 
+          <td>28</td> 
+          <td>29</td> 
+         </tr>
+         <tr> 
+          <td>30</td> 
+          <td>31</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+         </tr>
+        </tbody>
+       </table> 
+       <img alt="." height="30" src="/happenings/images/cal_bottom.gif" width="218" /> 
+      </div> 
+      <div class="column2"> 
+       <h3><a href="http://cnas.ucr.edu/sciencelectures/index.html"><img alt="Read more" height="100" src="http://www.ucr.edu/images/happening/2318.jpg" width="218" />What's for Dinner?</a></h3> 
+       <h4>Wednesday, April 2<br />5:30–6:30 p.m.</h4> 
+       <p>Molecular Signatures of Plants, Animals, and Water in Early Human Habitats. Public lecture by Kate Freeman.<a class="read_more_link" href="http://cnas.ucr.edu/sciencelectures/index.html"><span class="accessibility">Read more</span></a> </p> 
+      </div> 
+      <div class="column2R"> 
+       <h3><a href="https://events.r20.constantcontact.com/register/eventReg?oeidk=a07e8fv7d66b3a0f5ea&amp;oseq=&amp;c=&amp;ch="><img alt="Read more" height="100" src="http://www.ucr.edu/images/happening/2340.jpg" width="218" />Arts &amp; Letters: Teresa Rhyne</a></h3> 
+       <h4>Wednesday, April 2<br />6:30–8 p.m.</h4> 
+       <p>Shortly after adopting a dog, Teresa Rhyne learns he has less than a year to live and soon finds herself facing a cancer diagnosis of her own. <a class="read_more_link" href="https://events.r20.constantcontact.com/register/eventReg?oeidk=a07e8fv7d66b3a0f5ea&amp;oseq=&amp;c=&amp;ch="><span class="accessibility">Read more</span></a> </p> 
+      </div> 
+      <div class="clear"> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="sports"> 
+     <div class="bigtab-column"> 
+      <h3><img alt="" height="31" src="/happenings/images/spotlight_ttle_shadow.gif" width="738" /><span class="accessibility">Spotlight</span></h3> 
+      <a href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=41358:20140329100000&amp;unit=15"> <img alt="Men's Track &amp; Field: UC Riverside Spring Track Classic" height="219" src="http://www.ucr.edu/images/happening/2352.jpg" width="478" /> 
+       <div class="spot"> 
+        <div> 
+         <h4>Men's Track &amp; Field: UC Riverside Spring Track Classic</h4> 
+         <p>Saturday, March 29<br />10 a.m.–6 p.m.</p> 
+         <p>UC Riverside Track Facility</p> 
+        </div> 
+       </div> </a> 
+     </div> 
+     <div class="subsection"> 
+      <div class="column2"> 
+       <p> <img alt="Search by Date" height="49" src="/happenings/images/cal_top.gif" width="218" /> </p> 
+       <table class="calendar" cellspacing="3" cellpadding="0"> 
+        <caption>
+         <a href="http://events.ucr.edu/cgi-bin/display.cgi?month=201402&amp;unit=0" title="prev" class="prev">&laquo;</a>&nbsp;
+         <span class="month">March</span>&nbsp;
+         <span class="year">2014</span>&nbsp;
+         <a href="http://events.ucr.edu/cgi-bin/display.cgi?month=201404&amp;unit=0" title="next" class="next">&raquo;</a>
+        </caption>
+        <tbody> 
+         <tr>
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140301&amp;unit=0">1</a></td> 
+         </tr>
+         <tr> 
+          <td>2</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140303&amp;unit=0">3</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140304&amp;unit=0">4</a></td> 
+          <td>5</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140306&amp;unit=0">6</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140307&amp;unit=0">7</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140308&amp;unit=0">8</a></td> 
+         </tr>
+         <tr> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140309&amp;unit=0">9</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140310&amp;unit=0">10</a></td> 
+          <td class="today hlite" title="today"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140311&amp;unit=0">11</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140312&amp;unit=0">12</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140313&amp;unit=0">13</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140314&amp;unit=0">14</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140315&amp;unit=0">15</a></td> 
+         </tr>
+         <tr> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140316&amp;unit=0">16</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140317&amp;unit=0">17</a></td> 
+          <td>18</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140319&amp;unit=0">19</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140320&amp;unit=0">20</a></td> 
+          <td>21</td> 
+          <td>22</td> 
+         </tr>
+         <tr> 
+          <td>23</td> 
+          <td>24</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140325&amp;unit=0">25</a></td> 
+          <td>26</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140327&amp;unit=0">27</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140328&amp;unit=0">28</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140329&amp;unit=0">29</a></td> 
+         </tr>
+         <tr> 
+          <td>30</td> 
+          <td>31</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+         </tr>
+        </tbody>
+       </table> 
+       <img alt="." height="30" src="/happenings/images/cal_bottom.gif" width="218" /> 
+      </div> 
+      <div class="column2"> 
+       <h3><a href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=40158:20140308190000"><img alt="Read more" height="100" src="http://www.ucr.edu/images/happening/2353.jpg" width="218" />Baseball v. Stony Brook</a></h3> 
+       <h4>Friday, March 14-Sunday, March 16<br />Friday: 6–9 p.m.; Sunday: 1–4 p.m.</h4> 
+       <p><a class="read_more_link" href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=40158:20140308190000"><span class="accessibility">Read more</span></a> </p> 
+      </div> 
+      <div class="column2R"> 
+       <h3><a href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=41345:20140320150000&amp;unit=15"><img alt="Read more" height="100" src="http://www.ucr.edu/images/happening/2354.jpg" width="218" />Softball v. Dartmouth</a></h3> 
+       <h4>Thursday, March 20<br />3–5 p.m.</h4> 
+       <p><a class="read_more_link" href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=41345:20140320150000&amp;unit=15"><span class="accessibility">Read more</span></a> </p> 
+      </div> 
+      <div class="clear"> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="other"> 
+     <div class="bigtab-column"> 
+      <h3><img alt="" height="31" src="/happenings/images/spotlight_ttle_shadow.gif" width="738" /><span class="accessibility">Spotlight</span></h3> 
+      <a href="http://events.ucr.edu/cgi-bin/display.cgi?event_id=41072"> <img alt="Botanic Gardens Spring Plant Sale" height="219" src="http://www.ucr.edu/images/happening/2342.jpg" width="478" /> 
+       <div class="spot"> 
+        <div> 
+         <h4>Botanic Gardens Spring Plant Sale</h4> 
+         <p>Saturday, April 5–Sunday, April 6<br />Sat: 11 a.m.–4 p.m.; Sun: 9 a.m.–3 p.m.</p> 
+         <p>Botanic Gardens Information Center</p> 
+        </div> 
+       </div> </a> 
+     </div> 
+     <div class="subsection"> 
+      <div class="column2"> 
+       <p> <img alt="Search by Date" height="49" src="/happenings/images/cal_top.gif" width="218" /> </p> 
+       <table class="calendar" cellspacing="3" cellpadding="0"> 
+        <caption>
+         <a href="http://events.ucr.edu/cgi-bin/display.cgi?month=201402&amp;unit=0" title="prev" class="prev">&laquo;</a>&nbsp;
+         <span class="month">March</span>&nbsp;
+         <span class="year">2014</span>&nbsp;
+         <a href="http://events.ucr.edu/cgi-bin/display.cgi?month=201404&amp;unit=0" title="next" class="next">&raquo;</a>
+        </caption>
+        <tbody> 
+         <tr>
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140301&amp;unit=0">1</a></td> 
+         </tr>
+         <tr> 
+          <td>2</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140303&amp;unit=0">3</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140304&amp;unit=0">4</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140305&amp;unit=0">5</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140306&amp;unit=0">6</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140307&amp;unit=0">7</a></td> 
+          <td>8</td> 
+         </tr>
+         <tr> 
+          <td>9</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140310&amp;unit=0">10</a></td> 
+          <td class="today hlite" title="today"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140311&amp;unit=0">11</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140312&amp;unit=0">12</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140313&amp;unit=0">13</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140314&amp;unit=0">14</a></td> 
+          <td>15</td> 
+         </tr>
+         <tr> 
+          <td>16</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140317&amp;unit=0">17</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140318&amp;unit=0">18</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140319&amp;unit=0">19</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140320&amp;unit=0">20</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140321&amp;unit=0">21</a></td> 
+          <td>22</td> 
+         </tr>
+         <tr> 
+          <td>23</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140324&amp;unit=0">24</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140325&amp;unit=0">25</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140326&amp;unit=0">26</a></td> 
+          <td>27</td> 
+          <td>28</td> 
+          <td>29</td> 
+         </tr>
+         <tr> 
+          <td>30</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140331&amp;unit=0">31</a></td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+         </tr>
+        </tbody>
+       </table> 
+       <img alt="." height="30" src="/happenings/images/cal_bottom.gif" width="218" /> 
+      </div> 
+      <div class="column2"> 
+       <h3><a href="http://artsblock.ucr.edu/Performance/The-Face-in-the-Reeds"><img alt="Read more" height="100" src="http://www.ucr.edu/images/happening/2347.jpg" width="218" />The Face in the Reeds</a></h3> 
+       <h4>Thu, Mar 20–Sat, Mar 22<br />8pm–10pm</h4> 
+       <p>When a family gathers to celebrate Passover dinner, a variety of conflicts emerge—about the value of faith, conversion, and the truth or falsity of religion<a class="read_more_link" href="http://artsblock.ucr.edu/Performance/The-Face-in-the-Reeds"><span class="accessibility">Read more</span></a> </p> 
+      </div> 
+      <div class="column2R"> 
+       <h3><a href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=40889:20140313150000&amp;unit=143"><img alt="Read more" height="100" src="http://www.ucr.edu/images/happening/2350.jpg" width="218" />Sunset Stroll to the &quot;C&quot;</a></h3> 
+       <h4>Thursday, March 13<br />3–6 p.m.</h4> 
+       <p>Lace up you’re hiking boots and put one foot in front of the other until you reach the “C”.<a class="read_more_link" href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=40889:20140313150000&amp;unit=143"><span class="accessibility">Read more</span></a> </p> 
+      </div> 
+      <div class="clear"> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <!-- End Content --> 
+  </div>
+  <!-- end pagewrapper --> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://library.ucr.edu/']);">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://campusstatus.ucr.edu/']);">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://campusstore.ucr.edu/']);">Campus Store</a></li> 
+       <li><a href="/employment.html" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','/employment.html']);">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://diversity.ucr.edu/']);">Diversity</a></li> 
+       <li><a href="/about/directions.html" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','/about/directions.html']);">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://admissions.ucr.edu/VisitUCR']);">Visit UCR</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <address><strong><a href="http://strategiccommunications.ucr.edu/">Office of Strategic Communications</a></strong><br /> <a href="http://campusmap.ucr.edu/campusMap.php?loc=HINHL" title="Campus Map">1156 Hinderaker Hall</a><br /><br /> E-mail: <a href="mailto:virginia.odien@ucr.edu?subject=Happenings%20Website%20Inquiry">virginia.odien@ucr.edu</a></address> 
+      <ul class="footer_links"> 
+       <li><a id="footer_link_facebook" class="footer_link_icon" href="http://www.facebook.com/UCRiverside" title="external site: Facebook">Visit UCR's Facebook page</a></li> 
+       <li><a id="footer_link_twitter" class="footer_link_icon" href="http://twitter.com/UCRiverside" title="external site: Twitter">Follow UCR on Twitter</a></li> 
+       <li><a id="footer_link_youtube" class="footer_link_icon" href="http://www.youtube.com/UCRiverside" title="external site: YouTube">Visit UCR's YouTube channel</a></li> 
+       <li><a id="footer_link_rss" class="footer_link_icon" href="http://ucrtoday.ucr.edu/feed">Subscribe to UCR Today via RSS</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://events.ucr.edu/cgi-bin/display.cgi" onclick="javascript:_gaq.push(['_trackEvent','Related','Link','http://events.ucr.edu/cgi-bin/display.cgi']);">Events Calendar</a></li> 
+       <li><a href="http://culturalevents.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Related','Link','http://culturalevents.ucr.edu/']);">Cultural Events</a></li> 
+       <li><a href="http://performingarts.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Related','Link','http://performingarts.ucr.edu/']);">Performing Arts</a></li> 
+       <li><a href="http://fineartsticketoffice.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Related','Link','http://fineartsticketoffice.ucr.edu/']);">Fine Arts Ticket Office</a></li> 
+       <li><a href="http://sweeney.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Related','Link','http://sweeney.ucr.edu/']);">Sweeney Art Gallery</a></li> 
+       <li><a href="http://cmp.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Related','Link','http://cmp.ucr.edu/']);">California Museum of Photography</a></li> 
+       <li><a href="http://artsblock.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Related','Link','http://artsblock.ucr.edu/']);">ARTSblock</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="/"><span>UCR Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="/privacy.html">Privacy Policy</a></li> 
+      <li><a href="/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>&copy; 2014 Regents of the University of California</li> 
+      <li>Last modified: 2014-Mar-11</li> 
+     </ul> 
+    </div> 
+    <!--[if lte IE 7]>
+      <div id="ie6_notice">
+         <p>You are using an outdated version of Internet Explorer. Please consider upgrading to any of the following browsers:</p>
+         <div class="column49">
+            <ul class="tight">
+               <li><a href="http://getfirefox.com" class="external" title="external site: Mozilla Foundation">Firefox</a></li>
+               <li><a href="http://www.opera.com/" class="external" title="external site: Opera Software">Opera</a></li>
+            </ul>
+         </div>
+         <div class="column49">
+            <ul class="tight">
+               <li><a href="http://www.microsoft.com/windows/products/winfamily/ie/" class="external" title="external site: Microsoft">Internet Explorer 8</a></li>
+               <li><a href="http://www.apple.com/safari/" class="external" title="external site: Apple Inc.">Safari</a></li>
+            </ul>
+         </div>
+         <div class="column49R">
+            <ul class="tight">
+               <li><a href="http://www.google.com/chrome" class="external" title="external site: Google">Chrome</a></li>
+            </ul>
+         </div>
+         <div class="clear"></div>
+      </div>
+      <![endif]--> 
+   </div> 
+  </div>  
+ </body>
+</html><!DOCTYPE html>
+<html lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>Housing</title> 
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" /> 
+  <link rel="stylesheet" href="/Content/css/plugins/bxSlider.css" /> 
+  <link rel="stylesheet" href="/Content/css/plugins/colorbox.css" /> 
+  <link href="/Content/css/960Framwork/reset.min.css?3e9f37" rel="stylesheet" /> 
+  <link href="/Content/css/960Framwork/typographyBluePrint.min.css?3e9f37" rel="stylesheet" /> 
+  <link href="/Content/css/960Framwork/960.min.css?3e9f37" rel="stylesheet" /> 
+  <link href="/Content/css/nav.min.css?3e9f37" rel="stylesheet" /> 
+  <link href="/Content/css/local.min.css?3e9f37" rel="stylesheet" /> 
+  <link href="/Content/css/genericBody.min.css?3e9f37" rel="stylesheet" /> 
+  <link href="/Content/css/iconSections.min.css?3e9f37" rel="stylesheet" /> 
+  <link href="/Content/css/footer.min.css?3e9f37" rel="stylesheet" /> 
+  <!--[if lte IE 8]>
+        <link rel="stylesheet" href="/Content/css/ie7_8.css" />
+    <![endif]--> 
+  <style type="text/css">
+        .genericBody.version2 div.grid_6 div 
+        {
+            height: 110px;
+        }
+    </style> 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script> 
+  <!-- Below is used to link to reserouces in external JS files --> 
+  <script type="text/javascript">
+        var baseURL = "/";
+    </script> 
+  <script src="/Scripts/app.min.js?3f3d91" type="text/javascript"></script> 
+  <script src="/Scripts/Custom_New/jquery.bxSlider.min.js" type="text/javascript"></script> 
+  <script src="/Scripts/Custom_New/selectiveLoad_plugins.js" type="text/javascript"></script> 
+  <script src="/Scripts/Custom_New/functionCalls.js" type="text/javascript"></script> 
+  <script src="/Content/ContentFlowPlugin/contentflow.js" load="fancyScrollbar" type="text/javascript"></script> 
+  <script>
+        $(document).ready(function () {
+            var myNewFlow = new ContentFlow('myFantasicFlow', {
+                reflectionHeight: 0,
+                scaleFactor: 1.4,
+                scaleFactorLandscape: 1.7,
+                onclickActiveItem: function () {
+                    return false;
+                }
+            });
+        });
+    </script> 
+  <!--Google Analytics Tracking Code --> 
+  <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-503078-52']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script> 
+  <style type="text/css">
+        #translateContainer {
+            border:none;            
+            text-align:center;            
+        }
+            #translateContainer h3 {
+                line-height:30px;
+                background-color:#2d6cc0;
+                color:#fff;
+                font-family: Verdana,Arial,Helvetica,sans-serif;
+                font-size:15px;
+            }
+    </style> 
+  <!-- Google Translate Customization Code --> 
+  <meta name="google-translate-customization" content="40b506c3c9978d85-07cd07d0d7fc1236-gd88b6ab26a0907c6-12" /> 
+ </head> 
+ <body> 
+  <div id="headerWrapper"> 
+   <div class="container_16"> 
+    <div id="masthead" class="clearfix"> 
+     <div class="grid_16"> 
+      <img alt="UCRMonogram" class="UCRMonogram" src="/Images/ucrSealOverlay.png" width="346" height="145" /> 
+      <div id="mastHeadTop"> 
+       <h1> <a href="/" class="h1Link"> <img alt="UCR Logo" src="/Images/ucrSeal.png" /> <span class="hideText">University of California - UC Riverside</span><br /> <span class="spanHeaderUA">Undergraduate Admissions</span> </a> </h1> 
+      </div> 
+      <div id="mastHeadBottom"> 
+       <div id="button"> 
+        <img alt="th" class="menu_class" src="/Images/quicklinks.png" /> 
+        <ul class="the_menu" style="display: none;"> 
+         <li><a href="http://vcsaweb.ucr.edu/MyUCR/CreateAccount.aspx">MyUCR</a></li> 
+         <li><a href="/Admissions/pathsAdmissions">Paths to Admission</a> </li> 
+         <li><a href="/Admissions/meetCounselor">Find a Counselor</a></li> 
+         <li><a href="/PayingForCollege/financialAidScholarships">Financial Aid &amp; Scholarships</a></li> 
+         <li><a href="/Academics/collegesSchoolsMajors">Colleges, Schools &amp; Majors</a></li> 
+         <li><a href="/CampusLife/housing">Housing</a></li> 
+         <li><a href="/VisitUCR/tourOptions">Tour Options</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="grid_16 clearfix"> 
+      <div id="search"> 
+       <div class="breadcrumbs"> 
+        <a href="/">Home</a> &gt; 
+        <a href="/CampusLife">Campus Life</a> &gt; Housing 
+       </div> 
+       <div id="nav_utility"> 
+        <ul> 
+         <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+         <li><a href="http://www.campusmap.ucr.edu/">Campus Map</a></li> 
+         <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+        </ul> 
+       </div> 
+       <form action="http://www.ucr.edu/search.php" id="searchbox"> 
+        <p> <label accesskey="4" for="SearchText" style="visibility: hidden;"> Search for:</label> <input type="text" value="" name="q" id="SearchText" maxlength="255" size="19" style="border: 1px solid rgb(126, 157, 185);
+                                padding: 2px; background: url(http://www.ucr.edu/images/design6/search_watermark.gif) no-repeat scroll left center rgb(255, 255, 255);" /> <input type="submit" value="Go" name="sa" id="go" /> </p> 
+       </form> 
+       <script src="http://www.ucr.edu/js/watermark.js" type="text/javascript"></script> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <!-- end Header Wrapper --> 
+  </div> 
+  <!-- end Header Wrapper --> 
+  <div id="mainContent"> 
+   <div id="box"> 
+    <a href="http://vcsaweb.ucr.edu/MyUCR/">MyUCR</a> 
+    <a href="/Home/FAQ"> FAQs</a> 
+    <a href="https://www.facebook.com/ucradmissions?bcode=q099X" class="facebook"> Facebook</a> 
+    <a href="http://twitter.com/ucradmissions" class="twitter">Twitter</a> 
+    <a href="http://lifeatucr.tumblr.com/" class="tumblr">Tumblr</a> 
+    <a href="http://instagram.com/lifeatucr" class="instagram">Instagram</a> 
+   </div> 
+   <!-- Floating box stops here --> 
+   <div class="container_16 clearfix"> 
+    <div class="grid_4 alpha"> 
+     <div id="navigation" class="clearfix"> 
+      <div id="sidebar"> 
+       <div class="nav"> 
+        <ul> 
+         <li class="home"><a href="/">Home</a></li> 
+        </ul> 
+        <ul class="audienceNav"> 
+         <li>Who Are You?</li> 
+         <li><a href="/Home/freshmen">Freshmen</a></li> 
+         <li><a href="/Home/transfer">Transfers</a></li> 
+         <li><a href="http://international.ucr.edu">International</a></li> 
+         <li><a href="/Home/military">Military/Veterans</a></li> 
+         <li><a href="/Home/parents">Parents</a></li> 
+         <li><a href="/Home/counselors">Counselors</a></li> 
+        </ul> 
+        <ul> 
+         <li><a href="/WhyUCR">Why UC Riverside?</a> 
+          <ul> 
+           <li><a href="/WhyUCR/ourStudents">Our Students</a></li> 
+           <li><a href="/WhyUCR/ourRankings">Our Rankings</a></li> 
+           <li><a href="/WhyUCR/ourResearch">Our Research</a></li> 
+           <li><a href="/WhyUCR/ourGuarantee">Our Guarantee</a></li> 
+          </ul> </li> 
+         <li><a href="/Academics">Academics</a> 
+          <ul> 
+           <li><a href="/Academics/collegesSchoolsMajors">Colleges, Schools &amp; Majors</a></li> 
+           <li><a href="/Academics/honorsPrograms">Honors Programs</a></li> 
+           <li><a href="/Academics/faculty">Faculty</a></li> 
+           <li><a href="/Academics/supportServices">Support Services</a></li> 
+           <li><a href="/Academics/studyAwayHome">Study Away from Home</a></li> 
+           <li><a href="/Academics/transferprep">Special Transfer Programs</a></li> 
+          </ul> </li> 
+         <li><a href="/CampusLife">Campus Life</a> 
+          <ul> 
+           <li><a class="current" href="/CampusLife/housing">Housing</a></li> 
+           <li><a href="/CampusLife/gettingInvolved">Getting Involved</a></li> 
+           <li><a href="/CampusLife/artsEvents">Arts &amp; Events</a></li> 
+           <li><a href="/CampusLife/athleticsRecreation">Athletics &amp; Recreation</a></li> 
+           <li><a href="/CampusLife/safetyWellness">Safety &amp; Wellness</a></li> 
+          </ul> </li> 
+         <li><a href="/Admissions">Admission</a> 
+          <ul> 
+           <li><a href="/Admissions/datesDeadlines">Dates &amp; Deadlines</a></li> 
+           <li><a href="/Admissions/pathsAdmissions">Freshman/Transfer Admission</a></li> 
+           <li><a href="/Admissions/meetCounselor">Meet Your Counselor</a></li> 
+          </ul> </li> 
+         <li><a href="/PayingForCollege">Paying for College</a> 
+          <ul> 
+           <li><a href="/PayingForCollege/financialAidScholarships">Financial Aid &amp; Scholarships</a></li> 
+           <li><a href="/PayingForCollege/costEstimator">Cost Estimator</a></li> 
+          </ul> </li> 
+         <li><a href="/VisitUCR">Visit UCR</a> 
+          <ul> 
+           <li><a href="/VisitUCR/tourOptions">Tour Options</a> 
+            <ul> 
+             <li><a href="/VisitUCR/virtualTours">Virtual Tours</a></li> 
+             <li><a href="/VisitUCR/selfGuided">Self-Guided</a></li> 
+            </ul> </li> 
+           <li><a href="/VisitUCR/planVisit">Plan Your Visit</a> 
+            <ul> 
+             <li><a href="/VisitUCR/hotelsDining">Hotels &amp; Dining</a></li> 
+             <li><a href="/VisitUCR/attractions">Attractions</a></li> 
+             <li><a href="/VisitUCR/gettingHere">Getting Here</a></li> 
+            </ul> </li> 
+           <li><a href="/VisitUCR/faq">Tour FAQs</a></li> 
+           <li><a href="/VisitUCR/aboutUs">About Us</a></li> 
+           <li><a href="/VisitUCR/campusTourGuide">Be a Campus Tour Guide</a></li> 
+          </ul> </li> 
+         <li><a href="/Apply">Apply Now</a></li> 
+         <li><a href="/Home/FAQ">FAQs</a></li> 
+         <li><a href="/Admissions/meetCounselor">Contact Us</a></li> 
+        </ul> 
+        <ul class="audienceNav" style="margin-top: 20px;"> 
+         <li>MyUCR Account</li> 
+         <li><a href="http://vcsaweb.ucr.edu/MyUCR/CreateAccount.aspx">Open a New Account</a></li> 
+         <li><a href="http://vcsaweb.ucr.edu/MyUCR/">Log in Now</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <!-- Begin Google Translate --> 
+      <div id="translateContainer"> 
+       <h3> Translate&nbsp; <img alt="Translate" src="/Images/icons/flagChinese_18.png" /> <img alt="Translate" src="/Images/icons/flagKorea_18.png" /> <img alt="Translate" src="/Images/icons/flagHindu_18.png" /> <img alt="Translate" src="/Images/icons/flagArab_18.png" /> </h3> 
+       <div id="google_translate_element"></div> 
+       <script type="text/javascript">
+                            function googleTranslateElementInit() {
+                                new google.translate.TranslateElement({ pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE }, 'google_translate_element');
+                            }
+                        </script> 
+       <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> 
+      </div> 
+      <!-- End Google Translate --> 
+     </div> 
+     <div> 
+      <a style="margin-top: 35px; display: block; color: #362F2D; font-weight: 700; text-align: center;
+                        width: 200px;" href="http://itunes.apple.com/nz/app/myucr-mobile/id417130774?mt=8&amp;ls=1"> <img alt="Get the MyUCR Mobile Application" src="/Images/myUCRMobilIcon.png" style="margin-bottom: 10px;" /><br /> Download MyUCR Mobile to your iPhone or iPod Touch!</a> 
+     </div> 
+     <script type="text/javascript" src="https://www.intelliworkschat.com/a/Hello?ti=0ef230ec-7b18-4dc1-9d65-e9fb13ca9e9c;cid=d6a605ab-c97a-4a87-a2c7-e3f8a0be192f;v=2"></script> 
+    </div> 
+    <div class="grid_12 omega"> 
+     <div class="innerPagebxsliderWrapper clearfix"> 
+      <div class="bxsliderMarkerLeft checkbox"> 
+       <p class="verd"> Admissions<br /> <span>Check Box</span> </p> 
+      </div> 
+      <div class="demo-wrap" id="innerPagebxslider"> 
+       <ul id="slider1" class="multiple"> 
+        <li><a href="http://instagram.com/lifeatucr"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/instagram.png" width="63" height="52" /> <strong>Follow us on Instagram</strong> <span>You'll love what you see.</span></a> </li> 
+        <li><a href="http://highlanderday.ucr.edu/"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/dec_feb_highlander.png" width="63" height="52" /> <strong>Highlander Day</strong> <span>Interested in UCR? Come visit on April 12.</span></a> </li> 
+        <li><a href="http://student08.ucr.edu/em/visitUCR/default.aspx"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/S-O_2TAT.png" width="63" height="52" /> <strong>Take a Tour</strong><span> Visit UCR, see housing and explore the campus.</span> </a></li> 
+        <li><a href="http://vcsaweb.ucr.edu/MyUCR/"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/N30_MyUCR.png" width="63" height="52" /> <strong>Create a MyUCR Account</strong> <span>Sign up and track your admission status.</span> </a></li> 
+        <li><a href="/WhyUCR"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/N30_8FR.png" width="63" height="52" /> <strong>Why UC Riverside?</strong> <span>See 50 good reasons to choose us.</span> </a> </li> 
+        <li><a href="http://www.facebook.com/ucradmissions"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/N30_4F.png" width="63" height="52" /> <strong>Like us on Facebook</strong> <span>Stay connected to UCR.</span></a></li> 
+        <li><a href="http://twitter.com/UCRiverside"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/N30_5T.png" width="63" height="52" /> <strong>Follow us on Twitter</strong> <span>Don’t miss a single update.</span></a></li> 
+        <li><a href="http://lifeatucr.tumblr.com/"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/N30_6T.png" width="63" height="52" /> <strong>Follow us on Tumblr</strong> <span>See what’s happening at UCR right now.</span></a> </li> 
+       </ul> 
+      </div> 
+      <div class="bxsliderMarkerRight">
+        &nbsp; 
+      </div> 
+     </div> 
+     <h2 class="intro"> Living Here</h2> 
+     <h3 class="verd intro"> Our residence halls, campus apartments and family homes are <br /> comfortable, safe and full of amenities. Life is good here.</h3> 
+     <div class="ContentFlow" id="myFantasicFlow"> 
+      <div class="loadIndicator"> 
+       <div class="indicator"> 
+       </div> 
+      </div> 
+      <div class="flow"> 
+       <div class="item"> 
+        <img alt="Mom and baby playing with ball" class="content" src="/Images/housingContentFlow/FamilyHousing_1.jpg" /> 
+        <div class="caption"> 
+         <h3> Family Student Housing</h3> 
+         <p> Canyon Crest Family Student Housing is economically priced with families in mind. Choose from unfurnished two- and three-bedroom duplex homes. Enjoy tree-lined streets, park and playground areas and family-oriented activities. <a href="http://housing.ucr.edu/housing-options/family-student-housing.aspx"> Learn more about our family student housing.</a> </p> 
+        </div> 
+       </div> 
+       <div class="item"> 
+        <img alt="Mundo theme hall mural" class="content" src="/Images/housingContentFlow/ThemeHousing.jpg" /> 
+        <div class="caption"> 
+         <h3> Special-Interest Housing </h3> 
+         <p> Opt to live in theme halls or living-learning communities with students who share your cultural and academic passions. Experience college life with new friends who share your vision, while networking with faculty and campus mentors. <a href="http://housing.ucr.edu/liveUCR/special-interest-housing.aspx">Discover our special-interest communities.</a></p> 
+        </div> 
+       </div> 
+       <div class="item"> 
+        <img alt="Campus apartments at sunset" class="content" src="/Images/housingContentFlow/CampusApts_3.jpg" /> 
+        <div class="caption"> 
+         <h3> Campus Apartments</h3> 
+         <p> UCR's campus apartments include Bannockburn Village &amp; Plaza, Falkirk, Stonehaven, Glen Mor and Oban. Communities feature furnished and unfurnished one-bedroom, two-bedroom and loft suites, plus swimming pools, barbecue areas, computer labs and activities. <a href="http://housing.ucr.edu/housing-options/campus-apartments/default.aspx">Learn more about our campus apartment communities</a> </p> 
+        </div> 
+       </div> 
+       <div class="item"> 
+        <img alt="Two female students sit outside a residence hall" class="content" src="/Images/housingContentFlow/residenceHalls_1.jpg" /> 
+        <div class="caption"> 
+         <h3> Residence Halls</h3> 
+         <p> UCR has three residence hall communities: Aberdeen-Inverness, Lothian and Pentland Hills. Communities feature double and triple furnished rooms, TV lounges, music rooms, study areas, computer labs and more. <a href="http://housing.ucr.edu/housing-options/residence-halls/default.aspx"> Learn more about our residence hall communities.</a> </p> 
+        </div> 
+       </div> 
+       <div class="item"> 
+        <img alt="Students eating at The Barn" class="content" src="/Images/housingContentFlow/Dining_3.jpg" /> 
+        <div class="caption"> 
+         <h3> Dining Services </h3> 
+         <p> Enjoy breakfast, lunch, dinner, and late-night dining at our wide variety of campus and residential restaurants. Choose from three different meal plans and healthy and organic options. From our Coffee Bean &amp; Tea Leaf to our <a href="http://www.facebook.com/UCRFoodTrucks">Culinary Chameleon</a> food truck – you eat well at UCR. Visit <a href="http://dining.ucr.edu/Pages/default.aspx"> Dining Services.</a></p> 
+        </div> 
+       </div> 
+       <div class="item"> 
+        <img alt="A secure residence hall" class="content" src="/Images/housingContentFlow/CampusSafety.jpg" /> 
+        <div class="caption"> 
+         <h3> Campus Safety </h3> 
+         <p>Video surveillance, restricted card access, gated parking, and 24/7 on-site assistance are just some of the advantages of living in an on-campus UCR community. UCR also works closely with the <a href="http://police.ucr.edu/" target="_blank">UC Police Department</a>, located adjacent to campus, and Emergency Medical Services, who provide excellent emergency response and community outreach. Learn more about <a href="http://housing.ucr.edu/liveUCR/campus-safety.aspx" target="_blank">campus safety</a>.</p> 
+        </div> 
+       </div> 
+       <!-- Add as many items as you like. --> 
+      </div> 
+      <!-- Need this element to show the individual item captions listed above --> 
+      <div class="globalCaption"> 
+       <h3> This is my Global Caption!</h3> 
+      </div> 
+      <!--    <div class="scrollbar">
+        <div class="slider">
+            <div class="position">
+            </div>
+        </div>
+    </div>--> 
+     </div> 
+     <div class="genericBody version2 verd clearfix" style="margin-top: 30px;"> 
+      <div class="grid_6 alpha"> 
+       <div> 
+        <h4> Succeed</h4> 
+        <p> Campus residents have access to unique academic resource centers, study groups and faculty mentorship. <a href="http://housing.ucr.edu/liveUCR/academic-success.aspx"> Learn more about our academic success programs.</a></p> 
+       </div> 
+       <div> 
+        <h4> Socialize</h4> 
+        <p> From pool parties and barbecues to hall-to-hall competitions and dances, living on campus is fun! <a href="http://housing.ucr.edu/residential-life/programs-activities.aspx"> See our activity lineup.</a></p> 
+       </div> 
+      </div> 
+      <div class="grid_6 omega"> 
+       <div> 
+        <h4> Save Up</h4> 
+        <p> You'll receive more housing aid (as part of your financial aid package) if you live on campus. <a href="http://financialaid.ucr.edu">Learn more about financial aid.</a></p> 
+       </div> 
+       <div> 
+        <h4> Sleep In!</h4> 
+        <p> You can when you live on campus! Walk to coffee, movies, the gym and your classes. <a href="http://housing.ucr.edu/liveUCR/default.aspx">Living on campus is a once-in-a-lifetime experience.</a></p> 
+       </div> 
+      </div> 
+      <div class="clearfix" style="margin-top: 15px;"> 
+       <div class="grid_6 alpha"> 
+        <a class="rightArrowCTA" href="http://housing.ucr.edu/get-housing/tour-overnight.aspx
+" style="margin: 0 auto;">Take a Housing Tour</a> 
+       </div> 
+       <div class="grid_6 omega"> 
+        <a class="rightArrowCTA" href="http://housing.ucr.edu/get-housing/applications-contracts.aspx" style="margin: 0 auto;">Apply for Housing</a> 
+       </div> 
+      </div> 
+      <div class="grid_12 alpha omega" style="height: 50px;">
+       &nbsp;
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="footerwrapper"> 
+    <div class="container_16"> 
+     <div class="prefooter alt-1-1-3 clearfix"> 
+      <div class="grid_5"> 
+       <h3> General Campus Information</h3> 
+       <address> <span class="vcard"><strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"><span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code"> 92521</span><br /> </span>Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+       <ul class="footer_links"> 
+        <li><a href="http://library.ucr.edu/">UCR Libraries</a></li> 
+        <li><a href="http://campusstatus.ucr.edu/">Campus Status</a></li> 
+        <li><a href="http://campusstore.ucr.edu/">Campus Store</a></li> 
+        <li><a href="http://www.ucr.edu/employment.html">Career Opportunities</a></li> 
+        <li><a href="http://diversity.ucr.edu/">Diversity</a></li> 
+        <li><a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></li> 
+        <li><a href="http://admissions.ucr.edu/VisitUCR">Visit UCR</a></li> 
+       </ul> 
+      </div> 
+      <div class="grid_5"> 
+       <h3> Department Information</h3> 
+       <address> <strong>UCR Admissions</strong><br /> <a href="http://campusmap.ucr.edu/campusMap.php?loc=SSB" title="Campus Map">3106 Student Services Building</a><br /> <br /> Tel: (951) 827-3411<br /> Fax: (951) 827-6344<br /> E-mail: <a href="mailto:admissions@ucr.edu?subject=Website%20Inquiry">admissions@ucr.edu</a></address> 
+       <ul class="footer_links"> 
+        <li><a id="footer_link_facebook" class="footer_link_icon" href="https://www.facebook.com/ucradmissions?bcode=q099X" title="external site: Facebook">Visit UCR Admissions Facebook page</a></li> 
+        <li><a id="footer_link_twitter" class="footer_link_icon" href="http://twitter.com/ucradmissions" title="external site: Twitter">Follow UCR Admissions on Twitter</a></li> 
+        <li><a id="footer_link_tumblr" class="footer_link_icon" href="http://lifeatucr.tumblr.com"> Read about UCR Student Life on Tumblr</a></li> 
+        <li><a id="footer_link_instagram" class="footer_link_icon" href="http://instagram.com/lifeatucr">Follow UCR Admissions on Instagram</a></li> 
+       </ul> 
+      </div> 
+      <div class="grid_6"> 
+       <h3> Related Links</h3> 
+       <ul class="relatedLinks"> 
+        <li><a href="http://www.universityofcalifornia.edu/admissions/how-to-apply/apply-online/index.html"> Apply to UC Riverside </a></li> 
+        <li><a href="http://vcsaweb.ucr.edu/MyUCR/CreateAccount.aspx">Create a MyUCR Account</a></li> 
+        <li><a href="http://international.ucr.edu">International Admissions</a></li> 
+        <li><a href="http://finaid.ucr.edu/Pages/default.aspx">Financial Aid </a></li> 
+        <li><a href="http://promise.ucr.edu/">Living the Promise </a></li> 
+        <li><a href="http://rside.ucr.edu/">R'Side </a></li> 
+        <li><a href="http://tartansoul.ucr.edu/">Tartan Soul</a></li> 
+        <li><a href="http://gohighlanders.com/splash.aspx?id=splash_226">Go Highlanders</a></li> 
+        <li><a href="http://rdream.ucr.edu">R'Dream</a></li> 
+       </ul> 
+       <p class="footer_info"> <img src="/Images/footer.jpg" alt="" width="120" height="103" /> <strong>UCR Undergraduate Admissions</strong> is committed to providing you with the highest level of service. We serve prospective students, their families, and educators, and enroll a highly diverse and academically accomplished student body. </p> 
+      </div> 
+     </div> 
+     <div id="nav_footer" class="clearfix"> 
+      <ul> 
+       <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+       <li> <a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+       <li> <a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+       <li> <a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+       <li> <a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+       <li> <a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+       <li> <a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+       <li> <a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+      </ul> 
+     </div> 
+     <div id="footer"> 
+      <ul> 
+       <li><a href="/#sliderTriggerAnchor" class="footerFeedbackLink" accesskey="9" title="Send Feedback E-mail"> Feedback</a></li> 
+       <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+       <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions"> Terms and Conditions</a></li> 
+       <li>@ 2014 Regents of the University of California</li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div>   
+  </div>
+ </body>
+</html><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" __expr-val-dir="ltr" dir="ltr">
+ <!-- Mirrored from testbedvcsait.ucr.edu/jobs/Pages/Jobs.aspx by HTTrack Website Copier/3.x [XR&CO'2010], Wed, 20 Mar 2013 13:55:35 GMT -->
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Expires" content="0" />
+  <title>
+	
+	Jobs
+
+</title>
+  <link rel="stylesheet" type="text/css" href="../../_layouts/1033/styles/HtmlEditorCustomStyles5ecb.css?rev=8SKxtNx33FmoDhbbfB27UA%3D%3D" /> 
+  <link rel="stylesheet" type="text/css" href="../../_layouts/1033/styles/HtmlEditorTableFormatsd705.css?rev=guYGdUBUxQit03E2jhSdvA%3D%3D" /> 
+  <link rel="stylesheet" type="text/css" href="../../_layouts/1033/styles/core4913.css?rev=5msmprmeONfN6lJ3wtbAlA%3D%3D" /> 
+  <link href="../../cssapi/c4ee863e-2c76-4806-9962-29c6d10c9ab6.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" type="text/css" href="../../Style%20Library/default.css" media="all" /> 
+  <!--  
+	<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sIFR-screen.css" media="all" /><link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sIFR-print.css" media="print" />
+--> 
+  <link rel="stylesheet" type="text/css" href="../../Style%20Library/default.manzi.css" media="all" />
+  <link rel="stylesheet" type="text/css" media="all" href="../Style%20Library/masthead.css" /> 
+  <!--[if lte IE 6]>
+	<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+	<script defer type="text/javascript" src="http://www.ucr.edu/pngfix.js"></script>
+	<![endif]--> 
+  <!--[if lte IE 7]>
+	<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+	<script type="text/javascript" src="http://www.ucr.edu/fixiequotes.js"></script>
+	<![endif]--> 
+  <script src="../../_layouts/1033/init587d.js?rev=qX%2BG3yl4pldKy9KbPLXf9w%3D%3D"></script> 
+  <script type="text/javascript" language="javascript" src="../../_layouts/1033/corefe2f.js?rev=CNBZRdV1h3pKuA7LsMXf3w%3D%3D" defer=""></script> 
+  <script type="text/javascript" language="javascript" src="../../_layouts/1033/non_ie380c.js?rev=yfNry4hY0Gwa%2FPDNGrqXVg%3D%3D"></script> 
+  <!--<script type="text/javascript" src="http://www.ucr.edu/js/sifr.js">
+	</script>
+	<script type="text/javascript" src="http://www.ucr.edu/js/sifr-config.js">
+	</script>--> 
+  <script type="text/javascript" src="../../jscripts/lazyload.js"></script> 
+  <script type="text/javascript" src="../../jscripts/jquery.ondemand.js">
+	</script> 
+  <!--<script type="text/javascript" src="http://vcsaweb.ucr.edu/SharedContent/jscripts/jquery.jwbox.js"></script>--> 
+  <title>
+
+</title>
+ </head> 
+ <body onload="javascript:_spBodyOnLoadWrapper();"> 
+  <form name="aspnetForm" method="post" action="http://careers.ucr.edu/jobs/Pages/Jobs.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm"> 
+   <input type="hidden" name="__SPSCEditMenu" id="__SPSCEditMenu" value="true" /> 
+   <input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="" /> 
+   <input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="" /> 
+   <input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0" /> 
+   <input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False" /> 
+   <input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="" /> 
+   <input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="" /> 
+   <input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none" /> 
+   <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" /> 
+   <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" /> 
+   <input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x575CE6E7BE2D6751A7E0B1AFA98A83D02042C61229C57276521B789A8975A0BDD5AF4F3EF185749B2C3D2427DD6B467CE9B0F5447191170026D0AC1BB65E2868,20 Mar 2013 13:55:09 -0000" /> 
+   <input type="hidden" name="MSOAuthoringConsole_FormContext" id="MSOAuthoringConsole_FormContext" value="" /> 
+   <input type="hidden" name="MSOAC_EditDuringWorkflow" id="MSOAC_EditDuringWorkflow" value="" /> 
+   <input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse" /> 
+   <input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="" /> 
+   <input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="" /> 
+   <input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="" /> 
+   <input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse" /> 
+   <input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false" /> 
+   <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWAmYPZBYCAgEPZBYEAgEPZBYCAgMPZBYCAgEPZBYCAgEPZBYCAgEPFgIeE1ByZXZpb3VzQ29udHJvbE1vZGULKYgBTWljcm9zb2Z0LlNoYXJlUG9pbnQuV2ViQ29udHJvbHMuU1BDb250cm9sTW9kZSwgTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTIuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwFkAgMPZBYKAgMPZBYEAgMPZBYCAgEPFgIeB1Zpc2libGVoFgJmD2QWBAICD2QWAgIDDxYCHwFoZAIDDw8WAh4JQWNjZXNzS2V5BQEvZGQCCQ9kFgICAg8PFgIfAWcWAh4Fc3R5bGUFDmRpc3BsYXk6YmxvY2s7ZAIFD2QWAgIDD2QWAgIBDw8WAh8BZ2QWBAIBDw8WAh8BaGQWHAIBDw8WAh8BaGRkAgMPFgIfAWhkAgUPDxYCHwFoZGQCBw8WAh8BaGQCCQ8PFgIfAWhkZAILDw8WAh8BaGRkAg0PDxYCHwFoZGQCDw8PFgQeB0VuYWJsZWRoHwFoZGQCEQ8PFgIfAWhkZAITDw8WBB8EaB8BaGRkAhUPDxYCHwFoZGQCFw8WAh8BaGQCGQ8WAh8BaGQCGw8PFgIfAWdkZAIDDw8WAh8BZ2QWBgIBDw8WAh8BZ2RkAgMPDxYGHhhwZXJzaXN0ZWRFcnJvckFjdGlvblRyZWVkHhtwZXJzaXN0ZWRFcnJvckFjdGlvblRyZWVJZHNkHwFnZGQCBQ8PFgIfAWdkZAIND2QWAgIBD2QWAmYPZBYCZg8PZBYEHgdvbmZvY3VzBQlPbkZvY3VzKCkeBm9uYmx1cgUIT25CbHVyKClkAg8PZBYCAgEPZBYCAgEPFgIfAAsrBAFkAhsPZBYCAgEPZBYiAgMPFgIfAAsrBAFkAgUPFgIfAAsrBAFkAgcPFgIfAAsrBAFkAgkPFgIfAAsrBAFkAgsPFgIfAAsrBAFkAg0PFgIfAAsrBAFkAg8PFgIfAAsrBAFkAhEPFgIfAAsrBAFkAhMPFgIfAAsrBAFkAhUPFgIfAAsrBAFkAhcPFgIfAAsrBAFkAhkPFgIfAAsrBAFkAhsPFgIfAAsrBAFkAh0PFgIfAAsrBAFkAh8PFgIfAAsrBAFkAiEPDxYCHgtQYXJhbVZhbHVlczLmBAABAAAA/////wEAAAAAAAAADAIAAABYTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTIuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwUBAAAAPU1pY3Jvc29mdC5TaGFyZVBvaW50LldlYlBhcnRQYWdlcy5QYXJhbWV0ZXJOYW1lVmFsdWVIYXNodGFibGUBAAAABV9jb2xsAxxTeXN0ZW0uQ29sbGVjdGlvbnMuSGFzaHRhYmxlAgAAAAkDAAAABAMAAAAcU3lzdGVtLkNvbGxlY3Rpb25zLkhhc2h0YWJsZQcAAAAKTG9hZEZhY3RvcgdWZXJzaW9uCENvbXBhcmVyEEhhc2hDb2RlUHJvdmlkZXIISGFzaFNpemUES2V5cwZWYWx1ZXMAAAMDAAUFCwgcU3lzdGVtLkNvbGxlY3Rpb25zLklDb21wYXJlciRTeXN0ZW0uQ29sbGVjdGlvbnMuSUhhc2hDb2RlUHJvdmlkZXII7FE4PwYAAAAKCgsAAAAJBAAAAAkFAAAAEAQAAAAEAAAABgYAAAAGV2ViVVJMBgcAAAAGVXNlcklEBggAAAAGTGlzdElEBgkAAAAFVG9kYXkQBQAAAAQAAAAGCgAAABR7c2l0ZWNvbGxlY3Rpb25yb290fQYLAAAAD0N1cnJlbnRVc2VyTmFtZQYMAAAAJnsyNkY2RkQyMS0yRjU5LTQ3RDctOEFDMi0yQ0Q0RTFFNzExMkF9Bg0AAAAUMjAxMy0wMy0yMFQwNjo1NToxMFoLZGQCIw8WAh8ACysEAWRkPSNMace/5v3CU8Cjwkd7DEHBVtg=" /> 
+   <script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script> 
+   <script> var MSOWebPartPageFormName = 'aspnetForm';</script> 
+   <script type="text/javascript">
+//<![CDATA[
+
+                function DoCallBack(filterText)
+                {
+                    WebForm_DoCallback('ctl00$ctl00$PlaceHolderMainBase$PlaceHolderMain$g_c5705ef1_814a_48ca_ae61_557cc4a9b35a',filterText,UpdateFilterCallback,0,CallBackError,true);
+                }
+                function CallBackError(result, clientsideString)
+                {                
+                }
+            function WebForm_OnSubmit(){ window.location = "http://www.ucr.edu/search.php?q=" + document.getElementById("ctl00_ctl00_PlaceHolderSearchArea_UCRGoogleSearchWebPart1_ctl00_tbQuery").value;return false;
+}
+//]]>
+</script> 
+   <input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwKIvsrwDwLqxcaZCALI8pCEBQP9sBi6ICZHv45ovzO0NW36aygA" /> 
+   <div id="author-tools"> 
+   </div> 
+   <div class="console" style="clear: both;"> 
+    <!-- Console --> 
+    <span id="ctl00_ctl00_ctl23_publishingContext1"></span> 
+    <!-- Console --> 
+   </div> 
+   <div class="pagewrapper"> 
+    <ul id="accessibility_links"> 
+     <li class="skip"><a accesskey="2" href="#main" tabindex="1">Skip Navigation</a></li> 
+     <li class="skip"><a accesskey="1" href="http://careers.ucr.edu/" tabindex="2">Home Page</a></li> 
+     <!--li class="skip"><a href="/about/accessibility.asp" accesskey="0">Accessibility Statement</a></li--> 
+    </ul> 
+    <hr /> 
+    <div id="brandingbar"> 
+     <img id="ctl00_ctl00_Logo" class="overlay" src="../PublishingImages/mastheadoverlay.png" border="0" /> 
+     <h2 style="left: 0px; top: 0px"> <a title="UCR Home Page" href="http://www.ucr.edu/"> <img width="150" height="53" title="UCR Home page" alt="UCR" src="../../PublishingImages/ucr_logo.gif" /></a> </h2> 
+    </div>
+    <!-- end branding bar --> 
+   </div>
+   <!-- end page wrapper --> 
+   <div id="masthead" class="mastheadbg"> 
+    <h1><a href="../../Pages/default.aspx"><span class="printonly">UCR Career Center</span></a></h1> 
+   </div> 
+   <!-- Campus Status / The content of http://ucr.edu/status.txt will be displayed here --> 
+   <div id="campus_status"> 
+    <table toplevel="" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+     <tbody>
+      <tr> 
+       <td valign="top">
+        <div webpartid="00000000-0000-0000-0000-000000000000" haspers="true" id="WebPartWPQ1" width="100%" class="ms-WPBody" onlyformepart="true" allowminimize="false" allowremove="false" allowdelete="false" style="">
+         <!-- Status: Normal --> 
+        </div></td> 
+      </tr> 
+     </tbody>
+    </table> 
+   </div> 
+   <!-- End Campus Status --> 
+   <hr /> 
+   <div class="breadcrumbs"> 
+    <p class="bcinnerwrapper"> <a title="UCR Home" href="http://www.ucr.edu/">UCR Home</a> &gt; <a title="UCR Card" href="http://vcsa.ucr.edu/">VCSA</a> &gt; <span id="ctl00_ctl00_PlaceHolderTitleBreadcrumb_siteMapPath"><a href="#ctl00_ctl00_PlaceHolderTitleBreadcrumb_siteMapPath_SkipLink"></a><span><a class="ms-sitemapdirectional" href="../../Pages/default.aspx">Career Center</a></span><span> &gt; </span><span class="breadcrumbCurrent">Student Job &amp; Intern Listings</span><a id="ctl00_ctl00_PlaceHolderTitleBreadcrumb_siteMapPath_SkipLink"></a></span> </p> 
+   </div>
+   <!-- end breadcrumbs --> 
+   <div class="pagewrapper"> 
+    <div id="search"> 
+     <div id="nav_utility"> 
+      <ul> 
+       <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+       <li><a href="http://www.campusmap.ucr.edu/">Campus Map</a></li> 
+       <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+      </ul> 
+     </div>
+     <!--end nav utility --> 
+     <div class="valign" id="height21"> 
+      <table id="ctl00_ctl00_PlaceHolderSearchArea_UCRGoogleSearchWebPart1" __markuptype="vsattributemarkup" __webpartid="{8a0a70de-34f5-41ec-9e54-b6684c6a4f73}" webpart="true" cellpadding="0" cellspacing="0" border="0" width="100%">
+       <tbody>
+        <tr>
+         <td> <script type="text/javascript" language="javascript">
+
+/*function test()
+{
+    var QueryTB = document.getElementById("ctl00_ctl00_PlaceHolderSearchArea_UCRGoogleSearchWebPart1_ctl00_tbQuery");
+    QueryTB.className = "watermark";
+} */
+
+
+
+function OnFocus()
+{ 
+   
+      document.getElementById("ctl00_ctl00_PlaceHolderSearchArea_UCRGoogleSearchWebPart1_ctl00_tbQuery").className = "normal";
+      //document.getElementById("ctl00_ctl00_PlaceHolderSearchArea_UCRGoogleSearchWebPart1_ctl00_tbQuery").value = "";
+   
+}
+
+function OnBlur()
+{
+   var textValue = document.getElementById("ctl00_ctl00_PlaceHolderSearchArea_UCRGoogleSearchWebPart1_ctl00_tbQuery").value;
+    //alert("Hello World!");
+   if (textValue.length == 0)
+   {
+   
+
+      document.getElementById("ctl00_ctl00_PlaceHolderSearchArea_UCRGoogleSearchWebPart1_ctl00_tbQuery").className = "watermark";
+      
+   }
+   else
+      document.getElementById("ctl00_ctl00_PlaceHolderSearchArea_UCRGoogleSearchWebPart1_ctl00_tbQuery").className = "normal";
+}
+
+</script> <style type="text/css">
+
+.watermark
+{
+   background-image: url('../../coop/intl/en/images/google_custom_search_watermark.gif');
+   background-repeat: no-repeat;
+   /*padding-left: 20px;
+   vertical-align: middle;
+   color: DarkGray;*/
+}
+
+.normal
+{
+}
+
+</style> <input name="ctl00$ctl00$PlaceHolderSearchArea$UCRGoogleSearchWebPart1$ctl00$tbQuery" type="text" id="ctl00_ctl00_PlaceHolderSearchArea_UCRGoogleSearchWebPart1_ctl00_tbQuery" class="watermark" onfocus="OnFocus()" onblur="OnBlur()" /> <input type="submit" name="ctl00$ctl00$PlaceHolderSearchArea$UCRGoogleSearchWebPart1$ctl00$Go" value="Go" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$PlaceHolderSearchArea$UCRGoogleSearchWebPart1$ctl00$Go&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_ctl00_PlaceHolderSearchArea_UCRGoogleSearchWebPart1_ctl00_Go" /> </td>
+        </tr>
+       </tbody>
+      </table> 
+     </div> 
+    </div>
+    <!--end search --> 
+    <hr /> 
+    <!-- Start Content (Navigation and Content columns) --> 
+    <div id="content"> 
+     <h2 id="pagetitleman"> Jobs&nbsp; </h2> 
+     <!-- Start Sidebar --> 
+     <div id="sidebar"> 
+      <div class="nav"> 
+       <ul> 
+        <li> <a href="../../Pages/default.aspx">Home</a> </li> 
+       </ul> 
+       <ul class="themenav"> 
+        <li class="nav_inline2_last"> <h3>What's New</h3> 
+         <ul> 
+          <li>| <a href="http://careers.ucr.edu/jobs/internships/Pages/Winternships.aspx" title="Winternships">Winternships</a> </li> 
+          <li>| <a href="http://youtu.be/N-54tbGkpcI" title="Peer Insider Show">Peer Insider Show</a> </li> 
+          <li>| <a href="http://careers.ucr.edu/employerTools/Pages/SOCCEP.aspx" title="Student On-Campus Employment Program">Student On-Campus Employment Program</a> </li> 
+         </ul> </li> 
+       </ul> 
+       <ul> 
+        <li><a href="../../employerTools/Pages/EmployerTools.aspx">Employer Tools</a> 
+         <ul> 
+         </ul></li> 
+        <li><span class="currentpage">Student Job &amp; Intern Listings</span> 
+         <ul> 
+          <li><a href="../joblistings/Pages/JobListings.aspx">Other Job Listings</a></li> 
+          <li><a href="../internships/Pages/Internships.aspx">Internships</a> 
+           <ul> 
+           </ul></li> 
+          <li><a href="../oci/Pages/OnCampusInterviews.aspx">On-Campus Interviews</a> 
+           <ul> 
+           </ul></li> 
+          <li><a href="../workstudyprogram/Pages/Work-StudyProgram.aspx">Work-Study Program</a></li> 
+          <li><a href="../workabroad/Pages/WorkAbroad.aspx">Work Abroad</a></li> 
+          <li><a href="../undergraduates/Pages/Undergraduates.aspx">Undergraduates</a></li> 
+          <li><a href="../graduatestudents/Pages/GraduateStudents.aspx">Graduate Students</a></li> 
+          <li><a href="../fraudandprivacyconcerns/Pages/FraudandPrivacyConcerns.aspx">Fraud and Privacy Concerns</a></li> 
+          <li><a href="CommunityService.aspx">Community Service</a></li> 
+         </ul></li> 
+        <li><a href="../../essentialJobSearch/Pages/EssentialJobSearchSkills.aspx">Job Search Tools</a> 
+         <ul> 
+         </ul></li> 
+        <li><a href="../../careerFairsWorkshops/Pages/CareerFairsWorkshops.aspx">Career Fairs / Workshops</a> 
+         <ul> 
+         </ul></li> 
+        <li><a href="../../careerPlanningCounseling/Pages/CareerPlanningCounseling.aspx">Career Planning / Counseling</a> 
+         <ul> 
+         </ul></li> 
+        <li><a href="../../gradSchoolPortal/Pages/GraduateSchoolandProfessionalPrograms.aspx">Graduate and Professional School Programs</a> 
+         <ul> 
+         </ul></li> 
+        <li><a href="../../onlineServices/Pages/Onlineservices.aspx">Online Services for Students</a> 
+         <ul> 
+         </ul></li> 
+        <li><a href="../../audience/Pages/parents.aspx">Parents</a></li> 
+        <li><a href="../../audience/Pages/Alumni.aspx">Alumni</a></li> 
+        <li><a href="../../aboutUs/Pages/AboutUs.aspx">About Us</a> 
+         <ul> 
+         </ul></li> 
+        <li><a href="http://heathersemployerhookup.com/">Heather's Employer Hookup Blog</a></li> 
+       </ul> 
+       <!-- Current Navigation --> 
+      </div>
+      <!-- End Nav --> 
+      <div id="leftcolumncallouts"> 
+      </div>
+      <!-- end leftcolumncallouts --> 
+     </div>
+     <!-- End Sidebar --> 
+     <hr /> 
+     <!-- Start Content Area --> 
+     <div id="main"> 
+      <br /> 
+      <div id="ctl00_ctl00_PlaceHolderMainBase_PlaceHolderMain_ctl00__ControlWrapper_RichImageField" style="display:inline">
+       <span dir=""><img alt="" border="0" src="../../SiteCollectionImages/Jobs_landing.gif" style="border:0px solid" /></span>&nbsp;
+      </div> 
+      <div class="column23"> 
+       <div id="ctl00_ctl00_PlaceHolderMainBase_PlaceHolderMain_ctl01__ControlWrapper_RichHtmlField" style="display:inline">
+        <h3>Where To Look For Jobs &amp; Internships</h3> 
+        <p>This&nbsp;section will provide you with essential information on where to locate job listings. You will find information regarding SCOTjobs, job posting websites, internship listings, </p> 
+        <div class="floatspecial"> 
+         <h3 class="callout02-blue-img"><a title="" href="https://auth.ucr.edu/cas/login?service=https://ucr-csm.symplicity.com/sso/students/login&amp;"><img style="border-bottom:0px solid;border-left:0px solid;border-top:0px solid;border-right:0px solid" border="0" alt="Contact Us With Your Needs" src="../../SiteCollectionImages/CallToActionButtons/calltoactionbuttonJobLanding.jpg" /></a></h3>
+        </div> 
+        <p>Federal Work Study positions, on-campus interviewing program, and other job search tools.</p> 
+        <h3 class="openuptext-bottom"><span style="font-family:arial">What is SCOTjobs?</span></h3> 
+        <p><span style="font-family:arial;color:black">SCOTjobs is where you start your job search.<span>&nbsp; </span><a title="" href="https://ucr-csm.symplicity.com/sso/students/">SCOTjobs </a>is a massive, invaluable online jobs listing database found in <a title="" href="https://ucr-csm.symplicity.com/sso/students/">SCOTLink.</a><span>&nbsp;</span>It is a resource EXCLUSIVELY for UC Students and Alumni. You can search for full-time, part-time, internship and summer jobs at the Career Center, from your home or from any place that has an Internet connection. Additionally you have access to Nacelink,&nbsp;a nationwide job database&nbsp;with&nbsp;more than&nbsp;25,000 job postings each year. (Please note that Alumni are charged a small fee to continue using SCOTLink services.)</span></p> 
+        <p><span style="font-family:arial;color:black">You can login to SCOTjobs by clicking on the student login under the <b>SCOTLink</b> logo available on any page in the website. <a title="" href="../../FlashVideos/scotlink/scotlink%20job%20search.swf"><span style="font-family:arial;color:black">Watch video on how to use SCOTjobs.</span></a><br /><br /></span><span style="font-family:arial;color:black">In addition to job listings information you are going to want to take advantage of services in our other sections to get your winning job: <a title="" href="../../careerFairsWorkshops/Pages/CareerFairsWorkshops.aspx">Career Fairs / Workshops</a>, <a title="" href="../../essentialJobSearch/Pages/EssentialJobSearchSkills.aspx">Essential Job Search Skills</a>. Get to know your Career Center. A little time will reward your effort with years of satisfaction on the career front.</span>&nbsp;</p>
+       </div> 
+       <br /> 
+       <div class="accordion themeroller collapsed jQueryEdit"> 
+        <div class="ui-accordion-group">
+         <!-- 1 --> 
+         <h3 class="ui-accordion-header"><a href="#"> I want to go straight to SCOTjobs. What is SCOTjobs?&nbsp;</a></h3> 
+         <div class="ui-accordion-content"> 
+          <div id="ctl00_ctl00_PlaceHolderMainBase_PlaceHolderMain_ctl03__ControlWrapper_RichHtmlField" style="display:inline">
+           <p><a style="zoom:1" title="" href="https://ucr-csm.symplicity.com/sso/students/">SCOTjobs</a> is a massive, invaluable, online jobs listing database found in <a style="zoom:1" title="" href="https://ucr-csm.symplicity.com/sso/students/">SCOTLink</a>. It’s where you will start your job search. <a style="zoom:1" title="" href="https://ucr-csm.symplicity.com/sso/students/">SCOTjobs</a> is a resource EXCLUSIVELY for UC students and alumni. You can search for full-time, part-time, internship and summer jobs at the Career Center, from your home or from any place that has an Internet connection.<a title="" href="http://www.nacelink.com/" target="_blank">NACElink </a>is also integrated, providing students with&nbsp;more than&nbsp;25,000 job postings each year. (Please note that alumni are charged a small fee to continue using SCOTLink services.)</p>
+          </div> 
+         </div> 
+        </div> 
+        <div class="ui-accordion-group">
+         <!-- 2 --> 
+         <h3 class="ui-accordion-header"><a href="#"> How do I use SCOTjobs?&nbsp;</a></h3> 
+         <div class="ui-accordion-content"> 
+          <div id="ctl00_ctl00_PlaceHolderMainBase_PlaceHolderMain_ctl05__ControlWrapper_RichHtmlField" style="display:inline">
+           <p>Simply log in to <a title="" href="https://ucr-csm.symplicity.com/sso/students/">SCOTLink</a> or click on one of the other resources to start searching for your next job or internship.</p> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="ui-accordion-group">
+         <!-- 3 --> 
+         <h3 class="ui-accordion-header"><a href="#"> How do I get the job I really want?&nbsp;</a></h3> 
+         <div class="ui-accordion-content"> 
+          <div id="ctl00_ctl00_PlaceHolderMainBase_PlaceHolderMain_ctl07__ControlWrapper_RichHtmlField" style="display:inline">
+           <p>Getting the job is all about fit. Finding the place where your unique talents and education and drive all combine for the perfect fit. That takes work, time and systematic effort. Self-knowledge is critically important. What are your strengths? What are your limitations? What do you really like doing? <a title="" href="../../careerPlanningCounseling/assessments/Pages/Assessment.aspx">Exploring yourself</a> can be the first step to finding the job you want.</p> 
+           <p>One final question. Are you persistent? It’s rare for people to get immediate results and being turned down is always part of finding a job. Keep trying and you will reach your goals.</p> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="ui-accordion-group">
+         <!-- 4 --> 
+         <h3 class="ui-accordion-header"><a href="#"> Discover goals and resources&nbsp;</a></h3> 
+         <div class="ui-accordion-content"> 
+          <div id="ctl00_ctl00_PlaceHolderMainBase_PlaceHolderMain_ctl09__ControlWrapper_RichHtmlField" style="display:inline">
+           <p>Familiarize yourself with the Career Center. Explore all of your options in various career paths. Check out all you can do online. Guess what? You’ve only seen the tip of the iceberg when it come to the tools and services available for UCR students. Career fairs, workshops, career evaluation guides, counseling, resume training, interview practice... check it out.</p> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="ui-accordion-group">
+         <!-- 5 --> 
+         <h3 class="ui-accordion-header"><a href="#"> What do I want to do?&nbsp;</a></h3> 
+         <div class="ui-accordion-content"> 
+          <div id="ctl00_ctl00_PlaceHolderMainBase_PlaceHolderMain_ctl11__ControlWrapper_RichHtmlField" style="display:inline">
+           <p>Before launching your search, ask yourself, &quot;What do I want to do?&quot; Whether you have an answer to this question or not, stop by during <a title="Make an Appointment" href="../../aboutUs/makeanappointment/Pages/MakeanAppointment.aspx">Drop-in Hours</a> and talk to a career counselor. We’ve got lots of ways to help you create a plan of action that will organize your job search.</p> 
+           <p>This section of the UCR Career Center Website is designed to help you plan and organize a successful job search.</p> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="ui-accordion-group">
+         <!-- 6 --> 
+         <h3 class="ui-accordion-header"><a href="#"> Take an inventory of yourself&nbsp;</a></h3> 
+         <div class="ui-accordion-content"> 
+          <div id="ctl00_ctl00_PlaceHolderMainBase_PlaceHolderMain_ctl13__ControlWrapper_RichHtmlField" style="display:inline">
+           <p>How’s that resume? Was it copied from your best friend’s or downloaded from resumes-r-us.com? We can help with that. How about your interview skills? Have you been taking tips from your roommate whose last job was in middle school? Should you be hours early or fashionably late? Dark suit or you favorite jeans and flip-flops? We can help you steer the right path between too much confidence and too little, between too formal and too relaxed — what we will help you do, really, is to be yourself. Show your genuine skills, ease and confidence. You are the answer to their employee search</p> 
+           <p>Use this Website to address your growth edges and take your game to the next level. Don’t wait until the last minute. There are things you can begin doing as early as your freshman year to create an advantage when you finally start looking for a career position.</p>
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div id="ctl00_ctl00_PlaceHolderMainBase_PlaceHolderMain_RichHtmlField1__ControlWrapper_RichHtmlField" style="display:inline"></div> 
+      </div> 
+      <div class="column3R"> 
+       <!--<div class="scotlinkSocialIcons">
+<img src="/PublishingImages/ScotlinkSocialNetWidget/scotlinkLogo.gif" width="220" height="76" alt="ScotLink" />
+<a href="#" target="_blank"><img src="/PublishingImages/ScotlinkSocialNetWidget/studentLoginBtn.gif" width="97" height="20" alt="Student Login" /></a>
+<a href="#" target="_blank"><img src="/PublishingImages/ScotlinkSocialNetWidget/employerLoginBtn.gif" width="98" height="20" alt="Employer Login" /></a>
+
+    <ul class="socialNetworkingLinks">
+	    <li><a class="facebookIcon"href="#" target="_blank">Facebook</a></li>
+		<li><a class="twitterIcon" href="#" target="_blank">Twitter</a></li>
+		<li><a class="rssIcon" href="#" target="_blank">RSS</a></li>   
+    </ul>
+</div>--> 
+       <br /> 
+       <div class="scotlinkSocialIconsFlush"> 
+        <img src="../../PublishingImages/ScotlinkSocialNetWidget/scotlinkLogo.gif" alt="ScotLink" class="scotLinkLogo" /> 
+        <a href="https://ucr-csm.symplicity.com/employers/" title="Employer Login"> <img width="76" height="22" src="../../PublishingImages/ScotlinkSocialNetWidget/employerLoginBtn.png" alt="Employer Login" /></a> 
+        <a href="https://ucr-csm.symplicity.com/sso/students/" title="Student Login"> <img width="70" height="22" src="../../PublishingImages/ScotlinkSocialNetWidget/studentLoginBtn.png" alt="Student Login" /></a> 
+        <a href="https://ucr-csm.symplicity.com/students/" title="Alumni Login"> <img width="68" height="22" src="../../PublishingImages/ScotlinkSocialNetWidget/alumniLoginBtn.png" alt="Alumni Login" /></a> 
+        <ul class="socialNetworkingLinks" style="margin-left: 4px; overflow: hidden;"> 
+         <li><a target="_blank" href="http://www.facebook.com/pages/Riverside-CA/UC-Riverside-Career-Center/109114256884?ref=ts" title="Facebook" class="facebookIcon">&nbsp;</a></li> 
+         <li><a target="_blank" href="http://www.linkedin.com/groups?gid=88920&amp;trk" title="LinkedIn" class="linkedinIcon">&nbsp;</a></li> 
+         <li><a target="_blank" href="http://twitter.com/ucrcareercenter" title="Twitter" class="twitterIcon">&nbsp;</a></li> 
+         <li><a target="_blank" href="http://www.youtube.com/user/UCRCareerCenter" title="YouTube" class="youtubeIcon">&nbsp;</a></li> 
+         <li><a href="../../onlineServices/Pages/rss.aspx" title="RSS" class="rssIcon">&nbsp;</a></li> 
+         <li><a target="_blank" href="http://www.pinterest.com/ucrcareercenter/" title="Pinterest" style="padding-left: 0;"><img alt="Pinterest" src="../../SiteCollectionImages/Social%20Media/pinterest_icon.png" /></a></li> 
+         <li style="margin: 6px 0 0 6px;"><a target="_blank" href="http://instagram.com/ucrcareercenter/" title="Instagram" style="padding-left: 0;"><img alt="Instagram" src="../../SiteCollectionImages/Social%20Media/instagram_icon.png" /></a></li> 
+        </ul> 
+       </div> 
+       <div id="ctl00_ctl00_PlaceHolderMainBase_PlaceHolderMain_ctl14__ControlWrapper_RichHtmlField" style="display:inline">
+        <ul class="big_links fullWidth"> 
+         <li><a title="" href="../../FlashVideos/scotlink/scotlink%20job%20search.swf" target="_blank"><img style="border-bottom:1px solid;border-left:1px solid;width:133px;height:49px;border-top:1px solid;border-right:1px solid" border="1" alt="Job Listings" src="../../SiteCollectionImages/look_for_a_job.jpg" /><br /><strong>How Do I Use SCOTjobs?</strong>View short video on how to use SCOTjobs!</a></li> 
+         <li><a title="" href="../joblistings/Pages/joblistings.aspx"><img alt="Job Listings" src="../../SiteCollectionImages/joblisting.gif" /><br /><strong>Additional&nbsp;Job Sites</strong>Job listings in different industries!</a></li> 
+         <li><a title="" href="../workstudyprogram/Pages/Work-StudyProgram.aspx"><img border="0" alt="Works Study Program" src="../../SiteCollectionImages/WorkStudyProgram.gif" /><br /><strong>Work-Study Program</strong>Gain valuable experience and<br />pay for school as you work.</a></li> 
+         <li><a title="" href="../../essentialJobSearch/lookforjob/Pages/HowtoLookforaJob.aspx"><img style="border-bottom:1px solid;border-left:1px solid;width:133px;height:49px;border-top:1px solid;border-right:1px solid" border="1" alt="Work Abroad" src="../../SiteCollectionImages/planning.jpg" /><br /><strong>How To Look For A Job</strong>Techniques and tools to maximize your job search.</a></li>
+        </ul>
+       </div> 
+      </div> 
+      <br class="clear" /> 
+     </div>
+     <!-- End Main --> 
+     <br class="clear" /> 
+    </div>
+    <!-- End Content --> 
+   </div>
+   <!--end pagewrapper --> 
+   <br class="clear" /> 
+   <div class="footerwrapper"> 
+    <h2>More Information</h2> 
+    <div class="pagewrapper"> 
+     <div class="prefooter"> 
+      <div class="column49"> 
+       <h3>General Campus Information</h3> 
+       <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span><br /><br /> </span> </address> 
+       <ul class="footer_links"> 
+        <li><a href="http://library.ucr.edu/">UCR Libraries</a></li> 
+        <li><a href="http://campusstatus.ucr.edu/">Campus Status</a></li> 
+        <li><a href="http://campusstore.ucr.edu/">Campus Store</a></li> 
+        <li><a href="http://www.ucr.edu/employment.html">Career Opportunities</a></li> 
+        <li><a href="http://diversity.ucr.edu/">Diversity</a></li> 
+        <li><a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></li> 
+        <li><a href="http://admissions.ucr.edu/VisitUCR">Visit UCR</a></li> 
+       </ul> 
+      </div>
+      <!-- end column49 --> 
+      <div class="column49"> 
+       <h3>Department Information</h3> 
+       <address> <span class="ms-bold">Career Center</span><br /> <a href="http://www.campusmap.ucr.edu/campusMap.php?loc=HSERV" title="Campus Map">Veitch Student Center</a><br /><br /> Tel: (951) 827-3631<br /> Fax: (951) 827-2447<br /> Student Questions: <a href="mailto:careercounseling@ucr.edu">careercounseling@ucr.edu</a><br /> Employer Questions: <a href="mailto:careerrecruiting@ucr.edu">careerrecruiting@ucr.edu</a> </address> 
+      </div>
+      <!-- end column49 --> 
+      <div class="column49R"> 
+       <h3>Related Links</h3> 
+       <ul> 
+        <li><a href="http://agsm.ucr.edu/career_services/">AGSM MBA Career Services</a></li> 
+        <li><a href="http://finaid.ucr.edu/">Financial Aid</a></li> 
+        <li><a href="http://vcsa.ucr.edu/">Student Affairs</a></li> 
+        <li><a href="http://hr.ucr.edu/">Human Resources</a></li> 
+       </ul> 
+      </div>
+      <!-- end column49R --> 
+      <br class="clear" /> 
+     </div>
+     <!-- end prefooter --> 
+     <div id="nav_footer"> 
+      <h3 class="accessibility">Campuswide Navigation</h3> 
+      <ul> 
+       <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li> 
+       <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li> 
+       <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li> 
+       <li><a id="nav_footer_admissions" href="http://www.ucr.edu/admissions/"><span>Admissions</span></a></li> 
+       <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li> 
+       <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li> 
+       <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li> 
+       <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li> 
+       <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li> 
+      </ul> 
+     </div>
+     <!-- end nav footer --> 
+     <h3 class="accessibility">Footer</h3> 
+     <div id="footer"> 
+      <ul> 
+       <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+       <li><a href="http://www.ucr.edu/terms.html">Terms and Conditions</a></li> 
+       <li>&copy; 2011 Regents of the University of California</li> 
+      </ul> 
+     </div>
+     <!-- end footer --> 
+    </div>
+    <!-- end page wrapper --> 
+   </div>
+   <!--end footer wrapper --> 
+   <script type="text/javascript">
+//<![CDATA[
+var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';//]]>
+</script> 
+  </form> 
+  <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script> 
+  <script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-503078-7");
+pageTracker._trackPageview();
+} catch(err) {}</script>  
+  <!-- Mirrored from testbedvcsait.ucr.edu/jobs/Pages/Jobs.aspx by HTTrack Website Copier/3.x [XR&CO'2010], Wed, 20 Mar 2013 13:55:35 GMT --> 
+ </body>
+</html><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+ <head>
+  <title>Rspace</title> 
+  <style type="text/css">
+<!--
+.style1 {
+	color: #128aa2;
+	font-weight: bold;
+}
+-->
+</style>  
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+  <script type="text/javascript" src="add-event.js"></script> 
+  <script type="text/javascript" src="popup.js"></script> 
+  <script type="text/javascript" src="prototype.js"></script> 
+  <script type="text/javascript" src="control.js"></script> 
+  <style type="text/css">.tab-header { position: relative; top: -58px; } </style> 
+  <meta http-equiv="last-modified" content="2008-04-18" /> 
+  <meta name="version" content="1.133 1.90 " /> 
+  <link rel="stylesheet" type="text/css" href="css/design6.css" media="all" /> 
+  <!--<link rel="stylesheet" type="text/css" href="css/print6.css" media="print"> --> 
+  <link rel="stylesheet" type="text/css" href="css/intro.css" media="all" /> 
+  <script type="text/javascript">
+window.onbeforeunload = function(){ return; }
+/***********************************************
+* Bookmark site script- Ã¯Â¿Â½ Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+/* Modified to support Opera */
+function bookmarksite(title,url){
+if (window.sidebar) // firefox
+	window.sidebar.addPanel(title, url, "");
+else if(window.opera && window.print){ // opera
+	var elem = document.createElement('a');
+	elem.setAttribute('href',url);
+	elem.setAttribute('title',title);
+	elem.setAttribute('rel','sidebar');
+	elem.click();
+} 
+else if(document.all)// ie
+	window.external.AddFavorite(url, title);
+}
+</script> 
+  <!--[if lte IE 6]>
+<style type="text/css">
+
+#review-link { background: url(images/bg_feedback.jpg); height:83px; width:261px; margin-left:10px;float:left; margin-right:0px;}
+
+div#feedback {
+background:transparent url(images/bg_back4.jpg) no-repeat scroll 0 0;
+font-family:Arial,Helvetica,sans-serif;
+height:258px;
+margin-top:20px;
+width:960px;
+padding-top:20px;
+padding-bottom:20px;
+overflow:hidden;
+}
+</style>
+<![endif]--> 
+ </head> 
+ <body> 
+  <!-- Masthead Begin --> 
+  <div id="top">
+   <img src="images/ucr_name.gif" style="float:left;" /> 
+   <div> 
+    <!-- <img  src="images/staff.png" alt="Staff" style="position:absolute;"/> -->
+   </div> 
+  </div> 
+  <div id="masthead"> 
+   <div align="center">
+    <img class="x" src="images/masthead.jpg" />
+   </div> 
+  </div> 
+  <!-- Masthead End --> 
+  <div class="pagewrapper"> 
+   <div id="content"> 
+    <div id="login_page"> 
+     <div id="intro"> 
+      <div id="login_button">
+       <a href="http://rspaceportal.ucr.edu/rspaceportal/portal_api.login?p_entry=2"><img src="images/login.png" alt="Login" width="151" height="46" /></a>
+      </div> 
+      <p>
+       <!-- com.omniupdate.div label="login_intro" group="Everyone" button="657"   --><strong><span style="color: #128aa2;">The new R'Space faculty and staff portals</span></strong> are a revolution in information dissemination. These fully customizable pages place all your commonly used tools and resources at your fingertips. From Webmail to traffic and weather reports, to specialized web based applications, you <strong><span style="color: #128aa2;">select and access the content you want to see</span></strong>. At the same time, the portals will allow the University to let you know what is going on around our campus.
+       <!-- /com.omniupdate.div --> </p> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="help_page"> 
+    <div id="intro"> 
+     <div id="help_tab"> 
+      <div id="help_list"> 
+       <ul style="line-height:2.7em;"> 
+        <!-- com.omniupdate.div label="help_links" group="Everyone" button="657"   --> 
+        <li><a rel="popup standard 1024 700 noicon" href="/portal_security.html">Security Precautions</a></li> 
+        <li><a rel="popup standard 1024 700 noicon" href="/general_overview.html">R'Space Portal General Overview</a></li> 
+        <!-- /com.omniupdate.div --> 
+       </ul> 
+      </div> 
+      <p>
+       <!-- com.omniupdate.div label="help_text" group="Everyone" button="657"   --><strong><span style="color: #128aa2;">Your first time in the new portal?</span></strong><br />The UCR portal is a powerful tool, but like any tool, it is important to take a moment to learn how to use it correctly. If you are new to portals, we invite you to review our tutorial.<br /><br /> Also, we encourage you to <strong><span style="color: #128aa2;">bookmark this page</span></strong> in your Web browser, as we think you will be coming here often.
+       <!-- /com.omniupdate.div --> </p>
+     </div> 
+    </div> 
+   </div> 
+   <div id="review_page"> 
+    <div id="feedback"> 
+     <p> <iframe style="border:none; margin-left:20px;" frameborder="0" src="http://rspaceportal.ucr.edu/rspaceportal/my_feedback.viewFeedback" width="920px" height="250px"></iframe> </p> 
+    </div> 
+   </div> 
+   <div id="bookmark"> 
+    <a title="UCR Rspace Portal" onfocus="if(this.blur)this.blur()" href="javascript:bookmarksite('Rspace Portal', 'http://rspace.ucr.edu')"><img width="155px" height="28px" alt="Bookmark this page" src="images/bookmark.jpg" id="addBookmarkContainer" /></a>
+   </div> 
+   <ul class="tab-control"> 
+    <div id="login"> 
+     <li><a class="active" onfocus="if(this.blur)this.blur()" href="#login_page" id="freshman-link"></a></li> 
+    </div> 
+    <div id="help"> 
+     <li><a class="" href="#help_page" onfocus="if(this.blur)this.blur()" id="transfer-link"></a></li> 
+    </div> 
+    <div id="review"> 
+     <li><a class="" href="#review_page" onfocus="if(this.blur)this.blur()" id="review-link"></a></li> 
+    </div> 
+   </ul>
+   <br /> 
+   <div style="padding-top:0px; margin-right:9px; float:right;"> 
+    <br /> 
+    <a href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01129&amp;site=rspace&amp;path=/index.html">&copy; 2010 Regents of the University of California</a>
+   </div> 
+   <!-- com.omniupdate.efp -->
+   <!-- /com.omniupdate.efp --> 
+  </div>     
+ </body>
+</html><!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>UCR Today:   Anirban Banerjee</title> 
+  <meta http-equiv="last-modified" content="2014-03-04" /> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+  <meta property="og:site_name" content="UCR Today" /> 
+  <meta property="og:title" content="  Anirban Banerjee" /> 
+  <meta property="og:type" content="article" /> 
+  <meta property="og:url" content="http://ucrtoday.ucr.edu/20879/anirbanbanerjee-31" /> 
+  <meta property="og:image" content="http://ucrtoday.ucr.edu/wp-content/uploads/2014/03/AnirbanBanerjee-31-e1393974703661-130x78.jpg" /> 
+  <meta property="section" content="" /> 
+  <link rel="profile" href="http://gmpg.org/xfn/11" /> 
+  <link rel="stylesheet" type="text/css" media="all" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.20/style.css" /> 
+  <link rel="pingback" href="http://ucrtoday.ucr.edu/xmlrpc.php" /> 
+  <link rel="alternate" type="application/rss+xml" title="UCR Today &raquo; Feed" href="http://ucrtoday.ucr.edu/feed" /> 
+  <script type="text/javascript">//<![CDATA[
+            // Google Analytics for WordPress by Yoast v4.3.5 | http://yoast.com/wordpress/google-analytics/
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-3051875-1']);
+				            _gaq.push(['_setDomainName','.ucr.edu'],['_setAllowHash',false],['_setCustomVar',1,'author','sean-nealon',3],['_setCustomVar',3,'year','2014',3],['_setCustomVar',4,'categories','',3],['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+            //]]></script> 
+  <link rel="stylesheet" id="tn3-css" href="http://www.ucr.edu/js/jlib/skins/tn3/tn3.css?ver=3.8.1" type="text/css" media="all" /> 
+  <script type="text/javascript" src="https://platform.twitter.com/anywhere.js?id=pM8hgGenShE3535u4xgxeg&amp;v=1"></script> 
+  <script type="text/javascript" src="http://ucrtoday.ucr.edu/wp-includes/js/jquery/jquery.js?ver=1.10.2"></script> 
+  <script type="text/javascript" src="http://ucrtoday.ucr.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script> 
+  <link rel="canonical" href="http://ucrtoday.ucr.edu/20879/anirbanbanerjee-31" /> 
+  <link rel="stylesheet" type="text/css" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.20/print6.css" media="print" /> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.20/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <!--[if lte IE 8]>
+<link rel="stylesheet" type="text/css" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.20/ie8.css" media="all" />
+<![endif]--> 
+  <!--[if lte IE 10]>
+<link rel="stylesheet" type="text/css" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.20/ie10.css" media="all" />
+<![endif]--> 
+ </head> 
+ <body class="attachment single single-attachment postid-20881 attachmentid-20881 attachment-jpeg singular"> 
+  <div id="brandingbar_wrapper"> 
+   <div class="pagewrapper"> 
+    <ul id="accessibility_links"> 
+     <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+     <li class="skip"><a tabindex="2" href="http://ucrtoday.ucr.edu/" accesskey="1" rel="home" title="Home Page">Home Page</a></li> 
+    </ul> 
+    <hr /> 
+    <div id="brandingbar"> 
+     <h1><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_name_gray.png" width="216" height="45" alt="" /><span class="accessibility">University of California, Riverside</span></a></h1> 
+     <div id="branding_overlay"> 
+      <!-- Last Updated on Mar 11 2014, 2:58 pm PDT from March AFB/Riverside, CA --> 
+      <p id="l_weather" title="A Few Clouds, 76.0 &deg;F (24.3 &deg;C), winds Southeast at 4.6 MPH (4 KT), 18% relative humidity."><img alt="A Few Clouds" src="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.20/images/weather/few.png" height="64" width="100" /> <strong>76&deg;</strong> on campus</p> 
+      <p>Follow Us:&nbsp;</p> 
+      <ul class="social_links">
+       <li><a id="footer_link_facebook" href="http://www.facebook.com/UCRiverside" title="Visit UCR’s Facebook page (external site: Facebook)"><span class="accessibility">Visit UCR’s Facebook page</span></a></li>
+       <li><a id="footer_link_twitter" href="http://twitter.com/UCRiverside" title="Follow UCR on Twitter (external site: Twitter)"><span class="accessibility">Follow UCR on Twitter</span></a></li>
+       <li><a id="footer_link_youtube" href="http://www.youtube.com/UCRiverside" title="Visit UCR’s YouTube channel (external site: YouTube)"><span class="accessibility">Visit UCR’s YouTube channel</span></a></li>
+       <li><a id="footer_link_rss" href="/feed" title="Subscribe to UCR Today via RSS"><span class="accessibility">Subscribe to UCR Today via RSS</span></a></li>
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="masthead"> 
+    <h1><a href="http://ucrtoday.ucr.edu/"><img alt="" src="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.20/images/design6/masthead_news.png" /><span class="accessibility">UCR Today</span></a></h1> 
+    <div id="search"> 
+     <form method="get" id="searchform-x1394578361021703" action="http://ucrtoday.ucr.edu/"> 
+      <label for="s-x1394578361021703">Search:</label> 
+      <input type="text" class="s field" name="s" id="s-x1394578361021703" /> 
+      <input type="submit" class="search submit" name="submit" value="Search" /> 
+     </form> 
+    </div> 
+   </div> 
+   <ul id="cat_nav">
+    <li><a href="/" id="cat_nav_first">Home</a></li>
+    <li><a href="/category/arts-culture">Arts/?Culture</a></li>
+    <li><a href="/category/politics-society">Politics/?Society</a></li>
+    <li><a href="/category/science-technology">Science/?Technology</a></li>
+    <li><a href="/category/business">Business</a></li>
+    <li><a href="/category/health" id="cat_nav_last">Health</a></li>
+    <li id="cat_nav_inside_ucr"><a href="/inside-ucr"><span class="accessibility">Inside UCR</span></a></li>
+   </ul> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr /> 
+  <div class="pagewrapper"> 
+   <!-- Start Content --> 
+   <div id="content"> 
+    <a name="main"></a> 
+    <div class="boxed full content" role="main"> 
+     <p> </p> 
+     <h2>Anirban Banerjee</h2> 
+     <p class="byline"> Published <em>March 4, 2014</em> at <a href="http://ucrtoday.ucr.edu/wp-content/uploads/2014/03/AnirbanBanerjee-31.jpg" title="Link to full-size image">750 &times; 900</a> in <a href="http://ucrtoday.ucr.edu/20879" title="Return to Combining Forces to Stop Hackers" rel="gallery">Combining Forces to Stop Hackers</a> </p> 
+     <p> <a href="http://ucrtoday.ucr.edu/wp-content/uploads/2014/03/AnirbanBanerjee-31.jpg" title="Anirban Banerjee" rel="attachment"><img width="750" height="900" src="http://ucrtoday.ucr.edu/wp-content/uploads/2014/03/AnirbanBanerjee-31.jpg" class="attachment-848x1024" alt="head shot of Anirban Banerjee" /></a> </p> 
+     <h3>Caption</h3> 
+     <p></p>
+     <p>Anirban Banerjee, co-founder of StopTheHacker</p> 
+     <p></p> 
+     <h3>Description</h3> 
+     <p>head shot of Anirban Banerjee</p> 
+    </div> 
+   </div>
+   <!-- #content --> 
+  </div>
+  <!-- #pagewrapper --> 
+  <div class="btf_wrapper"> 
+   <div class="pagewrapper"> 
+    <div id="btf"> 
+     <h2 id="btf_title"><span class="accessibility">Below the Fold</span><img alt="" src="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.20/images/ttl_below_the_fold.png" height="16" width="222" /></h2> 
+     <div class="column23"> 
+      <div id="widget_ucrnewsroom_faculty_profile-27" class="widget widget_faculty_profile">
+       <h3>Faculty Profile | <strong>Health</strong></h3> 
+       <div class="figure_fac_profile"> 
+        <img src="http://ucrtoday.ucr.edu/wp-content/uploads/2012/08/profile-Howard-Friedman.jpg" alt="Howard S. Friedman" /> 
+        <p><a href="http://promise.ucr.edu/profile-health-friedman.html" onclick="javascript:_gaq.push(['_trackEvent','outbound-profile','Howard S. Friedman']);"><strong>Howard S. Friedman</strong><br />Distinguished Professor of Psychology</a></p> 
+       </div> 
+      </div>
+      <div id="widget_ucrnewsroom_happenings-3" class="widget widget_happenings">
+       <h3>Events and Happenings</h3> 
+       <p class="archive_link"><a href="http://www.ucr.edu/happenings/" onclick="javascript:_gaq.push(['_trackEvent','outbound-happening','All Events &amp; Happenings']);">All Events &amp; Happenings</a></p> 
+       <ul> 
+        <li><a href="http://events.ucr.edu/cgi-bin/display.cgi?event_id=41035" onclick="javascript:_gaq.push(['_trackEvent','outbound-happening','Music as Medicine Concert Series']);"> <img src="http://www.ucr.edu/images/happening/2349.jpg" width="124" height="57" alt="" /> <strong>Music as Medicine Concert Series</strong> <span class="date">Thursday, April 3<br />Noon–1 p.m.</span> <span class="location">School of Medicine Education Bldg On the Patio</span> Choral Society and Blue Grass Ensemble</a></li> 
+        <li><a href="http://palmdesert.ucr.edu/programs/Boyd13.html" onclick="javascript:_gaq.push(['_trackEvent','outbound-happening','Animal Oceanographers']);"> <img src="http://www.ucr.edu/images/happening/2324.jpg" width="124" height="57" alt="" /> <strong>Animal Oceanographers</strong> <span class="date">March 13<br />6 p.m.</span> <span class="location">UCR Palm Desert auditorium (RSVP Today!)</span> Using Animals to Tell Us About Their Environment</a></li> 
+        <li><a href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=41358:20140329100000&amp;unit=15" onclick="javascript:_gaq.push(['_trackEvent','outbound-happening','Men's Track &amp; Field: UC Riverside Spring Track Classic']);"> <img src="http://www.ucr.edu/images/happening/2352.jpg" width="124" height="57" alt="" /> <strong>Men's Track &amp; Field: UC Riverside Spring Track Classic</strong> <span class="date">Saturday, March 29<br />10 a.m.–6 p.m.</span> <span class="location">UC Riverside Track Facility</span> </a></li> 
+        <li><a href="http://events.ucr.edu/cgi-bin/display.cgi?event_id=41072" onclick="javascript:_gaq.push(['_trackEvent','outbound-happening','Botanic Gardens Spring Plant Sale']);"> <img src="http://www.ucr.edu/images/happening/2342.jpg" width="124" height="57" alt="" /> <strong>Botanic Gardens Spring Plant Sale</strong> <span class="date">Saturday, April 5–Sunday, April 6<br />Sat: 11 a.m.–4 p.m.; Sun: 9 a.m.–3 p.m.</span> <span class="location">Botanic Gardens Information Center</span> </a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="column3R"> 
+      <div id="widget_ucrnewsroom_related_links-2" class="widget widget_links">
+       <h3>Related Sites</h3> 
+       <ul class="xoxo blogroll"> 
+        <li><a href="http://www.ucop.edu/sciencetoday/" title="external site: UCOP Science Today" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://www.ucop.edu/sciencetoday/']);">Science Today</a></li> 
+        <li><a href="http://espanol.ucanr.org/" title="external site: UC Ag and Natural Resources news (in Spanish)" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://espanol.ucanr.org/']);">Servicio de Informaci&oacute;n en Espa&ntilde;ol</a></li> 
+        <li><a href="http://news.ucanr.org/" title="external site: UC Ag and Natural Resources news" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://news.ucanr.org/']);">UC Agricultural and Natural Resources news</a></li> 
+        <li><a href="http://www.universityofcalifornia.edu/news/spanish/" title="external site: UC Newsroom (in Spanish)" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://www.universityofcalifornia.edu/news/spanish/']);">UC en Espa&ntilde;ol</a></li> 
+        <li><a href="http://www.universityofcalifornia.edu/news/" title="external site: UC Newsroom" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://www.universityofcalifornia.edu/news/']);">UC Newsroom</a></li> 
+       </ul> 
+      </div>
+      <div id="simpletags-4" class="widget widget-simpletags">
+       <h3>Tag cloud</h3> 
+       <!-- Generated by Simple Tags 2.3.2 - http://wordpress.org/extend/plugins/simple-tags --> 
+       <ul class="st-tag-cloud"> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/department-of-botany-and-plant-sciences" id="tag-link-184" class="st-tags t2" title="26 topics" rel="tag" style="font-size:0.97em; ">Department of Botany and Plant Sciences</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/center-for-environmental-research-technology" id="tag-link-237" class="st-tags t1" title="18 topics" rel="tag" style="font-size:0.83em; ">Center for Environmental Research &amp; Technology</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/karthick-ramakrishnan" id="tag-link-136" class="st-tags t1" title="16 topics" rel="tag" style="font-size:0.83em; ">Karthick Ramakrishnan</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/department-of-earth-sciences" id="tag-link-153" class="st-tags t2" title="30 topics" rel="tag" style="font-size:0.97em; ">Department of Earth Sciences</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/living-the-promise" id="tag-link-391" class="st-tags t1" title="21 topics" rel="tag" style="font-size:0.83em; ">living the promise</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/research-2" id="tag-link-395" class="st-tags t2" title="29 topics" rel="tag" style="font-size:0.97em; ">research</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/department-of-entomology" id="tag-link-1133" class="st-tags t3" title="37 topics" rel="tag" style="font-size:1.11em; ">Department of Entomology</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/bcoe-2" id="tag-link-70" class="st-tags t4" title="48 topics" rel="tag" style="font-size:1.25em; ">BCOE</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/soba-2" id="tag-link-119" class="st-tags t1" title="20 topics" rel="tag" style="font-size:0.83em; ">SoBA</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/video" id="tag-link-409" class="st-tags t6" title="73 topics" rel="tag" style="font-size:1.53em; ">video</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/health-2" id="tag-link-486" class="st-tags t1" title="24 topics" rel="tag" style="font-size:0.83em; ">health</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/bourns-college-of-engineering" id="tag-link-69" class="st-tags t10" title="103 topics" rel="tag" style="font-size:2.08em; ">Bourns College of Engineering</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/ce-cert" id="tag-link-66" class="st-tags t1" title="22 topics" rel="tag" style="font-size:0.83em; ">CE-CERT</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/chass-2" id="tag-link-830" class="st-tags t4" title="48 topics" rel="tag" style="font-size:1.25em; ">CHASS</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/g-richard-olds" id="tag-link-451" class="st-tags t1" title="19 topics" rel="tag" style="font-size:0.83em; ">G. Richard Olds</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/inside-ucr" id="tag-link-1" class="st-tags t2" title="31 topics" rel="tag" style="font-size:0.97em; ">Inside UCR</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/school-of-medicine" id="tag-link-447" class="st-tags t3" title="41 topics" rel="tag" style="font-size:1.11em; ">School of Medicine</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/music" id="tag-link-539" class="st-tags t1" title="22 topics" rel="tag" style="font-size:0.83em; ">music</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/philosophy" id="tag-link-443" class="st-tags t1" title="17 topics" rel="tag" style="font-size:0.83em; ">philosophy</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/climate-change" id="tag-link-148" class="st-tags t1" title="17 topics" rel="tag" style="font-size:0.83em; ">climate change</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/cnas-2" id="tag-link-113" class="st-tags t5" title="59 topics" rel="tag" style="font-size:1.39em; ">CNAS</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/school-of-business-administration" id="tag-link-120" class="st-tags t3" title="39 topics" rel="tag" style="font-size:1.11em; ">School of Business Administration</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/college-of-humanities-arts-social-sciences" id="tag-link-831" class="st-tags t3" title="42 topics" rel="tag" style="font-size:1.11em; ">College of Humanities Arts &amp; Social Sciences</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/artsblock" id="tag-link-954" class="st-tags t1" title="21 topics" rel="tag" style="font-size:0.83em; ">ARTSblock</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/john-cook" id="tag-link-664" class="st-tags t1" title="19 topics" rel="tag" style="font-size:0.83em; ">John Cook</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/culver-center" id="tag-link-650" class="st-tags t1" title="18 topics" rel="tag" style="font-size:0.83em; ">Culver Center</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/college-of-natural-and-agricultural-sciences" id="tag-link-114" class="st-tags t5" title="63 topics" rel="tag" style="font-size:1.39em; ">College of Natural and Agricultural Sciences</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/chancellor" id="tag-link-2034" class="st-tags t5" title="58 topics" rel="tag" style="font-size:1.39em; ">chancellor</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/gift" id="tag-link-2068" class="st-tags t1" title="18 topics" rel="tag" style="font-size:0.83em; ">gift</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/timothy-p-white" id="tag-link-2208" class="st-tags t3" title="38 topics" rel="tag" style="font-size:1.11em; ">Timothy P. White</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/psychology" id="tag-link-416" class="st-tags t1" title="23 topics" rel="tag" style="font-size:0.83em; ">psychology</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/graduate-school-of-education" id="tag-link-971" class="st-tags t1" title="17 topics" rel="tag" style="font-size:0.83em; ">Graduate School of Education</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/botanic-gardens" id="tag-link-1963" class="st-tags t1" title="18 topics" rel="tag" style="font-size:0.83em; ">botanic gardens</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/jane-close-conoley" id="tag-link-2387" class="st-tags t1" title="23 topics" rel="tag" style="font-size:0.83em; ">Jane Close Conoley</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/sustainability-2" id="tag-link-151" class="st-tags t3" title="37 topics" rel="tag" style="font-size:1.11em; ">sustainability</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/public-policy" id="tag-link-774" class="st-tags t1" title="17 topics" rel="tag" style="font-size:0.83em; ">public policy</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/political-science" id="tag-link-643" class="st-tags t2" title="26 topics" rel="tag" style="font-size:0.97em; ">Political Science</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/department-of-physics-and-astronomy" id="tag-link-1184" class="st-tags t1" title="22 topics" rel="tag" style="font-size:0.83em; ">Department of Physics and Astronomy</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/art" id="tag-link-950" class="st-tags t1" title="19 topics" rel="tag" style="font-size:0.83em; ">art</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/education" id="tag-link-433" class="st-tags t2" title="28 topics" rel="tag" style="font-size:0.97em; ">education</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="pagewrapper"> 
+   <h3 class="accessibility">Footer</h3> 
+   <div id="colophon">
+     The University of California, Riverside (
+    <a href="http://www.ucr.edu/">www.ucr.edu</a>) is a doctoral research university, a living laboratory for groundbreaking exploration of issues critical to Inland Southern California, the state and communities around the world. Reflecting California's diverse culture, UCR's enrollment has exceeded 21,000 students. The campus opened a medical school in 2013 and has reached the heart of the Coachella Valley by way of the UCR Palm Desert Center. The campus has an annual statewide economic impact of more than $1 billion. A broadcast studio with fiber cable to the AT&amp;T Hollywood hub is available for live or taped interviews. UCR also has ISDN for radio interviews. To learn more, call (951) UCR-NEWS. 
+   </div> 
+   <div id="footer"> 
+    <ul> 
+     <li><a href="/feedback" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+     <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+     <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+     <li>&copy; 2014 Regents of the University of California</li> 
+     <li>Last modified: 2014-Mar-04</li> 
+    </ul> 
+   </div> 
+  </div> 
+  <script type="text/javascript" src="http://ucrtoday.ucr.edu/wp-content/plugins/popular-widget2/_js/pop-widget.js?ver=1.1.0-rab6"></script>   
+ </body>
+</html>

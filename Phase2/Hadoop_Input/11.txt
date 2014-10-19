@@ -1,0 +1,1573 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>Giving to UCR</title> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+  <!--[if IE]><![endif]--> 
+  <meta http-equiv="last-modified" content="2014-02-25" /> 
+  <meta name="version" content="2.64 2.146 " /> 
+  <!-- 03/09/14 23:54:54 03/09/14 23:54:54 --> 
+  <!--link rel="stylesheet" type="text/css" href="/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/narrow6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/sifr.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="/min/g=6bis-bluea-narrow" media="all" /> 
+  <!--link rel="stylesheet" type="text/css" href="/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="/min/f=css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/giving/css/local.css" media="all" /> 
+  <link href="//fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css" /> 
+  <script type="text/javascript" src="/min/g=js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="/css/ie6-narrow6.css" media="all" />
+<script defer type="text/javascript" src="/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/css/ie7.css" media="all" />
+<script type="text/javascript" src="/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+  <link rel="alternate" type="application/rss+xml" title="Subscribe to UCR Today via RSS" href="http://ucrtoday.ucr.edu/feed" /> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://www.ucr.edu/giving/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr /> 
+  </div> 
+  <div id="masthead_home" style="background-image:url(/images/design6/mastheads/masthead03.jpg);"> 
+   <h1><a href="//www.ucr.edu/"><span class="printonly">UC Riverside</span></a></h1> 
+   <div class="pagewrapper"> 
+    <div id="search"> 
+     <div id="nav_utility"> 
+      <ul> 
+       <li><a href="//www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+       <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+       <li><a href="//www.ucr.edu/find_people.php">Find People</a></li> 
+      </ul> 
+     </div> 
+     <form id="searchbox" action="//www.ucr.edu/search.php">
+      <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+     </form> 
+     <script type="text/javascript" src="//www.ucr.edu/js/watermark.js"></script> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="nav_main"> 
+   <h2 class="accessibility">Campuswide Navigation</h2> 
+   <ul>
+    <li><a id="nav_main_home" href="http://www.ucr.edu/"><span>UCR Home</span></a></li>
+    <li><a id="nav_main_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+    <li><a id="nav_main_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+    <li><a id="nav_main_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+    <li><a id="nav_main_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+    <li><a id="nav_main_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+    <li><a id="nav_main_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+    <li><a class="active" id="nav_main_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+   </ul> 
+  </div> 
+  <div id="nav_audience"> 
+   <h2 class="accessibility">Audience Navigation</h2> 
+   <ul>
+    <li><a id="nav_audience_future" href="http://www.ucr.edu/future/" title="For Prospective Students"><span>Prospective Students</span></a></li>
+    <li><a id="nav_audience_students" href="http://www.ucr.edu/students/" title="For Current Students"><span>Current Students</span></a></li>
+    <li><a id="nav_audience_parents" href="http://www.ucr.edu/parents/" title="For Parents"><span>Parents</span></a></li>
+    <li><a id="nav_audience_faculty" href="http://www.ucr.edu/faculty/" title="For Faculty"><span>Faculty</span></a></li>
+    <li><a id="nav_audience_staff" href="http://www.ucr.edu/staff/" title="For Staff"><span>Staff</span></a></li>
+    <li><a id="nav_audience_alumni" href="http://www.ucr.edu/alumni/" title="For Alumni"><span>Alumni</span></a></li>
+    <li><a id="nav_audience_friends" href="http://www.ucr.edu/friends/" title="For Friends"><span>Friends</span></a></li>
+    <li><a id="nav_audience_industry" href="http://www.ucr.edu/industry/" title="For Industry"><span>Industry</span></a></li>
+    <li><a id="nav_audience_media" href="http://www.ucr.edu/media/" title="For Media"><span>Media</span></a></li>
+   </ul> 
+  </div> 
+  <hr /> 
+  <!--[if lte IE 6]>
+<div class="pagewrapper">
+	<div style="margin-bottom: 1.5em;">
+		<h5 style="color: #b00; margin: .5em 15em 0">You appear to be using an outdated version of Internet Explorer. We are sorry, but your browser is no longer
+			supported. Please upgrade to a modern browser:</h5>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://getfirefox.com" class="external" title="external site: Mozilla Foundation">Firefox</a></li>
+				<li><a href="http://www.opera.com/browser/" class="external" title="external site: Opera Software">Opera</a></li>
+			</ul>
+		</div>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://www.microsoft.com/windows/internet-explorer/" class="external" title="external site: Microsoft">Internet Explorer 8</a></li>
+				<li><a href="http://www.apple.com/safari/" class="external" title="external site: Apple Inc.">Safari</a></li>
+			</ul>
+		</div>
+		<div class="column49R">
+			<ul class="tight">
+				<li><a href="http://www.google.com/chrome" class="external" title="external site: Google">Google Chrome</a></li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<![endif]--> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="//www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li class="lastitem">Giving to UCR</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <hr /> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2 class="long">Giving to UCR</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li class="currentpage"><h3><dfn>Current page is: </dfn>Giving Home</h3></li>
+       <li><a href="/giving/how.html" title="How to Give to UCR">How to Give to UCR<br /><span>The donation options available to you</span></a></li>
+       <li><a href="/giving/areas-support.html" title="Areas to Support">Areas to Support<br /><span>Areas and opportunities for giving</span></a></li>
+       <li><a href="/giving/impact.html" title="The Impact of Giving">The Impact of Giving<br /><span>Stories of donors and recipients</span></a></li>
+       <li><a href="/giving/foundation_relations/" title="Foundation Relations">Foundation Relations<br /><span>Grant writing and support services</span></a></li>
+       <li><a href="/giving/gift_planning.html" title="Gift Planning">Gift Planning<br /><span>Securing UCR's future</span></a></li>
+       <li><a href="/giving/ucr_foundation.html" title="UCR Foundation">UCR Foundation<br /><span>Investing in our future</span></a></li>
+       <li><a href="/giving/staff-directory.html" title="Staff Directory">Staff Directory<br /><span>Directory and organization chart</span></a></li> 
+      </ul> 
+     </div> 
+     <p> <a href="https://advancementservices.ucr.edu/GivingForm.aspx" id="l_give_now"><span class="accessibility">Give Now</span></a> </p> 
+    </div> 
+    <hr /> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <div class="glider" id="my-glider"> 
+      <div class="scroller"> 
+       <div class="content"> 
+        <div class="slide" id="slide1"> 
+         <img src="/giving/images/home_gallery_01.jpg" alt=" Students at The HUB" width="464" height="174" /> 
+         <h3>Giving to UCR: An Investment in the Future</h3> 
+         <p> UC Riverside serves the region and state as an active partner, leader and citizen. It is a place of educational excellence with a record of innovation and a reputation for creating actionable solutions. Your gift to the university doesn't just help the individual, but is an investment in the future of our community, our state and our world. </p> 
+        </div> 
+        <div class="slide" id="slide2"> 
+         <img src="/giving/images/home_gallery_02.jpg" alt=" Research Students" width="464" height="174" /> 
+         <h3>Giving to UCR: An Investment in the Future</h3> 
+         <p> UC Riverside serves the region and state as an active partner, leader and citizen. It is a place of educational excellence with a record of innovation and a reputation for creating actionable solutions. Your gift to the university doesn't just help the individual, but is an investment in the future of our community, our state and our world. </p> 
+        </div> 
+        <div class="slide" id="slide3"> 
+         <img src="/giving/images/home_gallery_03.jpg" alt=" Amanda Martinez" width="464" height="174" /> 
+         <h3>Giving to UCR: An Investment in the Future</h3> 
+         <p> UC Riverside serves the region and state as an active partner, leader and citizen. It is a place of educational excellence with a record of innovation and a reputation for creating actionable solutions. Your gift to the university doesn't just help the individual, but is an investment in the future of our community, our state and our world. </p> 
+        </div> 
+        <div class="slide" id="slide4"> 
+         <img src="/giving/images/home_gallery_04.jpg" alt="Researchers" width="464" height="174" /> 
+         <h3>Giving to UCR: An Investment in the Future</h3> 
+         <p> UC Riverside serves the region and state as an active partner, leader and citizen. It is a place of educational excellence with a record of innovation and a reputation for creating actionable solutions. Your gift to the university doesn't just help the individual, but is an investment in the future of our community, our state and our world. </p> 
+        </div> 
+        <div class="slide" id="slide5"> 
+         <img src="/giving/images/home_gallery_05.jpg" alt="Mr. Dwight Tate and Dr. Katherine Wright" width="464" height="174" /> 
+         <h3>Giving to UCR: An Investment in the Future</h3> 
+         <p> UC Riverside serves the region and state as an active partner, leader and citizen. It is a place of educational excellence with a record of innovation and a reputation for creating actionable solutions. Your gift to the university doesn't just help the individual, but is an investment in the future of our community, our state and our world. </p> 
+        </div> 
+       </div> 
+      </div> 
+      <a class="previous" href="#" onclick="my_glider.previous();return false;" title="Previous">Previous</a> 
+      <ul class="controls"> 
+       <li><a class="active" title="Students at The HUB" href="#slide1"><img src="/giving/images/thumb_home_gallery_01.png" alt=" " width="68" height="48" /></a></li> 
+       <li><a title="Research Students" href="#slide2"><img src="/giving/images/thumb_home_gallery_02.png" alt=" " width="68" height="48" /></a></li> 
+       <li><a title="Amanda Martinez" href="#slide3"><img src="/giving/images/thumb_home_gallery_03.png" alt="  " width="68" height="48" /></a></li> 
+       <li><a title="Researchers" href="#slide4"><img src="/giving/images/thumb_home_gallery_04.png" alt=" " width="68" height="48" /></a></li> 
+       <li><a title="Mr. Dwight Tate and
+Dr. Katherine Wright" href="#slide5"><img src="/giving/images/thumb_home_gallery_05.png" alt=" " width="68" height="48" /></a></li> 
+      </ul> 
+      <a class="next" href="#" onclick="my_glider.next();return false" title="Next">Next</a> 
+     </div> 
+     <script type="text/javascript">// <![CDATA[
+var my_glider;
+
+$LAB.script("/min/f=js/glider.js").wait(function(){
+    my_glider = new Glider('my-glider', {duration:0.5});
+});
+// ]]></script> 
+     <h3><img class="img_R" src="/giving/images/gabbert.jpg" alt="Judge John Gabbert" width="141" height="173" /><img src="/giving/images/ttl-makegift-gabbert.png" alt=" " width="320" height="85" /><span class="accessibility">Make a Gift to the Judge John Gabbert CUC Endowed Scholarship Fund</span></h3> 
+     <p>In recognition of the Honorable John G. Gabbert, one of Riverside’s most prominent citizens and a key founder of UC Riverside, the Citizens University Committee established an endowed scholarship in his name to provide scholarships to UCR students from the Inland area. In celebration of his life and to honor his recent passing, the family has requested donations be made to the Judge John Gabbert CUC Endowed Scholarship Fund.</p> 
+     <ul class="l_info_links l_narrow_bar"> 
+      <li><a href="https://advancementservices.ucr.edu/AdvanceOnlineGiving/search?key=The+Judge+John+Gabbert+CUC+Endowed+Scholarship+Fund">Join in and make a gift.</a></li> 
+      <li><a href="http://ucrtoday.ucr.edu/19527">Read the story</a></li> 
+     </ul> 
+     <div class="clear"></div> 
+     <h4 class="section2"><img class="img_L_borderless" src="/giving/images/ttl_help_mission.png" alt="How You Help Our Mission" width="155" height="129" />How You Help Our Mission</h4> 
+     <p>The mission of the University of California, Riverside is to serve the needs and enhance the quality of life of the diverse people of California, the nation and the world through knowledge. Your gifts to the university, regardless of the area you choose to support, make a tremendous difference and help the students, staff and faculty at UCR make a positive impact on society.</p> 
+     <h4>Where Does the Money Go?<img class="img_R_borderless" src="/giving/images/ttl_money_go.png" alt="Where Does The Money Go?" width="167" height="112" /></h4> 
+     <p>Your donation can support the area that best represents your philanthropic interests. Whether it is a gift to a specific college, school or program, support for scholarships or fellowships, capital projects, faculty research, or a donation to the general fund, there is an area where your gift will make a difference. </p> 
+     <ul class="l_info_links"> 
+      <li><a href="https://advancementservices.ucr.edu/Givingform.aspx">Make a donation to UCR now through our online giving form.</a></li> 
+      <li><a href="/giving/areas-support.html">Learn about some of the areas that you can support.</a></li> 
+     </ul> 
+     <div class="l_gifted_box"> 
+      <img class="border_image_top" src="/giving/images/design6/gifted_box_top_shadow.png" alt=" " width="484" height="3" /> 
+      <h3><img src="/giving/images/ttl_who_gives_to.png" alt=" " width="461" height="82" /><span class="accessibility">Who Gives To UCR? People Like You</span></h3> 
+      <div class="column2"> 
+       <p><img class="img_L" src="/giving/images/who_gives_norman.jpg" alt="Dr. Anthony Norman and Dr. Helen Henry" width="99" height="50" /><a href="/giving/why.html#norman">Dr. Anthony Norman and<br /> Dr. Helen Henry</a></p> 
+       <div class="clear"></div> 
+       <p><img class="img_L" src="/giving/images/who_gives_small.jpg" alt="Richard and Laura Small" width="99" height="50" /><a href="/giving/donor_small.html">Richard and<br />Laura Small</a></p> 
+      </div> 
+      <div class="column2R"> 
+       <p><img class="img_L" src="/giving/images/who_gives_bilderback.jpg" alt="Fran Bilderback" width="99" height="50" /><a href="/giving/donor_bilderback.html">Fran Bilderback</a></p> 
+       <div class="clear"></div> 
+       <p><img class="img_L" src="/giving/images/who_gives_blumenthal.jpg" alt="Virginia Blumenthal" width="99" height="50" /><a href="/giving/donor_blumenthal.html">Virginia Blumenthal</a></p> 
+      </div> 
+      <div class="clear"></div> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+   </div> 
+   <!-- End Content Area --> 
+   <div class="clear"></div> 
+  </div> 
+  <!-- End Content -->  
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://library.ucr.edu/']);">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://campusstatus.ucr.edu/']);">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://campusstore.ucr.edu/']);">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://www.ucr.edu/employment.html']);">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://diversity.ucr.edu/']);">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://www.ucr.edu/about/directions.html']);">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://admissions.ucr.edu/VisitUCR']);">Visit UCR</a></li> 
+      </ul> 
+      <!-- Generated in 0.013956 seconds using 768 KiB of memory. --> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <address><strong>Office of Development</strong><br /> <a href="http://campusmap.ucr.edu/campusMap.php?loc=HINHL" title="Campus Map">1100 Hinderaker Hall</a><br /><br /> Tel: (951) 827-5611<br /> Fax: (951) 827-7311</address> 
+      <ul class="footer_links"> 
+       <li><a id="footer_link_facebook" class="footer_link_icon" href="http://www.facebook.com/UCRiverside" title="external site: Facebook">Visit UCR's Facebook page</a></li> 
+       <li><a id="footer_link_twitter" class="footer_link_icon" href="http://twitter.com/UCRiverside" title="external site: Twitter">Follow UCR on Twitter</a></li> 
+       <li><a id="footer_link_youtube" class="footer_link_icon" href="http://www.youtube.com/UCRiverside" title="external site: YouTube">Visit UCR's YouTube channel</a></li> 
+       <li><a id="footer_link_rss" class="footer_link_icon" href="http://ucrtoday.ucr.edu/feed">Subscribe to UCR Today via RSS</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="/alumni/">Alumni</a></li> 
+       <li><a href="/research/">UCR Research</a></li> 
+       <li><a href="/athletics/">Intercollegiate Athletics</a></li> 
+       <li><a href="http://www.extension.ucr.edu/">UCR Extension</a></li> 
+       <li><a class="external" href="http://www.gftpln.org/Home.do?orgId=6404">Planned Giving</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="//www.ucr.edu/"><span>UCR Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="//www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="//www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="//www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="//www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="//www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="//www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="//www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/giving/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="//www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="//www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>&copy; 2014 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01189&amp;site=giving&amp;path=%2Findex.html">Last modified: 2014-Feb-25</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.161684 seconds using 1.50 MiB of memory. -->   
+ </body>
+</html><!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>Giving to UCR</title> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+  <!--[if IE]><![endif]--> 
+  <meta http-equiv="last-modified" content="2014-02-25" /> 
+  <meta name="version" content="2.64 2.146 " /> 
+  <!-- 03/11/14 15:03:40 03/11/14 15:50:18 --> 
+  <!--link rel="stylesheet" type="text/css" href="/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/narrow6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/sifr.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="/min/g=6bis-bluea-narrow" media="all" /> 
+  <!--link rel="stylesheet" type="text/css" href="/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="/min/f=css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/giving/css/local.css" media="all" /> 
+  <link href="//fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css" /> 
+  <script type="text/javascript" src="/min/g=js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="/css/ie6-narrow6.css" media="all" />
+<script defer type="text/javascript" src="/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/css/ie7.css" media="all" />
+<script type="text/javascript" src="/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+  <link rel="alternate" type="application/rss+xml" title="Subscribe to UCR Today via RSS" href="http://ucrtoday.ucr.edu/feed" /> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://www.ucr.edu/giving/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr /> 
+  </div> 
+  <div id="masthead_home" style="background-image:url(/images/design6/mastheads/masthead03.jpg);"> 
+   <h1><a href="//www.ucr.edu/"><span class="printonly">UC Riverside</span></a></h1> 
+   <div class="pagewrapper"> 
+    <div id="search"> 
+     <div id="nav_utility"> 
+      <ul> 
+       <li><a href="//www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+       <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+       <li><a href="//www.ucr.edu/find_people.php">Find People</a></li> 
+      </ul> 
+     </div> 
+     <form id="searchbox" action="//www.ucr.edu/search.php">
+      <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+     </form> 
+     <script type="text/javascript" src="//www.ucr.edu/js/watermark.js"></script> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="nav_main"> 
+   <h2 class="accessibility">Campuswide Navigation</h2> 
+   <ul>
+    <li><a id="nav_main_home" href="http://www.ucr.edu/"><span>UCR Home</span></a></li>
+    <li><a id="nav_main_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+    <li><a id="nav_main_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+    <li><a id="nav_main_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+    <li><a id="nav_main_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+    <li><a id="nav_main_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+    <li><a id="nav_main_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+    <li><a class="active" id="nav_main_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+   </ul> 
+  </div> 
+  <div id="nav_audience"> 
+   <h2 class="accessibility">Audience Navigation</h2> 
+   <ul>
+    <li><a id="nav_audience_future" href="http://www.ucr.edu/future/" title="For Prospective Students"><span>Prospective Students</span></a></li>
+    <li><a id="nav_audience_students" href="http://www.ucr.edu/students/" title="For Current Students"><span>Current Students</span></a></li>
+    <li><a id="nav_audience_parents" href="http://www.ucr.edu/parents/" title="For Parents"><span>Parents</span></a></li>
+    <li><a id="nav_audience_faculty" href="http://www.ucr.edu/faculty/" title="For Faculty"><span>Faculty</span></a></li>
+    <li><a id="nav_audience_staff" href="http://www.ucr.edu/staff/" title="For Staff"><span>Staff</span></a></li>
+    <li><a id="nav_audience_alumni" href="http://www.ucr.edu/alumni/" title="For Alumni"><span>Alumni</span></a></li>
+    <li><a id="nav_audience_friends" href="http://www.ucr.edu/friends/" title="For Friends"><span>Friends</span></a></li>
+    <li><a id="nav_audience_industry" href="http://www.ucr.edu/industry/" title="For Industry"><span>Industry</span></a></li>
+    <li><a id="nav_audience_media" href="http://www.ucr.edu/media/" title="For Media"><span>Media</span></a></li>
+   </ul> 
+  </div> 
+  <hr /> 
+  <!--[if lte IE 6]>
+<div class="pagewrapper">
+	<div style="margin-bottom: 1.5em;">
+		<h5 style="color: #b00; margin: .5em 15em 0">You appear to be using an outdated version of Internet Explorer. We are sorry, but your browser is no longer
+			supported. Please upgrade to a modern browser:</h5>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://getfirefox.com" class="external" title="external site: Mozilla Foundation">Firefox</a></li>
+				<li><a href="http://www.opera.com/browser/" class="external" title="external site: Opera Software">Opera</a></li>
+			</ul>
+		</div>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://www.microsoft.com/windows/internet-explorer/" class="external" title="external site: Microsoft">Internet Explorer 8</a></li>
+				<li><a href="http://www.apple.com/safari/" class="external" title="external site: Apple Inc.">Safari</a></li>
+			</ul>
+		</div>
+		<div class="column49R">
+			<ul class="tight">
+				<li><a href="http://www.google.com/chrome" class="external" title="external site: Google">Google Chrome</a></li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<![endif]--> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="//www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li class="lastitem">Giving to UCR</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <hr /> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2 class="long">Giving to UCR</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li class="currentpage"><h3><dfn>Current page is: </dfn>Giving Home</h3></li>
+       <li><a href="/giving/how.html" title="How to Give to UCR">How to Give to UCR<br /><span>The donation options available to you</span></a></li>
+       <li><a href="/giving/areas-support.html" title="Areas to Support">Areas to Support<br /><span>Areas and opportunities for giving</span></a></li>
+       <li><a href="/giving/impact.html" title="The Impact of Giving">The Impact of Giving<br /><span>Stories of donors and recipients</span></a></li>
+       <li><a href="/giving/foundation_relations/" title="Foundation Relations">Foundation Relations<br /><span>Grant writing and support services</span></a></li>
+       <li><a href="/giving/gift_planning.html" title="Gift Planning">Gift Planning<br /><span>Securing UCR's future</span></a></li>
+       <li><a href="/giving/ucr_foundation.html" title="UCR Foundation">UCR Foundation<br /><span>Investing in our future</span></a></li>
+       <li><a href="/giving/staff-directory.html" title="Staff Directory">Staff Directory<br /><span>Directory and organization chart</span></a></li> 
+      </ul> 
+     </div> 
+     <p> <a href="https://advancementservices.ucr.edu/GivingForm.aspx" id="l_give_now"><span class="accessibility">Give Now</span></a> </p> 
+    </div> 
+    <hr /> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <div class="glider" id="my-glider"> 
+      <div class="scroller"> 
+       <div class="content"> 
+        <div class="slide" id="slide1"> 
+         <img src="/giving/images/home_gallery_01.jpg" alt=" Students at The HUB" width="464" height="174" /> 
+         <h3>Giving to UCR: An Investment in the Future</h3> 
+         <p> UC Riverside serves the region and state as an active partner, leader and citizen. It is a place of educational excellence with a record of innovation and a reputation for creating actionable solutions. Your gift to the university doesn't just help the individual, but is an investment in the future of our community, our state and our world. </p> 
+        </div> 
+        <div class="slide" id="slide2"> 
+         <img src="/giving/images/home_gallery_02.jpg" alt=" Research Students" width="464" height="174" /> 
+         <h3>Giving to UCR: An Investment in the Future</h3> 
+         <p> UC Riverside serves the region and state as an active partner, leader and citizen. It is a place of educational excellence with a record of innovation and a reputation for creating actionable solutions. Your gift to the university doesn't just help the individual, but is an investment in the future of our community, our state and our world. </p> 
+        </div> 
+        <div class="slide" id="slide3"> 
+         <img src="/giving/images/home_gallery_03.jpg" alt=" Amanda Martinez" width="464" height="174" /> 
+         <h3>Giving to UCR: An Investment in the Future</h3> 
+         <p> UC Riverside serves the region and state as an active partner, leader and citizen. It is a place of educational excellence with a record of innovation and a reputation for creating actionable solutions. Your gift to the university doesn't just help the individual, but is an investment in the future of our community, our state and our world. </p> 
+        </div> 
+        <div class="slide" id="slide4"> 
+         <img src="/giving/images/home_gallery_04.jpg" alt="Researchers" width="464" height="174" /> 
+         <h3>Giving to UCR: An Investment in the Future</h3> 
+         <p> UC Riverside serves the region and state as an active partner, leader and citizen. It is a place of educational excellence with a record of innovation and a reputation for creating actionable solutions. Your gift to the university doesn't just help the individual, but is an investment in the future of our community, our state and our world. </p> 
+        </div> 
+        <div class="slide" id="slide5"> 
+         <img src="/giving/images/home_gallery_05.jpg" alt="Mr. Dwight Tate and Dr. Katherine Wright" width="464" height="174" /> 
+         <h3>Giving to UCR: An Investment in the Future</h3> 
+         <p> UC Riverside serves the region and state as an active partner, leader and citizen. It is a place of educational excellence with a record of innovation and a reputation for creating actionable solutions. Your gift to the university doesn't just help the individual, but is an investment in the future of our community, our state and our world. </p> 
+        </div> 
+       </div> 
+      </div> 
+      <a class="previous" href="#" onclick="my_glider.previous();return false;" title="Previous">Previous</a> 
+      <ul class="controls"> 
+       <li><a class="active" title="Students at The HUB" href="#slide1"><img src="/giving/images/thumb_home_gallery_01.png" alt=" " width="68" height="48" /></a></li> 
+       <li><a title="Research Students" href="#slide2"><img src="/giving/images/thumb_home_gallery_02.png" alt=" " width="68" height="48" /></a></li> 
+       <li><a title="Amanda Martinez" href="#slide3"><img src="/giving/images/thumb_home_gallery_03.png" alt="  " width="68" height="48" /></a></li> 
+       <li><a title="Researchers" href="#slide4"><img src="/giving/images/thumb_home_gallery_04.png" alt=" " width="68" height="48" /></a></li> 
+       <li><a title="Mr. Dwight Tate and
+Dr. Katherine Wright" href="#slide5"><img src="/giving/images/thumb_home_gallery_05.png" alt=" " width="68" height="48" /></a></li> 
+      </ul> 
+      <a class="next" href="#" onclick="my_glider.next();return false" title="Next">Next</a> 
+     </div> 
+     <script type="text/javascript">// <![CDATA[
+var my_glider;
+
+$LAB.script("/min/f=js/glider.js").wait(function(){
+    my_glider = new Glider('my-glider', {duration:0.5});
+});
+// ]]></script> 
+     <h3><img class="img_R" src="/giving/images/gabbert.jpg" alt="Judge John Gabbert" width="141" height="173" /><img src="/giving/images/ttl-makegift-gabbert.png" alt=" " width="320" height="85" /><span class="accessibility">Make a Gift to the Judge John Gabbert CUC Endowed Scholarship Fund</span></h3> 
+     <p>In recognition of the Honorable John G. Gabbert, one of Riverside’s most prominent citizens and a key founder of UC Riverside, the Citizens University Committee established an endowed scholarship in his name to provide scholarships to UCR students from the Inland area. In celebration of his life and to honor his recent passing, the family has requested donations be made to the Judge John Gabbert CUC Endowed Scholarship Fund.</p> 
+     <ul class="l_info_links l_narrow_bar"> 
+      <li><a href="https://advancementservices.ucr.edu/AdvanceOnlineGiving/search?key=The+Judge+John+Gabbert+CUC+Endowed+Scholarship+Fund">Join in and make a gift.</a></li> 
+      <li><a href="http://ucrtoday.ucr.edu/19527">Read the story</a></li> 
+     </ul> 
+     <div class="clear"></div> 
+     <h4 class="section2"><img class="img_L_borderless" src="/giving/images/ttl_help_mission.png" alt="How You Help Our Mission" width="155" height="129" />How You Help Our Mission</h4> 
+     <p>The mission of the University of California, Riverside is to serve the needs and enhance the quality of life of the diverse people of California, the nation and the world through knowledge. Your gifts to the university, regardless of the area you choose to support, make a tremendous difference and help the students, staff and faculty at UCR make a positive impact on society.</p> 
+     <h4>Where Does the Money Go?<img class="img_R_borderless" src="/giving/images/ttl_money_go.png" alt="Where Does The Money Go?" width="167" height="112" /></h4> 
+     <p>Your donation can support the area that best represents your philanthropic interests. Whether it is a gift to a specific college, school or program, support for scholarships or fellowships, capital projects, faculty research, or a donation to the general fund, there is an area where your gift will make a difference. </p> 
+     <ul class="l_info_links"> 
+      <li><a href="https://advancementservices.ucr.edu/Givingform.aspx">Make a donation to UCR now through our online giving form.</a></li> 
+      <li><a href="/giving/areas-support.html">Learn about some of the areas that you can support.</a></li> 
+     </ul> 
+     <div class="l_gifted_box"> 
+      <img class="border_image_top" src="/giving/images/design6/gifted_box_top_shadow.png" alt=" " width="484" height="3" /> 
+      <h3><img src="/giving/images/ttl_who_gives_to.png" alt=" " width="461" height="82" /><span class="accessibility">Who Gives To UCR? People Like You</span></h3> 
+      <div class="column2"> 
+       <p><img class="img_L" src="/giving/images/who_gives_norman.jpg" alt="Dr. Anthony Norman and Dr. Helen Henry" width="99" height="50" /><a href="/giving/why.html#norman">Dr. Anthony Norman and<br /> Dr. Helen Henry</a></p> 
+       <div class="clear"></div> 
+       <p><img class="img_L" src="/giving/images/who_gives_small.jpg" alt="Richard and Laura Small" width="99" height="50" /><a href="/giving/donor_small.html">Richard and<br />Laura Small</a></p> 
+      </div> 
+      <div class="column2R"> 
+       <p><img class="img_L" src="/giving/images/who_gives_bilderback.jpg" alt="Fran Bilderback" width="99" height="50" /><a href="/giving/donor_bilderback.html">Fran Bilderback</a></p> 
+       <div class="clear"></div> 
+       <p><img class="img_L" src="/giving/images/who_gives_blumenthal.jpg" alt="Virginia Blumenthal" width="99" height="50" /><a href="/giving/donor_blumenthal.html">Virginia Blumenthal</a></p> 
+      </div> 
+      <div class="clear"></div> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+   </div> 
+   <!-- End Content Area --> 
+   <div class="clear"></div> 
+  </div> 
+  <!-- End Content -->  
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://library.ucr.edu/']);">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://campusstatus.ucr.edu/']);">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://campusstore.ucr.edu/']);">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://www.ucr.edu/employment.html']);">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://diversity.ucr.edu/']);">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://www.ucr.edu/about/directions.html']);">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://admissions.ucr.edu/VisitUCR']);">Visit UCR</a></li> 
+      </ul> 
+      <!-- Generated in 0.021497 seconds using 768 KiB of memory. --> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <address><strong>Office of Development</strong><br /> <a href="http://campusmap.ucr.edu/campusMap.php?loc=HINHL" title="Campus Map">1100 Hinderaker Hall</a><br /><br /> Tel: (951) 827-5611<br /> Fax: (951) 827-7311</address> 
+      <ul class="footer_links"> 
+       <li><a id="footer_link_facebook" class="footer_link_icon" href="http://www.facebook.com/UCRiverside" title="external site: Facebook">Visit UCR's Facebook page</a></li> 
+       <li><a id="footer_link_twitter" class="footer_link_icon" href="http://twitter.com/UCRiverside" title="external site: Twitter">Follow UCR on Twitter</a></li> 
+       <li><a id="footer_link_youtube" class="footer_link_icon" href="http://www.youtube.com/UCRiverside" title="external site: YouTube">Visit UCR's YouTube channel</a></li> 
+       <li><a id="footer_link_rss" class="footer_link_icon" href="http://ucrtoday.ucr.edu/feed">Subscribe to UCR Today via RSS</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="/alumni/">Alumni</a></li> 
+       <li><a href="/research/">UCR Research</a></li> 
+       <li><a href="/athletics/">Intercollegiate Athletics</a></li> 
+       <li><a href="http://www.extension.ucr.edu/">UCR Extension</a></li> 
+       <li><a class="external" href="http://www.gftpln.org/Home.do?orgId=6404">Planned Giving</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="//www.ucr.edu/"><span>UCR Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="//www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="//www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="//www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="//www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="//www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="//www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="//www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/giving/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="//www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="//www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>&copy; 2014 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01189&amp;site=giving&amp;path=%2Findex.html">Last modified: 2014-Feb-25</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.077975 seconds using 1.50 MiB of memory. -->   
+ </body>
+</html><!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>School of Medicine: The Thomas Haider Program at the UCR School of Medicine</title> 
+  <meta http-equiv="last-modified" content="2012-10-24" /> 
+  <meta name="version" content="2.62 2.134 " /> 
+  <!-- 03/11/14 15:51:36 03/11/14 15:51:36 --> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/g=6bis-bluea-wide" media="all" /> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/f=css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all" /> 
+  <link href="https://fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css" /> 
+  <script type="text/javascript" src="http://www.ucr.edu/min/g=js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+  <link rel="alternate" type="application/rss+xml" title="Subscribe to SoM news via RSS" href="http://ucrtoday.ucr.edu/tag/school-of-medicine/feed" /> 
+  <style type="text/css">.l_contentwrapper { background-image: url(/images/bkgrnd/admissions.jpg) }</style> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://medschool.ucr.edu/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr /> 
+   <div id="brandingbar"> 
+    <h1><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="University of California, Riverside" title="UCR Home page" /></a></h1> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/images/masthead.jpg);"> 
+   <div id="l_search_wrapper"> 
+    <div id="search"> 
+     <div id="nav_utility"> 
+      <ul> 
+       <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+       <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+       <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+      </ul> 
+     </div> 
+     <form id="searchbox" action="http://www.ucr.edu/search.php">
+      <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" size="18" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+     </form> 
+     <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+    </div> 
+   </div> 
+   <h1><a href="http://medschool.ucr.edu/"><span class="printonly">School of Medicine</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr /> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://medschool.ucr.edu/">School of Medicine</a> &gt;</li> 
+    <li class="lastitem">The Thomas Haider Program at the UCR School of Medicine</li> 
+   </ul> 
+  </div> 
+  <div class="l_contentwrapper">
+   <div class="pagewrapper"> 
+    <hr /> 
+    <!-- Start Content (Navigation and Content columns) --> 
+    <div id="content"> 
+     <h2>The Thomas Haider Program at the UCR School of Medicine</h2> 
+     <!-- Start Sidebar --> 
+     <div id="sidebar"> 
+      <div class="nav"> 
+       <h3 class="accessibility">Main Navigation</h3> 
+       <ul> 
+        <li><a href="/" title="Home">Home</a></li>
+        <li class="nav_inline2_last"><h3>For</h3>
+         <ul>
+          <li><a href="/current_students.html" title="Current Medical Students">Current Medical Students</a></li>
+          <li><a href="/future_students.html" title="Future Medical Students">Future Medical Students</a></li>
+          <li><a href="/future_graduate.html" title="Future Graduate Students">Future Graduate Students</a></li>
+          <li><a href="/faculty.html" title="Faculty">Faculty</a></li>
+         </ul></li>
+        <li><a href="/about/" title="About the School of Medicine">About the School of Medicine</a></li>
+        <li><a href="/admissions/" title="Admissions">Admissions</a>
+         <ul>
+          <li class="currentpage"><h3><dfn>Current page is: </dfn>The Thomas Haider Program at the UCR School of Medicine</h3></li>
+          <li><a href="/admissions/incoming_students.html" title="Incoming Medical Students">Incoming Medical Students</a></li>
+          <li><a href="/admissions/financial_aid.html" title="Financial Aid">Financial Aid</a></li>
+         </ul></li>
+        <li><a href="/mep/" title="Medical Education Program">Medical Education Program</a></li>
+        <li><a href="/pipeline_programs.html" title="Student Pipeline Programs">Student Pipeline Programs</a></li>
+        <li><a href="/graduate/" title="Ph.D. Program in Biomedical Sciences">Ph.D. Program in Biomedical Sciences</a></li>
+        <li><a href="/gme/" title="Graduate Medical Education">Graduate Medical Education</a></li>
+        <li><a href="/faculty_research/" title="Our Faculty">Our Faculty</a></li>
+        <li><a href="/giving/" title="Giving to the School of Medicine">Giving to the School of Medicine</a></li>
+        <li><a href="/employment/" title="Employment and Other Interest">Employment and Other Interest</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <hr /> 
+     <!-- End Sidebar --> 
+     <!-- Start Content Area --> 
+     <div id="main"> 
+      <div class="l_upper_section"> 
+       <img src="/images/main/haider.jpg" alt=" " width="700" height="174" /> 
+       <h3>Visionary Support for the UCR School of Medicine</h3> 
+       <p>Dr. Thomas T. Haider and Mrs. Salma Haider have long supported the goal to educate physicians for distinguished medical careers in service to underserved, inland and rural populations.</p> 
+      </div> 
+      <div class="l_lower_section"> 
+       <h3 class="section">An Enduring Tradition</h3> 
+       <p>Built upon the foundation established by the UCR/UCLA Thomas Haider Program in Biomedical Sciences, the new UCR School of Medicine has established the Thomas Haider Program at the UCR School of Medicine. The Haider Program will maintain its original charter to recruit, admit and support students from underrepresented groups who are from UC Riverside.</p> 
+       <p>The Thomas Haider Program at the UCR School of Medicine will continue the tradition of providing a unique pathway into medical school for UCR students, with up to 24 of the 50 seats in the charter class filled by students who attend UCR for at least six consecutive quarters and complete their bachelor’s degree at UCR. Students admitted to the Haider Program will complete all four years of medical school at UCR, with the M.D. degree awarded by UC Riverside.</p> 
+       <h3 class="section">How to Apply</h3> 
+       <p>Students who by the time of UCR graduation have completed at least six consecutive quarters of study at UC Riverside are eligible to apply to the UCR School of Medicine through the <a href="https://www.aamc.org/students/applying/amcas/">American Medical College Application Service&reg; (AMCAS&reg;)</a> and will be placed into the Haider Program applicant pool.</p> 
+       <ul class="l_link_list"> 
+        <li><a href="/admissions/">Learn about the medical school prerequisites</a></li> 
+       </ul> 
+       <h3 class="section3">Program Components</h3> 
+       <p>In addition, the Haider Program will encompass several student pipeline initiatives of the medical school that are designed to assist UCR students interested in a career in medicine.</p> 
+       <ul class="l_hilite_list"> 
+        <li><a href="http://faststart.ucr.edu/">FastStart</a>&nbsp;—&nbsp;for incoming UCR freshmen</li> 
+        <li><a href="http://msp.ucr.edu/">Medical Scholars Program</a>&nbsp;— for UCR undergraduates, including transfer students</li> 
+        <li><a href="http://hpac.ucr.edu/">Health Professions Advising Center</a>&nbsp;— for any UCR undergraduates interested in a career in the&nbsp;medical or health fields</li> 
+        <li><a href="http://postbac.ucr.edu/">Postbaccalaureate Premedical Program</a>&nbsp;— for undergraduate degree holders from UCR</li> 
+       </ul> 
+       <ul class="l_link_list"> 
+        <li><a href="/pipeline_programs.html">Learn about all of the medical school’s student pipeline programs</a></li> 
+       </ul> 
+       <h3 class="section">The UCR/UCLA Thomas Haider Program in Biomedical Sciences</h3> 
+       <p>Applications are no longer being accepted to the UCR/UCLA Thomas Haider Program in Biomedical Sciences. Students currently enrolled in this program will complete Year 1 and Year 2 of their medical education at UCR, then transfer to the David Geffen School of Medicine at UCLA for Years 3 and 4 and earn their M.D. degree from UCLA.</p> 
+       <ul class="l_link_list"> 
+        <li><a href="/about/mission_history.html">Learn more about the history of the program and the UCR School of Medicine</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <!-- End Content Area --> 
+     <div class="clear"></div> 
+    </div> 
+    <!-- End Content --> 
+   </div>
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter alt-1-1-3"> 
+     <div class="column3"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></li> 
+       <li><a href="http://my.ucr.edu/visit/Pages/default.aspx">Visit UCR</a></li> 
+      </ul> 
+     </div> 
+     <div class="column3"> 
+      <h3>School Information</h3> 
+      <address><strong>School of Medicine</strong><br /> <a href="http://campusmap.ucr.edu/campusMap.php?loc=STAT" title="Campus Map">2608 School of Medicine Education Building</a><br /> <br /> Admissions Inquiries: (951) 827-4333<br /> General Inquiries: (951) 827-4568<br /> Fax: (951) 827-7688<br /> E-mail: <a href="mailto:medschool@ucr.edu?subject=Website%20Inquiry">medschool@ucr.edu</a></address> 
+      <ul class="footer_links"> 
+       <li><a id="footer_link_facebook" class="footer_link_icon" href="http://www.facebook.com/UCRiverside" title="external site: Facebook">Visit UCR’s Facebook page</a></li> 
+       <li><a id="footer_link_twitter" class="footer_link_icon" href="http://twitter.com/UCRiverside" title="external site: Twitter">Follow UCR on Twitter</a></li> 
+       <li><a id="footer_link_youtube" class="footer_link_icon" href="http://www.youtube.com/UCRiverside" title="external site: YouTube">Visit UCR’s YouTube channel</a></li> 
+       <li><a id="footer_link_rss" class="footer_link_icon" href="http://ucrtoday.ucr.edu/tag/school-of-medicine/feed">Subscribe to SoM news via RSS</a></li> 
+      </ul> 
+     </div> 
+     <div class="column23R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://biomed.ucr.edu/">UCR/UCLA Thomas Haider Program in Biomedical Sciences</a></li> 
+       <li><a href="http://hpac.ucr.edu/">Health Professions Advising Center</a></li> 
+       <li><a href="http://cgni.ucr.edu/">Center for Glial-Neuronal Interactions</a></li> 
+       <li><a href="http://gme.ucr.edu/">Graduate Medical Education</a></li> 
+      </ul> 
+      <p class="footer_info"> <img src="/images/ucr_footer.jpg" alt="" width="120" height="103" /> <strong>The University of California, Riverside</strong> (<a href="http://www.ucr.edu/">www.ucr.edu</a>) is a doctoral research university, a living laboratory for groundbreaking exploration of issues critical to Inland Southern California, the state and communities around the world. Reflecting California's diverse culture, UCR’s enrollment has exceeded 21,000 students. The campus opened a medical school in 2013 and has reached the heart of the Coachella Valley by way of the UCR Palm Desert Graduate Center. The campus has an annual statewide economic impact of more than $1 billion. </p> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://medschool.ucr.edu/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>&copy; 2012 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D02000&amp;site=medschool&amp;path=%2Fadmissions%2Fhaider_program.html">Last modified: 2012-Oct-24</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.087458 seconds using 2.00 MiB of memory. -->   
+ </body>
+</html><!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>UCR — Living the Promise: Featured Research</title> 
+  <meta http-equiv="last-modified" content="2013-07-01" /> 
+  <meta name="version" content="2.34 1.6 " /> 
+  <!-- 03/11/14 15:51:49 03/11/14 15:51:49 --> 
+  <link rel="stylesheet" type="text/css" href="/css/style.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="/css/navigation.css" media="all" /> 
+  <link href="//fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css" /> 
+  <script type="text/javascript" src="//www.ucr.edu/js/jquery.min.js"></script> 
+  <script type="text/javascript" src="/scripts/navigation.js"></script> 
+  <script type="text/javascript" src="//www.ucr.edu/min/g=js"></script> 
+  <!--[if lte IE 6]>
+<script defer type="text/javascript" src="//www.ucr.edu/pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<script type="text/javascript" src="//www.ucr.edu/fixiequotes.js"></script>
+<style type="text/css">#navigation li {display: inline-block; display: inline;}</style>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+  <link rel="stylesheet" type="text/css" href="/css/featured-research.css" media="all" /> 
+  <!--script type="text/javascript" src="http://www.ucr.edu/js/control.tabs.js"></script--> 
+  <meta name="description" content="" /> 
+ </head> 
+ <body> 
+  <a name="top"></a> 
+  <div class="siteHeaderWrapper"> 
+   <div class="siteHeader"> 
+    <div class="siteLogo"> 
+     <a href="http://www.ucr.edu/" title="UCR Home Page"><img src="images/UCRiverside.gif" alt="University of California, Riverside" title="UCR Home page" /></a> 
+    </div> 
+    <ul id="navigation"> 
+     <li class="highlight"><a href="/">Home</a></li> 
+     <li class="highlight"><a href="about-ucr.html">About UCR</a></li> 
+     <li class="highlight"><a href="featured-research.html">Featured Research</a></li> 
+     <li class="highlight"><a href="partner-with-us.html">Partner With Us</a></li> 
+     <li class="highlight"><a href="events-and-media.html">Events &amp; Media</a></li> 
+     <li class="highlight"><a href="featured-videos.html">Featured Videos</a></li> 
+    </ul> 
+   </div> 
+  </div> 
+  <div class="contentWrapperBGSpan"> 
+   <div class="contentWrapperBG"> 
+    <div class="contentWrapper"> 
+     <!-- Start Content (Navigation and Content columns) --> 
+     <div class="pageHeader"> 
+      <div class="logo">
+       <a href="/"><img src="images/logo-living-the-promise.png" alt="Living the Promise" /></a>
+      </div> 
+      <div class="secondayMenu"> 
+       <!-- Start Sidebar --> 
+       <ul class="secondaryMenu"> 
+        <li><a href="/health.html" title="Health">Health</a></li>
+        <li><a href="/sustainability.html" title="Sustainability">Sustainability</a></li>
+        <li><a href="/policy.html" title="Policy">Policy</a></li>
+        <li><a href="/technology.html" title="Technology">Technology</a></li> 
+       </ul> 
+       <!-- End Sidebar --> 
+      </div> 
+     </div> 
+     <div id="main"> 
+      <div class="hiddenH1"> 
+      </div> 
+      <div id="omnicontent"> 
+       <div class="pageBanner"> 
+        <h1> <img src="/images/page-hdr-featured-research.gif" alt="Featured Research. 
+Innovative Thinking. Breakthrough Research. Real-World Solutions." /> </h1> 
+       </div> 
+       <div class="pageContent"> 
+        <p>UC Riverside embodies the historic and contemporary promise of the Golden State by serving as an incubator of new knowledge and a catalyst for breakthroughs in many of today’s most relevant fields. As a leader, partner, source of innovation, and developer of solutions, we share that promise with our community, our region, our nation and the world.</p> 
+        <h2>HEALTH</h2> 
+        <ul class="texttab-control"> 
+         <li><a href="#tab2_carson">Neuroimmunology</a></li> 
+         <li><a href="#tab2_lyubomirsky">Happiness</a></li> 
+         <li><a href="#tab2_wang">DNA Repair</a></li> 
+         <li><a href="#tab2_walker">Improving Immunity</a></li> 
+         <li><a href="#tab2_bioeng">Bioengineering</a></li> 
+        </ul> 
+        <div id="tab2_carson"> 
+         <div class="texttab-column">
+           More than 5 million Americans are living with Alzheimer’s disease today. As the nation’s population of aging Baby Boomers increases, the rates for this and other neurodegenerative diseases are skyrocketing. 
+          <br />
+          <br /> Monica Carson’s research looks at the way the brain and immune system interact in both health and disease. Until recently, the brain and immune systems were believed to be completely separate and non-interacting in healthy individuals. In fact, interactions of any kind between these two systems were believed to be a major cause of neurodegenerative and neurologic diseases. However, her research finds that not only do the brain and immune system interact from infancy to old age, it’s imperative that these two systems constantly “play well” together to maintain brain health. With this knowledge, we can gain a better understanding of how to treat diseases like Alzheimer’s and neurodevelopmental disorders like autism.
+          <br /> 
+          <a class="exploreMore" href="/health.html">Explore More</a> 
+          <br />
+          <br /> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/health/profile-Monica-Carson-thumb.jpg" alt="Monica Carson" width="63" height="63" /> 
+           <strong>Monica Carson</strong>
+           <br /> Associate Professor of Biomedical Sciences
+           <br /> Exploring Early Alzheimer’s Detection
+           <br /> 
+           <strong><a href="/profile-health-carson.html">View Profile</a></strong> 
+          </div> 
+         </div> 
+        </div> 
+        <div id="tab2_lyubomirsky"> 
+         <div class="texttab-column">
+           Sonja Lyubomirsky’s research addresses three critical questions: “What makes people happy?” “Is happiness a good thing?” and “How and why can people learn to lead happier and more flourishing lives?” Her research has been awarded a Templeton Positive Psychology Prize, a Science of Generosity grant, a John Templeton Foundation grant, and a million-dollar grant (with Ken Sheldon) from the National Institute of Mental Health to conduct research on the possibility of permanently increasing happiness.
+          <br /> 
+          <a class="exploreMore" href="/health.html">Explore More</a> 
+          <br />
+          <br /> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/health/profile-Sonja-Lyubomirsky-thumb.jpg" alt="Sonja Lyubomirsky" width="63" height="63" /> 
+           <strong>Sonja Lyubomirsky</strong>
+           <br /> Professor of Psychology
+           <br /> Increasing Happiness
+           <br /> 
+           <strong><a href="/profile-health-lyubomirsky.html">View Profile</a></strong> 
+          </div> 
+         </div> 
+        </div> 
+        <div id="tab2_wang"> 
+         <div class="texttab-column">
+           Focusing on combining chemistry and biology tools to understand the biological consequences of DNA damage, how DNA damage is repaired, and how it compromises the flow of genetic information, research development in lab of UC Riverside’s Yinsheng Wang could lead to development of new and effective drugs to treat cancer. Wang is the Director of the Environmental Toxicology Graduate Program and was named the winner of the inaugural Chemical Research in Toxicology Young Investigator Award and 2013 Biemann Medal.
+          <br /> 
+          <a class="exploreMore" href="/health.html">Explore More</a> 
+          <br />
+          <br /> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/health/profile-Yinsheng-Wang-thumb.jpg" alt="Yinsheng Wang" width="63" height="63" /> 
+           <strong>Yinsheng Wang</strong>
+           <br /> Professor of Chemistry
+           <br /> Understanding DNA Repair to Develop New Cancer Treatments
+           <br /> 
+           <strong><a href="/profile-health-wang.html">View Profile</a></strong> 
+          </div> 
+         </div> 
+        </div> 
+        <div id="tab2_walker"> 
+         <div class="texttab-column">
+           Because babies grow well on formula, the benefits of breast-feeding are not immediately apparent. Long-term studies are beginning to show a higher incidence of disease—including asthma and diabetes—among patients who were fed formula as infants. However, the cellular and biological mechanisms are not yet well understood. By shedding light on how immune systems function, Dr. Walker contributes new knowledge in the fight to improve human health.
+          <br /> 
+          <a class="exploreMore" href="/health.html">Explore More</a> 
+          <br />
+          <br /> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/health/profile-Ameae-Walker-thumb.jpg" alt="Ameae Walker" width="63" height="63" /> 
+           <strong>Ameae Walker</strong>
+           <br /> Chair, Faculty of Biomedical Sciences
+           <br /> Improving Immunity
+           <br /> 
+           <strong><a href="/profile-health-walker.html">View Profile</a></strong> 
+          </div> 
+         </div> 
+        </div> 
+        <div id="tab2_bioeng"> 
+         <div class="texttab-column">
+           Bioengineers turn science into technologies that improve our quality of life in innumerable ways. Because a living organism is a complex interactive matrix of chemistry, physics, biology and mechanics, bioengineers (sometimes called biomedical engineers) specialize in using scientific principles from these and other diverse fields to solve problems in health care and medicine.
+          <br /> 
+          <a class="exploreMore" href="/health.html">Explore More</a> 
+          <br />
+          <br /> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/health/profile-Jerry-Schultz-thumb.jpg" alt="Jerome Schultz" /> 
+           <strong>Jerome Schultz</strong>
+           <br /> Distinguished Professor of Bioengineering
+           <br /> Bioengineering
+           <br /> 
+           <strong><a href="/profile-health-schultz.html">View Profile</a></strong> 
+          </div> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/health/profile-David-Lo-thumb.jpg" alt="David Lo" /> 
+           <strong>David Lo</strong>
+           <br /> Distinguished Professor of Biomedical Sciences
+           <br /> Needle-free Drug Delivery
+           <br /> 
+           <strong><a href="/profile-health-lo.html">View Profile</a></strong> 
+          </div> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/health/profile-Jiayu-Liao-thumb.jpg" alt="Jiayu Liao" /> 
+           <strong>Jiayu Liao</strong>
+           <br /> Assistant Professor of Bioengineering
+           <br /> Drug Discovery/ Diabetes
+           <br /> 
+           <strong><a href="/profile-health-liao.html">View Profile</a></strong> 
+          </div> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/health/profile-Devin-Binder-thumb.jpg" alt="Devin Binder" /> 
+           <strong>Devin Binder</strong>
+           <br /> Assistant Research Scientist
+           <br /> Biomedical Sciences
+           <br /> Traumatic Brain Injury
+           <br /> 
+           <strong><a href="/profile-health-binder.html">View Profile</a></strong> 
+          </div> 
+          <div class="clear"></div> 
+          <p><a class="img_link" href="/health-bioeng.html"><img src="/images/bttn_watch_center_video.png" alt="Watch center video" width="178" height="30" /></a></p> 
+         </div> 
+        </div> 
+        <div class="texttab-column-bottom">
+          Archived Research ? 
+         <ul class="inline"> 
+          <li><a href="/featured-research-12.html#tab2_friedman">Longevity</a></li> 
+          <li><a href="/featured-research-12.html#tab2_harvey">Global Health</a></li> 
+          <li><a href="/featured-research-11.html#tab2_3">Neuroscience</a></li> 
+          <li><a href="/featured-research-11.html#tab2_4">Peptides/Proteins</a></li> 
+          <li><a href="/featured-research-11.html#tab2_5">Doctor-Patient Communication</a></li> 
+          <li><a href="/featured-research-10.html#tab2_1">Disease Vector Research</a></li> 
+          <li> <a href="/featured-research-10.html#tab2_2">Wound Care</a> </li> 
+          <li> <a href="/featured-research-10.html#tab2_3">One Health: UC Health Institute</a> </li> 
+          <li> <a href="/featured-research-10.html#tab2_4">School of Medicine</a> </li> 
+          <li> <a href="/featured-research-10.html#tab2_5">Air Quality</a> </li> 
+         </ul> 
+        </div> 
+        <br />
+        <br /> 
+        <h2>SUSTAINABILITY</h2> 
+        <ul class="texttab-control"> 
+         <li><a href="#tab1_roose">Crop Improvement</a></li> 
+         <li><a href="#tab1_asa-awuku">Air Quality</a></li> 
+         <li><a href="#tab1_tsutsui">Food Supply</a></li> 
+         <li><a href="#tab1_kisailus">Nanofabrication</a></li> 
+         <li><a href="#tab1_cisr">Invasive Species</a></li> 
+        </ul> 
+        <div id="tab1_roose"> 
+         <div class="texttab-column">
+           As a member of the Agriculture Experiment Station, Mikeal Roose’s responsibility is to conduct research that improves the sustainability of the agriculture industry in California and to provide consumers with products that improve their health. By developing fruit such as the Tango that is flavorful, attractive and has few seeds, the goal is to encourage greater consumption of these fruits, ultimately benefiting the health of consumers.
+          <br /> 
+          <a class="exploreMore" href="/sustainability.html">Explore More</a> 
+          <br />
+          <br /> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/sustainability/profile-Mikeal-Roose-thumb.jpg" alt="Mikeal Roose" width="63" height="63" /> 
+           <strong>Mikeal Roose</strong>
+           <br /> Chair and Professor of Genetics &amp; Geneticist
+           <br /> Protecting California’s Commercial Citrus Industry
+           <br /> 
+           <strong><a href="/profile-sustainability-roose.html">View Profile</a></strong> 
+          </div> 
+         </div> 
+        </div> 
+        <div id="tab1_asa-awuku"> 
+         <div class="texttab-column">
+           Working in the world’s largest indoor air quality chamber, Akua Asa-Awuku looks at particle formation in the atmosphere and how it interacts with water, affecting cloud formation and global climate change.
+          <br /> 
+          <a class="exploreMore" href="/sustainability.html">Explore More</a> 
+          <br />
+          <br /> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/sustainability/profile-Akua-Asa-Awuku-thumb.jpg" alt="Akua Asa-Awuku" width="63" height="63" /> 
+           <strong>Akua Asa-Awuku</strong>
+           <br /> Assistant Professor of Chemical &amp; Environmental Engineering
+           <br /> Improving Air Quality
+           <br /> 
+           <strong><a href="/profile-sustainability-asa-awuku.html">View Profile</a></strong> 
+          </div> 
+         </div> 
+        </div> 
+        <div id="tab1_tsutsui"> 
+         <div class="texttab-column">
+           In his lab, Hideaki Tsutsui develops tools and technology to fabricate biosensors on plant leaves. The idea is make an easy-to-read sensor on leaves of food crops such as corn, rice and cassava so that farmers can quickly identify when their crops are in danger. Such a low-cost, easy-to-use technology is especially important for smallholder farmers in the developing world such as sub-Saharan Africa, where resources do not exist to buy costly fertilizers, pesticides, or herbicides to protect their source of food and income.
+          <br /> 
+          <a class="exploreMore" href="/sustainability.html">Explore More</a> 
+          <br />
+          <br /> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/sustainability/profile-Hideaki-Tsutsui-thumb.jpg" alt="Hideaki Tsutsui" width="63" height="63" /> 
+           <strong>Hideaki Tsutsui</strong>
+           <br /> Assistant Professor of Mechanical Engineering
+           <br /> Developing Cost-Effective Biosensors for Crops
+           <br /> 
+           <strong><a href="/profile-sustainability-tsutsui.html">View Profile</a></strong> 
+          </div> 
+         </div> 
+        </div> 
+        <div id="tab1_kisailus"> 
+         <div class="texttab-column">
+           By studying and emulating the structures and strategies that sea creatures such as urchins, corals and abalone use to create their shapes and forms, Prof. Kisailus and his team nanoengineer new materials with exceptional properties of strength and energy storage. He creates flexible, light-weight and nearly indestructible materials that can be used for body armor, aircraft and vehicles.
+          <br /> 
+          <a class="exploreMore" href="/sustainability.html">Explore More</a> 
+          <br />
+          <br /> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/sustainability/profile-David-Kisailus-thumb.jpg" alt="David Kisailus" width="63" height="63" /> 
+           <strong>David Kisailus</strong>
+           <br /> Winston Chung Professor of Energy Innovation
+           <br /> Nanofabrication
+           <br /> 
+           <strong><a href="/profile-sustainability-kisailus.html">View Profile</a></strong> 
+          </div> 
+         </div> 
+        </div> 
+        <div id="tab1_cisr"> 
+         <div class="texttab-column">
+           The unique climate and geography of California provides diverse ecosytems which are perfect for the establishment of a diverse variety of destructive pests that threaten agricultural and other interests. Leading researchers with UCR’s Center for Invasive Species Research determine how pests enter California, where invading populations came from and how to combat and contain them.
+          <br /> 
+          <a class="exploreMore" href="/sustainability.html">Explore More</a> 
+          <br />
+          <br /> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/sustainability/profile-Mark-Hoddle-thumb.jpg" alt="Mark Hoddle" /> 
+           <strong>Mark Hoddle</strong>
+           <br /> Director, Center for Invasive Species Research
+           <br /> Red Palm Weevil
+           <br /> 
+           <strong><a href="/profile-sustainability-hoddle.html">View Profile</a></strong> 
+          </div> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/sustainability/profile-Elizabeth-Grafton-Cardwell-thumb.jpg" alt="Elizabeth Grafton-Cardwell" /> 
+           <strong>Elizabeth Grafton-Cardwell</strong>
+           <br /> Director, Lindcove Research &amp; Extension Center
+           <br /> Citrus Pest Management
+           <br /> 
+           <strong><a href="/profile-sustainability-grafton-cardwell.html">View Profile</a></strong> 
+          </div> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/sustainability/profile-Tim-Paine-thumb.jpg" alt="Tim Paine" /> 
+           <strong>Tim Paine</strong>
+           <br /> Professor of Entomology
+           <br /> Ash Whitefly
+           <br /> 
+           <strong><a href="/profile-sustainability-paine.html">View Profile</a></strong> 
+          </div> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/sustainability/profile-Tom-Perring-thumb.jpg" alt="Tom Perring" width="63" height="63" />
+           <strong>Tom Perring</strong>
+           <br /> Professor of Entomology
+           <br /> Date Palm Industry
+           <br /> 
+           <strong><a href="/profile-sustainability-perring.html">View Profile</a></strong> 
+          </div> 
+          <div class="clear"></div> 
+          <p><a class="img_link" href="/sustainability-cisr.html"><img src="/images/bttn_watch_center_video.png" alt="Watch center video" width="178" height="30" /></a></p> 
+         </div> 
+        </div> 
+        <div class="texttab-column-bottom">
+          Archived Research ? 
+         <ul class="inline"> 
+          <li><a href="/featured-research-12.html#tab1_santiago">Climate Change</a></li> 
+          <li><a href="/featured-research-12.html#tab1_judelson">Agriculture</a></li> 
+          <li><a href="/featured-research-11.html#tab1_2">Green Chemistry</a></li> 
+          <li><a href="/featured-research-11.html#tab1_3">Water Policy</a></li> 
+          <li> <a href="/featured-research-10.html#tab1_1">Plant Cell Biology</a> </li> 
+          <li> <a href="/featured-research-10.html#tab1_2">Conservation Biology</a> </li> 
+          <li> <a href="/featured-research-10.html#tab1_3">Solar Energy</a> </li> 
+         </ul> 
+        </div> 
+        <br />
+        <br /> 
+        <h2>POLICY</h2> 
+        <ul class="texttab-control"> 
+         <li><a href="#tab4_droser">Climate Science</a></li> 
+         <li><a href="#tab4_clark">Eyewitness Testimony</a></li> 
+         <li><a href="#tab4_ramakrishnan">Asian Immigration Reform</a></li> 
+         <li><a href="#tab4_cranor">Legal Reforms</a></li> 
+         <li><a href="#tab4_gsoe">K12 &amp; Higher Education</a></li> 
+        </ul> 
+        <div id="tab4_droser"> 
+         <div class="texttab-column">
+           As one of the biggest issues facing society today, climate change will have adverse effects on everything from sea level rise that will impact coastal communities to economic implications in the wake of disasters such as Hurricane Sandy, as well as disturbing food resources in cases of droughts and extreme weather circumstances. Addressing this global economic problem, Mary Droser’s program bridges the gap between what scientists understand and what communities and citizens know, creating seamless climate change education in the Riverside community from kindergarten through UC Riverside graduates.
+          <br /> 
+          <a class="exploreMore" href="/policy.html">Explore More</a> 
+          <br />
+          <br /> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/policy/profile-Mary-Droser-thumb.jpg" alt="Mary Droser" width="63" height="63" /> 
+           <strong>Mary Droser</strong>
+           <br /> Professor of Geology
+           <br /> Sharing Climate Science with K-12 Students
+           <br /> 
+           <strong><a href="/profile-policy-droser.html">View Profile</a></strong> 
+          </div> 
+         </div> 
+        </div> 
+        <div id="tab4_clark"> 
+         <div class="texttab-column">
+           Clark has consulted extensively with law enforcement and prosecuting and defense attorneys on matters of eyewitness identification and criminal justice policy. His current research examines the costs and benefits of eyewitness identification reforms, and the interface between social science and public policy.
+          <br /> 
+          <a class="exploreMore" href="/policy.html">Explore More</a> 
+          <br />
+          <br /> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/policy/profile-Steven-Clark-thumb.jpg" alt="Steven Clark" width="63" height="63" /> 
+           <strong>Steven Clark</strong>
+           <br /> Professor of Psychology
+           <br /> Increasing the Accuracy of Eyewitness Testimony
+           <br /> 
+           <strong><a href="/profile-policy-clark.html">View Profile</a></strong> 
+          </div> 
+         </div> 
+        </div> 
+        <div id="tab4_ramakrishnan"> 
+         <div class="texttab-column">
+           Karthick Ramakrishnan’s research pertains to civic engagement and immigration – the ways in which immigrants of different racial groups and generations are involved in American democracy, their opinions, and their policy priorities. As Director of the Immigration Research Group at UC Riverside, Ramakrishnan also looks at developments in immigration policy, nationally as well in various states and localities. He is also the Director of the National Asian American Survey, which provides an ongoing window into the policy attitudes and civic participation of Asian Americans.
+          <br /> 
+          <a class="exploreMore" href="/policy.html">Explore More</a> 
+          <br />
+          <br /> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/policy/profile-Karthick-Ramakrishnan-thumb.jpg" alt="Karthick Ramakrishnan" width="63" height="63" /> 
+           <strong>Karthick Ramakrishnan</strong>
+           <br /> Associate Professor of Political Science
+           <br /> Empowering Asian Immigration Reforms
+           <br /> 
+           <strong><a href="/profile-policy-ramakrishnan.html">View Profile</a></strong> 
+          </div> 
+         </div> 
+        </div> 
+        <div id="tab4_cranor"> 
+         <div class="texttab-column">
+           Today the average American is exposed to more than 80,000 toxic industrial compounds from the use of everyday products. In his most recent book, “Legally Poisoned,” Prof. Cranor advocates for significant, immediate changes in U.S. regulatory and public health laws so that testing of chemicals and nanoengineered materials is required before they can be used in the manufacturing and sale of products.
+          <br /> 
+          <a class="exploreMore" href="/policy.html">Explore More</a> 
+          <br />
+          <br /> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/policy/profile-Carl-Cranor-thumb.jpg" alt="Carl Cranor" width="63" height="63" /> 
+           <strong>Carl Cranor</strong>
+           <br /> Distinguished Professor of Philosophy
+           <br /> Legal Reforms
+           <br /> 
+           <strong><a href="/profile-policy-cranor.html">View Profile</a></strong> 
+          </div> 
+         </div> 
+        </div> 
+        <div id="tab4_gsoe"> 
+         <div class="texttab-column">
+           UCR’s Graduate School of Education (GSOE) contributes to regional and national policy-making by launching innovative collaborations like C-4, a consortium of California community colleges and the University of California, designed to enhance and accelerate the development and matriculation of teachers, educational leaders. GSOE is also home to SEARCH (Support, Education, Advocacy, Resources, Community, Hope), a center which provides resources for policymakers and families dealing with autism-related disorders, particularly lower income and Latino-speaking populations. GSOE faculty are also improving literacy, closing the achievement gap among Latino-speaking learners, and partnering with K–12 teachers and specialists to develop more effective interventions for at-risk students.
+          <br /> 
+          <a class="exploreMore" href="/policy.html">Explore More</a> 
+          <br />
+          <br /> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/policy/profile-John-Levin-thumb.jpg" alt="John Levin" /> 
+           <strong>John Levin</strong>
+           <br /> Director, California Community College Collaborative
+           <br /> Community College Collaborative
+           <br /> 
+           <strong><a href="/profile-policy-levin.html">View Profile</a></strong> 
+          </div> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/policy/profile-Michael-Orosco-thumb.jpg" alt="Michael Orosco" /> 
+           <strong>Michael Orosco</strong>
+           <br /> Assistant Professor of Education
+           <br /> Bilingual/Bicultural Education Policy
+           <br /> 
+           <strong><a href="/profile-policy-orosco.html">View Profile</a></strong> 
+          </div> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/policy/profile-Jan-Blacher-thumb.jpg" alt="Jan Blacher" /> 
+           <strong>Jan Blacher</strong>
+           <br /> Director, SEARCH
+           <br /> Autism/Special Education Policy
+           <br /> 
+           <strong><a href="/profile-policy-blacher.html">View Profile</a></strong> 
+          </div> 
+          <div class="clear"></div> 
+          <p><a class="img_link" href="/policy-gsoe.html"><img src="/images/bttn_watch_center_video.png" alt="Watch center video" width="178" height="30" /></a></p> 
+         </div> 
+        </div> 
+        <div class="texttab-column-bottom">
+          Archived Research ? 
+         <ul class="inline"> 
+          <li><a href="/featured-research-12.html#tab4_yates">Water Policy</a></li> 
+          <li><a href="/featured-research-12.html#tab4_parker">Crime Prevention</a></li> 
+          <li> <a href="/featured-research-11.html#tab4_4">Water Policy</a> </li> 
+          <li> <a href="/featured-research-11.html#tab4_5">Economic Forecasting</a> </li> 
+          <li> <a href="/featured-research-11.html#tab4_6">Middle Eastern Culture</a> </li> 
+         </ul> 
+        </div> 
+        <br />
+        <br /> 
+        <h2>TECHNOLOGY</h2> 
+        <ul class="texttab-control"> 
+         <li><a href="#tab3_geophysics">Earthquake Physics</a></li> 
+         <li><a href="#tab3_chowdhury">Video Analysis</a></li> 
+         <li><a href="#tab3_varma">Superconductivity</a></li> 
+         <li><a href="#tab3_matsci">Materials Science</a></li> 
+         <li><a href="#tab3_nano">Nanotechnology</a></li> 
+        </ul> 
+        <div id="tab3_geophysics"> 
+         <div class="texttab-column">
+           Research that complements each other’s work has led James Dieterich and David Oglesby to answer big questions in the area of earthquake science as they individually study the physical processes that control earthquakes and the processes themselves. Why and when does an earthquake occur and how does it interact with other earthquakes in fault systems? Why do some earthquakes stop while others keep going? What causes some earthquakes to become large while others stay small? And how do these factors lead to the ground motion we experience on the surface of the earth?
+          <br /> 
+          <a class="exploreMore" href="/technology.html">Explore More</a> 
+          <br />
+          <br /> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/technology/profile-James-Dieterich-thumb.jpg" alt="James Dieterich" /> 
+           <strong>James Dieterich</strong>
+           <br /> Distinguished Professor of Geophysics, Emeritus
+           <br /> Exploring Earthquake Prediction and Impacts
+           <br /> 
+           <strong><a href="/profile-technology-dieterich.html">View Profile</a></strong> 
+          </div> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/technology/profile-David-Oglesby-thumb.jpg" alt="David Oglesby" /> 
+           <strong>David Oglesby</strong>
+           <br /> Associate Professor of Geophysics
+           <br /> Exploring Earthquake Prediction and Impacts
+           <br /> 
+           <strong><a href="/profile-technology-oglesby.html">View Profile</a></strong> 
+          </div> 
+         </div> 
+        </div> 
+        <div id="tab3_chowdhury"> 
+         <div class="texttab-column">
+           Looking at any given image or video sequence, Amit Roy-Chowdhury is looking to understand the content. Similar to the brain’s processing and interpreting of images, his research seeks to develop automated algorithms that not only capture and store images, but understand the content of those images. Prof. Roy-Chowdhury's research has been supported by various agencies including the National Science Foundation, Office of Naval Research, Army Research Office, DARPA, National Endowment for the Humanities, and private industries like CISCO and Lockheed-Martin. His recent book on Camera Networks provides an overview of current research in the field.
+          <br /> 
+          <a class="exploreMore" href="/technology.html">Explore More</a> 
+          <br />
+          <br /> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/technology/profile-Amit-Roy-Chowdhury-thumb.jpg" alt="Amit K. Roy-Chowdhury" /> 
+           <strong>Amit K. Roy-Chowdhury</strong>
+           <br />Professor of Electrical Engineering
+           <br /> Creating Better Video Analysis Technology
+           <br /> 
+           <strong><a href="/profile-technology-roy-chowdhury.html">View Profile</a></strong> 
+          </div> 
+         </div> 
+        </div> 
+        <div id="tab3_varma"> 
+         <div class="texttab-column">
+           Chandra Varma is internationally known for his work in theoretical physics of collective quantum properties of matter such as superconductivity and magnetism. His lab conducts research in high-temperature superconductivity and quantum critical phenomena. Varma was awarded the 2012 Bardeen Prize for his outstanding contributions to explaining the intriguing phenomenon of superconductivity. His work has been verified by other researchers, which could assist in the fabrication of materials that are superconducting at room temperature and help settle a contentious, international debate on the fundamental physics of superconductivity and emergent states of matter.
+          <br /> 
+          <a class="exploreMore" href="/technology.html">Explore More</a> 
+          <br />
+          <br /> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/technology/profile-Chandra-Varma-thumb.jpg" alt="Chandra Varma" /> 
+           <strong>Chandra Varma</strong>
+           <br /> Distinguished Professor of Physics
+           <br /> Revolutionizing the Physics of Superconductivity
+           <br /> 
+           <strong><a href="/profile-technology-varma.html">View Profile</a></strong> 
+          </div> 
+         </div> 
+        </div> 
+        <div id="tab3_matsci"> 
+         <div class="texttab-column">
+           CNSE researchers collaborate across disciplines to predict, modify and customize the chemical and material properties of newly fabricated materials for a variety of industrial, medical and commercial applications and devices.
+          <br /> 
+          <a class="exploreMore" href="/technology.html">Explore More</a> 
+          <br />
+          <br /> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/technology/profile-Robert-Haddon-thumb.jpg" alt="Robert Haddon" /> 
+           <strong>Robert Haddon</strong>
+           <br /> Dist. Prof. of Chemical &amp; Environmental Engineering
+           <br /> Nanotech
+           <br /> 
+           <strong><a href="/profile-technology-haddon.html">View Profile</a></strong> 
+          </div> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/technology/profile-Jeanie-Lau-thumb.jpg" alt="Jeanie Lau" /> 
+           <strong>Jeanie Lau</strong>
+           <br /> Assoc. Prof. of Physics
+           <br /> Graphene
+           <br /> 
+           <strong><a href="/profile-technology-lau.html">View Profile</a></strong> 
+          </div> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/technology/profile-Alex-Balandin-thumb.jpg" alt="Alexander Balandin" /> 
+           <strong>Alexander Balandin</strong>
+           <br /> Professor of Electrical Engineering
+           <br /> Graphene
+           <br /> 
+           <strong><a href="/profile-technology-balandin.html">View Profile</a></strong> 
+          </div> 
+          <div class="clear"></div> 
+          <p><a class="img_link" href="/technology-cns.html"><img src="/images/bttn_watch_center_video.png" alt="Watch center video" width="178" height="30" /></a></p> 
+         </div> 
+        </div> 
+        <div id="tab3_nano"> 
+         <div class="texttab-column">
+           From the discovery of powerful new drugs and diagnostic tools to the development of novel biocompatible materials that will revolutionize 21
+          <sup>st</sup> century medicine, UCR researchers and graduates collaborate with pharmaceutical companies, medical device manufacturers and other organizations to put the power of groundbreaking ideas to work in the real world. UCR nanoengineers produce many new types of materials with unique applications, leading to such innovations as reusable, low-power electronic papers and sources of clean, hydrogen-based fuels.
+          <br /> 
+          <a class="exploreMore" href="/technology.html">Explore More</a> 
+          <br />
+          <br /> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/technology/profile-Nosang-Myung-thumb.jpg" alt="Nosang Myung" /> 
+           <strong>Nosang Myung</strong>
+           <br /> Professor of Chemical and Environmental Engineering
+           <br /> TB Testing
+           <br /> 
+           <strong><a href="/profile-technology-myung.html">View Profile</a></strong> 
+          </div> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/technology/profile-Ashok-Mulchandani-thumb.jpg" alt="Ashok Mulchandani" /> 
+           <strong>Ashok Mulchandani</strong>
+           <br /> Professor of Chemical Engineering
+           <br /> Environmental Toxins
+           <br /> 
+           <strong><a href="/profile-technology-mulchandani.html">View Profile</a></strong> 
+          </div> 
+          <div class="profile"> 
+           <img class="img_L_border" src="/images/profile/technology/profile-Yadong-Yin-thumb.jpg" alt="Yadong Yin" /> 
+           <strong>Yadong Yin</strong>
+           <br /> Assistant Professor of Chemistry
+           <br /> Artificial Atoms
+           <br /> 
+           <strong><a href="/profile-technology-yin.html">View Profile</a></strong> 
+          </div> 
+          <div class="clear"></div> 
+          <p><a class="img_link" href="/technology-nanobiosensors.html"><img src="/images/bttn_watch_center_video.png" alt="Watch center video" width="178" height="30" /></a></p> 
+         </div> 
+        </div> 
+        <div class="texttab-column-bottom">
+          Archived Research ? 
+         <ul class="inline"> 
+          <li><a href="/featured-research-12.html#tab3_canalizo">Astronomy</a></li> 
+          <li><a href="/featured-research-12.html#tab3_keogh">Data Mining</a></li> 
+          <li><a href="/featured-research-12.html#tab3_wessler">High-Tech Teaching</a></li> 
+          <li><a href="/featured-research-11.html#tab3_2">Earthquake Monitoring</a></li> 
+          <li><a href="/featured-research-11.html#tab3_3">Video Animation</a></li> 
+          <li><a href="/featured-research-10.html#tab3_1">Nanoscale Science</a></li> 
+          <li><a href="/featured-research-10.html#tab3_2">Spider Silk</a></li> 
+          <li><a href="/featured-research-10.html#tab3_3">Fuel Cells</a></li> 
+          <li><a href="/featured-research-10.html#tab3_4">Nanomedicine</a></li> 
+         </ul> 
+        </div> 
+        <div class="backToTop"> 
+         <a href="#top">back to top</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <!-- End Content --> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="siteFooterWrapper"> 
+   <div class="siteFooter"> 
+    <div class="socialLogo"> 
+     <a href="http://www.facebook.com/ucriverside"><img src="images/logo-facebook.gif" alt="Facebook" /></a> &nbsp;&nbsp;&nbsp; 
+     <a href="http://www.youtube.com/ucriverside"><img src="images/logo-youtube.gif" alt="Youtube" /></a> &nbsp;&nbsp;&nbsp; 
+     <a href="http://issuu.com/ucriverside/docs/ltp-2012?mode=window&amp;backgroundColor=%23222222" rel="nofollow"><img src="images/digital_mag_icon.png" alt="Explore More: Read Online Magazine" /></a> 
+    </div> 
+   </div> 
+  </div>
+  <!--<div class="footerGradientBG">
+    <div class="footerGradient">&nbsp;</div>
+</div>--> 
+  <div class="ucrFooterBG"> 
+   <div class="ucrFooterDiv"> 
+    <div class="ucrFooter"> 
+     <div class="column1"> 
+      <h3>General Campus Information</h3> 
+      <strong><a href="http://www.ucr.edu/">University of California, Riverside</a></strong>
+      <br /> 900 University Ave.
+      <br /> Riverside, CA 92521
+      <br /> Tel: 
+      <span class="tel">(951) 827-1012</span>
+      <br />
+      <br /> 
+      <a href="http://library.ucr.edu/">UCR Libraries</a> • 
+      <a href="http://campusstatus.ucr.edu/">Campus Status</a>
+      <br /> 
+      <a href="http://www.ucr.edu/employment.html">Career Opportunities</a> • 
+      <a href="http://diversity.ucr.edu/">Diversity</a>
+      <br /> 
+      <a href="http://visit.ucr.edu">Visit UCR</a> • 
+      <a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a> 
+     </div> 
+     <div class="column2"> 
+      <h3>Website Information</h3> 
+      <strong><a href="http://strategiccommunications.ucr.edu/">Office of Strategic Communications</a></strong>
+      <br /> 
+      <a href="http://campusmap.ucr.edu/campusMap.php?loc=HINHL" title="Campus Map">1156 Hinderaker Hall</a>
+      <br /> 
+      <a href="mailto:margene.mastin@ucr.edu?subject=Living%20the%20Promise%20website%20feedback">Feedback</a>
+      <br /> 
+      <a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=StratComm&amp;site=ltp-dev&amp;path=%2Ffeatured-research.html">Last modified: 2013-Jul-01</a> 
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />&nbsp; 
+     </div> 
+     <div class="column3"> 
+      <h3>Related Links</h3> 
+      <a href="https://ucr-csm.symplicity.com/employers/">Hire UCR Students</a>
+      <br /> 
+      <a href="http://www.ucr.edu/academics/colleges.html">Colleges, Divisions and Schools</a>
+      <br /> 
+      <a href="http://magazine.ucr.edu/">UCR Magazine</a>
+      <br /> 
+      <a href="http://registrar.ucr.edu/">Office of the Registrar</a>
+      <br /> 
+      <a href="http://ucop.edu/" class="external" title="external site: UCOP">UC Office of the President</a>
+      <br />
+      <br /> 
+      <table cellpadding="0" cellspacing="0"> 
+       <tbody>
+        <tr> 
+         <td width="17"><img src="images/rss.png" alt="RSS 2.0" /></td> 
+         <td><a href="http://ucrtoday.ucr.edu/feed">Subscribe to UCR Today via RSS</a></td> 
+        </tr> 
+       </tbody>
+      </table> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.367642 seconds using 2.00 MiB of memory. -->   
+ </body>
+</html>

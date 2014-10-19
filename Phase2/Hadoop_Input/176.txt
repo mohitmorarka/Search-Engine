@@ -1,0 +1,2385 @@
+<!--Site created by: Colby S. Urban-->
+<html>
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+  <title>Stem Cell Center</title> 
+  <link href="stylesheet.css" rel="stylesheet" type="text/css" /> 
+  <!-- ----------------------------------------------------------------------------------------------- DROP DOWN MENU JAVASCRIPT---------------------------------------------------------------------------------------------------  //--> 
+  <script language="JavaScript">
+<!--
+function mmLoadMenus() {
+if (window.mm_menu_1113100908_0) return;
+
+  window.mm_menu_1113100908_0 = new Menu("root",167,18,"Arial, Helvetica, sans-serif",12,"#254e78","#edecec","#edecec","#336699","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
+  mm_menu_1113100908_0.addMenuItem("<strong>&omicron;</strong>&nbsp;&nbsp; Faculty","location='index.php?content=people/faculty/spotlight.html'");
+  mm_menu_1113100908_0.addMenuItem("<strong>&omicron;</strong>&nbsp;&nbsp; Graduate&nbsp;Students","location='index.php?content=people/grad/spotlight.html'");
+  mm_menu_1113100908_0.addMenuItem("<strong>&omicron;</strong>&nbsp;&nbsp; Contact&nbsp;Us","location='index.php?content=contact/spotlight.html'");
+  mm_menu_1113100908_0.hideOnMouseOut=true;
+  mm_menu_1113100908_0.bgColor='#DEDFDE';
+  mm_menu_1113100908_0.menuBorder=1;
+  mm_menu_1113100908_0.menuLiteBgColor='#FFFFFF';
+  mm_menu_1113100908_0.menuBorderBgColor='#bdc3a6';
+   
+  window.mm_menu_1113101418_0 = new Menu("root",171,18,"Arial, Helvetica, sans-serif",12,"#254e78","#edecec","#edecec","#336699","left","middle",3,0,1000,-10,30,true,true,true,0,true,true);
+  mm_menu_1113101418_0.addMenuItem("<strong>&omicron;</strong>&nbsp;&nbsp; Featured&nbsp;Research","location='index.php?content=research/featured/featured.html'");
+  mm_menu_1113101418_0.addMenuItem("<strong>&omicron;</strong>&nbsp;&nbsp; Facilities","location='index.php?content=research/facilities/facilities.html'");
+  mm_menu_1113101418_0.addMenuItem("<strong>&omicron;</strong>&nbsp;&nbsp; Stem&nbsp;Cell&nbsp;Core","location='index.php?content=research/core/core.html'");
+  mm_menu_1113101418_0.hideOnMouseOut=true;
+  mm_menu_1113101418_0.bgColor='#DEDFDE';
+  mm_menu_1113101418_0.menuBorder=1;
+  mm_menu_1113101418_0.menuLiteBgColor='#FFFFFF';
+  mm_menu_1113101418_0.menuBorderBgColor='#bdc3a6';
+
+  window.mm_menu_1113101926_0 = new Menu("root",113,18,"Arial, Helvetica, sans-serif",12,"#254e78","#edecec","#edecec","#336699","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
+  mm_menu_1113101926_0.addMenuItem("<strong>&omicron;</strong>&nbsp;&nbsp; Seminars","location='index.php?content=events/seminars/seminars.html'");
+  mm_menu_1113101926_0.addMenuItem("<strong>&omicron;</strong>&nbsp;&nbsp; Workshops","location='index.php?content=events/workshops/flyer.html'");
+  mm_menu_1113101926_0.addMenuItem("<strong>&omicron;</strong>&nbsp;&nbsp; Launch","location='index.php?content=events/launch/launch.html'");
+  mm_menu_1113101926_0.addMenuItem("<strong>&omicron;</strong>&nbsp;&nbsp; Lunch Talks","location='index.php?content=events/lunchtalks/lunchtalks.html'");
+  mm_menu_1113101926_0.addMenuItem("<strong>&omicron;</strong>&nbsp;&nbsp; Vendor Show 2013","location='events/Vendor_Show_2013.pdf'");
+  mm_menu_1113101926_0.hideOnMouseOut=true;
+  mm_menu_1113101926_0.bgColor='#DEDFDE';
+  mm_menu_1113101926_0.menuBorder=1;
+  mm_menu_1113101926_0.menuLiteBgColor='#FFFFFF';
+  mm_menu_1113101926_0.menuBorderBgColor='#bdc3a6';
+
+  window.mm_menu_1113102019_0 = new Menu("root",119,18,"Arial, Helvetica, sans-serif",12,"#254e78","#edecec","#edecec","#336699","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
+  mm_menu_1113102019_0.addMenuItem("menu&nbsp;item&nbsp;1","location='index.php'");
+  mm_menu_1113102019_0.addMenuItem("menu&nbsp;item&nbsp;2","location='index.php'");
+  mm_menu_1113102019_0.addMenuItem("menu&nbsp;item&nbsp;3","location='index.php'");
+  mm_menu_1113102019_0.addMenuItem("menu&nbsp;item&nbsp;4","location='index.php'");
+  mm_menu_1113102019_0.hideOnMouseOut=true;
+  mm_menu_1113102019_0.bgColor='#DEDFDE';
+  mm_menu_1113102019_0.menuBorder=1;
+  mm_menu_1113102019_0.menuLiteBgColor='#FFFFFF';
+  mm_menu_1113102019_0.menuBorderBgColor='#bdc3a6';
+
+  window.mm_menu_1113102113_0 = new Menu("root",119,18,"Arial, Helvetica, sans-serif",12,"#254e78","#edecec","#edecec","#336699","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
+  mm_menu_1113102113_0.addMenuItem("menu&nbsp;item&nbsp;1","location='index.php'");
+  mm_menu_1113102113_0.addMenuItem("menu&nbsp;item&nbsp;2","location='index.php'");
+  mm_menu_1113102113_0.addMenuItem("menu&nbsp;item&nbsp;3","location='index.php'");
+  mm_menu_1113102113_0.addMenuItem("menu&nbsp;item&nbsp;4","location='index.php'");
+  mm_menu_1113102113_0.hideOnMouseOut=true;
+  mm_menu_1113102113_0.bgColor='#DEDFDE';
+  mm_menu_1113102113_0.menuBorder=1;
+  mm_menu_1113102113_0.menuLiteBgColor='#FFFFFF';
+  mm_menu_1113102113_0.menuBorderBgColor='#bdc3a6';
+
+  window.mm_menu_1113102154_0 = new Menu("root",119,18,"Arial, Helvetica, sans-serif",12,"#254e78","#edecec","#edecec","#336699","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
+  mm_menu_1113102113_0.addMenuItem("menu&nbsp;item&nbsp;1","location='index.php'");
+  mm_menu_1113102113_0.addMenuItem("menu&nbsp;item&nbsp;2","location='index.php'");
+  mm_menu_1113102113_0.addMenuItem("menu&nbsp;item&nbsp;3","location='index.php'");
+  mm_menu_1113102113_0.addMenuItem("menu&nbsp;item&nbsp;4","location='index.php'");
+  mm_menu_1113102154_0.hideOnMouseOut=true;
+  mm_menu_1113102154_0.bgColor='#DEDFDE';
+  mm_menu_1113102154_0.menuBorder=1;
+  mm_menu_1113102154_0.menuLiteBgColor='#FFFFFF';
+  mm_menu_1113102154_0.menuBorderBgColor='#bdc3a6';
+   
+  window.mm_menu_jobs = new Menu("root",119,18,"Arial, Helvetica, sans-serif",12,"#254e78","#edecec","#edecec","#336699","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
+  mm_menu_jobs.addMenuItem("<strong>&omicron;</strong>&nbsp;&nbsp; Faculty","location='index.php?content=jobs/faculty.html'");
+	mm_menu_jobs.addMenuItem("<strong>&omicron;</strong>&nbsp;&nbsp; Academic","location='index.php?content=jobs/academic.html'");
+  mm_menu_jobs.addMenuItem("<strong>&omicron;</strong>&nbsp;&nbsp; Post-Docs","location='index.php?content=jobs/postdoc.html'");
+  mm_menu_jobs.addMenuItem("<strong>&omicron;</strong>&nbsp;&nbsp; Graduate&nbsp;Student","location='index.php?content=jobs/graduate.html'");
+  mm_menu_jobs.addMenuItem("<strong>&omicron;</strong>&nbsp;&nbsp; Technicians","location='index.php?content=jobs/technician.html'");
+  mm_menu_jobs.addMenuItem("<strong>&omicron;</strong>&nbsp;&nbsp; Staff","location='index.php?content=jobs/staff.html'");
+	mm_menu_jobs.hideOnMouseOut=true;
+  mm_menu_jobs.bgColor='#DEDFDE';
+  mm_menu_jobs.menuBorder=1;
+  mm_menu_jobs.menuLiteBgColor='#FFFFFF';
+  mm_menu_jobs.menuBorderBgColor='#bdc3a6';
+
+mm_menu_1113102154_0.writeMenus();
+} // mmLoadMenus()
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+  var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+  if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+  if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script> 
+  <!-- ----------------------------------------------------------------------------------------------- END DROP DOWN MENU JAVASCRIPT---------------------------------------------------------------------------------------------------  //--> 
+  <script language="JavaScript" src="mm_menu.js"></script> 
+  <style type="text/css">
+<!--
+.style1 {font-size: 16px}
+-->
+</style> 
+ </head> 
+ <body leftmargin="0" topmargin="5" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="5" onload="MM_preloadImages('images/navPeopleHover.gif','images/navResearchHover.gif','images/navEventsHover.gif','images/navCoursesHover.gif','images/navOutreachHover.gif','images/navLinksHover.gif','images/navHomeHover.gif')"> 
+  <script language="JavaScript1.2">mmLoadMenus();</script> 
+  <center> 
+   <div id="wrap"> 
+    <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" class="outerTable"> 
+     <tbody>
+      <tr> 
+       <td colspan="2" height="125" background="images/banner/background2.jpg" valign="top">
+        <table id="topbanner" border="0" width="100%" cellpadding="0" cellspacing="0" height="125" align="left"> 
+         <tbody>
+          <tr> 
+           <td width="12" valign="top"><img src="images/corner_L.png" /></td> 
+           <td height="100%" align="left" nowrap="nowrap"><a href="http://www.ucr.edu" target="_blank"><img src="images/banner_ucr_title.png" border="0" /></a><a href="index.php"><img src="images/banner_stemcell_title.png" border="0" /></a></td> 
+           <td width="12" valign="top"><img src="images/corner_R.png" /></td> 
+          </tr> 
+         </tbody>
+        </table></td> 
+      </tr> 
+      <tr> 
+       <td height="23" colspan="2">
+        <table width="100%" height="23" cellpadding="0" cellspacing="0" border="0"> 
+         <tbody>
+          <tr> 
+           <!-- ----------------------------------------------------------------------------------------------- LINKS MENU BAR---------------------------------------------------------------------------------------------------  //--> 
+           <td background="images/navBarBackground.gif" width="6"></td> 
+           <td background="images/navBarBackground.gif" width="59">
+            <div align="center"> 
+             <a href="index.php" name="link0" id="link0" ____________________________________________________________________________________=""> <img src="images/home.gif" alt="Home" height="23" border="0" name="navimage0" id="navImage0" onmouseover="MM_swapImage('navImage0','','images/homeHover.gif',1)" onmouseout="MM_swapImgRestore()" /> </a> 
+            </div></td> 
+           <td background="images/navBarBackground.gif" width="12"></td> 
+           <td background="images/navBarBackground.gif" width="85">
+            <div align="center"> 
+             <a href="index.php?content=people/spotlight.html" name="link9" id="link1" onmouseover="MM_showMenu(window.mm_menu_1113100908_0,0,22,null,'link9')" onmouseout="MM_startTimeout();"> <img src="images/navPeople.gif" alt="People" name="navImage1" height="23" border="0" id="navImage1" onmouseover="MM_swapImage('navImage1','','images/navPeopleHover.gif',1)" onmouseout="MM_swapImgRestore()" /> </a> 
+            </div></td> 
+           <td background="images/navBarBackground.gif" width="12"></td> 
+           <td background="images/navBarBackground.gif" width="112">
+            <div align="center"> 
+             <a href="index.php?content=research/spotlight.html" name="link7" id="link2" onmouseover="MM_showMenu(window.mm_menu_1113101418_0,0,23,null,'navImage2')" onmouseout="MM_startTimeout();"> <img src="images/navResearch.gif" alt="Research" name="navImage2" height="23" border="0" id="navImage2" onmouseover="MM_swapImage('navImage2','','images/navResearchHover.gif',1)" onmouseout="MM_swapImgRestore()" /> </a> 
+            </div></td> 
+           <td background="images/navBarBackground.gif" width="12"></td> 
+           <td background="images/navBarBackground.gif" width="81">
+            <div align="center"> 
+             <a href="index.php?content=events/spotlight.html" name="link8" id="link3" onmouseover="MM_showMenu(window.mm_menu_1113101926_0,0,22,null,'link8')" onmouseout="MM_startTimeout();"> <img src="images/navEvents.gif" alt="Events" name="navImage3" height="23" border="0" id="navImage3" onmouseover="MM_swapImage('navImage3','','images/navEventsHover.gif',1)" onmouseout="MM_swapImgRestore()" /> </a> 
+            </div></td> 
+           <td background="images/navBarBackground.gif" width="12"></td> 
+           <td background="images/navBarBackground.gif" width="96">
+            <div align="center"> 
+             <a href="index.php?content=courses/spotlight.html" name="link4" id="link4" ____________________________________________________________________________________=""> <img src="images/navCourses.gif" alt="Courses" height="23" border="0" id="navImage4" onmouseover="MM_swapImage('navImage4','','images/navCoursesHover.gif',1);MM_swapImage('navImage4','','images/navCoursesHover.gif',1)" onmouseout="MM_swapImgRestore()" /> </a> 
+            </div></td> 
+           <td background="images/navBarBackground.gif" width="12"></td> 
+           <td background="images/navBarBackground.gif" width="107">
+            <div align="center"> 
+             <a href="index.php?content=outreach/outreach.html" name="link5" id="link5" ____________________________________________________________________________________=""> <img src="images/navOutreach.gif" alt="Outreach" height="23" border="0" id="navImage5" onmouseover="MM_swapImage('navImage5','','images/navOutreachHover.gif',1)" onmouseout="MM_swapImgRestore()" /> </a> 
+            </div></td> 
+           <td background="images/navBarBackground.gif" width="12"></td> 
+           <td background="images/navBarBackground.gif" width="67">
+            <div align="center"> 
+             <a href="index.php?content=links/links.html" name="link6" id="link6" ____________________________________________________________________________________=""> <img src="images/navLinks.gif" alt="Links" height="23" border="0" name="navimage6" id="navImage6" onmouseover="MM_swapImage('navImage6','','images/navLinksHover.gif',1)" onmouseout="MM_swapImgRestore()" /> </a> 
+            </div></td> 
+           <td background="images/navBarBackground.gif" width="12"></td> 
+           <td background="images/navBarBackground.gif" width="67">
+            <div align="center"> 
+             <a href="index.php?content=jobs/spotlight.html" name="navJobs" id="navJob" onmouseover="MM_showMenu(window.mm_menu_jobs,0,22,null,'navJobs')" onmouseout="MM_startTimeout();"> <img src="images/navJobs.gif" alt="jobs" width="47" height="23" border="0" id="navJobs2" onmouseover="MM_swapImage ('navJobs2','','images/navJobs_over.gif',1)" onmouseout="MM_swapImgRestore()" /> </a> 
+            </div></td> 
+           <td background="images/navBarBackground.gif" width="12"></td> 
+           <td background="images/navBarBackground.gif" width="36">
+            <div align="center"> 
+             <a href="index.php" name="link7" id="link7"> <img src="images/navHome.gif" alt="Home" height="23" border="0" name="navImage7" id="navImage7" onmouseover="MM_swapImage('navImage7','','images/navHomeHover.gif',1)" onmouseout="MM_swapImgRestore()" /> </a> 
+            </div></td> 
+           <td background="images/navBarBackground.gif" width="23"></td> 
+           <!-- -----------------------------------------------------------------------------------------------END MENU BAR---------------------------------------------------------------------------------------------------  //--> 
+          </tr> 
+         </tbody>
+        </table></td> 
+      </tr> 
+      <tr> 
+       <td width="100%" class="bodyContentArea" valign="top" align="left" height="100%">
+        <!-- -----------------------------------------------------------------------------------------------CONTENT AREA BEGINS HERE---------------------------------------------------------------------------------------------------  //--> <script src="yahoo-min.js"></script> <script src="dom-min.js"></script> <script src="page.js"></script> 
+        <link rel="stylesheet" type="text/css" href="pageFF.css" /> 
+        <div align="center"> 
+         <!--url's used in the movie--> 
+         <!--text used in the movie--> 
+         <!-- saved from url=(0013)about:internet --> 
+         <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="489" height="299" id="stem cell_final3" align="middle"> <param name="allowScriptAccess" value="sameDomain"></param> <param name="movie" value="stem cell_final5.swf"></param> <param name="quality" value="high"></param> <param name="wmode" value="transparent"></param> <param name="bgcolor" value="#ffffff"></param> <embed src="stem cell_final5.swf" quality="high" wmode="transparent" bgcolor="#ffffff" width="489" height="299" name="stem cell_final3" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /> </object> 
+         <br /> 
+        </div> 
+        <div align="center">
+         <br /> 
+         <a href="javascript:show('page4');" class="bodyContentLink"> Basic Research</a> | 
+         <a href="javascript:show('page5');" class="bodyContentLink">Translational Research</a> | 
+         <a href="javascript:show('page6');" class="bodyContentLink">Biotechnology</a> | 
+         <a href="javascript:show('page3');" class="bodyContentLink">Education</a> | 
+         <a href="javascript:show('page2');" class="bodyContentLink">Outreach</a>
+        </div> <br /> 
+        <!--this is the code required for the show/hide layers--> 
+        <div id="page-container"> 
+         <!--Default Page content--> 
+         <div id="page1" class="default"> 
+          <table width="100%" border="0" cellspacing="0" cellpadding="0"> 
+           <tbody>
+            <tr> 
+             <td class="bodyContentText"><br /><br /><br />
+              <table width="100%" border="0" cellspacing="8" cellpadding="0"> 
+               <tbody>
+                <tr> 
+                 <td width="4%" align="right" valign="top"><img src="images/menuDisk.gif" width="10" height="10" /></td> 
+                 <td width="96%" valign="top" class="bodyContentText"><p>The mission of the UCR Stem Cell Center is to advance the stem cell field by fostering basic and translational research and engaging in education and outreach.</p></td> 
+                </tr> 
+                <tr> 
+                 <td align="right" valign="top"><img src="images/menuDisk.gif" width="10" height="10" /></td> 
+                 <td class="bodyContentText">Research at the Center focuses on understanding the basic mechanisms that control stem cell function and deciphering how the tremendous potential of stem cells can be used to improve human health.</td> 
+                </tr> 
+                <tr> 
+                 <td align="right" valign="top"><img src="images/menuDisk.gif" width="10" height="10" /></td> 
+                 <td class="bodyContentText"><p>Researchers at the Center have expertise in many different fields including developmental biology, cancer biology, endocrinology, aging, nanotechnology, neuroscience and bioengineering.</p></td> 
+                </tr> 
+                <tr> 
+                 <td align="right" valign="top"><img src="images/menuDisk.gif" width="10" height="10" /></td> 
+                 <td class="bodyContentText">The Center trains the next generation of stem cell scientists and prepares them to be leaders in the health sciences.</td> 
+                </tr> 
+                <tr> 
+                 <td align="right" valign="top"><img src="images/menuDisk.gif" width="10" height="10" /></td> 
+                 <td class="bodyContentText">The Center provides community outreach to organizations in Southern California interested in learning more about stem cell biology.</td> 
+                </tr> 
+                <tr> 
+                </tr>    
+                <tr> 
+                 <td align="right" valign="top"></td> 
+                 <td><b><font size="3">
+                    <center>
+                     Click here for the 
+                     <a href="http://stemcellcore.ucr.edu">Stem Cell Core</a> web site
+                    </center></font></b> <br /> <b><font size="3">
+                    <center>
+                     Click here for the 
+                     <a href="http://iestemcells.ucr.edu/consortiumfaculty.html">Inland Empire Stem Cell Consortium</a> web site
+                    </center></font></b> <br /> <b><font size="3">
+                    <center>
+                     Click here for the 
+                     <a href="http://www.llu.edu/medicine/basic-sciences/iescc-symposium/index.page">2nd Inland Empire Stem Cell Consortium Symposium</a> web site
+                    </center></font></b></td> 
+                </tr> 
+               </tbody>
+              </table> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+         </div> 
+         <!--Outreach Div---> 
+         <div id="page2"> 
+          <table width="100%" border="0" cellspacing="0" cellpadding="0"> 
+           <tbody>
+            <tr> 
+             <td class="bodyContentText"><span class="bodyContentHeader">Outreach:</span> <br /> <br /> Stem cells are fast becoming relevant to all aspects of our society, with medical, scientific, ethical, political, and economic implications. Therefore it is important that scientists and non-scientists alike be provided with accurate information about stem cell biology. The goals of the UCR Stem Cell Center is to provide the members of the community with a better understanding of the science of stem cells so that they have the necessary tools to make reasoned decisions about the related society issues. </td> 
+            </tr> 
+            <tr> 
+             <td valign="top">
+              <table width="100%" border="0" cellspacing="8" cellpadding="0"> 
+               <tbody>
+                <tr> 
+                 <td width="4%" align="right" valign="top"><img src="images/menuDisk.gif" width="10" height="10" /></td> 
+                 <td width="96%" valign="top" class="bodyContentText"> The UCR Stem Cell Center has a Speaker?s Bureau with experts who can explain the scientific aspects of stem cell biology to a wide variety of audiences. </td> 
+                </tr> 
+                <tr> 
+                 <td align="right" valign="top"><img src="images/menuDisk.gif" width="10" height="10" /></td> 
+                 <td class="bodyContentText">The UCR Stem Cell Center hosts a series of events open to the community that are designed to educate people about stem cell biology. </td> 
+                </tr> 
+               </tbody>
+              </table></td> 
+            </tr> 
+           </tbody>
+          </table> 
+         </div> 
+         <!--below is education Div--> 
+         <div id="page3"> 
+          <table width="100%" border="0" cellspacing="0" cellpadding="0"> 
+           <tbody>
+            <tr> 
+             <td class="bodyContentText"><span class="bodyContentHeader">Education:</span> <br /> <br /> UCR has a strong history in training undergraduate and graduate students and is developing a complete training program in stem cell biology. </td> 
+            </tr> 
+            <tr> 
+             <td valign="top">
+              <table width="100%" border="0" cellspacing="8" cellpadding="0"> 
+               <tbody>
+                <tr> 
+                 <td width="4%" align="right" valign="top"><img src="images/menuDisk.gif" width="10" height="10" /></td> 
+                 <td width="96%" valign="top" class="bodyContentText"><p>We offer graduate courses in <a href="http://www.stemcell.ucr.edu/index.php?content=courses/spotlight.html">Stem Cell Biology (CMBS 207)</a>, the <a href="http://www.stemcell.ucr.edu/index.php?content=courses/spotlight.html">Bioethics of Stem Cell Biology (CMBD 208)</a>, and <a href="http://www.stemcell.ucr.edu/index.php?content=courses/spotlight.html">Advanced Topics in Stem Cell Biology (BCH 230).</a> In addition, students are exposed to stem cell biology in undergraduate courses such as CBNS 108 (Introduction to Development) and CMDB 169 (Human Embryology). </p> </td> 
+                </tr> 
+                <tr> 
+                 <td align="right" valign="top"><img src="images/menuDisk.gif" width="10" height="10" /></td> 
+                 <td class="bodyContentText">The Stem Cell Center sponsors a seminar series with invited speakers from around the country. </td> 
+                </tr> 
+                <tr> 
+                 <td align="right" valign="top"><img src="images/menuDisk.gif" width="10" height="10" /></td> 
+                 <td class="bodyContentText"><p>We offer workshops in Stem Cell Biology.</p></td> 
+                </tr> 
+                <tr> 
+                 <td align="right" valign="top"><img src="images/menuDisk.gif" width="10" height="10" /></td> 
+                 <td class="bodyContentText"><p>We draw students from a number of different graduate programs in Engineering, Chemistry, Biomedical Sciences, and the Life Sciences. </p></td> 
+                </tr> 
+                <tr> 
+                 <td align="right" valign="top"><img src="images/menuDisk.gif" width="10" height="10" /></td> 
+                 <td class="bodyContentText">Our training program is contributing to the production of the next generation of stem cell researchers.</td> 
+                </tr> 
+               </tbody>
+              </table></td> 
+            </tr> 
+           </tbody>
+          </table> 
+         </div> 
+         <!--below is Traditional Research Div--> 
+         <div id="page5"> 
+          <table width="100%" border="0" cellspacing="0" cellpadding="0"> 
+           <tbody>
+            <tr> 
+             <td class="bodyContentText"><span class="bodyContentHeader">Translational Research:</span> <br /> <br /> Stem cell biology is currently one of the most exciting fields in science with the potential not only to answer basic biological questions but also to provide new therapies and treatments for debilitating diseases. Some of the most important biomedical breakthroughs of this century are likely to come through the use of stem cell technology.</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">
+              <table width="100%" border="0" cellspacing="8" cellpadding="0"> 
+               <tbody>
+                <tr> 
+                 <td width="4%" align="right" valign="top"><img src="images/menuDisk.gif" width="10" height="10" /></td> 
+                 <td width="96%" valign="top" class="bodyContentText">Some diseases have already been treated with stem cell therapy. For example, bone marrow, peripheral blood and umbilical cord stem cell transplants are used to treat leukemia, other cancers, and blood disorders.</td> 
+                </tr> 
+                <tr> 
+                 <td align="right" valign="top"><img src="images/menuDisk.gif" width="10" height="10" /></td> 
+                 <td class="bodyContentText"><p>Diseases that could in the future be treated by stem cell biology include (but are not limited to) diabetes, Parkinson&#x2019;s disease, spinal cord injury, Alzheimer&#x2019;s disease, aging, heart disease, stroke, burns, amputations, and osteoarthritis.</p></td> 
+                </tr> 
+                <tr> 
+                 <td align="right" valign="top"><img src="images/menuDisk.gif" width="10" height="10" /></td> 
+                 <td class="bodyContentText"><p>Stem cell biology will form an important component in both the UCR Health Sciences Research Institute and future Medical School, which will work to facilitate translational research. </p></td> 
+                </tr> 
+                <tr> 
+                 <td align="right" valign="top"><img src="images/menuDisk.gif" width="10" height="10" /></td> 
+                 <td class="bodyContentText"><p>Web link to UCR Health Sciences Research Initiative: http://www.hsri.ucr.edu/ <br />Web link to Medical School: http://www.medschool.ucr.edu/</p></td> 
+                </tr> 
+               </tbody>
+              </table></td> 
+            </tr> 
+           </tbody>
+          </table> 
+         </div> 
+         <!--Basic Research div---> 
+         <div id="page4"> 
+          <table width="100%" border="0" cellspacing="0" cellpadding="0"> 
+           <tbody>
+            <tr> 
+             <td class="bodyContentText"><span class="bodyContentHeader">Basic Research:</span> <br /> <br /> Basic research is needed to understand, control, and use stem cells safely and effectively for therapeutic and environmental purposes.</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">
+              <table width="100%" border="0" cellspacing="8" cellpadding="0"> 
+               <tbody>
+                <tr> 
+                 <td width="4%" align="right" valign="top"><img src="images/menuDisk.gif" width="10" height="10" /></td> 
+                 <td width="96%" valign="top" class="bodyContentText"><p>The UCR Stem Cell Center is making major contributions to stem cell biology by attacking basic biological problems at an interdisciplinary level, enabling translation to the clinical level, and by using stem cells to monitor the effects of the environment on human health.</p></td> 
+                </tr> 
+                <tr> 
+                 <td align="right" valign="top"><img src="images/menuDisk.gif" width="10" height="10" /></td> 
+                 <td class="bodyContentText">The center focuses on understanding the basic biology of stem cells, the maintenance of pluripotency, the mechanisms of differentiation, and the use of stem cells to monitor effects of the environment on human health.</td> 
+                </tr> 
+                <tr> 
+                 <td align="right" valign="top"><img src="images/menuDisk.gif" width="10" height="10" /></td> 
+                 <td class="bodyContentText"><p>The Center has faculty working with various types of stem cells including human embryonic, mouse embryonic, hematopoietic, and human umbilical cord stem cells.</p></td> 
+                </tr> 
+                <tr> 
+                 <td align="right" valign="top"><img src="images/menuDisk.gif" width="10" height="10" /></td> 
+                 <td class="bodyContentText">The Center is interdisciplinary with participants from the College of Natural and Agricultural Sciences, the Division of Biomedical Sciences, the College of Engineering, and the College of Humanities and Social Sciences.</td> 
+                </tr> 
+               </tbody>
+              </table></td> 
+            </tr> 
+           </tbody>
+          </table> 
+         </div> 
+         <div id="page6"> 
+          <table width="100%" border="0" cellspacing="0" cellpadding="0"> 
+           <tbody>
+            <tr> 
+             <td class="bodyContentText"><span class="bodyContentHeader">Biotechnology:</span> <br /> <br /> <p>Stem cells are valuable tools that have the potential not only to treat numerous diseases, but also to study development and evaluate the toxicity of chemicals and drugs. </p></td> 
+            </tr> 
+            <tr> 
+             <td valign="top">
+              <table width="100%" border="0" cellspacing="8" cellpadding="0"> 
+               <tbody>
+                <tr> 
+                 <td width="4%" align="right" valign="top"><img src="images/menuDisk.gif" width="10" height="10" /></td> 
+                 <td width="96%" valign="top" class="bodyContentText">The UCR Stem Cell Center is making contributions to the development of technology that will facilitate the use of stem cells in therapeutic applications and environmental monitoring.</td> 
+                </tr> 
+                <tr> 
+                 <td align="right" valign="top"><img src="images/menuDisk.gif" width="10" height="10" /></td> 
+                 <td class="bodyContentText">The Center faculties are developing better culture media for growth of stem cells, &#x201c;lab-on-a-chip&#x201d; devices for monitoring differentiation of stem cells, and methods for controlling the differentiation of stem cells.</td> 
+                </tr> 
+                <tr> 
+                 <td align="right" valign="top"><img src="images/menuDisk.gif" width="10" height="10" /></td> 
+                 <td class="bodyContentText">The Center has affiliations with biotech industries in the area and welcome additional liaisons.</td> 
+                </tr> 
+               </tbody>
+              </table></td> 
+            </tr> 
+           </tbody>
+          </table> 
+         </div> 
+         <!-- -----------------------------------------------------------------------------------------------END CONTENT AREA---------------------------------------------------------------------------------------------------  //--> 
+        </div></td> 
+       <td width="300" height="100%" id="rightbar" valign="top">
+        <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center"> 
+         <tbody>
+          <tr> 
+           <td valign="top" align="center">
+            <div id="div_gift_image">
+             <a href="index.php?content=giving/givegift.html"><img src="images/give_a_gift.gif" border="0" /></a> 
+            </div> 
+            <div class="rightMenuBold">
+             <a href="index.php?content=giving/givegift.html"> Give a Gift!</a>
+            </div> 
+            <div>
+             <a href="index.php?content=giving/givegift.html" class="rightSubMenu">Learn More &gt;&gt;</a>
+            </div> 
+            <div class="rightMenuHeader"> 
+             <a href="index.php?content=headlines/newsflash.html" class="rightMenuHeader style1">Headlines Archive</a>
+            </div> 
+            <div> 
+             <img src="images/transparentPixel.gif" width="300" height="1" />
+            </div></td> 
+          </tr> 
+          <tr> 
+           <td>
+            <table width="100%" cellspacing="0" class="headlineTable"> 
+             <tbody>
+              <tr> 
+               <td id="headline_lefttop"><img src="images/corner_L_top.png" border="0" /></td> 
+               <td id="headline_middletop"></td> 
+               <td id="headline_righttop"><img src="images/corner_R_top.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_left"></td> 
+               <td id="headline_middle">
+                <div class="rightMenuBold">
+                 <a href="index.php?content=headlines/articles/000065_Huntington_Outreach_news_flash.html"><img src="images/rightBarArrow.gif" border="0" /> UCR Stem Cell Center Participated in Huntington's Disease Outreach</a>
+                </div>
+                <div class="rightSubMenu">
+                 <a href="index.php?content=headlines/articles/000065_Huntington_Outreach_news_flash.html">Learn More &gt;&gt;</a>
+                </div></td> 
+               <td id="headline_right"></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0" /></td> 
+               <td id="headline_middlebottom"></td> 
+               <td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0" /></td> 
+              </tr> 
+             </tbody>
+            </table> </td> 
+          </tr> 
+          <tr> 
+           <td>
+            <table width="100%" cellspacing="0" class="headlineTable"> 
+             <tbody>
+              <tr> 
+               <td id="headline_lefttop"><img src="images/corner_L_top.png" border="0" /></td> 
+               <td id="headline_middletop"></td> 
+               <td id="headline_righttop"><img src="images/corner_R_top.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_left"></td> 
+               <td id="headline_middle">
+                <div class="rightMenuBold">
+                 <a href="index.php?content=headlines/articles/000064_Bahl_TRDRP_Fellowship_news_flash.html"><img src="images/rightBarArrow.gif" border="0" /> Vasundra Bahl Receives TRDRP Pre-doctoral Fellowship</a>
+                </div>
+                <div class="rightSubMenu">
+                 <a href="index.php?content=headlines/articles/000064_Bahl_TRDRP_Fellowship_news_flash.html">Learn More &gt;&gt;</a>
+                </div></td> 
+               <td id="headline_right"></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0" /></td> 
+               <td id="headline_middlebottom"></td> 
+               <td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0" /></td> 
+              </tr> 
+             </tbody>
+            </table> </td> 
+          </tr> 
+          <tr> 
+           <td>
+            <table width="100%" cellspacing="0" class="headlineTable"> 
+             <tbody>
+              <tr> 
+               <td id="headline_lefttop"><img src="images/corner_L_top.png" border="0" /></td> 
+               <td id="headline_middletop"></td> 
+               <td id="headline_righttop"><img src="images/corner_R_top.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_left"></td> 
+               <td id="headline_middle">
+                <div class="rightMenuBold">
+                 <a href="index.php?content=headlines/articles/000063_Behar_NIH_Fellowship_news_flash.html"><img src="images/rightBarArrow.gif" border="0" /> Congratulations to Rachel Behar Who Recently Received a NIH Pre-doctoral Fellowship</a>
+                </div>
+                <div class="rightSubMenu">
+                 <a href="index.php?content=headlines/articles/000063_Behar_NIH_Fellowship_news_flash.html">Learn More &gt;&gt;</a>
+                </div></td> 
+               <td id="headline_right"></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0" /></td> 
+               <td id="headline_middlebottom"></td> 
+               <td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0" /></td> 
+              </tr> 
+             </tbody>
+            </table> </td> 
+          </tr> 
+          <tr> 
+           <td>
+            <table width="100%" cellspacing="0" class="headlineTable"> 
+             <tbody>
+              <tr> 
+               <td id="headline_lefttop"><img src="images/corner_L_top.png" border="0" /></td> 
+               <td id="headline_middletop"></td> 
+               <td id="headline_righttop"><img src="images/corner_R_top.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_left"></td> 
+               <td id="headline_middle">
+                <div class="rightMenuBold">
+                 <a href="index.php?content=headlines/articles/000062_Liu_Engineering_Award_news_flash.html"><img src="images/rightBarArrow.gif" border="0" /> Dr. Huinan Liu Wins National Engineering Award</a>
+                </div>
+                <div class="rightSubMenu">
+                 <a href="index.php?content=headlines/articles/000062_Liu_Engineering_Award_news_flash.html">Learn More &gt;&gt;</a>
+                </div></td> 
+               <td id="headline_right"></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0" /></td> 
+               <td id="headline_middlebottom"></td> 
+               <td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0" /></td> 
+              </tr> 
+             </tbody>
+            </table> </td> 
+          </tr> 
+          <tr> 
+           <td>
+            <table width="100%" cellspacing="0" class="headlineTable"> 
+             <tbody>
+              <tr> 
+               <td id="headline_lefttop"><img src="images/corner_L_top.png" border="0" /></td> 
+               <td id="headline_middletop"></td> 
+               <td id="headline_righttop"><img src="images/corner_R_top.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_left"></td> 
+               <td id="headline_middle">
+                <div class="rightMenuBold">
+                 <a href="index.php?content=headlines/articles/000060_Liao_Promotion_news_flash.html"><img src="images/rightBarArrow.gif" border="0" /> Dr. Liao Promoted to Associate Professor</a>
+                </div>
+                <div class="rightSubMenu">
+                 <a href="index.php?content=headlines/articles/000060_Liao_Promotion_news_flash.html">Learn More &gt;&gt;</a>
+                </div></td> 
+               <td id="headline_right"></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0" /></td> 
+               <td id="headline_middlebottom"></td> 
+               <td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0" /></td> 
+              </tr> 
+             </tbody>
+            </table> </td> 
+          </tr> 
+          <tr> 
+           <td>
+            <table width="100%" cellspacing="0" class="headlineTable"> 
+             <tbody>
+              <tr> 
+               <td id="headline_lefttop"><img src="images/corner_L_top.png" border="0" /></td> 
+               <td id="headline_middletop"></td> 
+               <td id="headline_righttop"><img src="images/corner_R_top.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_left"></td> 
+               <td id="headline_middle">
+                <div class="rightMenuBold">
+                 <a href="index.php?content=headlines/articles/000059_IE_Consortium_Symposium_news_flash.html"><img src="images/rightBarArrow.gif" border="0" /> Inland Empire Stem Cell Consortium Attended by over 100 Researchers from Local Universities</a>
+                </div>
+                <div class="rightSubMenu">
+                 <a href="index.php?content=headlines/articles/000059_IE_Consortium_Symposium_news_flash.html">Learn More &gt;&gt;</a>
+                </div></td> 
+               <td id="headline_right"></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0" /></td> 
+               <td id="headline_middlebottom"></td> 
+               <td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0" /></td> 
+              </tr> 
+             </tbody>
+            </table> </td> 
+          </tr> 
+          <tr> 
+           <td>
+            <table width="100%" cellspacing="0" class="headlineTable"> 
+             <tbody>
+              <tr> 
+               <td id="headline_lefttop"><img src="images/corner_L_top.png" border="0" /></td> 
+               <td id="headline_middletop"></td> 
+               <td id="headline_righttop"><img src="images/corner_R_top.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_left"></td> 
+               <td id="headline_middle">
+                <div class="rightMenuBold">
+                 <a href="index.php?content=headlines/articles/000057NSF_Fellowships_news_flash.html"><img src="images/rightBarArrow.gif" border="0" /> Three UCR Stem Cell Students Win NSF Fellowships</a>
+                </div>
+                <div class="rightSubMenu">
+                 <a href="index.php?content=headlines/articles/000057NSF_Fellowships_news_flash.html">Learn More &gt;&gt;</a>
+                </div></td> 
+               <td id="headline_right"></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0" /></td> 
+               <td id="headline_middlebottom"></td> 
+               <td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0" /></td> 
+              </tr> 
+             </tbody>
+            </table> </td> 
+          </tr> 
+          <tr> 
+           <td>
+            <table width="100%" cellspacing="0" class="headlineTable"> 
+             <tbody>
+              <tr> 
+               <td id="headline_lefttop"><img src="images/corner_L_top.png" border="0" /></td> 
+               <td id="headline_middletop"></td> 
+               <td id="headline_righttop"><img src="images/corner_R_top.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_left"></td> 
+               <td id="headline_middle">
+                <div class="rightMenuBold">
+                 <a href="index.php?content=headlines/articles/000054Ben_Guan_Award_news_flash.html"><img src="images/rightBarArrow.gif" border="0" /> Ben Guan Wins Award for Best Presentation</a>
+                </div>
+                <div class="rightSubMenu">
+                 <a href="index.php?content=headlines/articles/000054Ben_Guan_Award_news_flash.html">Learn More &gt;&gt;</a>
+                </div></td> 
+               <td id="headline_right"></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0" /></td> 
+               <td id="headline_middlebottom"></td> 
+               <td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0" /></td> 
+              </tr> 
+             </tbody>
+            </table> </td> 
+          </tr> 
+          <tr> 
+           <td>
+            <table width="100%" cellspacing="0" class="headlineTable"> 
+             <tbody>
+              <tr> 
+               <td id="headline_lefttop"><img src="images/corner_L_top.png" border="0" /></td> 
+               <td id="headline_middletop"></td> 
+               <td id="headline_righttop"><img src="images/corner_R_top.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_left"></td> 
+               <td id="headline_middle">
+                <div class="rightMenuBold">
+                 <a href="index.php?content=headlines/articles/000052OGS_at_CSUSB_news_flash.html"><img src="images/rightBarArrow.gif" border="0" /> Laughing Bear Torrez Honored as Outstanding Graduate Student at CSUSB</a>
+                </div>
+                <div class="rightSubMenu">
+                 <a href="index.php?content=headlines/articles/000052OGS_at_CSUSB_news_flash.html">Learn More &gt;&gt;</a>
+                </div></td> 
+               <td id="headline_right"></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0" /></td> 
+               <td id="headline_middlebottom"></td> 
+               <td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0" /></td> 
+              </tr> 
+             </tbody>
+            </table> </td> 
+          </tr> 
+          <tr> 
+           <td>
+            <table width="100%" cellspacing="0" class="headlineTable"> 
+             <tbody>
+              <tr> 
+               <td id="headline_lefttop"><img src="images/corner_L_top.png" border="0" /></td> 
+               <td id="headline_middletop"></td> 
+               <td id="headline_righttop"><img src="images/corner_R_top.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_left"></td> 
+               <td id="headline_middle">
+                <div class="rightMenuBold">
+                 <a href="index.php?content=headlines/articles/000049Vasu_Prize_SOT_news_flash.html"><img src="images/rightBarArrow.gif" border="0" /> Vasu Bahl wins prize for her poster presentation at the SCCSOT meetings</a>
+                </div>
+                <div class="rightSubMenu">
+                 <a href="index.php?content=headlines/articles/000049Vasu_Prize_SOT_news_flash.html">Learn More &gt;&gt;</a>
+                </div></td> 
+               <td id="headline_right"></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0" /></td> 
+               <td id="headline_middlebottom"></td> 
+               <td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0" /></td> 
+              </tr> 
+             </tbody>
+            </table> </td> 
+          </tr> 
+          <tr> 
+           <td>
+            <table width="100%" cellspacing="0" class="headlineTable"> 
+             <tbody>
+              <tr> 
+               <td id="headline_lefttop"><img src="images/corner_L_top.png" border="0" /></td> 
+               <td id="headline_middletop"></td> 
+               <td id="headline_righttop"><img src="images/corner_R_top.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_left"></td> 
+               <td id="headline_middle">
+                <div class="rightMenuBold">
+                 <a href="index.php?content=headlines/articles/000047Faculty_Publications_news_flash.html"><img src="images/rightBarArrow.gif" border="0" /> New Publications by Stem Cell Center Faculty</a>
+                </div>
+                <div class="rightSubMenu">
+                 <a href="index.php?content=headlines/articles/000047Faculty_Publications_news_flash.html">Learn More &gt;&gt;</a>
+                </div></td> 
+               <td id="headline_right"></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0" /></td> 
+               <td id="headline_middlebottom"></td> 
+               <td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0" /></td> 
+              </tr> 
+             </tbody>
+            </table> </td> 
+          </tr> 
+          <tr> 
+           <td>
+            <table width="100%" cellspacing="0" class="headlineTable"> 
+             <tbody>
+              <tr> 
+               <td id="headline_lefttop"><img src="images/corner_L_top.png" border="0" /></td> 
+               <td id="headline_middletop"></td> 
+               <td id="headline_righttop"><img src="images/corner_R_top.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_left"></td> 
+               <td id="headline_middle">
+                <div class="rightMenuBold">
+                 <a href="index.php?content=headlines/articles/000046TRDRP_Awards_news_flash.html"><img src="images/rightBarArrow.gif" border="0" /> UCR Stem Cell Labs Receive 5 New Grants from TRDRP</a>
+                </div>
+                <div class="rightSubMenu">
+                 <a href="index.php?content=headlines/articles/000046TRDRP_Awards_news_flash.html">Learn More &gt;&gt;</a>
+                </div></td> 
+               <td id="headline_right"></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0" /></td> 
+               <td id="headline_middlebottom"></td> 
+               <td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0" /></td> 
+              </tr> 
+             </tbody>
+            </table> </td> 
+          </tr> 
+          <tr> 
+           <td>
+            <table width="100%" cellspacing="0" class="headlineTable"> 
+             <tbody>
+              <tr> 
+               <td id="headline_lefttop"><img src="images/corner_L_top.png" border="0" /></td> 
+               <td id="headline_middletop"></td> 
+               <td id="headline_righttop"><img src="images/corner_R_top.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_left"></td> 
+               <td id="headline_middle">
+                <div class="rightMenuBold">
+                 <a href="index.php?content=headlines/articles/000045Nikki_IGERT_news_flash.html"><img src="images/rightBarArrow.gif" border="0" /> Nikki Weng Selected as an NSF IGERT Fellow</a>
+                </div>
+                <div class="rightSubMenu">
+                 <a href="index.php?content=headlines/articles/000045Nikki_IGERT_news_flash.html">Learn More &gt;&gt;</a>
+                </div></td> 
+               <td id="headline_right"></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0" /></td> 
+               <td id="headline_middlebottom"></td> 
+               <td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0" /></td> 
+              </tr> 
+             </tbody>
+            </table> </td> 
+          </tr> 
+          <tr> 
+           <td>
+            <table width="100%" cellspacing="0" class="headlineTable"> 
+             <tbody>
+              <tr> 
+               <td id="headline_lefttop"><img src="images/corner_L_top.png" border="0" /></td> 
+               <td id="headline_middletop"></td> 
+               <td id="headline_righttop"><img src="images/corner_R_top.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_left"></td> 
+               <td id="headline_middle">
+                <div class="rightMenuBold">
+                 <a href="index.php?content=headlines/articles/000044Walker_Grant_news_flash.html"><img src="images/rightBarArrow.gif" border="0" /> Dr. Walker Receives Grant to Study Cancer Stem Cells</a>
+                </div>
+                <div class="rightSubMenu">
+                 <a href="index.php?content=headlines/articles/000044Walker_Grant_news_flash.html">Learn More &gt;&gt;</a>
+                </div></td> 
+               <td id="headline_right"></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0" /></td> 
+               <td id="headline_middlebottom"></td> 
+               <td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0" /></td> 
+              </tr> 
+             </tbody>
+            </table> </td> 
+          </tr> 
+          <tr> 
+           <td>
+            <table width="100%" cellspacing="0" class="headlineTable"> 
+             <tbody>
+              <tr> 
+               <td id="headline_lefttop"><img src="images/corner_L_top.png" border="0" /></td> 
+               <td id="headline_middletop"></td> 
+               <td id="headline_righttop"><img src="images/corner_R_top.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_left"></td> 
+               <td id="headline_middle">
+                <div class="rightMenuBold">
+                 <a href="index.php?content=headlines/articles/000043Core_Expands_news_flash.html"><img src="images/rightBarArrow.gif" border="0" /> Stem Cell Core Expands into New Space</a>
+                </div>
+                <div class="rightSubMenu">
+                 <a href="index.php?content=headlines/articles/000043Core_Expands_news_flash.html">Learn More &gt;&gt;</a>
+                </div></td> 
+               <td id="headline_right"></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0" /></td> 
+               <td id="headline_middlebottom"></td> 
+               <td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0" /></td> 
+              </tr> 
+             </tbody>
+            </table> </td> 
+          </tr> 
+          <tr> 
+           <td>
+            <table width="100%" cellspacing="0" class="headlineTable"> 
+             <tbody>
+              <tr> 
+               <td id="headline_lefttop"><img src="images/corner_L_top.png" border="0" /></td> 
+               <td id="headline_middletop"></td> 
+               <td id="headline_righttop"><img src="images/corner_R_top.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_left"></td> 
+               <td id="headline_middle">
+                <div class="rightMenuBold">
+                 <a href="index.php?content=headlines/articles/000042Core_Funding_Extended_news_flash.html"><img src="images/rightBarArrow.gif" border="0" /> Stem Cell Core Received Three Additional Years of Funding</a>
+                </div>
+                <div class="rightSubMenu">
+                 <a href="index.php?content=headlines/articles/000042Core_Funding_Extended_news_flash.html">Learn More &gt;&gt;</a>
+                </div></td> 
+               <td id="headline_right"></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0" /></td> 
+               <td id="headline_middlebottom"></td> 
+               <td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0" /></td> 
+              </tr> 
+             </tbody>
+            </table> </td> 
+          </tr> 
+          <tr> 
+           <td>
+            <table width="100%" cellspacing="0" class="headlineTable"> 
+             <tbody>
+              <tr> 
+               <td id="headline_lefttop"><img src="images/corner_L_top.png" border="0" /></td> 
+               <td id="headline_middletop"></td> 
+               <td id="headline_righttop"><img src="images/corner_R_top.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_left"></td> 
+               <td id="headline_middle">
+                <div class="rightMenuBold">
+                 <a href="index.php?content=headlines/articles/000041Obenaus_Ashwal_Recognized_news_flash.html"><img src="images/rightBarArrow.gif" border="0" /> Drs. Obenaus and Ashwal Recognized by the Faculty of 1000</a>
+                </div>
+                <div class="rightSubMenu">
+                 <a href="index.php?content=headlines/articles/000041Obenaus_Ashwal_Recognized_news_flash.html">Learn More &gt;&gt;</a>
+                </div></td> 
+               <td id="headline_right"></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0" /></td> 
+               <td id="headline_middlebottom"></td> 
+               <td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0" /></td> 
+              </tr> 
+             </tbody>
+            </table> </td> 
+          </tr> 
+          <tr> 
+           <td>
+            <table width="100%" cellspacing="0" class="headlineTable"> 
+             <tbody>
+              <tr> 
+               <td id="headline_lefttop"><img src="images/corner_L_top.png" border="0" /></td> 
+               <td id="headline_middletop"></td> 
+               <td id="headline_righttop"><img src="images/corner_R_top.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_left"></td> 
+               <td id="headline_middle">
+                <div class="rightMenuBold">
+                 <a href="index.php?content=headlines/articles/000039Medical_School_Opens_news_flash.html"><img src="images/rightBarArrow.gif" border="0" /> Medical School Opens First New Building</a>
+                </div>
+                <div class="rightSubMenu">
+                 <a href="index.php?content=headlines/articles/000039Medical_School_Opens_news_flash.html">Learn More &gt;&gt;</a>
+                </div></td> 
+               <td id="headline_right"></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0" /></td> 
+               <td id="headline_middlebottom"></td> 
+               <td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0" /></td> 
+              </tr> 
+             </tbody>
+            </table> </td> 
+          </tr> 
+          <tr> 
+           <td>
+            <table width="100%" cellspacing="0" class="headlineTable"> 
+             <tbody>
+              <tr> 
+               <td id="headline_lefttop"><img src="images/corner_L_top.png" border="0" /></td> 
+               <td id="headline_middletop"></td> 
+               <td id="headline_righttop"><img src="images/corner_R_top.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_left"></td> 
+               <td id="headline_middle">
+                <div class="rightMenuBold">
+                 <a href="index.php?content=headlines/articles/000037Obenaus_Article_news_flash.html"><img src="images/rightBarArrow.gif" border="0" /> Drs. Obenaus and Ashwal Publish New Stem Cell Paper on Brain Injury</a>
+                </div>
+                <div class="rightSubMenu">
+                 <a href="index.php?content=headlines/articles/000037Obenaus_Article_news_flash.html">Learn More &gt;&gt;</a>
+                </div></td> 
+               <td id="headline_right"></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0" /></td> 
+               <td id="headline_middlebottom"></td> 
+               <td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0" /></td> 
+              </tr> 
+             </tbody>
+            </table> </td> 
+          </tr> 
+          <tr> 
+           <td>
+            <table width="100%" cellspacing="0" class="headlineTable"> 
+             <tbody>
+              <tr> 
+               <td id="headline_lefttop"><img src="images/corner_L_top.png" border="0" /></td> 
+               <td id="headline_middletop"></td> 
+               <td id="headline_righttop"><img src="images/corner_R_top.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_left"></td> 
+               <td id="headline_middle">
+                <div class="rightMenuBold">
+                 <a href="index.php?content=headlines/articles/000036zur_Nieden_Book_news_flash.html"><img src="images/rightBarArrow.gif" border="0" /> Dr. zur Nieden Edits New Book on Stem Cells</a>
+                </div>
+                <div class="rightSubMenu">
+                 <a href="index.php?content=headlines/articles/000036zur_Nieden_Book_news_flash.html">Learn More &gt;&gt;</a>
+                </div></td> 
+               <td id="headline_right"></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0" /></td> 
+               <td id="headline_middlebottom"></td> 
+               <td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0" /></td> 
+              </tr> 
+             </tbody>
+            </table> </td> 
+          </tr> 
+          <tr> 
+           <td>
+            <table width="100%" cellspacing="0" class="headlineTable"> 
+             <tbody>
+              <tr> 
+               <td id="headline_lefttop"><img src="images/corner_L_top.png" border="0" /></td> 
+               <td id="headline_middletop"></td> 
+               <td id="headline_righttop"><img src="images/corner_R_top.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_left"></td> 
+               <td id="headline_middle">
+                <div class="rightMenuBold">
+                 <a href="index.php?content=headlines/articles/000035Symposium_news_flash.html"><img src="images/rightBarArrow.gif" border="0" /> UCR Stem Cell Center Co-Hosts Symposium</a>
+                </div>
+                <div class="rightSubMenu">
+                 <a href="index.php?content=headlines/articles/000035Symposium_news_flash.html">Learn More &gt;&gt;</a>
+                </div></td> 
+               <td id="headline_right"></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0" /></td> 
+               <td id="headline_middlebottom"></td> 
+               <td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0" /></td> 
+              </tr> 
+             </tbody>
+            </table> </td> 
+          </tr> 
+          <tr> 
+           <td>
+            <table width="100%" cellspacing="0" class="headlineTable"> 
+             <tbody>
+              <tr> 
+               <td id="headline_lefttop"><img src="images/corner_L_top.png" border="0" /></td> 
+               <td id="headline_middletop"></td> 
+               <td id="headline_righttop"><img src="images/corner_R_top.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_left"></td> 
+               <td id="headline_middle">
+                <div class="rightMenuBold">
+                 <a href="index.php?content=headlines/articles/000034HarmArticle_news_flash.html"><img src="images/rightBarArrow.gif" border="0" /> Dr. Talbot's Lab Publishes New Study on Harm Reduction Cigarette Smoke</a>
+                </div>
+                <div class="rightSubMenu">
+                 <a href="index.php?content=headlines/articles/000034HarmArticle_news_flash.html">Learn More &gt;&gt;</a>
+                </div></td> 
+               <td id="headline_right"></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0" /></td> 
+               <td id="headline_middlebottom"></td> 
+               <td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0" /></td> 
+              </tr> 
+             </tbody>
+            </table> </td> 
+          </tr> 
+          <tr> 
+           <td>
+            <table width="100%" cellspacing="0" class="headlineTable"> 
+             <tbody>
+              <tr> 
+               <td id="headline_lefttop"><img src="images/corner_L_top.png" border="0" /></td> 
+               <td id="headline_middletop"></td> 
+               <td id="headline_righttop"><img src="images/corner_R_top.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_left"></td> 
+               <td id="headline_middle">
+                <div class="rightMenuBold">
+                 <a href="index.php?content=headlines/articles/000033IGERTRetreat_news_flash.html"><img src="images/rightBarArrow.gif" border="0" /> UCR Scientists Meet for NSF Video Bioinformatics IGERT Retreat</a>
+                </div>
+                <div class="rightSubMenu">
+                 <a href="index.php?content=headlines/articles/000033IGERTRetreat_news_flash.html">Learn More &gt;&gt;</a>
+                </div></td> 
+               <td id="headline_right"></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0" /></td> 
+               <td id="headline_middlebottom"></td> 
+               <td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0" /></td> 
+              </tr> 
+             </tbody>
+            </table> </td> 
+          </tr> 
+          <tr> 
+           <td>
+            <table width="100%" cellspacing="0" class="headlineTable"> 
+             <tbody>
+              <tr> 
+               <td id="headline_lefttop"><img src="images/corner_L_top.png" border="0" /></td> 
+               <td id="headline_middletop"></td> 
+               <td id="headline_righttop"><img src="images/corner_R_top.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_left"></td> 
+               <td id="headline_middle">
+                <div class="rightMenuBold">
+                 <a href="index.php?content=headlines/articles/000032SatoPublication_news_flash.html"><img src="images/rightBarArrow.gif" border="0" /> New Publication from Dr. Sato's Lab</a>
+                </div>
+                <div class="rightSubMenu">
+                 <a href="index.php?content=headlines/articles/000032SatoPublication_news_flash.html">Learn More &gt;&gt;</a>
+                </div></td> 
+               <td id="headline_right"></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0" /></td> 
+               <td id="headline_middlebottom"></td> 
+               <td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0" /></td> 
+              </tr> 
+             </tbody>
+            </table> </td> 
+          </tr> 
+          <tr> 
+           <td>
+            <table width="100%" cellspacing="0" class="headlineTable"> 
+             <tbody>
+              <tr> 
+               <td id="headline_lefttop"><img src="images/corner_L_top.png" border="0" /></td> 
+               <td id="headline_middletop"></td> 
+               <td id="headline_righttop"><img src="images/corner_R_top.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_left"></td> 
+               <td id="headline_middle">
+                <div class="rightMenuBold">
+                 <a href="index.php?content=headlines/articles/000031NewGrants_news_flash.html"><img src="images/rightBarArrow.gif" border="0" /> Stem Cell Faculty Receive New Grants</a>
+                </div>
+                <div class="rightSubMenu">
+                 <a href="index.php?content=headlines/articles/000031NewGrants_news_flash.html">Learn More &gt;&gt;</a>
+                </div></td> 
+               <td id="headline_right"></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0" /></td> 
+               <td id="headline_middlebottom"></td> 
+               <td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0" /></td> 
+              </tr> 
+             </tbody>
+            </table> </td> 
+          </tr> 
+          <tr> 
+           <td>
+            <table width="100%" cellspacing="0" class="headlineTable"> 
+             <tbody>
+              <tr> 
+               <td id="headline_lefttop"><img src="images/corner_L_top.png" border="0" /></td> 
+               <td id="headline_middletop"></td> 
+               <td id="headline_righttop"><img src="images/corner_R_top.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_left"></td> 
+               <td id="headline_middle">
+                <div class="rightMenuBold">
+                 <a href="index.php?content=headlines/articles/000029ISSCRMeetings_news_flash.html"><img src="images/rightBarArrow.gif" border="0" /> UCR Labs Attended ISSCR Meetings</a>
+                </div>
+                <div class="rightSubMenu">
+                 <a href="index.php?content=headlines/articles/000029ISSCRMeetings_news_flash.html">Learn More &gt;&gt;</a>
+                </div></td> 
+               <td id="headline_right"></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0" /></td> 
+               <td id="headline_middlebottom"></td> 
+               <td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0" /></td> 
+              </tr> 
+             </tbody>
+            </table> </td> 
+          </tr> 
+          <tr> 
+           <td>
+            <table width="100%" cellspacing="0" class="headlineTable"> 
+             <tbody>
+              <tr> 
+               <td id="headline_lefttop"><img src="images/corner_L_top.png" border="0" /></td> 
+               <td id="headline_middletop"></td> 
+               <td id="headline_righttop"><img src="images/corner_R_top.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_left"></td> 
+               <td id="headline_middle">
+                <div class="rightMenuBold">
+                 <a href="index.php?content=headlines/articles/000028NewPublications_news_flash.html"><img src="images/rightBarArrow.gif" border="0" /> UCR Labs Publish Two New Stem Cell Papers</a>
+                </div>
+                <div class="rightSubMenu">
+                 <a href="index.php?content=headlines/articles/000028NewPublications_news_flash.html">Learn More &gt;&gt;</a>
+                </div></td> 
+               <td id="headline_right"></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0" /></td> 
+               <td id="headline_middlebottom"></td> 
+               <td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0" /></td> 
+              </tr> 
+             </tbody>
+            </table> </td> 
+          </tr> 
+          <tr> 
+           <td>
+            <table width="100%" cellspacing="0" class="headlineTable"> 
+             <tbody>
+              <tr> 
+               <td id="headline_lefttop"><img src="images/corner_L_top.png" border="0" /></td> 
+               <td id="headline_middletop"></td> 
+               <td id="headline_righttop"><img src="images/corner_R_top.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_left"></td> 
+               <td id="headline_middle">
+                <div class="rightMenuBold">
+                 <a href="index.php?content=headlines/articles/000027GOnewsroom_news_flash.html"><img src="images/rightBarArrow.gif" border="0" /> UCR Stem Cell Core has Grand Opening</a>
+                </div>
+                <div class="rightSubMenu">
+                 <a href="index.php?content=headlines/articles/000027GOnewsroom_news_flash.html">Learn More &gt;&gt;</a>
+                </div></td> 
+               <td id="headline_right"></td> 
+              </tr> 
+              <tr> 
+               <td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0" /></td> 
+               <td id="headline_middlebottom"></td> 
+               <td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0" /></td> 
+              </tr> 
+              <tr> 
+               <td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0" /></td> 
+              </tr> 
+             </tbody>
+            </table> </td> 
+          </tr> 
+          <!-- tr>
+              <td><table width="100%" cellspacing="0" class="headlineTable">
+<tr>
+<td id="headline_lefttop"><img src="images/corner_L_top.png" border="0"></td>
+<td id="headline_middletop"></td>
+<td id="headline_righttop"><img src="images/corner_R_top.png" border="0"></td>
+</tr>
+<tr>
+<td id="headline_left"></td>
+<td id="headline_middle"><div class="rightMenuBold"><a href="index.php?content=headlines/articles/000061_zur_Nieden_Lecture_news_flash.html"><img src="images/rightBarArrow.gif" border="0"> Dr. zur Nieden to Present a Stem Cell Lecture</a></div><div class="rightSubMenu"><a href="index.php?content=headlines/articles/000061_zur_Nieden_Lecture_news_flash.html">Learn More &gt;&gt;</a></div></td>
+<td id="headline_right"></td>
+</tr>
+<tr>
+<td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0"></td>
+<td id="headline_middlebottom"></td>
+<td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0"></td>
+</tr>
+<tr>
+<td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0"></td>
+</tr>
+</table>
+</td>
+              </tr --> 
+          <!-- tr>
+              <td><table width="100%" cellspacing="0" class="headlineTable">
+<tr>
+<td id="headline_lefttop"><img src="images/corner_L_top.png" border="0"></td>
+<td id="headline_middletop"></td>
+<td id="headline_righttop"><img src="images/corner_R_top.png" border="0"></td>
+</tr>
+<tr>
+<td id="headline_left"></td>
+<td id="headline_middle"><div class="rightMenuBold"><a href="index.php?content=headlines/articles/000058Seminars_S13_news_flash.html"><img src="images/rightBarArrow.gif" border="0"> Spring Seminars in Stem Cell Biology</a></div><div class="rightSubMenu"><a href="index.php?content=headlines/articles/000058Seminars_S13_news_flash.html">Learn More &gt;&gt;</a></div></td>
+<td id="headline_right"></td>
+</tr>
+<tr>
+<td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0"></td>
+<td id="headline_middlebottom"></td>
+<td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0"></td>
+</tr>
+<tr>
+<td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0"></td>
+</tr>
+</table>
+</td>
+              </tr --> 
+          <!-- tr>
+              <td><table width="100%" cellspacing="0" class="headlineTable">
+<tr>
+<td id="headline_lefttop"><img src="images/corner_L_top.png" border="0"></td>
+<td id="headline_middletop"></td>
+<td id="headline_righttop"><img src="images/corner_R_top.png" border="0"></td>
+</tr>
+<tr>
+<td id="headline_left"></td>
+<td id="headline_middle"><div class="rightMenuBold"><a href="index.php?content=headlines/articles/000056_2nd_IE_Consortium_Symposium_news_flash.html"><img src="images/rightBarArrow.gif" border="0"> 2nd Inland Empire Stem Cell Consorium Symposium - April 17, 2013</a></div><div class="rightSubMenu"><a href="index.php?content=headlines/articles/000056_2nd_IE_Consortium_Symposium_news_flash.html">Learn More &gt;&gt;</a></div></td>
+<td id="headline_right"></td>
+</tr>
+<tr>
+<td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0"></td>
+<td id="headline_middlebottom"></td>
+<td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0"></td>
+</tr>
+<tr>
+<td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0"></td>
+</tr>
+</table>
+</td>
+              </tr --> 
+          <!-- tr>
+              <td><table width="100%" cellspacing="0" class="headlineTable">
+<tr>
+<td id="headline_lefttop"><img src="images/corner_L_top.png" border="0"></td>
+<td id="headline_middletop"></td>
+<td id="headline_righttop"><img src="images/corner_R_top.png" border="0"></td>
+</tr>
+<tr>
+<td id="headline_left"></td>
+<td id="headline_middle"><div class="rightMenuBold"><a href="index.php?content=headlines/articles/000055Seminars_W13_news_flash.html"><img src="images/rightBarArrow.gif" border="0"> Winter Seminars in Stem Cell Biology</a></div><div class="rightSubMenu"><a href="index.php?content=headlines/articles/000055Seminars_W13_news_flash.html">Learn More &gt;&gt;</a></div></td>
+<td id="headline_right"></td>
+</tr>
+<tr>
+<td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0"></td>
+<td id="headline_middlebottom"></td>
+<td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0"></td>
+</tr>
+<tr>
+<td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0"></td>
+</tr>
+</table>
+</td>
+              </tr --> 
+          <!-- tr>
+              <td><table width="100%" cellspacing="0" class="headlineTable">
+<tr>
+<td id="headline_lefttop"><img src="images/corner_L_top.png" border="0"></td>
+<td id="headline_middletop"></td>
+<td id="headline_righttop"><img src="images/corner_R_top.png" border="0"></td>
+</tr>
+<tr>
+<td id="headline_left"></td>
+<td id="headline_middle"><div class="rightMenuBold"><a href="index.php?content=headlines/articles/000053Seminars_F12_news_flash.html"><img src="images/rightBarArrow.gif" border="0"> Fall Seminars in Stem Cell Biology</a></div><div class="rightSubMenu"><a href="index.php?content=headlines/articles/000053Seminars_F12_news_flash.html">Learn More &gt;&gt;</a></div></td>
+<td id="headline_right"></td>
+</tr>
+<tr>
+<td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0"></td>
+<td id="headline_middlebottom"></td>
+<td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0"></td>
+</tr>
+<tr>
+<td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0"></td>
+</tr>
+</table>
+</td>
+              </tr --> 
+          <!-- tr>
+              <td><table width="100%" cellspacing="0" class="headlineTable">
+<tr>
+<td id="headline_lefttop"><img src="images/corner_L_top.png" border="0"></td>
+<td id="headline_middletop"></td>
+<td id="headline_righttop"><img src="images/corner_R_top.png" border="0"></td>
+</tr>
+<tr>
+<td id="headline_left"></td>
+<td id="headline_middle"><div class="rightMenuBold"><a href="index.php?content=headlines/articles/000051SCSS_Spring_2012_news_flash.html"><img src="images/rightBarArrow.gif" border="0"> Stem Cell Seminar Series for Spring 2012</a></div><div class="rightSubMenu"><a href="index.php?content=headlines/articles/000051SCSS_Spring_2012_news_flash.html">Learn More &gt;&gt;</a></div></td>
+<td id="headline_right"></td>
+</tr>
+<tr>
+<td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0"></td>
+<td id="headline_middlebottom"></td>
+<td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0"></td>
+</tr>
+<tr>
+<td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0"></td>
+</tr>
+</table>
+</td>
+              </tr --> 
+          <!-- tr>
+              <td><table width="100%" cellspacing="0" class="headlineTable">
+<tr>
+<td id="headline_lefttop"><img src="images/corner_L_top.png" border="0"></td>
+<td id="headline_middletop"></td>
+<td id="headline_righttop"><img src="images/corner_R_top.png" border="0"></td>
+</tr>
+<tr>
+<td id="headline_left"></td>
+<td id="headline_middle"><div class="rightMenuBold"><a href="index.php?content=headlines/articles/000050IE_Consortium_Opening_news_flash.html"><img src="images/rightBarArrow.gif" border="0"> Inland Empire Stem Cell Consorium Opening Event</a></div><div class="rightSubMenu"><a href="index.php?content=headlines/articles/000050IE_Consortium_Opening_news_flash.html">Learn More &gt;&gt;</a></div></td>
+<td id="headline_right"></td>
+</tr>
+<tr>
+<td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0"></td>
+<td id="headline_middlebottom"></td>
+<td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0"></td>
+</tr>
+<tr>
+<td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0"></td>
+</tr>
+</table>
+</td>
+              </tr --> 
+          <!-- tr>
+              <td><table width="100%" cellspacing="0" class="headlineTable">
+<tr>
+<td id="headline_lefttop"><img src="images/corner_L_top.png" border="0"></td>
+<td id="headline_middletop"></td>
+<td id="headline_righttop"><img src="images/corner_R_top.png" border="0"></td>
+</tr>
+<tr>
+<td id="headline_left"></td>
+<td id="headline_middle"><div class="rightMenuBold"><a href="index.php?content=headlines/articles/000048Talks_Winter_2012_news_flash.html"><img src="images/rightBarArrow.gif" border="0"> Winter Seminars in Stem Cell Biology</a></div><div class="rightSubMenu"><a href="index.php?content=headlines/articles/000048Talks_Winter_2012_news_flash.html">Learn More &gt;&gt;</a></div></td>
+<td id="headline_right"></td>
+</tr>
+<tr>
+<td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0"></td>
+<td id="headline_middlebottom"></td>
+<td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0"></td>
+</tr>
+<tr>
+<td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0"></td>
+</tr>
+</table>
+</td>
+              </tr --> 
+          <!-- tr>
+              <td><table width="100%" cellspacing="0" class="headlineTable">
+<tr>
+<td id="headline_lefttop"><img src="images/corner_L_top.png" border="0"></td>
+<td id="headline_middletop"></td>
+<td id="headline_righttop"><img src="images/corner_R_top.png" border="0"></td>
+</tr>
+<tr>
+<td id="headline_left"></td>
+<td id="headline_middle"><div class="rightMenuBold"><a href="index.php?content=headlines/articles/000030SabrinaLinGraduates_news_flash.html"><img src="images/rightBarArrow.gif" border="0"> Sabrina Lin Defends Stem Cell Dissertation</a></div><div class="rightSubMenu"><a href="index.php?content=headlines/articles/000030SabrinaLinGraduates_news_flash.html">Learn More &gt;&gt;</a></div></td>
+<td id="headline_right"></td>
+</tr>
+<tr>
+<td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0"></td>
+<td id="headline_middlebottom"></td>
+<td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0"></td>
+</tr>
+<tr>
+<td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0"></td>
+</tr>
+</table>
+</td>
+              </tr --> 
+          <!-- tr>
+              <td><table width="100%" cellspacing="0" class="headlineTable">
+<tr>
+<td id="headline_lefttop"><img src="images/corner_L_top.png" border="0"></td>
+<td id="headline_middletop"></td>
+<td id="headline_righttop"><img src="images/corner_R_top.png" border="0"></td>
+</tr>
+<tr>
+<td id="headline_left"></td>
+<td id="headline_middle"><div class="rightMenuBold"><a href="index.php?content=events/lunchtalks/lunchtalks.html"><img src="images/rightBarArrow.gif" border="0"> Presenting: The Winter 2010 Lunch Talks</a></div><div class="rightSubMenu"><a href="index.php?content=events/lunchtalks/lunchtalks.html">Learn More &gt;&gt;</a></div></td>
+<td id="headline_right"></td>
+</tr>
+<tr>
+<td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0"></td>
+<td id="headline_middlebottom"></td>
+<td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0"></td>
+</tr>
+<tr>
+<td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0"></td>
+</tr>
+</table>
+</td>
+              </tr --> 
+          <!-- tr>
+              <td><table width="100%" cellspacing="0" class="headlineTable">
+<tr>
+<td id="headline_lefttop"><img src="images/corner_L_top.png" border="0"></td>
+<td id="headline_middletop"></td>
+<td id="headline_righttop"><img src="images/corner_R_top.png" border="0"></td>
+</tr>
+<tr>
+<td id="headline_left"></td>
+<td id="headline_middle"><div class="rightMenuBold"><a href="index.php?content=headlines/articles/000025tiffanyawareness_news_flash.html"><img src="images/rightBarArrow.gif" border="0"> Stem Cell Awareness Day</a></div><div class="rightSubMenu"><a href="index.php?content=headlines/articles/000025tiffanyawareness_news_flash.html">Learn More &gt;&gt;</a></div></td>
+<td id="headline_right"></td>
+</tr>
+<tr>
+<td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0"></td>
+<td id="headline_middlebottom"></td>
+<td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0"></td>
+</tr>
+<tr>
+<td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0"></td>
+</tr>
+</table>
+</td>
+              </tr --> 
+          <!-- tr>
+              <td><table width="100%" cellspacing="0" class="headlineTable">
+<tr>
+<td id="headline_lefttop"><img src="images/corner_L_top.png" border="0"></td>
+<td id="headline_middletop"></td>
+<td id="headline_righttop"><img src="images/corner_R_top.png" border="0"></td>
+</tr>
+<tr>
+<td id="headline_left"></td>
+<td id="headline_middle"><div class="rightMenuBold"><a href="index.php?content=headlines/articles/000024lubenawareness_news_flash.html"><img src="images/rightBarArrow.gif" border="0"> Dr. Luben Participates in CIRM Sponsored Stem Cell Awareness Day</a></div><div class="rightSubMenu"><a href="index.php?content=headlines/articles/000024lubenawareness_news_flash.html">Learn More &gt;&gt;</a></div></td>
+<td id="headline_right"></td>
+</tr>
+<tr>
+<td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0"></td>
+<td id="headline_middlebottom"></td>
+<td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0"></td>
+</tr>
+<tr>
+<td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0"></td>
+</tr>
+</table>
+</td>
+              </tr --> 
+          <!-- tr>
+              <td><table width="100%" cellspacing="0" class="headlineTable">
+<tr>
+<td id="headline_lefttop"><img src="images/corner_L_top.png" border="0"></td>
+<td id="headline_middletop"></td>
+<td id="headline_righttop"><img src="images/corner_R_top.png" border="0"></td>
+</tr>
+<tr>
+<td id="headline_left"></td>
+<td id="headline_middle"><div class="rightMenuBold"><a href="index.php?content=headlines/articles/000023parsonsgrant_news_flash.html"><img src="images/rightBarArrow.gif" border="0"> Dr. Parson Receives New NIH Grant</a></div><div class="rightSubMenu"><a href="index.php?content=headlines/articles/000023parsonsgrant_news_flash.html">Learn More &gt;&gt;</a></div></td>
+<td id="headline_right"></td>
+</tr>
+<tr>
+<td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0"></td>
+<td id="headline_middlebottom"></td>
+<td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0"></td>
+</tr>
+<tr>
+<td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0"></td>
+</tr>
+</table>
+</td>
+              </tr --> 
+          <!-- tr>
+              <td><table width="100%" cellspacing="0" class="headlineTable">
+<tr>
+<td id="headline_lefttop"><img src="images/corner_L_top.png" border="0"></td>
+<td id="headline_middletop"></td>
+<td id="headline_righttop"><img src="images/corner_R_top.png" border="0"></td>
+</tr>
+<tr>
+<td id="headline_left"></td>
+<td id="headline_middle"><div class="rightMenuBold"><a href="index.php?content=headlines/articles/000022tobaccosymposium_news_flash.html"><img src="images/rightBarArrow.gif" border="0"> UCR Symposium on Tobacco-Related Disease Research</a></div><div class="rightSubMenu"><a href="index.php?content=headlines/articles/000022tobaccosymposium_news_flash.html">Learn More &gt;&gt;</a></div></td>
+<td id="headline_right"></td>
+</tr>
+<tr>
+<td id="headline_leftbottom"><img src="images/corner_L_bottom.png" border="0"></td>
+<td id="headline_middlebottom"></td>
+<td id="headline_rightbottom"><img src="images/corner_R_bottom.png" border="0"></td>
+</tr>
+<tr>
+<td colspan="3"><img src="images/transparentPixel.gif" height="10" width="10" border="0"></td>
+</tr>
+</table>
+</td>
+						  </tr --> 
+         </tbody>
+        </table> </td>
+      </tr>
+      <tr> 
+       <td height="30" align="center" bgcolor="#E2E8EC" colspan="2"><a href="index.php" class="bodyContentLink">Home</a> | <a href="index.php?content=people/spotlight.html" class="bodyContentLink">People</a> | <a href="index.php?content=research/spotlight.html" class="bodyContentLink">Research</a> | <a href="index.php?content=events/spotlight.html" class="bodyContentLink">Events</a> | <a href="index.php?content=courses/spotlight.html" class="bodyContentLink">Courses</a> | <a href="index.php?content=outreach/outreach.html" class="bodyContentLink">Outreach</a> | <a href="index.php?content=links/links.html" class="bodyContentLink">Links</a> | <a href="index.php?content=giving/givegift.html" class="bodyContentLink">Give A Gift</a> | <a href="index.php?content=headlines/newsflash.html" class="bodyContentLink">Headlines</a> | <a href="index.php?content=contact/spotlight.html" class="bodyContentLink">Contact Us</a> | <a href="mailto: debbie.drake@ucr.edu " class="bodyContentLink">WebMaster</a></td> 
+      </tr> 
+     </tbody>
+    </table> 
+   </div> 
+  </center>  
+ </body>
+</html><!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>Student Business Services / Main Cashiers : Welcome to Student Business Services / Main Cashiers</title> 
+  <meta http-equiv="last-modified" content="2009-12-08" /> 
+  <meta name="version" content="1.204 1.233 " /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/medblue6.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/templates/ucr_midblue/styles.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all" /> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr-config.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/swfobject.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/prototype.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/scriptaculous.js?load=effects"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/lib.js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+// ]]>
+</script> 
+  <script type="text/javascript">
+// <![CDATA[
+try {
+var pageTracker = _gat._getTracker("UA-3051875-1");
+pageTracker._setDomainName("ucr.edu");
+pageTracker._trackPageview();
+} catch(err) {}
+// ]]>
+</script> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://www.sbs.ucr.edu" accesskey="1">Home Page</a></li> 
+    <!--li class="skip"><a href="/about/accessibility.asp" accesskey="0">Accessibility Statement</a></li--> 
+   </ul> 
+   <hr /> 
+   <div id="brandingbar"> 
+    <h2><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="UCR" title="UCR Home page" /></a></h2> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/templates/ucr_midblue/images/masthead.jpg);"> 
+   <h1><a href="http://www.sbs.ucr.edu"><span class="printonly">Student Business Services / Main Cashiers</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr /> 
+  <!-- Start Breadcrumbs --> 
+  <div class="breadcrumbs"> 
+   <h3 class="accessibility">Breadcrumbs</h3> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li class="lastitem">Student Business Services / Main Cashiers</li> 
+   </ul> 
+  </div> 
+  <!-- End Breadcrumbs --> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox" action="http://www.ucr.edu/search.php">
+     <p> <label for="SearchText" accesskey="4">Search for:</label> <input type="text" size="19" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+    </form> 
+    <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+   </div> 
+   <hr /> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>Welcome to Student Business Services / Main Cashiers</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li class="currentpage"><h3>Home</h3></li> 
+       <li><a href="/news.html" target="_self">Latest News</a></li> 
+       <li><a href="/student_services.html" target="_self">Student Services</a></li> 
+       <li><a href="/loan_debt_counseling.html" target="_self">Loan / Debt Counseling</a></li> 
+       <li><a href="/departmental_services.html" target="_self">Departmental Services</a></li> 
+       <li><a href="/surveys.html" target="_self">Surveys</a></li> 
+       <li><a href="/contacts.html" target="_self">Contacts</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <hr /> 
+   <!-- End Sidebar --> 
+   <!-- Start Content Area --> 
+   <div id="main"> 
+    <h3 style="text-align: center"><span style="font-family: Tahoma"><span style="font-size: large">Welcome to Student Business Services and Main Cashiers&nbsp;&nbsp;</span></span></h3> 
+    <p>&nbsp;</p> 
+    <p style="text-align: center"><strong><span style="color: #ff0000"><span style="font-size: medium">1098-T Tuition&nbsp;Statements for 2013 are now available online at <a href="http://www.1098T.com">www.1098T.com</a>&nbsp;to print.&nbsp; Please call 877-467-3821 for questions.</span></span></strong></p> 
+    <p>&nbsp;</p> 
+    <p><span style="font-size: medium">Our highly trained staff strives to provide excellent customer service in the areas of cashiering operations, billing receivables, disbursement of student aid, maintenance and collection of student loans and campus receivables.&nbsp; Please take advantage of this web environment providing information encompassing all of our services.&nbsp; Student Business Services and Main Cashiers will strive to meet your continuing needs and look forward to being of service to everyone in the campus community.</span></p> 
+    <p>&nbsp;</p> 
+    <p style="text-align: left; margin-left: 40px">&nbsp;&nbsp;&nbsp;<img alt="" width="500" height="250" src="/UCR1.jpg" /></p> 
+    <p style="text-align: center">&nbsp;</p> 
+    <table cellpadding="5" width="100%" border="0"> 
+     <tbody> 
+      <tr> 
+       <td valign="top" width="50%" colspan="2" style="text-align: center"> <p style="text-align: left"><span style="font-size: medium">Student Business Services&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Main Cashiers Office<br /> Student Services Bldg, HOSS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student Services Bldg, Rm 1111<br /> Monday - Friday: 9 am&nbsp;- 5 pm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monday - Friday: 9 am&nbsp;- 12 pm &amp; 1 pm&nbsp;- 3 pm<br /> Phone: (951) 827-3204&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Phone: (951) 827-3208<br /> Fax: (951) 827-3576&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fax: (951) 827-7976</span></p> <p style="text-align: left; margin-left: 160px"><span style="font-size: medium">Email: </span><a href="mailto:sbsofc@ucr.edu"><span style="font-size: medium">sbsofc@ucr.edu</span></a><span style="font-size: medium">&nbsp;</span></p> </td> 
+      </tr> 
+      <tr> 
+       <td colspan="2" align="center"> <p style="text-align: left; margin-left: 160px"><span style="font-size: medium"><u>Main Cashiers Mailing Address</u>:</span></p> <p style="text-align: left; margin-left: 160px"><span style="font-size: medium">UCR Main Cashiers Office<br /> 900 University Avenue<br /> Student Services Bldg, Rm 1111<br /> Riverside, CA&nbsp; 92521</span></p> </td> 
+      </tr> 
+     </tbody> 
+    </table> 
+    <p style="text-align: left">&nbsp;</p> 
+    <div style="text-align: left; margin: 0in 0in 0pt 80px">
+     <span style="font-size: 12pt">The Main Cashiers Office walk-up window service is available:</span>
+    </div> 
+    <div style="text-align: left; margin: 0in 0in 0pt 200px">
+     <span style="font-size: 12pt">Monday through Friday</span>
+    </div> 
+    <div style="text-align: left; margin: 0in 0in 0pt 200px">
+     <span style="font-size: 12pt">9 am - 12 pm AND 1 pm&nbsp;- 3 pm</span>
+    </div> 
+    <div style="text-align: left; margin: 0in 0in 0pt 200px">
+     <span style="font-size: 12pt">Closed from Noon - 1 pm</span>
+    </div> 
+    <div style="text-align: left; margin: 0in 0in 0pt 40px">
+     &nbsp;
+    </div> 
+    <div style="text-align: left; margin: 0in 0in 0pt 120px">
+     <span style="font-size: 12pt">All <em>in-person</em> payments are due by 3 pm PST.</span>
+    </div> 
+    <div style="text-align: left; margin: 0in 0in 0pt 40px">
+     &nbsp;
+    </div> 
+    <div style="margin-bottom: 0pt; text-align: left; margin-top: 0in; margin-right: 0in">
+     <span style="font-size: 12pt">Payments may be made via&nbsp;GROWL or check/money order left in the Cashiers drop box <em><u>until 4 pm</u></em>.</span>&nbsp; 
+     <span style="font-size: 12pt">(Drop box is located on the outside of the Student Services Building.)&nbsp;</span>
+    </div> 
+    <div style="text-align: left; margin: 0in 0in 0pt 40px">
+     &nbsp;
+    </div> 
+    <div style="text-align: left; margin: 0in 0in 0pt 80px">
+     <span style="font-size: 12pt">Departments please plan the timing of your deposits accordingly.</span>
+    </div> 
+    <p>&nbsp;</p> 
+   </div> 
+   <!-- End Content Area --> 
+   <div class="clear"></div> 
+  </div> 
+  <!-- End Content --> 
+  <!-- end pagewrapper --> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2>More Information</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span><br /><br /> </span> <a href="http://www.ucr.edu/employment.html">Career Opportunities</a> • <a href="http://library.ucr.edu/">UCR Libraries</a><br /> <a href="http://campusstatus.ucr.edu/">Campus Status</a> • <a href="http://campusmap.ucr.edu/directions.php">Directions to UCR</a></address> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <address><strong>Student Business Services / Main Cashiers</strong><br /> <a href="http://campusmap.ucr.edu/campusMap.php?loc=SSB" title="Campus Map">Student Business Services<br />900 University Avenue<br />Riverside, CA 92521</a><br /><br /> Tel: (951) 827-3204<br /> Fax: (951) 827-3576<br />E-mail: <a href="mailto:sbsofc@ucr.edu">sbsofc@ucr.edu</a></address> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul>
+       <li><a href="http://my.ucr.edu/admissions/" target="_blank">Admissions</a></li>
+       <li><a href="http://www.campushealth.ucr.edu" target="_blank">Campus Health Center</a></li>
+       <li><a href="http://www.finaid.ucr.edu" target="_blank">Financial Aid</a></li>
+       <li><a href="http://ucribm.ucr.edu/Paws/PAWS.html" target="_blank">GROWL</a></li>
+       <li><a href="http://www.housing.ucr.edu" target="_blank">Housing Services</a></li>
+       <li><a href="http://www.registrar.ucr.edu" target="_blank">Registrar Office</a></li>
+       <li><a href="http://www.ucrcard.ucr.ed" target="_blank">UCR Card</a></li>
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_admissions" href="http://www.ucr.edu/admissions/"><span>Admissions</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="mailto:sbsofc@ucr.edu" title="Send Feedback E-mail" accesskey="9">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html">Terms and Conditions</a></li> 
+      <li>&copy; 2009 Regents of the University of California</li> 
+      <li><a href="http://www.sbs.ucr.edu/zencms/section.php?sec=page&amp;sub=edit&amp;dir=0&amp;id=1">Last Update On: Feb 19, 2014</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div>   
+ </body>
+</html><!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>Center for Environmental Research &amp; Technology: Welcome from the Director</title> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+  <!--[if IE]><![endif]--> 
+  <meta http-equiv="last-modified" content="2013-10-16" /> 
+  <meta name="version" content="2.64 2.138 " /> 
+  <!-- 03/11/14 15:54:48 03/11/14 15:54:48 --> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="//www.ucr.edu/min/g=6bis-bluea-wide" media="all" /> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="//www.ucr.edu/min/f=css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/css/custom.css" media="all" /> 
+  <link href="//fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css" /> 
+  <script type="text/javascript" src="//www.ucr.edu/min/g=js"></script> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="//www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="//www.ucr.edu/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+  <link rel="alternate" type="application/rss+xml" title="Subscribe to CE-CERT News via RSS" href="http://www.cert.ucr.edu/rss/news.xml" /> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://www.cert.ucr.edu/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr /> 
+   <div id="brandingbar"> 
+    <h1><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="" /><span class="accessibility">University of California, Riverside</span></a></h1> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/images/design6/masthead.jpg);"> 
+   <h1><a href="http://www.cert.ucr.edu/"><span class="printonly">Center for Environmental Research &amp; Technology</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr /> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://www.engr.ucr.edu/">Bourns College of Engineering</a> &gt;</li> 
+    <li><a href="http://www.cert.ucr.edu/">Center for Environmental Research &amp; Technology</a> &gt;</li> 
+    <li class="lastitem">Welcome from the Director</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox" action="http://www.ucr.edu/search.php">
+     <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+    </form> 
+    <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+   </div> 
+   <hr /> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>Welcome from the Director</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li><a href="/" title="Home">Home</a></li>
+       <li class="currentpage"><h3><dfn>Current page is: </dfn>Welcome from the Director</h3></li>
+       <li><a href="/research/" title="Research Agenda and Areas">Research Agenda and Areas</a></li>
+       <li><a href="/services/" title="Laboratory Services">Laboratory Services</a></li>
+       <li><a href="/people/" title="People">People</a></li>
+       <li><a href="/contact.html" title="Contact Information and Directions">Contact Information and Directions</a></li>
+       <li><a href="/news" title="News Archive">News Archive<br /><span></span></a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <hr /> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <p style="text-align: justify;"><img class="img_R" src="/images/Barth_Welcome.jpg" alt="Matthew Barth" width="200" height="236" />It is hard to believe that twenty years ago, CE-CERT had its humble beginnings as a brand new research “center” within the Bourns College of Engineering, initially addressing local air quality problems. CE-CERT started to expand quickly and two decades later, CE-CERT has “grown up” to be a premier research institute at the University of California, Riverside. As part of our mission, we continue to contribute towards improved environmental quality and energy ef?ciency by conducting a broad program of interdisciplinary basic and applied research and by providing educational opportunities for the next generation of engineers, scientists and policy-makers.</p> 
+     <p style="text-align: justify;">It has truly been my pleasure to see the progress we have made. When making plans for our 20th Anniversary, we sat down to re?ect on our biggest successes—many that are highlighted in this annual report. These span our key research areas: emissions from advanced technologies and fuels, transportation systems research, atmospheric processes, sustainable energy fuels, and solar energy. We are now doing $12 million annually in sponsored research, up from less than $4 million in 2008. We are seeing our work used by regulators and industry to improve products and protect the environment. Our graduate students are receiving doctorates and masters’ degrees each year, and ?nding jobs in academia, industry and with regulatory agencies. Our undergraduates are being introduced to the practicalities of engineering, and enjoying their ability to translate their dreams for the environment into things that work.</p> 
+     <p style="text-align: justify;">The diversity of our research is one of the keys to our success. Spanning the disciplines of Chemical, Environmental, Mechanical, Electrical, Computer Science, and Material Engineering, we do the science for vehicle manufacturers and vehicle regulators; we work with industry interested in new fuels and new engine technologies; we work with the potential of solar power and its ties with smartgrids and energy distribution systems; we work with emerging technologies that guide drivers through traf?c; we hold conferences to educate users about technologies such as portable testing systems.</p> 
+     <p style="text-align: justify;">And we think there’s more to come. We have excellent infrastructure. Our dynamometers can handle a variety of vehicles and engines. And our on-board equipment and expertise allows for testing under real-world conditions. Our atmospheric chamber allows us to delve into the chemistry of pollution formation to a degree impossible elsewhere and to collaborate on studies of the health effects. Our experience with vehicle control systems is unmatched and our laboratories allow groundbreaking work on new fuels.</p> 
+     <p style="text-align: justify;">For 2013, our major goal is to take the successes of the last two decades and envision a future for CE-CERT that brings all of our expertise, experience and equipment together on a wider range of research projects.</p> 
+     <p style="text-align: justify;">Matthew Barth<br />Director, CE-CERT<br />Professor of Electrical Engineering</p> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter alt-1-1-3"> 
+     <div class="column3"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://library.ucr.edu/']);">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://campusstatus.ucr.edu/']);">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://campusstore.ucr.edu/']);">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://www.ucr.edu/employment.html']);">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://diversity.ucr.edu/']);">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://www.ucr.edu/about/directions.html']);">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://admissions.ucr.edu/VisitUCR']);">Visit UCR</a></li> 
+      </ul> 
+      <!-- Generated in 0.022814 seconds using 768 KiB of memory. --> 
+     </div> 
+     <div class="column3"> 
+      <h3>Center Information</h3> 
+      <address><strong>Center for Environmental Research &amp; Technology</strong><br /> 1084 Columbia Avenue<br /> Riverside, CA 92507<br /> <a href="/contact.html">Directions to CERT</a><br /> <br /> Tel: (951) 781-5791<br /> Fax: (951) 781-5790<br /> E-mail: <a href="mailto:certinfo@cert.ucr.edu?subject=Website%20Inquiry">certinfo@cert.ucr.edu</a></address> 
+      <ul class="footer_links"> 
+       <li><a id="footer_link_rss" class="footer_link_icon" href="http://www.cert.ucr.edu/rss/news.xml">Subscribe to CE-CERT News via RSS</a></li> 
+      </ul> 
+     </div> 
+     <div class="column23R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a title="CE-CERT Intranet" href="http://cichlid.cert.ucr.edu/intranet/" target="_blank">CE-CERT Intranet</a></li> 
+       <li><a class="external" title="External site: CARB" href="http://www.arb.ca.gov/homepage.htm" target="_blank">California Air Resources Board</a></li> 
+       <li><a class="external" title="External site: California Energy Commission" href="http://www.energy.ca.gov/" target="_blank">California Energy Commission</a></li> 
+       <li><a class="external" title="External site: PATH" href="http://www-path.eecs.berkeley.edu/" target="_blank">Partnership for Advanced Technology for the Highway (PATH)</a></li> 
+       <li><a class="external" title="External site: SCAQMD" href="http://www.aqmd.gov/" target="_blank">South Coast Air Quality Management District</a></li>
+      </ul> 
+      <p class="footer_info"> <img src="/images/ce-cert_footer.png" alt="" width="120" height="66" /> In 1992, the <a href="http://www.engr.ucr.edu/">Bourns College of Engineering</a> established the Center for Environmental Research &amp; Technology (CE-CERT) as a model for partnerships among industry, government, and academia. CE-CERT's goals were to become a recognized leader in environmental education, a collaborator with industry and government to improve the technical basis for regulations and policy, a creative source of new technology, and a contributor to a better understanding of the environment. </p> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://www.cert.ucr.edu/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>&copy; 2013 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01002&amp;site=cmscert&amp;path=%2Fwelcome.html">Last modified: 2013-Oct-16</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.013541 seconds using 1.50 MiB of memory. -->   
+ </body>
+</html><!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>Giving to UCR: Staff Directory</title> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+  <!--[if IE]><![endif]--> 
+  <meta http-equiv="last-modified" content="2014-02-24" /> 
+  <meta name="version" content="2.64 2.146 " /> 
+  <!-- 03/11/14 15:46:19 03/11/14 16:02:04 --> 
+  <!--link rel="stylesheet" type="text/css" href="/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/narrow6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/sifr.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="/min/g=6bis-bluea-narrow" media="all" /> 
+  <!--link rel="stylesheet" type="text/css" href="/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="/min/f=css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/giving/css/local.css" media="all" /> 
+  <link href="//fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css" /> 
+  <script type="text/javascript" src="/min/g=js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="/css/ie6-narrow6.css" media="all" />
+<script defer type="text/javascript" src="/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/css/ie7.css" media="all" />
+<script type="text/javascript" src="/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+  <link rel="alternate" type="application/rss+xml" title="Subscribe to UCR Today via RSS" href="http://ucrtoday.ucr.edu/feed" /> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://www.ucr.edu/giving/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr /> 
+  </div> 
+  <div id="masthead_home" style="background-image:url(/images/design6/mastheads/masthead01.jpg);"> 
+   <h1><a href="//www.ucr.edu/"><span class="printonly">UC Riverside</span></a></h1> 
+   <div class="pagewrapper"> 
+    <div id="search"> 
+     <div id="nav_utility"> 
+      <ul> 
+       <li><a href="//www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+       <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+       <li><a href="//www.ucr.edu/find_people.php">Find People</a></li> 
+      </ul> 
+     </div> 
+     <form id="searchbox" action="//www.ucr.edu/search.php">
+      <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+     </form> 
+     <script type="text/javascript" src="//www.ucr.edu/js/watermark.js"></script> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="nav_main"> 
+   <h2 class="accessibility">Campuswide Navigation</h2> 
+   <ul>
+    <li><a id="nav_main_home" href="http://www.ucr.edu/"><span>UCR Home</span></a></li>
+    <li><a id="nav_main_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+    <li><a id="nav_main_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+    <li><a id="nav_main_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+    <li><a id="nav_main_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+    <li><a id="nav_main_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+    <li><a id="nav_main_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+    <li><a class="active" id="nav_main_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+   </ul> 
+  </div> 
+  <div id="nav_audience"> 
+   <h2 class="accessibility">Audience Navigation</h2> 
+   <ul>
+    <li><a id="nav_audience_future" href="http://www.ucr.edu/future/" title="For Prospective Students"><span>Prospective Students</span></a></li>
+    <li><a id="nav_audience_students" href="http://www.ucr.edu/students/" title="For Current Students"><span>Current Students</span></a></li>
+    <li><a id="nav_audience_parents" href="http://www.ucr.edu/parents/" title="For Parents"><span>Parents</span></a></li>
+    <li><a id="nav_audience_faculty" href="http://www.ucr.edu/faculty/" title="For Faculty"><span>Faculty</span></a></li>
+    <li><a id="nav_audience_staff" href="http://www.ucr.edu/staff/" title="For Staff"><span>Staff</span></a></li>
+    <li><a id="nav_audience_alumni" href="http://www.ucr.edu/alumni/" title="For Alumni"><span>Alumni</span></a></li>
+    <li><a id="nav_audience_friends" href="http://www.ucr.edu/friends/" title="For Friends"><span>Friends</span></a></li>
+    <li><a id="nav_audience_industry" href="http://www.ucr.edu/industry/" title="For Industry"><span>Industry</span></a></li>
+    <li><a id="nav_audience_media" href="http://www.ucr.edu/media/" title="For Media"><span>Media</span></a></li>
+   </ul> 
+  </div> 
+  <hr /> 
+  <!--[if lte IE 6]>
+<div class="pagewrapper">
+	<div style="margin-bottom: 1.5em;">
+		<h5 style="color: #b00; margin: .5em 15em 0">You appear to be using an outdated version of Internet Explorer. We are sorry, but your browser is no longer
+			supported. Please upgrade to a modern browser:</h5>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://getfirefox.com" class="external" title="external site: Mozilla Foundation">Firefox</a></li>
+				<li><a href="http://www.opera.com/browser/" class="external" title="external site: Opera Software">Opera</a></li>
+			</ul>
+		</div>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://www.microsoft.com/windows/internet-explorer/" class="external" title="external site: Microsoft">Internet Explorer 8</a></li>
+				<li><a href="http://www.apple.com/safari/" class="external" title="external site: Apple Inc.">Safari</a></li>
+			</ul>
+		</div>
+		<div class="column49R">
+			<ul class="tight">
+				<li><a href="http://www.google.com/chrome" class="external" title="external site: Google">Google Chrome</a></li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<![endif]--> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="//www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://www.ucr.edu/giving/">Giving to UCR</a> &gt;</li> 
+    <li class="lastitem">Staff Directory</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <hr /> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2 class="long">Staff Directory</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li><a href="/giving/" title="Giving Home">Giving Home<br /><span>A smart investment... with tangible results</span></a></li>
+       <li><a href="/giving/how.html" title="How to Give to UCR">How to Give to UCR<br /><span>The donation options available to you</span></a></li>
+       <li><a href="/giving/areas-support.html" title="Areas to Support">Areas to Support<br /><span>Areas and opportunities for giving</span></a></li>
+       <li><a href="/giving/impact.html" title="The Impact of Giving">The Impact of Giving<br /><span>Stories of donors and recipients</span></a></li>
+       <li><a href="/giving/foundation_relations/" title="Foundation Relations">Foundation Relations<br /><span>Grant writing and support services</span></a></li>
+       <li><a href="/giving/gift_planning.html" title="Gift Planning">Gift Planning<br /><span>Securing UCR's future</span></a></li>
+       <li><a href="/giving/ucr_foundation.html" title="UCR Foundation">UCR Foundation<br /><span>Investing in our future</span></a></li>
+       <li class="currentpage"><h3><dfn>Current page is: </dfn>Staff Directory</h3>
+        <ul>
+         <li><a href="/giving/org-chart.html" title="Organization Chart">Organization Chart</a></li>
+        </ul></li> 
+      </ul> 
+     </div> 
+     <p> <a href="https://advancementservices.ucr.edu/GivingForm.aspx" id="l_give_now"><span class="accessibility">Give Now</span></a> </p> 
+    </div> 
+    <hr /> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <div class="nota-bene float_R invite_contact"> 
+      <img src="/giving/images/ttl_we_invite_you.png" alt="We Invite You to Contact Us" width="259" height="48" /> 
+      <h3 class="accessibility">We invite you to contact us:</h3> 
+      <address><span class="vcard"><span class="fn org"><span class="organization-unit"><strong>Office of Development</strong></span><br /> <span class="organization-name">University of California</span><br /></span> <span class="adr"><span class="street-address">Hinderaker Hall, First Floor</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span></span><br /> <span class="tel">(951) 827-5611</span></span></address> 
+     </div> 
+     <h3>Our People Help You Make a Difference</h3> 
+     <p>The <a href="http://development.ucr.edu/">UCR Office of Development</a> is overseen by the <a href="/about/vc_advance.html">Office of the Vice Chancellor for University Advancement</a>, headed by Vice Chancellor Peter A. Hayashida.</p> 
+     <p>To find contact information for a representative of a specific department, school or program, please use our directory. To contact a specific development officer via e-mail, please click on their name.</p> 
+     <div id="l_contact_us_list" class="nota-bene"> 
+      <h4><a href="/about/vc_advance.html">Vice Chancellor of University Advancement</a></h4> 
+      <p><img class="img_L" src="/giving/images/staff_directory/peter.jpg" alt="" width="70" height="70" /> <a href="mailto:peter.hayashida@ucr.edu">Peter A. Hayashida</a><br />(951) 827-5203</p> 
+      <h4><a href="/about/vc_advance.html">Associate Vice Chancellor for Development</a></h4> 
+      <p><img class="img_L" src="/giving/images/staff_directory/hieu.jpg" alt="" width="70" height="70" /> <a href="mailto:hnguyen@ucr.edu">Hieu Nguyen</a><br />(951) 827-5611</p> 
+      <p><img class="img_L" src="/giving/images/staff_directory/not-available.png" alt="" width="70" height="70" /> <a href="mailto:jessica.gordon@ucr.edu">Jessica Gordon</a><br />(951) 827-1286</p> 
+      <p><img class="img_L" src="/giving/images/staff_directory/nancy.jpg" alt="" width="70" height="70" /> <a href="mailto:nancy.moreno@ucr.edu">Nancy Moreno Frisch</a><br />(951) 827-5611</p> 
+      <p><img class="img_L" src="/giving/images/staff_directory/lynne.jpg" alt="" width="70" height="70" /> <a href="mailto:lynne.marks@ucr.edu">Lynne M. Marks</a><br />(951) 827-5230</p> 
+      <h4><a href="/about/vc_advance.html">Assoc. Vice Chancellor &amp; CFAO, Administration</a></h4> 
+      <p><img class="img_L" src="/giving/images/staff_directory/wildman.jpg" alt="" width="70" height="70" /> <a href="mailto:jan.wildman@ucr.edu">Jan L. Wildman<br /></a>(951) 827-5636</p> 
+      <h4>Senior Executive Director, Development</h4> 
+      <p><img class="img_L" src="/giving/images/staff_directory/marie.jpg" alt="" width="70" height="70" /> <a href="mailto:marie.schultz@ucr.edu">Marie Schultz</a><br />(951) 827-4365</p> 
+      <p><img class="img_L" src="/giving/images/staff_directory/amanda.jpg" alt="" width="70" height="70" /> <a href="mailto:amanda.raymer@ucr.edu">Amanda K. Gomes</a><br />(951) 827-7172<br />Also supports Regional Directors of Development and Major Gifts Qualification Officer.</p> 
+      <h4>Director, Regional Development</h4> 
+      <p><img class="img_L" src="/giving/images/staff_directory/duke_graham.jpg" alt="Duke Graham" width="70" height="70" /> <a href="mailto:duke.graham@ucr.edu">Duke Graham</a><br />(951) 827-3355</p> 
+      <p><img class="img_L" src="/giving/images/staff_directory/lisa_rabenstein.jpg" alt="Lisa Rabenstein" width="70" height="70" /> <a href="mailto:lisa.rabenstein@ucr.edu">Lisa Rabenstein</a><br />(951) 827-4293</p> 
+      <h4>Advancement Services</h4> 
+      <p><img class="img_L" src="/giving/images/staff_directory/not-available.png" alt="" width="70" height="70" /> <a href="mailto:lisa.watson@ucr.edu">Lisa Watson</a><br />(951) 827-2184</p> 
+      <h4><a href="http://www.engr.ucr.edu/">Bourns College of Engineering</a></h4> 
+      <p><img class="img_L" src="/giving/images/staff_directory/linda.jpg" alt="" width="70" height="70" /> <a href="mailto:linda.parker@ucr.edu">Linda Parker</a><br />(951) 827-6106</p> 
+      <p><img class="img_L" src="/giving/images/staff_directory/steve_ramirez.jpg" alt="Steve Ramirez" width="70" height="70" /> <a href="mailto:steve.ramirez@ucr.edu">Steve Ramirez</a><br />(951) 827-4897</p> 
+      <h4><a href="http://www.chass.ucr.edu/">College of Humanities, Arts, and Social Sciences</a></h4> 
+      <p><img class="img_L" src="/giving/images/staff_directory/launa.jpg" alt="" width="70" height="70" /> <a href="mailto:launa.wilson@ucr.edu">Launa K. Wilson</a><br />(951) 827-4365</p> 
+      <p><img class="img_L" src="/giving/images/staff_directory/tracy.jpg" alt="" width="70" height="70" /> <a href="mailto:tracy.avery@ucr.edu">Tracy Avery</a><br />(951) 827-4290</p> 
+      <h4><a href="http://www.cnas.ucr.edu/">College of Natural and Agricultural Sciences</a></h4> 
+      <p><img class="img_L" src="/giving/images/staff_directory/jo-ann.jpg" alt="" width="70" height="70" /> <a href="mailto:joann.anderson@ucr.edu">Jo Ann Anderson</a><br />(951) 827-3067</p> 
+      <p><img class="img_L" src="/giving/images/staff_directory/not-available.png" alt="" width="70" height="70" /> <a href="mailto:brianna.barrett@ucr.edu">Brianna L. Barrett</a><br />(951) 827-3068</p> 
+      <h4>Constituent Management &amp; Technologies</h4> 
+      <p><img class="img_L" src="/giving/images/staff_directory/not-available.png" alt="" width="70" height="70" /> <a href="mailto:joe.parent@ucr.edu">Joe Parent</a><br />(951) 827-7105</p> 
+      <p><img class="img_L" src="/giving/images/staff_directory/iris_tam.jpg" alt="Iris Tam" width="70" height="70" /> <a href="mailto:iris.tam@ucr.edu">Iris Tam</a><br />(951) 827-5608</p> 
+      <h4>Constituent Research &amp; Development</h4> 
+      <p><img class="img_L" src="/giving/images/staff_directory/kirsten_jasna.jpg" alt="Kirsten Jasna" width="70" height="70" /> <a href="mailto:kirsten.jasna@ucr.edu">Kirsten Jasna</a><br />(951) 827-4368</p> 
+      <p><img class="img_L" src="/giving/images/staff_directory/matt_heimdahl.jpg" alt="Matt Heimdahl" width="70" height="70" /> <a href="mailto:matt.heimdahl@ucr.edu">Matt Heimdahl</a><br />(951) 827-5609</p> 
+      <p><img class="img_L" src="/giving/images/staff_directory/natasha_kashefipour.jpg" alt="Natasha Kashefipour" width="70" height="70" /> <a href="mailto:natasha.kashefipour@ucr.edu">Natasha Kashefipour</a><br />(951) 827-5400</p> 
+      <p><img class="img_L" src="/giving/images/staff_directory/wendy_johnson.jpg" alt="Wendy Johnson" width="70" height="70" /> <a href="mailto:wendy.johnson@ucr.edu">Wendy Johnson</a><br />(951) 827-5614</p> 
+      <h4><a href="/about/vc_advance.html">Corporate and Foundation Relations</a></h4> 
+      <p><img class="img_L" src="/giving/images/staff_directory/not-available.png" alt="" width="70" height="70" />Vacant<br />(951) 827-5611</p> 
+      <h4>Director, Foundation Relations</h4> 
+      <p><img class="img_L" src="/giving/images/staff_directory/helen_magid.jpg" alt="Helen Magid" width="70" height="70" /><a href="mailto:helen.magid@ucr.edu">Helen Magid</a><br />(951) 827-7143</p> 
+      <h4>Director, Industry &amp; Research Relations</h4> 
+      <p><img class="img_L" src="/giving/images/staff_directory/rebeccah.jpg" alt="" width="70" height="70" /> <a href="mailto:rebeccah.goldware@ucr.edu">Rebeccah A. Goldware</a><br />(951) 827-6411</p> 
+      <p><img class="img_L" src="/giving/images/staff_directory/lynne.jpg" alt="" width="70" height="70" /> <a href="mailto:lynne.marks@ucr.edu">Lynne M. Marks</a><br />(951) 827-5230</p> 
+      <h4>Executive Director of UCR Foundation and Donor Relations</h4> 
+      <p><img class="img_L" src="/giving/images/staff_directory/pat.jpg" alt="" width="70" height="70" /> <a href="mailto:pat.kohlmeier@ucr.edu">Pat Kohlmeier</a><br />(951) 827-6291</p> 
+      <p><img class="img_L" src="/giving/images/staff_directory/ardary.jpg" alt="LaDonna Ardary" width="70" height="70" /> <a href="mailto:ladonna.ardary@ucr.edu">LaDonna Ardary</a><br />(951) 827-5667</p> 
+      <h4>Assistant Director for Stewardship &amp; Donor Relations</h4> 
+      <p><img class="img_L" src="/giving/images/staff_directory/deidre.jpg" alt="" width="70" height="70" /> <a href="mailto:deidre.kowalczyk@ucr.edu">Deidre Stowell</a><br />(951) 827-4389</p> 
+      <h4>Gift Administration</h4> 
+      <p><img class="img_L" src="/giving/images/staff_directory/lisa_wilson.jpg" alt="Lisa Wilson" width="70" height="70" /> <a href="mailto:lisa.wilson@ucr.edu">Lisa Wilson</a><br />(951) 827-3486</p> 
+      <p><img class="img_L" src="/giving/images/staff_directory/tami_richardson.jpg" alt="Tami Richardson" width="70" height="70" /> <a href="mailto:tami.richardson@ucr.edu">Tami Richardson</a><br />(951) 827-6467</p> 
+      <p><img class="img_L" src="/giving/images/staff_directory/not-available.png" alt="" width="70" height="70" /> <a href="mailto:delphina.hughes@ucr.edu">Delphina Hughes</a><br />(951) 827-2773</p> 
+      <p><img class="img_L" src="/giving/images/staff_directory/not-available.png" alt="" width="70" height="70" /> <a href="mailto:lavonda.lowe@ucr.edu">Lavonda Lowe</a><br />(951) 827-2744</p> 
+      <h4>Gift Planning</h4> 
+      <p><img class="img_L" src="/giving/images/staff_directory/tony.jpg" alt="" width="70" height="70" /> <a href="mailto:tony.truong@ucr.edu">Tony Truong</a><br />(951) 827-3793</p> 
+      <p><img class="img_L" src="/giving/images/staff_directory/clara_vera.jpg" alt="Clara Vera" width="70" height="70" /> <a href="mailto:clara.vera@ucr.edu">Clara Vera</a><br />(951) 827-6186</p> 
+      <h4>Graduate School of Education</h4> 
+      <p><img class="img_L" src="/giving/images/staff_directory/susette_aguiar-possnack.jpg" alt="Susette Aguiar-Possnack" width="70" height="70" /> <a href="mailto:susette.aguiar@ucr.edu">Susette Aguiar-Possnack</a><br />(951) 827-6388</p> 
+      <p><img class="img_L" src="/giving/images/staff_directory/not-available.png" alt="" width="70" height="70" /><a href="mailto:samantha.jobelius@ucr.edu">Samantha Jobelius</a><br />(951) 827-1493</p> 
+      <h4>Intercollegiate Athletics</h4> 
+      <p><img class="img_L" src="/giving/images/staff_directory/eric_buskirk.jpg" alt="Eric Bushkirk" width="70" height="70" /><a href="mailto:eric.buskirk@ucr.edu">Eric Buskirk</a><br />(951) 827-6822</p> 
+      <p><img class="img_L" src="/giving/images/staff_directory/krysta_plato.jpg" alt="Krysta Plato" width="70" height="70" /><a href="mailto:krysta.plato@ucr.edu">Krysta Plato</a><br />(951) 827-6823</p> 
+      <p><img class="img_L" src="/giving/images/staff_directory/not-available.png" alt="" width="70" height="70" /><a href="mailto:shane.peterson@ucr.edu">Shane Peterson</a><br />(951) 827-4292</p> 
+      <h4>Libraries</h4> 
+      <p><img class="img_L" src="/giving/images/staff_directory/julie_nichols.jpg" alt="Julie Nichols" width="70" height="70" /> <a href="mailto:julie.nichols@ucr.edu">Julie Nichols</a><br />(951) 827-4945</p> 
+      <h4>Major Gifts Qualifications Officer</h4> 
+      <p><img class="img_L" src="/giving/images/staff_directory/wanda.jpg" alt="" width="70" height="70" /> <a href="mailto:wanda.scruggs@ucr.edu">Wanda Scruggs</a><br />(951) 827-4558</p> 
+      <h4><a href="/about/vc_advance.html">Palm Desert Center</a></h4> 
+      <p><img class="img_L" src="/giving/images/staff_directory/not-available.png" alt="" width="70" height="70" /> Vacant<br />(951) 827-5611</p> 
+      <h4>Scholarships, Fellowships and Annual Giving</h4> 
+      <p><img class="img_L" src="/giving/images/staff_directory/jan-forrester.jpg" alt="" width="70" height="70" /> <a href="mailto:jan.forrester@ucr.edu">Jan Forrester</a><br />(951) 827-5671</p> 
+      <p><img class="img_L" src="/giving/images/staff_directory/peggy.jpg" alt="" width="70" height="70" /> <a href="mailto:peggy.fairall@ucr.edu">Peggy Fairall </a><br />(951) 827-1922</p> 
+      <h4>Associate Director, UCR Fund</h4> 
+      <p><img class="img_L" src="/giving/images/staff_directory/lily_barger.jpg" alt="Lily Barger" width="70" height="70" /> <a href="mailto:lily.barger@ucr.edu">Lily Barger</a><br />(951) 827-6449</p> 
+      <h4>School of Business Administration</h4> 
+      <p><img class="img_L" src="/giving/images/staff_directory/not-available.png" alt="" width="70" height="70" /> <a href="mailto:jeff.kaatz@ucr.edu">Jeff Kaatz</a><br />(951) 827-7767</p> 
+      <p><img class="img_L" src="/giving/images/staff_directory/not-available.png" alt="" width="70" height="70" /> <a href="mailto:marsha.fowles@ucr.edu">Marsha Fowles</a><br />(951) 827-3674</p> 
+      <p><img class="img_L" src="/giving/images/staff_directory/toni_jones.jpg" alt="Toni Jones" width="70" height="70" /> <a href="mailto:toni.jones@ucr.edu">Toni Jones</a><br />(951) 827-6329</p> 
+      <h4>School of Medicine</h4> 
+      <p><img class="img_L" src="/giving/images/staff_directory/opdyke.jpg" alt="" width="70" height="70" /> <a href="mailto:jan.opdyke@ucr.edu">Jan M. Opdyke</a><br />(951) 827-4588</p> 
+      <p><img class="img_L" src="/giving/images/staff_directory/kelinda.jpg" alt="" width="70" height="70" /> <a href="mailto:kelinda.hasan@ucr.edu">KeLinda M. Hasan</a><br />(951) 827-7598</p> 
+      <h4>School of Public Policy</h4> 
+      <p><img class="img_L" src="/giving/images/staff_directory/toni.jpg" alt="" width="70" height="70" /> <a href="mailto:toni.lawrence@ucr.edu">Toni Lawrence</a><br />(951) 827-5662</p> 
+      <h4>UCR Fund</h4> 
+      <p><img class="img_L" src="/giving/images/staff_directory/ebunoluwa_oshinuga.jpg" alt=" Ebunoluwa “Gifty” Oshinuga" width="70" height="70" /> <a href="mailto:ebunoluwa.oshinuga@ucr.edu">Ebunoluwa “Gifty” Oshinuga</a><br />(951) 827-2169</p> 
+     </div> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://library.ucr.edu/']);">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://campusstatus.ucr.edu/']);">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://campusstore.ucr.edu/']);">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://www.ucr.edu/employment.html']);">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://diversity.ucr.edu/']);">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://www.ucr.edu/about/directions.html']);">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://admissions.ucr.edu/VisitUCR']);">Visit UCR</a></li> 
+      </ul> 
+      <!-- Generated in 0.021497 seconds using 768 KiB of memory. --> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <address><strong>Office of Development</strong><br /> <a href="http://campusmap.ucr.edu/campusMap.php?loc=HINHL" title="Campus Map">1100 Hinderaker Hall</a><br /><br /> Tel: (951) 827-5611<br /> Fax: (951) 827-7311</address> 
+      <ul class="footer_links"> 
+       <li><a id="footer_link_facebook" class="footer_link_icon" href="http://www.facebook.com/UCRiverside" title="external site: Facebook">Visit UCR's Facebook page</a></li> 
+       <li><a id="footer_link_twitter" class="footer_link_icon" href="http://twitter.com/UCRiverside" title="external site: Twitter">Follow UCR on Twitter</a></li> 
+       <li><a id="footer_link_youtube" class="footer_link_icon" href="http://www.youtube.com/UCRiverside" title="external site: YouTube">Visit UCR's YouTube channel</a></li> 
+       <li><a id="footer_link_rss" class="footer_link_icon" href="http://ucrtoday.ucr.edu/feed">Subscribe to UCR Today via RSS</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="/alumni/">Alumni</a></li> 
+       <li><a href="/research/">UCR Research</a></li> 
+       <li><a href="/athletics/">Intercollegiate Athletics</a></li> 
+       <li><a href="http://www.extension.ucr.edu/">UCR Extension</a></li> 
+       <li><a class="external" href="http://www.gftpln.org/Home.do?orgId=6404">Planned Giving</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="//www.ucr.edu/"><span>UCR Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="//www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="//www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="//www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="//www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="//www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="//www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="//www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/giving/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="//www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="//www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>&copy; 2014 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01189&amp;site=giving&amp;path=%2Fstaff-directory.html">Last modified: 2014-Feb-24</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.026389 seconds using 1.50 MiB of memory. -->   
+ </body>
+</html>

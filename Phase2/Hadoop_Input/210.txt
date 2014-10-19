@@ -1,0 +1,1505 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>Bourns College of Engineering: UCR Comnet</title> 
+  <meta http-equiv="last-modified" content="2012-06-25" /> 
+  <meta name="version" content="2.62 2.123 " /> 
+  <!-- 03/11/14 15:50:28 03/11/14 15:50:28 --> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/g=6bis-bluea-wide" media="all" /> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/f=css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all" /> 
+  <link href="https://fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css" /> 
+  <script type="text/javascript" src="http://www.ucr.edu/min/g=js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+  <link rel="alternate" type="application/rss+xml" title="Subscribe to BCOE news via RSS" href="http://www.engr.ucr.edu/rss/news.xml" /> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://www.engr.ucr.edu/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr /> 
+   <div id="brandingbar"> 
+    <img class="overlay" src="/images/design6/masthead_overlay.png" alt="" /> 
+    <h1><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="" /><span class="accessibility">University of California, Riverside</span></a></h1> 
+    <div id="search"> 
+     <div id="nav_utility"> 
+      <ul> 
+       <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+       <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+       <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+      </ul> 
+     </div> 
+     <form id="searchbox" action="http://www.ucr.edu/search.php">
+      <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" size="18" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+     </form> 
+     <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="masthead"> 
+   <h1><a href="http://www.engr.ucr.edu/"><span class="printonly">Bourns College of Engineering</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr /> 
+  <!--[if lte IE 6]>
+<div class="pagewrapper">
+	<div style="margin-bottom: 1.5em;">
+		<h5 style="color: #b00; margin: .5em 15em 0">You appear to be using an outdated version of Internet Explorer. We are sorry, but your browser is no longer
+			supported. Please upgrade to a modern browser:</h5>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://getfirefox.com" class="external" title="external site: Mozilla Foundation">Firefox</a></li>
+				<li><a href="http://www.opera.com/browser/" class="external" title="external site: Opera Software">Opera</a></li>
+			</ul>
+		</div>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://www.microsoft.com/windows/internet-explorer/" class="external" title="external site: Microsoft">Internet Explorer 8</a></li>
+				<li><a href="http://www.apple.com/safari/" class="external" title="external site: Apple Inc.">Safari</a></li>
+			</ul>
+		</div>
+		<div class="column49R">
+			<ul class="tight">
+				<li><a href="http://www.google.com/chrome" class="external" title="external site: Google">Google Chrome</a></li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<![endif]--> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">Social Media Links:</p> 
+   <ul class="l_breadcrumb_links"> 
+    <li><a id="footer_link_flickr" href="http://www.flickr.com/photos/bournscollege/" title="Visit BCOE’s Flickr gallery (external site: Flickr)"><span class="accessibility">Visit BCOE’s Flickr gallery</span></a></li> 
+    <li><a id="footer_link_facebook" href="http://www.facebook.com/pages/Riverside-CA/Bourns-College-of-Engineering/118503574842498" title="Visit BCOE’s Facebook page (external site: Facebook)"><span class="accessibility">Visit BCOE’s Facebook page</span></a></li> 
+    <li><a id="footer_link_twitter" href="http://twitter.com/bournscollege" title="Follow BCOE on Twitter (external site: Twitter)"><span class="accessibility">Follow BCOE on Twitter</span></a></li> 
+    <li><a id="footer_link_youtube" href="http://www.youtube.com/BournsCollege" title="Visit BCOE’s YouTube channel (external site: YouTube)"><span class="accessibility">Visit BCOE’s YouTube channel</span></a></li> 
+    <li><a id="footer_link_linkedin" href="http://www.linkedin.com/groups?gid=3185912" title="Join the Linkedin alumni group (external site: Linkedin)"><span class="accessibility">Join the Linkedin alumni group</span></a></li> 
+    <li><a id="footer_link_rss" href="http://www.engr.ucr.edu/rss/news.xml" title="Subscribe to BCOE news via RSS"><span class="accessibility">Subscribe to BCOE news via RSS</span></a></li> 
+   </ul> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://www.engr.ucr.edu/">Bourns College of Engineering</a> &gt;</li> 
+    <li class="lastitem">UCR Comnet</li> 
+   </ul> 
+  </div> 
+  <div class="l_contentwrapper">
+   <div class="pagewrapper"> 
+    <hr /> 
+    <!-- Start Content (Navigation and Content columns) --> 
+    <div id="content"> 
+     <h2>UCR Comnet</h2> 
+     <!-- Start Sidebar --> 
+     <div id="sidebar"> 
+      <div class="nav"> 
+       <h3 class="accessibility">Main Navigation</h3> 
+       <ul> 
+        <li><a href="/" title="BCOE Home">BCOE Home<br /><span>Bourns College of Engineering</span></a></li>
+        <li><a href="/about/" title="The Bourns Difference">The Bourns Difference</a></li>
+        <li><a href="/academics/" title="Academic Programs">Academic Programs</a></li>
+        <li><a href="/research/" title="Research">Research</a></li>
+        <li><a href="/employment.html" title="Employment">Employment</a></li>
+        <li><a href="/faculty/" title="The Faculty">The Faculty</a></li>
+        <li><a href="/undergrads/" title="Prospective Undergraduate Students">Prospective Undergraduate Students</a></li>
+        <li><a href="http://student.engr.ucr.edu/" title="Current Undergraduate Students">Current Undergraduate Students</a></li>
+        <li><a href="/grad/" title="Graduate Programs">Graduate Programs</a></li>
+        <li><a href="/alumni/" title="Bourns Alumni">Bourns Alumni</a></li>
+        <li><a href="/giving/" title="Giving">Giving</a></li>
+        <li><a href="/industry/" title="Corporate Partners Program">Corporate Partners Program</a></li>
+        <li><a href="/news/" title="News">News</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <hr /> 
+     <!-- End Sidebar --> 
+     <!-- Start Content Area --> 
+     <div id="main"> 
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy-wide.css" cssmenu="" width="992" --> 
+      <!-- com.omniupdate.div label="title" group="Everyone" button="734" -->
+      <!-- com.omniupdate.editor toolbar="TITLE" csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" -->
+      <!-- /com.omniupdate.div --> 
+      <div id="omnicontent"> 
+       <!-- com.omniupdate.div label="maincontent" group="Everyone" button="707" -->
+       <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" -->
+       <img src="/comnet/images/comnet.jpg" border="0" alt="" width="572" height="152" />
+       <br />
+       <br /> 
+       <div> 
+        <table style="width: 85%; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="5" bordercolor="#111111"> 
+         <tbody> 
+          <tr> 
+           <td width="100%"><span style="font-family: Arial; font-size: x-small;"><strong><span style="color: #000080;">UCR COMNET</span></strong> is a center of excellence at UCR which conducts research and development in the field of Communications and Networks, including Wireless Communications, Optical Communications and Sensor Networks. The applications of this field range from Wireless Personal Devices, to the backbone Optical Fiber Networks, to the battlefield Mobile Ad Hoc Networks. Since 2001, <span style="color: #000080;"><strong>UCR COMNET</strong></span> has received many millions of dollars from government agencies, such as National Science Foundation and Department of Defense, and industrial companies to conduct fundamental research, and has produced numerous Ph.D. graduates who are now employed across the United States of America. </span> <p style="text-align: center;"><span style="color: #000080;"><strong>For more information</strong></span>, contact UCR COMNET Coordinator: <a href="mailto:yhua@ee.ucr.edu">Yingbo Hua</a></p> </td> 
+          </tr> 
+         </tbody> 
+        </table> 
+       </div> 
+       <br /> 
+       <hr /> 
+       <div> 
+        <table style="width: 90%; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="5" bordercolor="#111111"> 
+         <tbody> 
+          <tr> 
+           <td colspan="2"> <p><span style="font-family: Arial; color: #000080; font-size: medium;">Faculty Members</span></p> </td> 
+          </tr> 
+          <tr> 
+           <td valign="top"><span style="font-family: Arial; font-size: x-small;"><img src="/comnet/chen.jpg" alt="" align="left" /> <a href="/faculty/ee/jiechen.html">Jie Chen</a> (Ph.D., Michigan, 1990)<br /><em>Professor of Electrical Engineering</em><br />Modeling and system identification, robust control, linear multivariable systems</span></td> 
+           <td valign="top"><span style="font-family: Arial; font-size: x-small;"><img src="/comnet/dum.jpg" alt="" align="left" /> <a href="/faculty/ee/dumer.html">Ilya Dumer</a> (Ph.D., Russian Academy of Science, 1981)<br /><em>Professor of Electrical Engineering</em> <br />Error correction coding for reliable transmission and storage</span></td> 
+          </tr> 
+          <tr> 
+           <td valign="top"><span style="font-family: Arial; font-size: x-small;"><img src="/comnet/fal.jpg" alt="" align="left" /> <a href="/faculty/cs/faloutsos.html">Michalis Faloutsos</a> (Ph.D., Toronto, 1999)<br /><em>Professor of Computer Science and Engineering</em><br />Internet protocols and measurements</span></td> 
+           <td valign="top"><span style="font-family: Arial; font-size: x-small;"><img src="/comnet/far.jpg" alt="" align="left" /> <a href="/faculty/ee/farrell.html">Jay Farrell</a> (Ph.D., Notre Dame, 1989)<br /><em>Professor of Electrical Engineering</em><br />Global positioning systems</span></td> 
+          </tr> 
+          <tr> 
+           <td valign="top"><span style="font-family: Arial; font-size: x-small;"><img src="/comnet/hua.jpg" alt="" align="left" /> <a href="http://www.ee.ucr.edu/~yhua/">Yingbo Hua</a> (Ph.D., Syracuse, 1988)<br /><em>Professor of Electrical Engineering</em><br />Sensor arrays, signal processing and wireless communications</span></td> 
+           <td valign="top"><span style="font-family: Arial; font-size: x-small;"><img src="/comnet/kri.jpg" alt="" align="left" /> <a href="/faculty/cs/krish.html">Srikanth Krishnamurthy</a> (Ph.D., UC San Diego, 1997)<br /><em>Professor of Computer Science and Engineering</em><br />Ad hoc wireless networks </span></td> 
+          </tr> 
+          <tr> 
+           <td valign="top"><span style="font-family: Arial; font-size: x-small;"><img src="/comnet/lyu.jpg" alt="" align="left" /> <a href="/faculty/ee/ilyubomi.html">Ilya Lyubomirsky</a> (Ph.D., MIT, 1999)<br /><em>Assistant Professor of Electrical Engineering</em><br />Fiber-optic and free-space optical communication systems and networks</span></td> 
+           <td valign="top"><span style="font-family: Arial; font-size: x-small;"><img src="/comnet/mol.jpg" alt="" align="left" /> <a href="/faculty/cs/martmolle.html">Mart Molle</a> (Ph.D., UCLA, 1981)<br /><em>Professor of Computer Science and Engineering</em><br />Computer networks, performance evaluation, distributed algorithms</span></td> 
+          </tr> 
+          <tr> 
+           <td valign="top"><span style="font-family: Arial; font-size: x-small;"><img src="/comnet/ravi.jpg" alt="" align="left" /> <a href="/faculty/cs/ravishan.html">Chinya Ravishankar</a> (Ph.D., Wisconsin, 1987)<br /><em>Professor of Computer Science and Engineering</em><br />Networking, security, databases, distributed systems</span></td> 
+           <td valign="top"><span style="font-family: Arial; font-size: x-small;"><img src="/comnet/tun.jpg" alt="" align="left" /> <a href="/faculty/ee/etuncel.html">Ertem Tuncel</a> (Ph.D., UC Santa Barbara, 2002)<br /><em>Associate Professor of Electrical Engineering</em><br />Distributed data compression algorithms, fundamental limits of compression </span></td> 
+          </tr> 
+          <tr> 
+           <td valign="top"><span style="font-family: Arial; font-size: x-small;"><img src="/comnet/xu.jpg" alt="" align="left" /> <a href="/faculty/ee/xu.html">Zhengyuan (Daniel) Xu</a> (Ph.D., Stevens Institute of Tech., 1999)<br /><em>Professor of Electrical Engineering</em><br />Signal processing for wireless communications</span></td> 
+           <td>&nbsp;</td> 
+          </tr> 
+         </tbody> 
+        </table> 
+       </div>
+       <!-- /com.omniupdate.div --> 
+       <!-- com.omniupdate.efp -->
+       <!-- /com.omniupdate.efp --> 
+      </div> 
+     </div> 
+     <!-- End Content Area --> 
+     <div class="clear"></div> 
+    </div> 
+    <!-- End Content --> 
+   </div>
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter alt-1-1-3"> 
+     <div class="column3"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR">Visit UCR</a></li> 
+      </ul> 
+     </div> 
+     <div class="column3"> 
+      <h3>College Information</h3> 
+      <address><strong>Bourns College of Engineering</strong><br /> <a href="http://campusmap.ucr.edu/campusMap.php?loc=ENGR2" title="Campus Map">446 Winston Chung Hall</a><br /> <br /> Tel: (951) 827-5190<br /> Fax: (951) 827-3188<br /> E-mail: <a href="mailto:collegeinfo@engr.ucr.edu?subject=Website%20Inquiry">collegeinfo@engr.ucr.edu</a></address> 
+     </div> 
+     <div class="column23R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://www.ucr.edu/research/licensing.html">License Bourns Technology</a></li> 
+       <li><a href="http://www.ucr.edu/giving/">Give to Bourns</a></li> 
+       <li><a href="/intranet/">Intranet</a></li> 
+       <li><a href="/inventthefuture.html">Invent the Future</a></li> 
+       <li><a href="http://systems.engr.ucr.edu">Systems</a></li> 
+      </ul> 
+      <p class="footer_info"> <img src="/images/design6/footer_building.jpg" alt="" width="120" height="87" /> <strong>Engineering Times Newsletter</strong><br /> <br /> <a href="/news/e-newsletter.html">Sign up to receive the college's e-newsletter <em>Engineering Times</em></a>. </p> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://www.engr.ucr.edu/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>&copy; 2012 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01002&amp;site=cmsengr&amp;path=%2Fcomnet%2Findex.html">Last modified: 2012-Jun-25</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.017592 seconds using 2.00 MiB of memory. -->   
+ </body>
+</html><!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+  <title>Computing &amp; Communications: News for C&amp; C</title> 
+  <meta http-equiv="last-modified" content="2011-08-26" /> 
+  <meta name="version" content="2.62 2.122 " /> 
+  <!-- 03/11/14 15:53:28 03/11/14 15:53:28 --> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/g=6bis-bluea-wide" media="all" /> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/f=css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="/css/cncmod.css" media="all" /> 
+  <script type="text/javascript" src="http://www.ucr.edu/min/g=js-sifr"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript" src="/highslide/highslide-full.packed.js"></script> 
+  <script type="text/javascript" src="/highslide/highslide.config.js" charset="utf-8"></script> 
+  <link rel="stylesheet" type="text/css" href="/highslide/highslide.css" /> 
+  <link rel="alternate" type="application/rss+xml" title="Subscribe to C&amp;C news via RSS" href="http://feeds.feedburner.com/cnc-ucr-edu_news" /> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://cnc.ucr.edu/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr /> 
+   <div id="brandingbar"> 
+    <h1><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="" /><span class="accessibility">University of California, Riverside</span></a></h1> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/images/masthead.jpg);"> 
+   <h1><a href="http://cnc.ucr.edu/"><span class="printonly">Computing &amp; Communications</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr /> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://cnc.ucr.edu/">Computing &amp; Communications</a> &gt;</li> 
+    <li class="lastitem">News for C&amp; C</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox" action="http://www.ucr.edu/search.php">
+     <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" size="18" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+    </form> 
+    <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+   </div> 
+   <hr /> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>News for C&amp; C</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li><a href="/" title="Home">Home<br /><span></span></a></li>
+       <li class="nav_inline_last"><h3>Help &amp; Support</h3>
+        <ul>
+         <li><a href="/faculty.html" title="Faculty">Faculty</a></li>
+         <li>&nbsp;| <a href="/staff.html" title="Staff">Staff</a></li>
+         <li>&nbsp;| <a href="/students.html" title="Students">Students</a></li>
+        </ul></li>
+       <li><a href="/diversity.html" title="Commitment to Diversity">Commitment to Diversity</a></li>
+       <li><a href="/about_us.html" title="About Us">About Us</a></li>
+       <li><a href="/policies.html" title="Policies, Forms, &amp; Downloads">Policies, Forms, &amp; Downloads</a></li>
+       <li><a href="/career.html" title="Career Opportunities">Career Opportunities</a></li>
+       <li><a href="/contactus.html" title="Contact Us">Contact Us</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <hr /> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy-wide.css" cssmenu="" width="992" --> 
+     <!-- com.omniupdate.div label="title" group="Everyone" button="734" -->
+     <!-- com.omniupdate.editor toolbar="TITLE" csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" -->
+     <!-- /com.omniupdate.div --> 
+     <div id="omnicontent"> 
+      <!-- com.omniupdate.div label="maincontent" group="Everyone" button="707" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" --> 
+      <div id="news_items"> 
+       <!-- Feed accessed 2014-03-11T15:53:28-07:00--> 
+       <h5><a href="http://cnc.ucr.edu/ilearn/announcements/ilearn_upgrade_winter_2014.html">iLearn system upgrade 12/18-12/20</a></h5> 
+       <p><strong>(December 9, 2013)</strong></p> 
+       <p>We will be performing an application version update and a database upgrade to our learning management system, iLearn. iLearn will be unavailable on Wednesday 12/18/13 8:00am through Friday 12/20/13 12:00pm.</p> 
+       <h5><a href="http://cnc.ucr.edu/guestwireless">Guestwireless</a></h5> 
+       <p><strong>(February 15, 2013)</strong></p> 
+       <p>It is now easier to create Guest Wireless accounts on campus! UCR faculty can now create up to ten accounts at a time, and the duration of these accounts may be extended on an as needed basis.</p> 
+       <h5><a href="http://cnc.ucr.edu/ilearn/">Version Upgrade to iLearn</a></h5> 
+       <p><strong>(December 18, 2012)</strong></p> 
+       <p>This upgrade needs to be completed in order to enhance functionality as well as increase system security. iLearn will be unavailable on Thursday 12/20/12 from 8:00am-8:00pm. This is a software version upgrade. Operation will remain unchanged and course sites will be preserved as designed prior to the upgrade.</p> 
+       <h5><a href="http://cnc.ucr.edu/security">October is National Cyber Security Awareness Month</a></h5> 
+       <p><strong>(October 1, 2012)</strong></p> 
+       <p>Keep your devices secure, read about security precautions, protect your identity!</p> 
+       <h5><a href="http://cnc.ucr.edu/ilearn">iLearn system upgrade 9/18-9/20</a></h5> 
+       <p><strong>(September 13, 2012)</strong></p> 
+       <p>Computing &amp; Communications will be performing a version upgrade to our learning management system, iLearn. This upgrade needs to be completed in order to enhance functionality as well as increase system security. iLearn will be unavailable for use during the following time period: Tuesday 9/18 8:00am - Thursday 9/20 8:00pm.</p> 
+       <h5><a href="http://cnc.ucr.edu/cas/cascertmigrate.html">CAS Certificate Migration</a></h5> 
+       <p><strong>(July 12, 2012)</strong></p> 
+       <p>C&amp;C is retiring the current auth.ucr.edu host and certificate on July 15, 2012 due to the expiration of its certificate. Sites and applications using the Central Authentication Service across campus must migrate their webserver to use a new host and certificate for CAS.</p> 
+       <h5><a href="http://cnc.ucr.edu/eduroam">New wireless access service, &quot;eduroam&quot;</a></h5> 
+       <p><strong>(May 31, 2012)</strong></p> 
+       <p>Eduroam is an international wireless exchange service.&nbsp; It allows faculty, staff, and students from participating institutions to use their local credentials (e.g. your UCR NetID and password) to authenticate to wireless services.</p> 
+       <h5><a href="http://cnc.ucr.edu/index.html">PHP Upgrade</a></h5> 
+       <p><strong>(May 17, 2012)</strong></p> 
+       <p>PHP upgrade on the servers took place at 8pm May 16th. Check your websites for any incompatibilities.</p> 
+       <h5><a href="http://rspace.ucr.edu">&quot;UCR Today&quot; portlet within R'Space</a></h5> 
+       <p><strong>(March 28, 2012)</strong></p> 
+       <p>In collaboration with the office of Strategic Communications, C&amp;C is pleased to announce the availability of the &quot;UCR Today&quot; portlet within R'Space. The portlet has automatically been added on the homepage containing shortcuts to &quot;featured&quot; and &quot;latest&quot; headlines.</p> 
+       <h5><a href="http://dmca.ucr.edu">New student DMCA notification &amp; remediation process</a></h5> 
+       <p><strong>(March 23, 2012)</strong></p> 
+       <p>Computing &amp; Communications, in close collaboration with the Student Conduct and Academic Integrity Office, has deployed new automated systems to help prevent illegal file sharing.</p> 
+       <h5><a href="http://cnc.ucr.edu/cpms/announcements.html#anchor_enhance">CPMS Enhancements</a></h5> 
+       <p><strong>(March 8, 2012)</strong></p> 
+       <p>The Capital Programs Management System (CPMS) will be upgraded to support new functionality that improves the integration between CPMS and the Physical Plant system and provides for enhanced email notifications.</p> 
+       <h5><a href="http://cnc.ucr.edu/security/announcements/2012_03_01_securitytraining.html">Information Security Training available through UCR's LMS</a></h5> 
+       <p><strong>(March 5, 2012)</strong></p> 
+       <p>With the objective of enhancing the security of UC's information technology environment, the UC Office of the President recently released an Information Security Awareness course. This course is designed to promote practices that will help prevent security breaches involving academic and administrative systems, including personal computing devices.</p> 
+       <h5><a href="http://cnc.ucr.edu/photoroster">New UCR Photo Roster System</a></h5> 
+       <p><strong>(February 13, 2012)</strong></p> 
+       <p>The UCR Photo Roster System is a &quot;visual roster&quot; that provides faculty digital images of students who are enrolled in their courses.</p> 
+       <h5><a href="http://ucrtoday.ucr.edu/">Get the Latest News on UCR Today</a></h5> 
+       <p><strong>(February 7, 2012)</strong></p> 
+       <p>Keep track of the latest news at UCR with a new online newsroom called UCR Today.</p> 
+       <h5><a href="http://cnc.ucr.edu/sharepoint">Sharepoint Coming Soon</a></h5> 
+       <p><strong>(January 31, 2012)</strong></p> 
+       <p>Sharepoint is coming soon to the UCR campus. Currently, we are in pilot phase expected to run until March.</p> 
+       <ul class="more_links">
+        <li><a href="http://cnc.ucr.edu/" title="More C&amp;C News">More</a></li>
+       </ul> 
+      </div> 
+      <!-- com.omniupdate.efp -->
+      <!-- /com.omniupdate.efp --> 
+     </div> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR">Visit UCR</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <address><strong>Computing &amp; Communications</strong><br /> <a href="http://www.campusmap.ucr.edu/campusMap.php?loc=CCCTR" title="Campus Map">Computing &amp; Communications Bldg.</a><br /><br /> Tel: (951) 827-4741<br /> Fax: (951) 827-4541<br />E-mail: <a href="mailto:helpdesk@ucr.edu?subject=Web Site Inquiry">helpdesk@ucr.edu</a></address> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://cnc.ucr.edu/security/">Security @ UCR</a></li> 
+       <li><a href="http://rspace.ucr.edu/">R'Space Administrative Portal</a></li> 
+       <li><a href="http://rweb.ucr.edu/">R'Web Student Portal</a></li> 
+       <li><a href="http://iteach.ucr.edu/">iTeach Instructional Resources</a></li> 
+       <li><a href="http://scs.ucr.edu/">Student Computing Services</a></li> 
+      </ul> 
+      <ul class="footer_links"> 
+       <li><a id="footer_link_rss" class="footer_link_icon" href="http://feeds.feedburner.com/cnc-ucr-edu_news">Subscribe to C&amp;C news via RSS</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://cnc.ucr.edu/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>&copy; 2011 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=ORG21&amp;site=cnc&amp;path=%2Fnews%2Fnews.html">Last modified: 2011-Aug-26</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+  <!-- Generated in 0.115213 seconds using 4.25 MiB of memory. -->   
+ </body>
+</html><!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>Applied Biological Control Research: Nic Irvin</title> 
+  <meta http-equiv="last-modified" content="2012-12-21" /> 
+  <meta name="version" content="2.45 2.72 " /> 
+  <!-- 03/11/14 15:54:12 03/11/14 15:54:12 --> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all" /> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr-config.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/swfobject.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/prototype.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/scriptaculous.js?load=effects"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/lib.js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://biocontrol.ucr.edu/" accesskey="1">Home Page</a></li> 
+   </ul> 
+   <hr /> 
+   <div id="brandingbar"> 
+    <img class="overlay" src="/images/overlay_home.png" alt="" /> 
+    <h2><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="University of California, Riverside" title="UCR Home page" /></a></h2> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/images/masthead.jpg);"> 
+   <h1><a href="http://biocontrol.ucr.edu/"><span class="printonly">Applied Biological Control Research</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr /> 
+  <div class="breadcrumbs"> 
+   <h3 class="accessibility">Breadcrumbs</h3> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://entomology.ucr.edu">Department of Entomology</a> &gt;</li> 
+    <li><a href="http://biocontrol.ucr.edu/">Applied Biological Control Research</a> &gt;</li> 
+    <li class="lastitem">Nic Irvin</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox" action="http://www.ucr.edu/search.php">
+     <p> <label for="SearchText" accesskey="4">Search for:</label> <input type="text" size="18" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+    </form> 
+    <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+   </div> 
+   <hr /> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>Nic Irvin</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li><a href="/" title="Home">Home<br /><span></span></a>
+        <ul>
+         <li><a href="/hoddle/" title="Mark Hoddle">Mark Hoddle<br /><span></span></a></li>
+         <li class="currentpage"><h3><dfn>Current page is: </dfn>Nic Irvin</h3></li>
+         <li><a href="/christina_hoddle.html" title="Christina Hoddle">Christina Hoddle<br /><span></span></a></li>
+         <li><a href="/rugman-jones.html" title="Paul Rugman-Jones">Paul Rugman-Jones<br /><span></span></a></li>
+         <li><a href="/ricky_lara.html" title="Ricky Lara">Ricky Lara<br /><span></span></a></li>
+         <li><a href="/vanessa_lopez.html" title="Vanessa Lopez">Vanessa Lopez<br /><span></span></a></li>
+         <li><a href="/schall.html" title="Kelsey Schall">Kelsey Schall<br /><span></span></a></li>
+        </ul></li>
+       <li><a href="/research.html" title="Research Projects">Research Projects<br /><span></span></a></li>
+       <li><a href="/staff.html" title="Lab Staff">Lab Staff</a></li>
+       <li><a href="/past_researchers.html" title="Past Researchers">Past Researchers</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <hr /> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy-wide.css" cssmenu="" width="992" --> 
+     <!-- com.omniupdate.div label="title" group="Everyone" button="734" -->
+     <!-- com.omniupdate.editor toolbar="TITLE" csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" -->
+     <!-- /com.omniupdate.div --> 
+     <!-- com.omniupdate.div label="maincontent" group="Everyone" button="707" -->
+     <!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700"/ -->
+     <a name="Top of Page"> </a> 
+     <h3><img class="img_L" title="Nic Irvin" src="/images/nic_irvin_ucr.jpg" alt="Nic Irvin" width="150" height="182" />Nicola A. Irvin, PhD<br /><span style="color: #25558c; font-size: 13px; line-height: 18px; font-weight: bold;">Biological Control Specialist and Research Scholar<br /></span><span style="color: #25558c; font-size: 13px; line-height: 18px; font-weight: bold;">Phone: (951) 827 4360<br /></span><span style="color: #25558c; font-size: 13px; line-height: 18px; font-weight: bold;">Fax: (951) 827 3086<br /></span><span style="color: #25558c; font-size: 13px; line-height: 18px; font-weight: bold;"><a href="mailto:nic.irvin@ucr.edu">nic.irvin@ucr.edu</a></span></h3> 
+     <p>Dr. Irvin joined the Hoddle laboratory in 2001 as a post doctoral scholar. Dr Irvin has had a heavy focus on researching the glassy-winged sharpshooter, <em>Homalodisca vitripennis</em> (Germar), and its Mymarid wasp biological control agents<em> Gonatocerus ashmeadi</em>, <em>G. fasciatus</em>, <em>G. triguttatus</em>, and <em>G. tuberculifemur</em>.</p> 
+     <p>Dr. Irvin was promoted to Assistant Specialist in 2007, and awarded a Western Region Sustainable Agriculture Research and Education (Western SARE) grant to investigate the use of nectar cover crops for sustainable pest control in California vineyards. This four-year project ended in 2010.</p> 
+     <p>Currently, Dr. Irvin is writing up research for publication at 20% time while enjoying spending time with her young children.</p> 
+     <h3>Degrees</h3> 
+     <p>Ph.D. Entomology (1999), Lincoln University, New Zealand</p> 
+     <p>B.S. First Class Honors, Horticultural Science (1996), Lincoln University, New Zealand</p> 
+     <h3>Professional Affiliations</h3> 
+     <ul> 
+      <li>Member of NZIAS (New Zealand Institute for Agricultural Science) since 1996.</li> 
+      <li>Member of New Zealand Plant Protection Society since 1997.</li> 
+      <li>Member of New Zealand Ecological Society since 1999.</li> 
+      <li>Member of New Zealand Royal Society since 1999.</li> 
+      <li>Member of Entomological Society of America since 2001.</li> 
+     </ul> 
+     <p><span style="color: #2668b2; font-size: 18px; line-height: 24px; font-weight: 300;">Research Interests</span></p> 
+     <p>Dr. Irvin is a graduate of Lincoln University, New Zealand, where she completed a Bachelor of Horticultural Science and was awarded first-class honors. Her honors project compared hover fly (Diptera: Syrphidae) numbers, gut fullness, female egg load and pollen preference of three New Zealand hover fly species between arable and florally-diverse habitats. Dr. Irvin showed for the first time the high dependency of New Zealand predatory hover flies on floral resources (Irvin, 1996; Irvin et al., 1999a).</p> 
+     <p>Dr. Irvin went on to complete her PhD in Entomology and her thesis examined the use of understorey management for the enhancement of leafroller (Lepidoptera: Tortricidae) parasitoids (<em>Dolichogenidea tasmanica</em>) in apple orchards located in Canterbury, New Zealand. The results of her work (Irvin, 1999; Irvin et al., 1999b; Irvin et al., 2000; Irvin et al., 2006a) showed that sowing buckwheat, coriander, or alyssum in apple understoreys can enhance field populations of <em>D. tasmanica</em> and increase leafroller parasitism in the field.</p> 
+     <p>In April 2001, Dr. Irvin joined the Hoddle laboratory at University of California, Riverside, and has been involved in researching the biology of three <em>Gonatocerus</em> parasitoids associated with the biological control of the glassy-winged sharpshooter (<em>Homalodisca vitripennis</em>), a significant pest of many agriculturally important crops in southern California. From 2001-2007 her research determined which lemon cultivar maximized <em>H. vitripennis</em> oviposition for use in future experiments (Irvin &amp; Hoddle, 2004), egg age utilization by three <em>Gonatocerus</em> spp. (Irvin &amp; Hoddle, 2005a), the biological potential and competitive ability of three <em>Gonatocerus</em> parasitoids in the laboratory (Irvin &amp; Hoddle, 2005b; Irvin et al., 2006b), the influence of parasitoid intraspecific competition on the sex ratio of subsequent progeny (Irvin &amp; Hoddle, 2006), and the effect of several food resources on <em>Gonatocerus</em> spp. longevity (Irvin &amp; Hoddle 2007; Irvin et al., 2007) .</p> 
+     <p>During this time, Dr. Irvin also conducted research investigating the fitness costs for transgenic mosquitoes expressing the green fluorescent protein marker. The results of her work (Irvin et al., 2004) showed that survival, fecundity, and longevity are significantly reduced in transgenic mosquitoes relative to the untransformed laboratory strain. This research was the first of its kind in the world and has important implications for the development and utilization of this technology for mosquito control programs, or suppression of disease transmission, which are based on genetic modification.</p> 
+     <p>Dr. Irvin has since built on her previous <em>Gonatocerus</em> work by investigating protein- and dye-marking of <em>G. ashmeadi</em> for mark-capture studies (Irvin et al. 2012) and measuring egg maturation, oosorption, and wing wear in <em>G. ashmeadi</em> (Irvin and Hoddle, 2009). During the latter research, she discovered that <em>G. ashmeadi</em> is a synovigenic parasitoid, a finding that contradicts current reproductive classification. Quarantine studies were also performed to determine the viability and potential of two “new association” <em>Gonatocerus</em> parasitoids to be introduced into California as biological control agents of <em>H. vitripennis</em> (Irvin et al. 2009, Irvin and Hoddle 2010, Irvin and Hoddle 2011). Additionally, Dr. Irvin conducted research to measure real lifetime contributions of individual female<em> G. ashmeadi</em> to parasitism of <em>H. vitripennis</em> egg masses under field conditions, and determine the ecological significance of brochosome deposition on <em>H. vitripennis</em> egg masses and its effect on parasitism rates in the field. This work is currently being written up for publication.</p> 
+     <p>In 2007, Dr. Irvin received a Western Region Sustainable Agriculture Research and Education (Western SARE) grant to investigate the use of nectar cover crops for sustainable pest control in California vineyards. This four-year project ended in 2010 and results from this research are currently being written up for publication.</p> 
+     <br /> 
+     <p style="margin-top: 1em; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-size: 1.5em; line-height: 1.333em; font-weight: lighter; letter-spacing: 0.03em; color: #2668b2; padding: 0px;"><span style="font-weight: normal;">Recent Projects</span></p> 
+     <br /> 
+     <h3 style="text-align: left;"><a class="img_link" href="/irvin/gwssbiocontrol.html" target="_blank"><img id="placeholder3" class="img_L" style="float: left;" title="GWSS" src="http://cisr.ucr.edu/images/invasive_species_thumbnails/glassy_winged_sharpshooter.jpg" alt="GWSS" width="75" height="48" /></a><a class="img_link" href="/irvin/gwssbiocontrol.html">Biological Control of the Glassy-Winged Sharpshooter</a></h3> 
+     <p>The Glassy-Winged Sharpshooter feeds exclusively on xylem fluids and is a major pest on citrus. <a href="/irvin/gwssbiocontrol.html" target="_blank">More...</a></p> 
+     <p>&nbsp;</p> 
+     <h3 style="text-align: left;"><img id="placeholder3" class="img_L" style="float: left;" title="GWSS eggs with brochosomes" src="/images/significance_gwss_brochosomes_thumb.jpg" alt="GWSS eggs with brochosomes" width="75" height="48" /><a class="img_link" href="/irvin/research/significance_of_brochosomes_on_gwss_eggs.pdf" target="_blank">Significance of Brochosomes on GWSS Eggs</a></h3> 
+     <p>The ecological significance of brochosomes on glassy-winged sharpshooter egg masses, and parasitism by <em>G. ashmeadi</em>.&nbsp;<a href="/irvin/research/significance_of_brochosomes_on_gwss_eggs.pdf" target="_blank">More...</a>&nbsp;<br />&nbsp;</p> 
+     <h3 style="text-align: left;"><img id="placeholder3" class="img_L" style="float: left;" title="GWSS Parasitoids" src="/images/glassy-winged_sharpshooter_parasitoids_thumb.jpg" alt="GWSS Parasitoids" width="75" height="48" /><a class="img_link" href="/irvin/gwssbiocontrol.html" target="_blank">Glassy-winged Sharpshooter Parasitoids</a></h3> 
+     <p>Investigating the biology and competitive ability of a neoclassical GWSS parasitoid imported from Argentina. <a href="/irvin/gwssbiocontrol.html" target="_blank">More...</a></p> 
+     <br /> 
+     <h3 style="text-align: left;"><a class="img_link" href="/irvin/research/wsare.html" target="_blank"><img id="placeholder3" class="img_L" style="float: left;" title="Buckwheat Cover Crops" src="/images/cover_crops_as_sustaninable_pest_control_thumb.jpg" alt="Buckwheat Cover Crops" width="75" height="48" /></a><a class="img_link" href="/irvin/research/wsare.html">Cover Crops as Sustainable Pest Control</a></h3> 
+     <p>Investigating&nbsp; the strengths and limitations of cover cropping under the unique growing conditions representative of grape producing areas of Southern California. <a href="/irvin/research/wsare.html" target="_blank">More...</a></p> 
+     <br /> 
+     <h3><img id="placeholder3" class="img_L" title="GWSS Parasitoids" src="/images/glassy-winged_sharpshooter_parasitoids_thumb.jpg" alt="temporary placeholder thumb" width="75" height="48" /><a class="img_link" href="/irvin/research/cdfa_final_progress_report_aug_2007.pdf" target="_blank">Assessing realized lifetime parasitism of <em>Gonatocerus ashmeadi</em></a></h3> 
+     <p>Measuring real lifetime contributions of female <em>G. ashmeadi</em> to parasitism of GWSS egg masses in citrus orchards. <a href="/irvin/research/cdfa_final_progress_report_aug_2007.pdf" target="_blank">More...</a></p> 
+     <p>&nbsp;</p> 
+     <h3>Publications</h3> 
+     <p>35. <a href="/irvin/research/irvin_et_al_2012_triple_marking_g_ashmeadi.pdf" target="_blank"><strong>Irvin, N. A.</strong>, Hagler, J. R., Hoddle, M. S., 2012.</a> Laboratory investigation of triple marking the parasitoid <em>Gonatocerus ashmeadi</em> with a fluorescent dye and two animal proteins. Entomologia Experimentalis et Applicata 143(1): 1-12.</p> 
+     <p>34. <a href="/irvin/research/gutierrez_et_al_2011_geographic_distribution_of_gwss.pdf" target="_blank">Gutierrez, A. P., Ponti L., Hoddle, M., Almeida, P. P., <strong>Irvin, N. A.</strong>, 2011.</a> Geographic distribution and relative abundance of the invasive glassy-winged sharpshooter: Effects of temperature and egg parasitoids. Environmental Entomology 40(4): 755-769.</p> 
+     <p>33. <a href="/irvin/research/g_deleoni_irvin_hoddle_2011.pdf" target="_blank"><strong>Irvin, N. A.</strong>, Hoddle, M. S., 2011.</a> Comparative assessments of <em>Gonatocerus ashmeadi</em> and the ‘new association’ parasitoid <em>Gonatocerus deleoni</em> (Hymentoptera: Mymaridae) as biological control agents of <em>Homalodisca vitripennis</em> (Hemiptera: Cicadellidae). Biocontrol Science and Technology 21(7): 839-863.</p> 
+     <p>32.<a href="/irvin/research/g_tuberculifemur_irvin_hoddle_2010.pdf" target="_blank"> <strong>Irvin, N. A.</strong>, Hoddle, M. S., 2010.</a> Comparative assessments of <em>Gonatocerus ashmeadi</em> and the ‘new association’ parasitoid <em>Gonatocerus tuberculifemur</em> (Hymentoptera: Mymaridae) as biological control agents of <em>Homalodisca vitripennis</em> (Hemiptera: Cicadellidae). Biological Control 55, 186-196.</p> 
+     <p>31. <a href="/irvin/functional_response_g_tuberculifemur_irvin_et_al_2009.pdf" target="_blank"><strong>Irvin, N. A.</strong>, Suarez-Espinoza, J., Hoddle, M. S. 2009.</a> The functional response of <em>Gonatocerus ashmeadi</em> and the ‘new association’ parasitoid <em>G. tuberculifemur</em> attacking eggs of <em>Homalodisca vitripennis</em>. Environmental Entomology, 38(6): 1634-1641.</p> 
+     <p>30. <a href="/irvin/research/irvin_hoddle_2009_egg_maturation_in_g_ashmeadi.pdf" target="_blank"><strong>Irvin, N. A.</strong>, Hoddle, M. S. 2009.</a> Egg maturation, oosorption, and wing wear in <em>Gonatocerus ashmeadi</em> (Hymenoptera: Mymaridae), an egg parasitoid of the glassy-winged sharpshooter, <em>Homalodisca vitripennis</em> (Hemiptera: Cicadellidae). Biological Control 48: 125–132.</p> 
+     <p>29. <a href="http://www.cdfa.ca.gov/pdcp/Documents/Proceedings_2008/2008PDProcRev01.pdf" target="_blank"><strong>Irvin, N. A.</strong>, Hoddle, M. S. 2008.</a> Should Neoclassical Biological Control Agents from Argentina Be Released in California for Control of the Glassy-winged Sharpshooter? Pierce's Disease Research Symposium, San Diego, USA, December 15-17, pp. 66-69.</p> 
+     <p>28. <a href="http://www.cdfa.ca.gov/pdcp/Documents/Proceedings2007/Complete.pdf" target="_blank"><strong>Irvin, N. A.</strong>, Hoddle, M. S. 2007.</a> Should Neoclassical Biological Control Agents from Argentina Be Released in California for Control of the Glassy-winged Sharpshooter? Pierce's Disease Research Symposium, San Diego, USA, December 12-14, pp. 90-93.</p> 
+     <p>27. <a href="/irvin/floral_resources_irvin_hoddle_2006.pdf"><strong>Irvin N. A.</strong>, Hoddle. M. S. 2007.</a> Evaluation of floral resources for enhancement of fecundity and fitness of <em>Gonatocerus ashmeadi</em>, an egg parasitoid of the glassy-winged sharpshooter, Homalodisca vitripennis. Biological Control 40: 80-88.</p> 
+     <p>26. <a href="/irvin/floral_resources_irvin_hoddle_castle.pdf"><strong>Irvin, N. A.</strong>, Hoddle, M. S., Castle. S. J. 2007.</a> The effect of resource provisioning and sugar composition of foods on longevity of three <em>Gonatocerus </em>spp., egg parasitoids of <em>Homalodisca vitripennis</em>. Biological Control 40: 69-79.</p> 
+     <p>25. <a href="/irvin/irvin_and_hoddle_pd_symposium_report_august_2006.pdf">Hoddle, M. S., <strong>Irvin, N. A.</strong> 2006.</a> Realized life time parasitism of glassy-winged sharpshooter egg masses by <em>Gonatocerus ashmeadi</em>. Pierce's Disease Research Symposium, San Diego, USA, November 27-29, 2006. pp. 80-83.</p> 
+     <p>24. <a href="/irvin/sex_ratio.pdf"><strong>Irvin, N. A.</strong>, Hoddle, M. S. 2006.</a> The effect of intraspecific compeition on progeny sex ratio in <em>Gonatocerus </em>spp. for <em>Homalodisca coagulata</em> egg masses: economic implications for mass rearing and biological control. Biological Control 39: 162-170.</p> 
+     <p>23. <a href="/irvin/competition_at-biocontrol_sci_tech_2006.pdf"><strong>Irvin, N. A.</strong>, Hoddle, M. S., Morgan, D. J. W. 2006.</a> Competition between <em>Gonatocerus ashmeadi</em> and <em>G. triguttatus</em> for glassy-winged sharpshooter (<em>Homalodisca coagulata</em>) egg masses. Biocontrol Science and Technology 16 (4): 359-375.</p> 
+     <p>22. <a href="/irvin/the_effects_of_floral_understoreys_on_parasitism_of_leafrollers.pdf"><strong>Irvin, N. A.</strong>, Wratten, S. D., Frampton, C. M., Chapman, R. B., Burnip, G., Suckling, M. 2006.</a> The effects of apple understorey management on parasitoids of leafroller (Lepidoptera: Tortricidae) in New Zealand. Agricultural and Forest Entomology 8: 25-34.</p> 
+     <p>21. <a href="/irvin/irvin_and_hoddle_pd_symposium_report_sept_2005.pdf">Hoddle, M. S., <strong>Irvin, N. A.</strong> 2005.</a> Realized life time parasitism of glassy-winged sharpshooter egg masses by <em>Gonatocerus ashmeadi</em>. Pierce's Disease Research Symposium, San Diego, USA, December 5-7, 2005. pp. 330-333.</p> 
+     <p>20. <a href="/irvin/irvin_and_hoddle_2005-competition_for_gwss_eggs.pdf"><strong>Irvin, N. A.</strong>, Hoddle, M. S. 2005.</a> The competitive ability of three mymarid egg parasitoids (<em>Gonatocerus </em>spp.) for glassy-winged sharpshooter (<em>Homalodisca coagulata</em>) eggs. Biological Control 34: 204-214.</p> 
+     <p>19. <a href="/irvin/research/irvin_hoddle_2005_egg_ages_for_suitable_oviposition.pdf" target="_blank"><strong>Irvin, N. A.</strong>, Hoddle, M. S. 2005.</a> Determination of <em>Homalodisca coagulata</em> (Hemiptera: Cicadellidae) egg ages suitable for oviposition by <em>Gonatocerus ashmeadi</em>,<em> Gonatocerus triguttatus</em>, and <em>Gonatocerus fasciatus</em> (Hymenoptera: Mymaridae). Biological Control 32: 391-400.</p> 
+     <p>18. <a style="text-decoration: none; color: #2668b2; border-bottom-width: 1px; border-bottom-style: dotted; border-bottom-color: #2668b2; padding: 0px; margin: 0px;" href="/irvin/california_agriculture.pdf">Pilkington L. J., <strong>Irvin, N. A.</strong>, Boyd, E. A., Hoddle, M. S., Triapitsyn, S. V., Carey, B. G., Jones, W. A., Morgan, D. J. W. 2005</a>.&nbsp;Introduced parasitic wasps could control glassy-winged sharpshooter. California Agriculture. 59 (4): 223-228.</p> 
+     <p>17. <a style="text-decoration: none; color: #2668b2; border-bottom-width: 1px; border-bottom-style: dotted; border-bottom-color: #2668b2; padding: 0px; margin: 0px;" href="/irvin/ecological_engineering_gurr_et_al.pdf">Gurr, G. M., Scarratt, S. L., Wratten, S. D., Berndt, L., <strong>Irvin, N. A.</strong> 2004.&nbsp;</a>Ecological engineering, habitat manipulation and pest management. In: Ecological Engineering for pest management: advances in habitat manipulation for arthropods. Gurr, G. M., Wratten, S. D, Altieri, M. A. (eds). pp. 1-12.</p> 
+     <p>16. <a href="/irvin/irvin_and_hoddle_lemon_cultivar_preferences-fla_ent-2004.pdf"><strong>Irvin N. A.</strong>, Hoddle, M. S. 2004.</a> Oviposition preference of <em>Homalodisca coagulata</em> for two Citrus limon cultivars and influence of host plant on parasitism by <em>Gonatocerus ashmeadi</em> and <em>G. triguttatus</em> (Hymenoptera: Mymaridae). Florida Entomologist 87: 504-510.</p> 
+     <p>15. <a href="/irvin/research/irvin_et_al_2004_assessing_fitness_costs_in_aedes_aegypti.pdf" target="_blank"><strong>Irvin, N. A.</strong>, Hoddle, M. S., O’Brochta, D. A., Carey, B.P., Atkinson, P. W. 2004.</a> Assessing fitness costs for transgenic <em>Aedes aegypti </em>expressing the green fluorescent protein marker and transposase genes. Proceedings of the National Academy of Sciences 101 (3): 891-896.</p> 
+     <p>14. <a style="text-decoration: none; color: #2668b2; border-bottom-width: 1px; border-bottom-style: dotted; border-bottom-color: #2668b2; padding: 0px; margin: 0px;" href="/irvin/pilkington_et_al_2004-biocontrol_of_gwss.pdf">Pilkington, L. J., <strong>Irvin, N. A.</strong>, Boyd, E. A., Hoddle, M. S., Triapitsyn, S. V., Carey, B. G., Morgan, D. J. W. 2004.</a>&nbsp;Biological control of glassy-winged sharpshooter in California. In: Proceedings of the 4th California Conference on Biological Control, University of California, Berkeley, July 13-15, 2004. Hoddle, M. S. (ed.). pp. 133-136.</p> 
+     <p>13. <a href="/irvin/scarratt_et_al_2004-hierarchy_of_research_approaches.pdf">Scarratt, S. L., Wratten, S. D., Lavandero, B., <strong>Irvin, N. A.</strong> 2004.</a> A hierarchy of research approaches to the successful use of &quot;resource subsidies&quot; to improve parasitoid performance. Proceedings of the IV California Conference of Biological Control, Berkeley, California, USA, 13-15 July, 2004. pp. 88-94.</p> 
+     <p>12. <a href="/irvin/hoddle_and_irvin_2003_pd_symposium.pdf">Hoddle, M. S., <strong>Irvin, N. A.</strong> 2003.</a> Interspecific competition between <em>Gonatocerus ashmeadi</em>, <em>G. triguttatus</em> and <em>G. fasciatus</em> for glassy-winged sharpshooter egg masses. Pierce's Disease Research Symposium, San Diego, USA, December 8 - 11, 2003. pp. 251-254.</p> 
+     <p>11. <a href="/irvin/hoddle_and_irvin_2002_pd_symposium.pdf">Hoddle, M. S., <strong>Irvin, N. A.</strong> 2002.</a> Interspecific competition between <em>Gonatocerus ashmeadi</em> and <em>G. triguttatus</em> for glassy-winged sharpshooter egg masses. Pierce's Disease Research Symposium, San Diego, USA, December 15 - 18, 2002.&nbsp;pp. 86-87.</p> 
+     <p>10. <a href="/irvin/berndt_et_al_2001.pdf">Berndt, L., Gurr, G. M., Wratten, S. D., <strong>Irvin, N. A.</strong> 2001.</a> An historical analysis of habitat manipulation research. 1st International Symposium on Biological Control of Arthropods, Hawaii, USA, 17-21 September 2001.</p> 
+     <p>9. <a href="/irvin/hoddle_and_irvin_2001_pd _symposium.pdf"><strong>Irvin, N. A.</strong>, Hoddle, M. S. 2001.</a> Egg age preference and &quot;window of susceptibility&quot; of <em>Homalodisca coagulata</em> eggs to attack by <em>Gonatocerus ashmeadi </em>and <em>G. triguttatus</em>. Pierce's Disease Research Symposium, San Diego, USA, December 5 - 7, 2001. pp. 135-136.</p> 
+     <p>8. <a style="text-decoration: none; color: #2668b2; border-bottom-width: 1px; border-bottom-style: dotted; border-bottom-color: #2668b2; padding: 0px; margin: 0px;" href="/irvin/irvin_et_al_2000-hymenopterists_conference.pdf"><strong>Irvin, N. A.</strong>, Wratten, S. D., Frampton, C. M. 2000.</a>&nbsp;Understorey management for the enhancement of the leafroller parasitoid (<em style="font-style: italic; padding: 0px; margin: 0px;">Dolichogenidea tasmanica</em>&nbsp;(Cameron)) in Canterbury, New Zealand orchards. Proceedings of the 4th International Hymenoptera Conference, held in Canberra, Australia, in January 1999. Hymenoptera: Evolution, Biodiversity and Biological Control. Austin, A. D.; Dowton, M (eds.). pp. 396-403.</p> 
+     <p>7. Wratten, S. D., Gurr, G. M., Berndt, L., <strong>Irvin, N. A.</strong> 2000. Adding floral resources to agro-ecosystems: managing the consequences for third and fourth trophic levels. XXI International Congress of Entomology - XXI ICE, Brazil, August 2000.</p> 
+     <p>6. <a href="/irvin/wratten_et_al_2000-conservation_multi-trophic_effects.pdf">Wratten, S. D., Gurr, G. M., Landis, D.,<strong> Irvin, N. A.</strong>, Berndt, L. A. 2000.</a> Conservation biological control of Pests: Multi-trophic level effects. In: Californian Conference on Biological Control. Hoddle, M. (ed.). pp. 73-80.</p> 
+     <p>5. <a href="/irvin/research/irvin_phd.pdf" target="_blank"><strong>Irvin, N. A.</strong> 1999.</a> Understorey management for the enhancement of populations of a leafroller (Lepidoptera: Tortricidae) parasitoid (<em style="font-style: italic; padding: 0px; margin: 0px;">Dolichogenidea tasmanica</em>&nbsp;(Cameron)) in Canterbury, New Zealand Apple Orchards. Doctor of Philosophy thesis, Lincoln University, Canterbury, New Zealand.</p> 
+     <p>4. <a href="/irvin/irvin_et_al_1999-floral_resources_effects_on_leafroller_parasitoids.pdf"><strong>Irvin, N. A.</strong>, Wratten, S. D., Chapman, R. B., Frampton, C. M. 1999.</a> The effects of floral resources on longevity, populations and efficacy of the leafroller parasitoid (<em>Dolichogenidea tasmanica</em> (Cameron)) in apples. Proceedings of the New Zealand Plant Protection Conference 52: 84-88.</p> 
+     <p>3. <a href="/irvin/irvin_et_al_1999-phenology_of_and_pollen_feeding_in_hover_flies.pdf"><strong>Irvin, N. A.</strong>, Wratten, S. D., Frampton, C. M., Bowie, M. H., Evans, A. M., Moar, N. T. 1999. </a>The phenology and pollen feeding of three hover fly (Diptera: Syrphidae) species in Canterbury, New Zealand. New Zealand Journal of Zoology 26(2): 105-115.</p> 
+     <p>2. <a href="/pdfs/gurr_et_al_1998_conf_paper.pdf">Gurr, G. M., Wratten, S. D., <strong>Irvin, N. A.</strong>, Hossain, Z., Baggen, L. R., Mensah, R. K., Walker, P. W. 1998.</a> Habitat manipulation in Australasia: recent progress and prospects for adoption. Proceedings of the sixth Australasian Applied Entomological Research Conference, Brisbane, Australia: Pest Management - Future challenges, September 1998. 1: 225-235.</p> 
+     <p>1. <a href="/pdfs/honors_hover_flies.pdf"><strong>Irvin, N. A.</strong> 1996.</a> Hover flies (Diptera: Syrphidae): Trap efficiency, phenology and pollen feeding. Honors dissertation, Lincoln University, Canterbury, New Zealand.</p> 
+     <p><a class="top_page" href="#Top of Page">Top of Page</a></p> 
+     <div></div> 
+     <!-- /com.omniupdate.div --> 
+     <!-- com.omniupdate.efp -->
+     <!-- /com.omniupdate.efp --> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2>More Information</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span><br /><br /> </span> <a href="http://library.ucr.edu/">UCR Libraries</a> • <a href="http://campusstatus.ucr.edu/">Campus Status</a><br /> <a href="http://www.ucr.edu/employment.html">Career Opportunities</a> • <a href="http://diversity.ucr.edu/">Diversity</a><br /> <a href="http://my.ucr.edu/visit/Pages/default.aspx">Visit UCR</a> • <a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></address> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <address><strong>Applied Biological Control Research</strong><br /> <a href="http://campusmap.ucr.edu/campusMap.php?loc=ENTOM" title="Campus Map">Department of Entomology</a><br /> <br /> Tel: (951) 827-4714<br /> Fax: (951) 827-3086 <br /> E-mail: <a href="mailto:mark.hoddle@ucr.edu?subject=Website%20Inquiry">mark.hoddle@ucr.edu</a><br /><br /> <a href="http://entomology.ucr.edu">Department of Entomology Website</a></address> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="/irvin/gwssbiocontrol.html">Glassy-Winged Sharpshooter</a></li> 
+       <li><a href="http://cisr.ucr.edu/glassy_winged_sharpshooter.html">CISR: Glassy-Winged Sharpshooter</a></li> 
+       <li><a href="/irvin/research/wsare.html">Nectar Cover Cropping for Sustainable Pest Management</a></li> 
+       <li><a href="/research.html">Collective Research</a></li> 
+       <li><a href="http://entomology.ucr.edu/" target="_blank">UCR Department of Entomology</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://biocontrol.ucr.edu/sendmail.html" title="Send Feedback E-mail" accesskey="9">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html">Terms and Conditions</a></li> 
+      <li>&copy; 2012 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01048&amp;site=biocontrol&amp;path=%2Firvin%2Findex.html">Last modified: 2012-Dec-21</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.391474 seconds using 2.00 MiB of memory. -->   
+ </body>
+</html><!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>UCR SoBA: Events and News</title> 
+  <meta http-equiv="last-modified" content="2014-02-25" /> 
+  <meta name="version" content="2.45 2.63 " /> 
+  <!-- 03/11/14 15:28:54 03/11/14 15:55:33 --> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/medblue6.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/css/news/news.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="/css/directory/directory.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="/css/soba_local.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all" /> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr-config.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/swfobject.js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/soba_ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  _gaq.push(['t2._setAccount', 'UA-2729934-1']);
+  _gaq.push(['t2._setDomainName', '.ucr.edu']);
+  _gaq.push(['t2._setAllowHash', false]);
+  _gaq.push(['t2._trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://soba.ucr.edu/" accesskey="1">Home Page</a></li> 
+   </ul> 
+   <hr /> 
+   <div id="brandingbar"> 
+    <h2><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="University of California, Riverside" title="UCR Home page" /></a></h2> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/images/masthead.jpg);"> 
+   <h1><a href="http://soba.ucr.edu/"><span class="printonly">UCR SoBA</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr /> 
+  <div class="breadcrumbs"> 
+   <h3 class="accessibility">Breadcrumbs</h3> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://soba.ucr.edu/">UCR SoBA</a> &gt;</li> 
+    <li class="lastitem">Events and News</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox" action="http://www.ucr.edu/search.php">
+     <p> <label for="SearchText" accesskey="4">Search for:</label> <input type="text" size="18" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+    </form> 
+    <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+   </div> 
+   <hr /> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>Events and News</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li><a href="/" title="Home">Home<br /><span>SoBA</span></a></li>
+       <li class="nav_inline2_last"><h3>Information for:</h3>
+        <ul>
+         <li><a href="/alumni" title="Alumni">Alumni</a></li>
+         <li><a href="/friends.html" title="Business &amp; Community Members">Business &amp; Community Members</a></li>
+        </ul></li>
+       <li><a href="/about/" title="About SoBA">About SoBA<br /><span>Who &amp; Where We Are, What We Do</span></a></li>
+       <li><a href="/directory/faculty_directory.html" title="Our Faculty &amp; Academic Appointees">Our Faculty &amp; Academic Appointees<br /><span>World-Class Researchers</span></a></li>
+       <li class="currentpage"><h3><dfn>Current page is: </dfn>News and Events</h3>
+        <ul>
+         <li><a href="/news/" title="News">News</a></li>
+         <li><a href="/calendar/" title="Events Calendar">Events Calendar</a></li>
+         <li><a href="/news_events/series.html" title="Dean's Speakers Series">Dean's Speakers Series</a></li>
+         <li><a href="/news_events/forecast.html" title="Economic Forecast Conference">Economic Forecast Conference</a></li>
+        </ul></li>
+       <li><a href="/schools_areas/" title="Schools and Areas">Schools and Areas<br /><span>The Structure of SoBA</span></a></li>
+       <li><a href="/academics/" title="Academic Programs">Academic Programs<br /><span>Programs that Make Up SoBA</span></a></li>
+       <li><a href="/facilities/" title="Research Centers and Facilities">Research Centers and Facilities<br /><span>Home to Research</span></a></li>
+       <li><a href="/employment/" title="Employment at SoBA">Employment at SoBA<br /><span>Work for the Business School</span></a></li>
+       <li><a href="/global/" title="Global Programs">Global Programs<br /><span>Your Passport to the World's Emerging Markets</span></a></li>
+       <li><a href="/involved/" title="Alumni, Friends, and Partners">Alumni, Friends, and Partners<br /><span>Getting Involved with SoBA</span></a></li>
+       <li><a href="/connect/" title="Social Media">Social Media<br /><span>Facebook, LinkedIn, YouTube</span></a></li> 
+      </ul> 
+     </div> 
+     <link rel="stylesheet" type="text/css" href="/css/jquery_ui/agsm.jquery.ui.all.css" /> 
+     <link rel="stylesheet" type="text/css" href="/css/alert/jquery.alerts.css" /> 
+     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script> 
+     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script> 
+     <script type="text/javascript" src="/js/plugin/jquery.alerts.min.js"></script> 
+     <script type="text/javascript" src="/js/plugin/jquery.cookie.min.js"></script> 
+     <link rel="stylesheet" type="text/css" href="/css/carousel/jquery.carousel.css" /> 
+     <link rel="stylesheet" type="text/css" href="/css/calendar/sidebar.css" /> 
+     <script type="text/javascript" src="/js/plugin/jquery.jcarousel.min.js"></script> 
+     <script type="text/javascript">
+
+var calserver = "http://ragsm.ucr.edu/agsmevents/";
+var prog      = "all";
+var ishover   = false;
+var autorate  = 7;
+var animrate  = 'fast';
+
+function scarousel_initCallback(carousel) {
+  $('#jd_news_sidebar').hover(function() {
+	ishover = true;
+    carousel.startAuto(0);
+    carousel.animation(0);
+  }, function() {
+    ishover = false;
+    carousel.animation(animrate);
+    carousel.startAuto(autorate);
+  });
+
+}
+
+$(document).ready(function(){
+
+  var path = document.location.pathname;
+  var dir = path.substring(path.indexOf('/', 0)+1, path.lastIndexOf('/'));
+
+  if (dir == "calendar") {
+    $("#sidebar_events").hide();
+  } else {
+    $.getJSON(calserver + "ae_get_website_sidebar.php?jsoncallback=?&prog="+prog,
+    function(data) {
+      $("#jd_news_sidebar").html(data.sidebar);
+      $('#jd_news_sidebar ul').attr('id','sidebar_carousel');
+      //$('div.jd_news_scroll').jdNewsScroll();
+      $('#sidebar_carousel').jcarousel({
+        initCallback: scarousel_initCallback,
+        vertical: true,
+        scroll: 1,
+        auto: autorate,
+		wrap: 'last',
+		animation: animrate
+      });
+    });
+  }
+
+});
+
+</script> 
+     <div id="sidebar_events"> 
+      <h4><a href="/calendar/" onclick="window.location = '/calendar/';">Events &amp; Activities</a></h4> 
+      <div class="news_sidebar l_agsm_news_sidebar"> 
+       <div class="jd_news_scroll" id="jd_news_sidebar"> 
+        <!-- AJAX DATA --> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <hr /> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy-wide.css" cssmenu="" width="992" --> 
+     <!-- com.omniupdate.div label="title" group="Everyone" button="734" -->
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" toolbar="TITLE" --> 
+     <!-- /com.omniupdate.div --> 
+     <!-- com.omniupdate.div label="home-image" group="Everyone" button="727" -->
+     <!-- com.omniupdate.editor toolbar="IMG_ONLY" csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" -->
+     <p><img src="/images/main/news_events.jpg" alt="With its upward momentum and the high-profile research of its faculty, the School of Busness Administration keeps making the headlines. Marking a 40-year anniversary with more growth and success to come." width="700" height="165" /></p>
+     <!-- /com.omniupdate.div --> 
+     <div class="column23"> 
+      <!-- com.omniupdate.div label="maincontent" group="Everyone" button="707" -->
+      <!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="460"/ -->
+      <h3>Dean's Speaker Series</h3> 
+      <p><a href="/news_events/series.html">The School of Business Administration is bringing business leaders to UCR for its Dean's Speaker Series.</a></p> 
+      <h4><em>Next Speaker:</em></h4> 
+      <h4>Mike Vanderpool</h4> 
+      <h5><em>President, Security Bank of California<br /></em></h5> 
+      <p>April 25, 2014 @ 10:30 a.m., HUB 355</p>
+      <!-- /com.omniupdate.div --> 
+     </div> 
+     <div class="column3R"> 
+      <!-- com.omniupdate.div label="quicklinks" group="Everyone" button="707" -->
+      <!-- com.omniupdate.editor wysiwyg="no" --> 
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy-wide-col3r.css" cssmenu="" width="992" --> 
+      <!-- com.omniupdate.div label="column3R" group="Everyone" button="707" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="220" -->
+      <h3><img src="/images/ttl_soba_resources.png" alt="SoBA Resources" width="220" height="28" /></h3> 
+      <ul class="quicklinks"> 
+       <li><a href="/about/directions.html">UC Riverside’s Location and Driving Directions</a></li> 
+       <li><a href="/directory/staff_directory.html">The School of Business Administration Staff Directory</a></li> 
+       <li><a href="/directory/faculty_directory.html">The School of Business Administration Faculty Directory</a></li> 
+      </ul>
+      <!-- /com.omniupdate.div --> 
+      <!-- com.omniupdate.efp -->
+      <!-- /com.omniupdate.efp --> 
+      <!-- /com.omniupdate.div --> 
+     </div> 
+     <div class="clear"></div> 
+     <div class="l_cal_block"> 
+      <!-- com.omniupdate.div label="maincontent" group="Everyone" button="707" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" --> 
+      <h3>What’s Coming Up at the School of Business Administration</h3> 
+      <p><a href="/calendar/">Check out our calendar to see what School of Business Administration events are coming up.</a></p>
+      <!-- /com.omniupdate.div --> 
+     </div> 
+     <div class="clear"></div> 
+     <div class="l_agsm_news_header"> 
+      <h3><b>Latest Headlines</b> from the School of Business Administration</h3> 
+     </div> 
+     <div class="l_agsm_news_headline"> 
+      <div class="newssynopsis">
+       <table>
+        <tbody>
+         <tr>
+          <td style="width: 120px; text-align:center;"><img class="newssynopsis" style="width:115px;" src="http://ragsm.ucr.edu/tools/show_doc.php?docid=nws00000229" /></td>
+          <td style="padding-left: 10px;"><h4>AGSM Reads Across America</h4><i>(3/3/14)</i> As part of the National Education Association's Read Across America Day, AGSM students and staff traveled to a local elementary school to read their favorite books to children. <a class="Morelink" href="/news/news_article.html?news=175" target="_top">Read&nbsp;More…</a></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div class="newssynopsis">
+       <table>
+        <tbody>
+         <tr>
+          <td style="width: 120px; text-align:center;"><img class="newssynopsis" style="width:56px;" src="http://ragsm.ucr.edu/tools/show_doc.php?docid=nws00000227" /></td>
+          <td style="padding-left: 10px;"><h4>Dr. Ye Li to Speak at Citizens University Committee</h4><i>(2/18/14)</i> Assistant Professor Ye Li has been invited to share his research on how age plays a role in making financial decisions at the Citizens University Committee Meeting in March <a class="Morelink" href="/news/news_article.html?news=174" target="_top">Read&nbsp;More…</a></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div class="newssynopsis">
+       <table>
+        <tbody>
+         <tr>
+          <td style="width: 120px; text-align:center;"><img class="newssynopsis" style="width:58px;" src="http://ragsm.ucr.edu/tools/show_doc.php?docid=nws00000224" /></td>
+          <td style="padding-left: 10px;"><h4>Dr. Yunzeng Wang Named Dean of School of Business Administration</h4><i>(2/11/14)</i> Yunzeng Wang, who has served an interim dean of the University of California, Riverside School of Business Administration since October 2011, has been named permanent dean <a class="Morelink" href="http://ucrtoday.ucr.edu/20261" target="_blank">Read&nbsp;More…</a></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div class="newssynopsis">
+       <table>
+        <tbody>
+         <tr>
+          <td style="width: 120px; text-align:center;"><img class="newssynopsis" style="height:68px;" src="http://ragsm.ucr.edu/tools/show_doc.php?docid=nws00000223" /></td>
+          <td style="padding-left: 10px;"><h4>UCR School of Business Administration partners with The City of Riverside</h4><i>(2/4/14)</i> The UCR School of Business Administration enter into a partnership with The City of Riverside that extends a discounted tuition to interested CSI employees <a class="Morelink" href="/news/news_article.html?news=170" target="_top">Read&nbsp;More…</a></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div class="newssynopsis">
+       <table>
+        <tbody>
+         <tr>
+          <td style="width: 120px; text-align:center;"><img class="newssynopsis" style="width:100px;" src="http://ragsm.ucr.edu/tools/show_doc.php?docid=nws00000222" /></td>
+          <td style="padding-left: 10px;"><h4>SoBA Global Programs Team Returns from India and Turkey</h4><i>(1/21/14)</i> During the winter break (December 11-19, 2013), the SoBA Global Programs held their second trip to Mumbai, India concluding in Istanbul, Turkey. The week-long intensive exposed the team to the massive city of Mumbai, India's financial capital and Turkey's largest city located both in Europe and Asia. <a class="Morelink" href="/news/news_article.html?news=169" target="_top">Read&nbsp;More…</a></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div class="newssynopsis">
+       <table>
+        <tbody>
+         <tr>
+          <td style="width: 120px; text-align:center;"><img class="newssynopsis" style="height:72px;" src="http://ragsm.ucr.edu/tools/show_doc.php?docid=nws00000219" /></td>
+          <td style="padding-left: 10px;"><h4>UCR School of Business Administration partners with CSI</h4><i>(12/13/13)</i> The UCR School of Business Administration and California Steel Industries enter into a partnership that extends a discounted tuition to interested CSI employees <a class="Morelink" href="/news/news_article.html?news=168" target="_top">Read&nbsp;More…</a></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div class="newssynopsis">
+       <table>
+        <tbody>
+         <tr>
+          <td style="width: 120px; text-align:center;"><img class="newssynopsis" style="width:112px;" src="http://ragsm.ucr.edu/tools/show_doc.php?docid=nws00000216" /></td>
+          <td style="padding-left: 10px;"><h4>SoBA Visits APM Terminals at the Port of Los Angeles</h4><i>(11/18/13)</i> SoBA Students Tour the Port of Los Angeles - The Hub of Global Distribution <a class="Morelink" href="/news/news_article.html?news=164" target="_blank">Read&nbsp;More…</a></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div class="clear"></div> 
+      <div> 
+       <a class="l_agsm_allNews" href="/news/"><p class="accessibility">All News</p></a> 
+      </div> 
+     </div> 
+     <!-- com.omniupdate.efp -->
+     <!-- /com.omniupdate.efp --> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div id="l_tagline"> 
+   <span class="accessibility">Leading Thinkers Leading Growth</span> 
+   <img src="/images/footer/soba_footers_collage_06.jpg" alt="" height="53" width="940" /> 
+  </div> 
+  <div class="footerwrapper"> 
+   <h2>More Information</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span><br /><br /> </span> <a href="http://library.ucr.edu/">UCR Libraries</a> • <a href="http://campusstatus.ucr.edu/">Campus Status</a><br /> <a href="http://www.ucr.edu/employment.html">Career Opportunities</a> • <a href="http://diversity.ucr.edu/">Diversity</a><br /> <a href="http://my.ucr.edu/visit/Pages/default.aspx">Visit UCR</a> • <a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></address> 
+     </div> 
+     <div class="column49"> 
+      <h3>School Information</h3> 
+      <address><strong>School of Business Administration</strong><br />Dean's Office<br /><a href="http://campusmap.ucr.edu/imap/index.html?loc=ANDHL">Anderson Hall</a><br />Tel: (951) 827-6329<br />Email: <a href="mailto:agsmdean@ucr.edu?subject=SoBA%20Website%20Inquiry">agsmdean@ucr.edu</a><br /><br /> <a href="http://undergradbusiness.ucr.edu/"><strong>Undergraduate Business Program</strong></a><br /><a href="http://campusmap.ucr.edu/imap/index.html?loc=OLMH">2340 Olmsted Hall</a><br />Tel: (951) 827-4551<br />E-mail: <a href="mailto:undergradbiz@ucr.edu?subject=SoBA%20Website%20Inquiry">undergradbiz@ucr.edu</a><br /><br /> <a href="http://agsm.ucr.edu/"><strong>Graduate Business Programs</strong></a><br /><a href="http://campusmap.ucr.edu/imap/index.html?loc=ANDU2">102 Anderson Hall, South</a><br />Tel: (951) 827-6200<br />E-mail: <a href="mailto:ucr_agsm@ucr.edu?subject=SoBA%20Website%20Inquiry">ucr_agsm@ucr.edu</a><p></p> 
+       <ul class="footer_links"> 
+        <li> <a href="http://soba.ucr.edu/rss/news.xml" class="footer_link_icon" id="footer_link_rss">Subscribe to SoBA news via RSS</a> </li> 
+       </ul></address> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://agsm.ucr.edu/">The A. Gary Anderson Graduate School of Management</a></li> 
+       <li><a href="http://undergradbusiness.ucr.edu/">Undergraduate Business Program</a></li> 
+       <li><a href="http://sobaalumni.ucr.edu/">SoBA Alumni Network</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://soba.ucr.edu/sendmail.html" title="Send Feedback E-mail" accesskey="9">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html">Terms and Conditions</a></li> 
+      <li>&copy; 2014 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01039&amp;site=soba-dev&amp;path=%2Fnews_events%2Findex.html">Last modified: 2014-Feb-25</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.084918 seconds using 2.00 MiB of memory. -->   
+ </body>
+</html><!--?xml version="1.0" encoding="iso-8859-1"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <link rel="stylesheet" type="text/css" href="/scripts/ProStyles.css" /> 
+  <link rel="stylesheet" type="text/css" href="/screens/styles.css" /> 
+  <script type="text/javascript" src="/scripts/elcontent.js"></script> 
+  <script type="text/javascript" src="/scripts/common.js"></script> 
+  <title>UC Riverside Libraries</title> 
+  <!-- UCR Campus Design Files --> 
+  <link rel="stylesheet" type="text/css" href="/screens/sIFR-screen.css" media="screen" /> 
+  <link rel="stylesheet" type="text/css" href="/screens/sIFR-print.css" media="print, projection" /> 
+  <link rel="stylesheet" type="text/css" href="/screens/design6wide.css" media="screen" /> 
+  <link rel="stylesheet" type="text/css" href="/screens/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/screens/sms.css" media="screen" /> 
+  <!-- UCR Libraries Menu Stylesheets and Scripts --> 
+  <!--link href="/screens/dropdown.css" media="all" rel="stylesheet" type="text/css" /--> 
+  <link href="/screens/helper.css" media="all" rel="stylesheet" type="text/css" /> 
+  <link href="/screens/default.css" media="all" rel="stylesheet" type="text/css" /> 
+  <link href="/screens/default.ultimate.css" media="all" rel="stylesheet" type="text/css" /> 
+  <link href="/screens/ucrlibraries.css" rel="stylesheet" type="text/css" /> 
+  <script src="/screens/jquery-1.3.2.min.js" type="text/javascript"></script> 
+  <script src="/screens/jquery-ui-1.7.2.custom.min.js" type="text/javascript"></script> 
+  <script src="/screens/sms.js" type="text/javascript"></script> 
+  <link href="/screens/tabview.css" rel="stylesheet" type="text/css" /> 
+  <script src="/screens/tabview-min.js" type="text/javascript" language="JavaScript"></script> 
+  <!-- III Stylesheets and scripts --> 
+  <script language="JavaScript" type="text/javascript"> 
+<!--
+function GotoURL() { 
+window.location.assign(document.getElementById("specializedSearch").value);
+return false;
+} 
+// -->
+</script> 
+ </head> 
+ <!-- Start HTML Content --> 
+ <body> 
+  <div id="masthead" style="background-position: top center; background-image:url(/screens/masthead_arches_scotty.jpg);"> 
+   <div id="skipNav">
+    <a href="#content" tabindex="1">Skip to content</a>
+   </div> 
+   <div class="pagewrapper"> 
+    <h1><a href="http://library.ucr.edu/redirect/?l=764"><span class="printonly">UCR &nbsp; &nbsp; &nbsp; </span></a><a href="http://library.ucr.edu/redirect/?l=765"><span class="printonly">Libraries </span></a></h1> 
+    <div id="librarysearch" style="background-color: transparent; background-image:none; padding-right: 40px;"> 
+     <!-- Top Right Search Option Drop Down --> 
+     <select name="specializedSearch" id="specializedSearch" title="Specialized Search"> <option selected="selected" value=" ">(All Searches)</option> <option value="/search/X">Advanced</option> <option value="/search/a">Author</option> <option value="/search/q">Author and Title</option> <option value="/search/t">Title/Periodical</option> <option value="/search/d">Subject</option> <option value="/search/c">Call Number</option> <option value="/search/r">By Course</option> <option value="/search/p">By Instructor</option> <option value="/search/g">Govt Doc #</option> <option value="/search/i">ISBN/ISSN</option> <option value="/search/e">WRCA Call Number</option> </select> 
+     <input type="image" src="/screens/ico_go.gif" class="searchNavBut" value="Go" onclick="GotoURL();" title="Go" /> 
+    </div> 
+    <!-- End Top Right Search Option Drop Down --> 
+   </div> 
+  </div> 
+  <!-- Start Library Nav --> 
+  <div id="toprollovernavbar" style="background-color: #595959; margin-left: auto;
+margin-right: auto; min-width:962px; text-align: center;"> 
+   <!-- Changed width of navigation 9/9/2010, Dana --> 
+   <div id="menucontainer" style="margin-left: auto; margin-right: auto;"> 
+    <ul id="nav" class="dropdown dropdown-horizontal"> 
+     <li id="n-collections" style="width:160px"><a href="http://library.ucr.edu/">Library Website</a></li> 
+     <li id="n-research" style="width:180px"><a href="http://scotty.ucr.edu/ftlist">New Books &amp; Media</a></li> 
+     <li id="n-tech" style="width:110px"><a href="http://library.ucr.edu/view/scotty/">Help</a></li> 
+     <li id="n-contact" style="width:180px"><a href="http://library.ucr.edu/view/help/remoteaccess.html">Connect From Home</a></li> 
+     <li id="n-about" style="width:135px"><a href="http://scotty.ucr.edu" class="topnavcategory">New Search</a></li> 
+     <li id="n-services" style="width:135px"><a href="http://library.ucr.edu/view/scotty/myaccount.html">My Account</a></li> 
+    </ul> 
+   </div> 
+  </div> 
+  <!-- End Library Nav --> 
+  <!-- End Breadcrumbs --> 
+  <div class="pagewrapper"> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <div class="maincontenthome2"> 
+     <!-- Start Content Area --> 
+     <!-- Search Boxes on middle section of the page --> 
+     <div id="homepagecontent"> 
+      <p>Scotty is the UCR library catalog. It identifies materials in or owned by the UCR Libraries and provides location, circulation, and order information. <br /> <a href="http://library.ucr.edu/view/scotty/whatscotty.html">Read more ...</a></p> 
+      <p><strong><a href="http://library.ucr.edu/view/scotty/myaccount.html">Sign in to My Library Account</a></strong></p> 
+      <!--div>
+<p>
+<strong>UCR Faculty, Staff, and Students:</strong>
+<a href="https://auth.ucr.edu/cas/login?service=https%3a%2f%2fscotty.ucr.edu%2fpatroninfo">Sign in with your UCRNetID</a>                         
+</p>
+
+<p><strong>Community Users:</strong>
+<a href="http://milscotty.ucr.edu/patroninfo">Sign in with your Barcode and PIN</a>
+</p>
+
+<p><a href="http://milscotty.ucr.edu/pinreset">Forgot your PIN?</a></p>
+</div--> 
+      <script type="text/javascript">
+<!--
+    $(function() {
+        $("#tabs").tabs();
+        jQuery.fn.hint = function (blurClass) {
+        if (!blurClass) { 
+            blurClass = 'blur';
+    }
+
+  return this.each(function () {
+    // get jQuery version of 'this'
+    var $input = jQuery(this),
+
+    // capture the rest of the variable to allow for reuse
+      title = $input.attr('title'),
+      $form = jQuery(this.form),
+      $win = jQuery(window);
+
+    function remove() {
+      if ($input.val() === title && $input.hasClass(blurClass)) {
+        $input.val('').removeClass(blurClass);
+      }
+    }
+
+    // only apply logic if the element has the attribute
+    if (title) { 
+      // on blur, set value to title attr if text is blank
+      $input.blur(function () {
+        if (this.value === '') {
+          $input.val(title).addClass(blurClass);
+        }
+      }).focus(remove).blur(); // now change all inputs to title
+
+      // clear the pre-defined text when form is submitted
+      $form.submit(remove);
+      $win.unload(remove); // handles Firefox's autocomplete
+    }
+  });
+};
+        
+    }); 
+    $(function(){ 
+                // find all the input elements with title attributes
+                $('input[title!=""]').hint();
+            });
+//-->            
+</script> 
+      <br /> 
+      <div class="yui-skin-sam"> 
+       <div id="tabsection" class="yui-navset"> 
+        <ul class="yui-nav"> 
+         <li class="selected"><a href="#tab1"><em>Library Catalog</em></a></li> 
+         <li><a href="#tab2"><em>Melvyl (All UC)</em></a></li>
+         <!-- Updated 1/25/2012 by Dana --> 
+         <li><a href="#tab3"><em>Articles &amp; Databases</em></a></li> 
+         <li><a href="#tab4"><em>Reserves</em></a></li> 
+         <li><a href="#tab5"><em>Google Scholar/Books</em></a></li> 
+        </ul> 
+        <div class="yui-content"> 
+         <div id="tab1">
+          <br /> 
+          <h2 style="font-size: 1.3em; font-weight:bold; margin-bottom: 15px;"><strong>Search for Books and Materials</strong></h2> 
+          <form action="/search/a?a" method="get" name="search" id="search"> 
+           <strong>Search Type:</strong> 
+           <label for="searchTypeKeywords"><input type="radio" name="searchtype" id="searchTypeKeywords" value="X" checked="checked" /> Keywords</label> &nbsp;&nbsp; 
+           <label for="searchTypeTitle"><input type="radio" name="searchtype" id="searchTypeTitle" value="t" /> Title / Periodical Title</label> &nbsp;&nbsp; 
+           <label for="searchTypeAuthor"><input type="radio" name="searchtype" id="searchTypeAuthor" value="a" /> Author </label> &nbsp;&nbsp; 
+           <label for="searchTypeCallnumber"><input type="radio" name="searchtype" id="searchTypeCallnumber" value="c" /> Call Number</label> 
+           <label for="searchTypeWRCACallnumber"><input type="radio" name="searchtype" id="searchTypeWRCACallnumber" value="e" /> WRCA Call Number</label> 
+           <input type="hidden" name="SORT" id="SORT" value="D" /> 
+           <br /> 
+           <!-- Change #1 scope from Library Internet Resources per Scotty Team decision C. Nakayama 6/24/11--> 
+           <!-- Referring back to scope menu for display of scopes, T.Toy 1/13/12--> 
+           <input maxlength="75" name="searcharg" size="65" style="padding: 3px; font-size: 14px; width: 350px; margin-top: 8px;" title="Search for books, journals, and more..." /> 
+           <label for="searchscope" style="display:none;">Search Scope</label>
+           <select name="searchscope" id="searchscope"> <option value="5" selected="selected"> All UCR Libraries</option> <option value="1"> Online</option> <option value="4"> Periodicals</option> <option value="2"> Rivera Library</option> <option value="3"> Science Library</option> <option value="14"> California Museum of Photography</option> <option value="12"> Eaton Science Fiction Collection</option> <option value="11"> Education Services Collection</option> <option value="6"> Government Publications</option> <option value="10"> Juvenile Collection</option> <option value="15"> Leisure Reading Collection</option> <option value="8"> Media Collections</option> <option value="7"> Music Collections</option> <option value="13"> Special Collections &amp; Archives</option> <option value="9"> Water Resources Collections and Archives</option> </select> 
+           <input value="Submit" name="submit" alt="Submit Search" type="submit" align="middle" style="font-size: 16px;" /> 
+          </form> 
+          <br /> 
+          <br /> 
+          <p><i>You can combine search terms and narrow your results by searching the <strong><a href="/search/X">Advanced Search</a></strong></i>.</p> 
+          <br /> 
+          <input type="checkbox" name="availlim" id="availlim" value="1" /> 
+          <span class="availLimMessage">Limit search to available items</span>
+          <br /> 
+          <br /> 
+         </div> 
+         <div id="tab2">
+          <br /> 
+          <form class="unpadded" action="http://library.ucr.edu" method="post" name="search"> 
+           <table border="0" width="100%">
+            <tbody>
+             <tr>
+              <td> <a href="http://library.ucr.edu/redirect/?l=716"><img src="/screens/icon_melvylpilot.gif" alt="" align="left" border="0" /></a><input type="hidden" name="qt" value="affiliate" /><input type="hidden" name="ai" value="wclocal_ucr" /> <label for="query"></label> <input type="text" style="padding: 3px; font-size: 14px; width: 420px;" name="q" id="query" title="Search UC Libraries for books, journals, and more..." maxlength="75" /> <input type="hidden" name="scope" value="19" /> <input type="submit" name="submit" value="Find" style="font-size: 16px;" /><br /><br /> 
+               <div style="width: 450px; margin-left: 35px;">
+                <!-- Updated 1/25/2012 by Dana --> 
+                <strong>Off-campus users</strong> may see a login prompt, with a &quot;continue as guest&quot; option which will still let them search library holdings in Melvyl. 
+                <a href="http://library.ucr.edu/news/article/890" target="_blank">More...</a> 
+               </div> 
+               <!--div style="color: #9c9a9c;">Next-Gen Melvyl will replace the Current Melvyl Catalog June 24, 2011.    <a href="http://melvyl.cdlib.org/F/F55M7STGAUDG2Y5G4ES14GRJKYSX1H14BLASLK6RKTAF1V3JC4-01706?func=file&file_name=help-learn-more-cdl90">Learn More</a></div--> </td> 
+              <td> 
+               <ul class="homepagebooks"> 
+                <li><a href="http://library.ucr.edu/redirect/?l=717">Advanced Search</a></li> 
+                <li><a href="http://library.ucr.edu/redirect/?l=803">Feedback</a></li> 
+               </ul> </td>
+             </tr>
+            </tbody>
+           </table>
+           <br />
+           <br /> 
+          </form>
+         </div> 
+         <div id="tab3">
+          <br /> 
+          <table style="width: 100%;"> 
+           <tbody>
+            <tr> 
+             <td width="25%" style="text-align:left;"> 
+              <div>
+               <strong>Databases by:</strong> 
+               <ul class="homepagebooks"> 
+                <li><a href="http://library.ucr.edu/redirect/?l=730">Subject</a></li> 
+                <li><a href="http://library.ucr.edu/redirect/?l=731">A - Z List</a></li> 
+                <li><a href="http://library.ucr.edu/redirect/?l=732">Most Popular</a></li> 
+               </ul> 
+              </div> </td> 
+             <td width="75%" style="text-align:left;"> 
+              <form name="searchform" action="#" onsubmit="return dosearch();"> 
+               <strong>Enter a topic: <input title="Search popular article databases" name="searchterms" style="width: 260px; padding-left: 3px; padding-right: 3px; padding-bottom: 3px; padding-top: 3px; font-size: 14px;" /> <input name="SearchSubmit" style="font-size: 16px;" type="submit" value="Search" /><br /><br /></strong> 
+               <select name="sengines"><option value="http://search.ebscohost.com/login.aspx?direct=true&amp;site=ehost-live&amp;scope=site&amp;type=1&amp;db=a9h&amp;bquery=">Academic Search Complete (All subjects - a GREAT place to start!)</option> <option value="http://www.csa.com/htbin/dbrng.cgi?username=ucriver&amp;access=ucriver163&amp;db=psycinfo-set-c&amp;fed=results&amp;qry=kw=">PsycINFO (psychology articles, book chapters &amp; more)</option> <option value="http://search.ebscohost.com/login.aspx?direct=true&amp;site=ehost-live&amp;scope=site&amp;type=1&amp;db=bth&amp;bquery=">Business Source Complete (business, management, finance, &amp; econ)</option> <option value="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=SFX&amp;SrcAuth=SFX&amp;DestApp=BIOSIS&amp;ServiceName=TransferToBIOSIS&amp;DestLinkType=GeneralSearchSummary&amp;Func=Links&amp;topic=">BIOSIS (life sciences)</option> <option value="http://www.csa.com/htbin/dbrng.cgi?username=ucriver&amp;access=ucriver163&amp;db=agricola-set-c&amp;fed=results&amp;qry=kw=">AGRICOLA (agriculture articles, book chapters &amp; more)</option> <option value="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=SFX&amp;SrcAuth=SFX&amp;DestApp=CABI&amp;ServiceName=TransferToCABI&amp;DestLinkType=GeneralSearchSummary&amp;Func=Links&amp;topic=">CAB Abstracts (agriculture)</option> <option value="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=SFX&amp;SrcAuth=SFX&amp;DestApp=INSPEC&amp;ServiceName=TransferToINSPEC&amp;DestLinkType=GeneralSearchSummary&amp;Func=Links&amp;topic=">INSPEC (Physics, electrical engr., computers &amp; info tech)</option> <option value="http://www.engineeringvillage2.org/controller/servlet/OpenURL?sid=EI:1&amp;atitle=">Compendex (general engineering)</option> <option value="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?tool=cdl^holding=ucrlib^otool=cdlotool&amp;cmd=Search&amp;db=pubmed&amp;term=">PubMed (medicine)</option> <option value="http://www.csa.com/htbin/dbrng.cgi?username=ucriver&amp;access=ucriver163&amp;db=socioabs-set-c&amp;fed=results&amp;qry=kw=">Sociological Abstracts (sociology articles, book chapters &amp; more)</option> <option value="http://www.csa.com/htbin/dbrng.cgi?username=ucriver&amp;access=ucriver163&amp;db=eric-set-c&amp;fed=results&amp;qry=kw=">ERIC (education articles, book chapters &amp; more)</option> <option value="http://www.csa.com/htbin/dbrng.cgi?username=ucriver&amp;access=ucriver163&amp;db=mla-set-c&amp;fed=results&amp;qry=kw=">MLA (literature, linguistics, folklore, film, book chapters &amp; more)</option> <option value="http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=SFX&amp;SrcAuth=SFX&amp;DestApp=WOS&amp;ServiceName=TransferToWoS&amp;DestLinkType=GeneralSearchSummary&amp;Func=Links&amp;topic=">Web of Science (SCI Expanded, SSCI,A&amp;HCI)</option> <option value="http://scholar.google.com/scholar?q=">Google Scholar</option></select> 
+               <script type="text/javascript"><!--
+    function dosearch() {
+    var sf=document.searchform;
+    var submitto = sf.sengines.options[sf.sengines.selectedIndex].value + escape(sf.searchterms.value);
+    window.location.href = submitto;
+    return false;
+    }
+    // --></script> 
+              </form> </td> 
+            </tr>
+           </tbody>
+          </table> 
+          <ul class="homepagesidelist"> 
+           <li><a href="http://library.ucr.edu/redirect/?l=766">E-Journals</a> and <a href="http://library.ucr.edu/redirect/?l=733">E-Books</a></li> 
+           <li><a href="http://library.ucr.edu/redirect/?l=734">Online Reference Shelf</a></li> 
+           <li><a href="http://library.ucr.edu/redirect/?l=736">Infomine (Scholarly Websites)</a></li> 
+          </ul>
+          <br />
+          <br /> 
+         </div> 
+         <div id="tab4">
+          <br /> 
+          <b>Find Items on Reserve by Instructor or Course</b> 
+          <a href="http://library.ucr.edu/redirect/?l=740"><img src="/screens/icon_help.gif" title="Course Reserves Help" alt="Course Reserves Help" /></a> 
+          <table>
+           <tbody>
+            <tr>
+             <td width="420">
+              <form method="get" action="/search/a?a" name="search" class="unpadded">
+               <p><strong>Instructor Name:</strong> <input name="searchtype" value="p" type="hidden" /> <input name="searcharg" maxlength="75" style="padding: 3px; width: 120px; font-size: 14px;" /><input name="SORT" value="D" type="hidden" /> <input name="submit" value="Search" type="submit" style="font-size: 16px;" /><br /><em>Ex: Neiman, Neiman, M</em></p> 
+              </form></td> 
+             <td>
+              <form method="get" action="/search/a?a" name="search" class="unpadded">
+               <p><strong>Course Name:</strong> <input name="searchtype" value="r" type="hidden" /> <input name="searcharg" maxlength="75" style="padding: 3px; width: 120px; font-size: 14px;" /> <input name="SORT" value="D" type="hidden" /> <input name="submit" value="Search" type="submit" style="font-size: 16px;" /><br /><em>Ex: Biol 005, Biology 005, Engl, English</em></p>
+              </form></td> 
+            </tr>
+           </tbody>
+          </table> 
+          <br />
+          <br /> 
+         </div> 
+         <div id="tab5">
+          <br /> 
+          <form class="unpadded" action="http://library.ucr.edu" method="post" name="search"> 
+           <img src="/screens/google-icon.png" alt="Google" align="left" style="margin-right: 10px;" /> 
+           <input style="padding: 3px; width: 500px; font-size: 14px;" maxlength="85" name="q" value="" title="Type keywords to find scholarly materials using Google Scholar/Books" /> 
+           <input value=" Search " name="submit" type="submit" style="font-size: 16px;" /> 
+           <div style="margin-top: 15px;"> 
+            <input type="radio" name="scope" value="4" checked="checked" /> Google Scholar &nbsp;&nbsp; 
+            <input type="radio" name="scope" value="15" /> Google Books
+           </div> 
+          </form> 
+          <div style="color: #9c9a9c; margin-top: 12px;">
+           Google Scholar provides a simple way to broadly search for scholarly literature, searching across many disciplines and sources. Google books help you find the perfect book for your purposes and discover new ones that interest you. 
+           <br />
+           <br /> 
+          </div> 
+         </div> 
+        </div> 
+       </div>
+      </div> 
+      <script type="text/javascript" language="JavaScript">
+(function() {
+    var tabView = new YAHOO.widget.TabView('tabsection');
+    YAHOO.log("The example has finished loading; as you interact with it, you'll see log messages appearing here.", "info", "example");
+})();
+</script> 
+     </div> 
+     <!-- End Tabs --> 
+     <br />
+     <br /> 
+    </div> 
+    <!-- End Content Area --> 
+   </div> 
+   <!-- End Content --> 
+   <div class="follow"> 
+    <a href="http://library.ucr.edu/redirect/?l=797"><img alt="UCR Libraries Twitter" src="/screens/Twitter-24x24.png" border="0" /></a> 
+    <a href="http://library.ucr.edu/redirect/?l=804"><img alt="UCR Libraries Facebook" src="/screens/facebook-24x24.jpg" border="0" /></a> 
+    <a href="http://library.ucr.edu/redirect/?l=805"><img alt="UCR Libraries YouTube" src="/screens/youtube-24x24.jpg" border="0" /></a> 
+    <a href="http://library.ucr.edu/xml/news.xml"><img alt="UCR Libraries News" src="/screens/rss-24x24.png" border="0" /></a> 
+    <a href="http://library.ucr.edu/?view=help/askalibrarian"><img src="/screens/askalibicon.gif" alt="Ask a Librarian" border="0" /></a> 
+    <br />
+    <br /> 
+   </div> 
+   <!-- When this content is in botlogo.html, you can remove and just put {botlogo} --> 
+   <!-- Start of Footer --> 
+   <div class="clear"></div> 
+   <div id="footerwrapper"> 
+    <div id="prefooter"> 
+     <div class="column2"> 
+      <h3>General Campus Information</h3> 
+      <address><strong><a href="http://www.ucr.edu">University of California, Riverside</a></strong><br />900 University Ave.<br /> Riverside, CA 92521<br />Tel: (951) 827-1012<br /> <a href="http://www.ucr.edu/employment.html">UCR Career Opportunities</a><br /> <a href="http://library.ucr.edu/employment">Library Job Opportunities</a></address> 
+     </div> 
+     <div class="column2center"> 
+      <h3>UCR Libraries Information</h3> 
+      <address> <strong><a href="http://library.ucr.edu/?view=about/directions.html">Directions</a> / <a class="Comments_FooterLink" href="http://library.ucr.edu/view/about/mail.html">Mailing Addresses</a></strong><br /> <a class="Comments_FooterLink" href="http://library.ucr.edu/view/libraries/rivera">Tom&aacute;s Rivera Library</a>: (951) 827-3220<br /> <a class="Comments_FooterLink" href="http://library.ucr.edu/view/libraries/science">Orbach Science Library</a>: (951) 827-3701<br /> <a class="Comments_FooterLink" href="http://library.ucr.edu/view/libraries/music"> Music Library</a>: (951) 827-3137<br /> <a class="Comments_FooterLink" href="http://library.ucr.edu/view/libraries/media">Multimedia Library</a>: (951) 827-5606<br /> </address>
+     </div> 
+     <div class="column2R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://ilearn.ucr.edu/">iLearn</a> (Your online portal to class materials.)</li> 
+       <li><a href="http://webmail.ucr.edu/">UCR email</a></li> 
+       <li><a href="http://www.cnc.ucr.edu/scs/complabs.html">Computer Labs on Campus</a></li> 
+       <li><a href="http://www.escortservice.ucr.edu/">Campus Safety Escort Service</a></li> 
+       <li>Floormaps: <a href="http://library.ucr.edu/view/libraries/science/floormaps/">Science</a> | <a href="http://library.ucr.edu/view/libraries/rivera/floormaps">Rivera</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://library.ucr.edu/?l=siteindex">Site Index</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html">Terms and Conditions</a></li> 
+      <li>&copy; 2012 <a href="http://www.ucr.edu">University of California Riverside</a> <a href="http://libstaff.ucr.edu">Libraries</a></li> 
+      <li><a href="http://libstaff.ucr.edu">Libraries Intranet</a> </li> 
+      <li><a href="http://library.ucr.edu/scotty/">Comments</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div>  
+  <span style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; visibility: visible; font-size: 85%; text-align: center; display: block; ">WebPAC PRO &copy; Innovative Interfaces, Inc.</span>   
+  <!--this is customized <screens/mainmenu.html>--> 
+ </body>
+</html>

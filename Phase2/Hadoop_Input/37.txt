@@ -1,0 +1,1669 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>About UCR: Maps, Directions and Visitor Information</title> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+  <!--[if IE]><![endif]--> 
+  <meta http-equiv="last-modified" content="2013-03-14" /> 
+  <meta name="version" content="2.64 2.146 " /> 
+  <!-- 03/09/14 23:12:33 03/09/14 23:54:56 --> 
+  <!--link rel="stylesheet" type="text/css" href="/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/narrow6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/sifr.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="/min/g=6bis-bluea-narrow" media="all" /> 
+  <!--link rel="stylesheet" type="text/css" href="/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="/min/f=css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/about/css/local.css" media="all" /> 
+  <link href="//fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css" /> 
+  <script type="text/javascript" src="/min/g=js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="/css/ie6-narrow6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/about/css/ie6.css" media="all" />
+<script defer type="text/javascript" src="/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/css/ie7.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/about/css/ie7.css" media="all" />
+<script type="text/javascript" src="/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+  <link rel="alternate" type="application/rss+xml" title="Subscribe to UCR Today via RSS" href="http://ucrtoday.ucr.edu/feed" /> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://www.ucr.edu/about/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr /> 
+  </div> 
+  <div id="masthead_home" style="background-image:url(/images/design6/mastheads/masthead01.jpg);"> 
+   <h1><a href="//www.ucr.edu/"><span class="printonly">UC Riverside</span></a></h1> 
+   <div class="pagewrapper"> 
+    <div id="search"> 
+     <div id="nav_utility"> 
+      <ul> 
+       <li><a href="//www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+       <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+       <li><a href="//www.ucr.edu/find_people.php">Find People</a></li> 
+      </ul> 
+     </div> 
+     <form id="searchbox" action="//www.ucr.edu/search.php">
+      <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+     </form> 
+     <script type="text/javascript" src="//www.ucr.edu/js/watermark.js"></script> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="nav_main"> 
+   <h2 class="accessibility">Campuswide Navigation</h2> 
+   <ul>
+    <li><a id="nav_main_home" href="http://www.ucr.edu/"><span>UCR Home</span></a></li>
+    <li><a class="active" id="nav_main_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+    <li><a id="nav_main_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+    <li><a id="nav_main_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+    <li><a id="nav_main_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+    <li><a id="nav_main_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+    <li><a id="nav_main_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+    <li><a id="nav_main_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+   </ul> 
+  </div> 
+  <div id="nav_audience"> 
+   <h2 class="accessibility">Audience Navigation</h2> 
+   <ul>
+    <li><a id="nav_audience_future" href="http://www.ucr.edu/future/" title="For Prospective Students"><span>Prospective Students</span></a></li>
+    <li><a id="nav_audience_students" href="http://www.ucr.edu/students/" title="For Current Students"><span>Current Students</span></a></li>
+    <li><a id="nav_audience_parents" href="http://www.ucr.edu/parents/" title="For Parents"><span>Parents</span></a></li>
+    <li><a id="nav_audience_faculty" href="http://www.ucr.edu/faculty/" title="For Faculty"><span>Faculty</span></a></li>
+    <li><a id="nav_audience_staff" href="http://www.ucr.edu/staff/" title="For Staff"><span>Staff</span></a></li>
+    <li><a id="nav_audience_alumni" href="http://www.ucr.edu/alumni/" title="For Alumni"><span>Alumni</span></a></li>
+    <li><a id="nav_audience_friends" href="http://www.ucr.edu/friends/" title="For Friends"><span>Friends</span></a></li>
+    <li><a id="nav_audience_industry" href="http://www.ucr.edu/industry/" title="For Industry"><span>Industry</span></a></li>
+    <li><a id="nav_audience_media" href="http://www.ucr.edu/media/" title="For Media"><span>Media</span></a></li>
+   </ul> 
+  </div> 
+  <hr /> 
+  <!--[if lte IE 6]>
+<div class="pagewrapper">
+	<div style="margin-bottom: 1.5em;">
+		<h5 style="color: #b00; margin: .5em 15em 0">You appear to be using an outdated version of Internet Explorer. We are sorry, but your browser is no longer
+			supported. Please upgrade to a modern browser:</h5>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://getfirefox.com" class="external" title="external site: Mozilla Foundation">Firefox</a></li>
+				<li><a href="http://www.opera.com/browser/" class="external" title="external site: Opera Software">Opera</a></li>
+			</ul>
+		</div>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://www.microsoft.com/windows/internet-explorer/" class="external" title="external site: Microsoft">Internet Explorer 8</a></li>
+				<li><a href="http://www.apple.com/safari/" class="external" title="external site: Apple Inc.">Safari</a></li>
+			</ul>
+		</div>
+		<div class="column49R">
+			<ul class="tight">
+				<li><a href="http://www.google.com/chrome" class="external" title="external site: Google">Google Chrome</a></li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<![endif]--> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="//www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://www.ucr.edu/about/">About UCR</a> &gt;</li> 
+    <li class="lastitem">Maps, Directions and Visitor Information</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <hr /> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2 class="long">Maps, Directions and Visitor Information</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li><a href="/about/" title="About UCR Home">About UCR Home<br /><span>A university of distinction and diversity</span></a></li>
+       <li><a href="/about/administration.html" title="Administration">Administration<br /><span>Meet the leaders of UCR</span></a></li>
+       <li><a href="/about/rankingsandfacts.html" title="Rankings and Quick Facts">Rankings and Quick Facts<br /><span>Who we are, how we rate</span></a></li>
+       <li><a href="/about/uc_system.html" title="UC System">UC System<br /><span>Learn about the UC System</span></a></li>
+       <li><a href="/about/history.html" title="History">History<br /><span>Where we've come from</span></a></li>
+       <li><a href="/about/visitors.html" title="UCR Visitor's Information">UCR Visitor's Information<br /><span>Coming to our campus and community</span></a>
+        <ul>
+         <li class="currentpage"><h3><dfn>Current page is: </dfn>Maps, Directions and Visitor Resources</h3></li>
+         <li><a href="/about/tours.html" title="Tours">Tours</a></li>
+         <li><a href="/about/region.html" title="About the Region">About the Region</a></li>
+         <li><a href="/about/places_of_note.html" title="Things to Do">Things to Do</a></li>
+        </ul></li>
+       <li><a href="/about/promise/" title="Living the Promise">Living the Promise<br /><span>Stories of our people and research in action</span></a></li> 
+      </ul> 
+     </div> 
+     <p><a id="ir_button" class="img_link" href="/international/"><span class="accessibility">International Resources.</span></a></p> 
+    </div> 
+    <hr /> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <iframe class="top" title="UCR Location from Google Maps" width="484" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=&amp;daddr=W+Campus+Dr+Parking+Kiosk&amp;hl=en&amp;geocode=FVtoBgIdh6cB-Q&amp;aq=0&amp;sll=33.973168,-117.331116&amp;sspn=0.006611,0.009645&amp;t=m&amp;mra=ls&amp;ie=UTF8&amp;ll=33.980449,-117.336731&amp;spn=0.028469,0.041456&amp;z=14&amp;iwloc=ddw1&amp;output=embed"></iframe> 
+     <p class="notop"><a href="https://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=&amp;daddr=W+Campus+Dr+Parking+Kiosk&amp;hl=en&amp;geocode=FVtoBgIdh6cB-Q&amp;aq=0&amp;sll=33.973168,-117.331116&amp;sspn=0.006611,0.009645&amp;t=m&amp;mra=ls&amp;ie=UTF8&amp;ll=33.980449,-117.336731&amp;spn=0.028469,0.041456&amp;z=14&amp;iwloc=ddw1">View Larger Map</a></p> 
+     <div class="column23"> 
+      <h3>Basic Directions to UC Riverside</h3> 
+      <h4>From Los Angeles County</h4> 
+      <p><strong>From the 91 Freeway: </strong>Take CA-91 east to the CA-60 east. Exit at University Avenue and turn left. At the second light, take a right onto West Campus Drive.</p> 
+      <p><strong>From the 10 Freeway:</strong> Take the I-10 east to the I-15 south and then to CA-60 east. Exit at University Avenue and turn left. At the second light, take a right onto West Campus Drive.</p> 
+      <p><strong>From the 60 Freeway:</strong> Take the CA-60 east. Exit at University Avenue and turn left. At the second light, take a right onto West Campus Drive.</p> 
+      <h4>From Ontario Airport</h4> 
+      <p><strong>From the 10 Freeway:</strong> Take the I-10 east, to the I-15 south and then to the CA-60 east. Exit at University Avenue and turn left. At the second light, take a right onto West Campus Drive.</p> 
+      <p><strong>From the 60 Freeway:</strong> Take the CA-60 east. Exit at University Avenue and turn left. At the second light, take a right onto West Campus Drive.</p> 
+      <h4>From Orange County</h4> 
+      <p>Take the CA-91 east to the CA-60 east. Exit at University Avenue and turn left. At the second light, take a right onto West Campus Drive.</p> 
+      <h4>From Palm Springs</h4> 
+      <p>Take the I-10 west to CA-60 west. Exit at University Avenue and turn left. At the second light, take a right onto West Campus Drive.</p> 
+      <h4>From San Bernardino </h4> 
+      <p>Take the I-215 south to the CA-60 east. Exit at University Avenue and turn left. At the second light, take a right onto West Campus Drive.</p> 
+      <h4> From San Diego County</h4> 
+      <p>Take the I-15 north to the I-215 north to the CA-60 west. Exit at University Avenue and turn left. At the second light, take a right onto West Campus Drive.</p> 
+     </div> 
+     <div class="column3R on_the_side2"> 
+      <h3>Parking, Traffic &amp; Campus Information</h3> 
+      <h4>Printable Campus Map</h4> 
+      <p><a href="http://www.campusmap.ucr.edu/map.pdf">Download an 8&frac12;&times;11 PDF UCR campus map.</a></p> 
+      <h4>Online Campus Map</h4> 
+      <p><a href="http://www.campusmap.ucr.edu/campusMap.php">Visit our online campus map.</a></p> 
+      <h4>Visitor Parking</h4> 
+      <p>University visitors may obtain parking permits at the Information Kiosk or self-service dispensers. Permits are valid in visitor lots or Gold parking zones. Zones are enforced 7 a.m. to 10 p.m., 7 days a week.</p> 
+      <p>Every vehicle, unless otherwise exempt, must display a valid parking permit when parking on UCR property.</p> 
+      <p>For more information on parking at UCR, <a href="http://parking.ucr.edu/visitor/kiosk.html">visit the Parking website.</a></p> 
+      <h4>Traffic Information</h4> 
+      <p><a class="external" title="external site: Sigalert.com" href="http://www.sigalert.com/Map.asp?Region=Greater+Los+Angeles#lat=34.00245&amp;lon=-117.36423&amp;z=2">Real-time traffic reports around UC Riverside</a> from Sigalert.com.</p> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://library.ucr.edu/']);">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://campusstatus.ucr.edu/']);">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://campusstore.ucr.edu/']);">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://www.ucr.edu/employment.html']);">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://diversity.ucr.edu/']);">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://www.ucr.edu/about/directions.html']);">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://admissions.ucr.edu/VisitUCR']);">Visit UCR</a></li> 
+      </ul> 
+      <!-- Generated in 0.013956 seconds using 768 KiB of memory. --> 
+     </div> 
+     <div class="column49"> 
+      <h3>Additional Information</h3> 
+      <address><strong><a href="http://strategiccommunications.ucr.edu/">Office of Strategic Communications</a></strong><br /> <a href="http://campusmap.ucr.edu/campusMap.php?loc=HINHL" title="Campus Map">1156 Hinderaker Hall</a></address> 
+      <ul class="footer_links"> 
+       <li><a id="footer_link_facebook" class="footer_link_icon" href="http://www.facebook.com/UCRiverside" title="external site: Facebook">Visit UCR's Facebook page</a></li> 
+       <li><a id="footer_link_twitter" class="footer_link_icon" href="http://twitter.com/UCRiverside" title="external site: Twitter">Follow UCR on Twitter</a></li> 
+       <li><a id="footer_link_youtube" class="footer_link_icon" href="http://www.youtube.com/UCRiverside" title="external site: YouTube">Visit UCR's YouTube channel</a></li> 
+       <li><a id="footer_link_rss" class="footer_link_icon" href="http://ucrtoday.ucr.edu/feed">Subscribe to UCR Today via RSS</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://collegeportrait.ucr.edu/">UCR's College Portrait</a></li> 
+       <li><a class="external" title="external link: University of California" href="http://www.universityofcalifornia.edu/">University of California </a></li> 
+       <li><a class="external" title="external link: Office of the President" href="http://www.ucop.edu/">UC Office of the President</a></li> 
+       <li><a class="external" title="external link: UC Regents" href="http://www.universityofcalifornia.edu/regents/">UC Regents</a> </li> 
+       <li><a class="external" title="external link: City of Riverside" href="http://www.riversideca.gov">City of Riverside</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="//www.ucr.edu/"><span>UCR Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="//www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="//www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="//www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="//www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="//www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="//www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="//www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/about/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="//www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="//www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>&copy; 2013 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01189&amp;site=about&amp;path=%2Fdirections.html">Last modified: 2013-Mar-14</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.031027 seconds using 1.50 MiB of memory. -->   
+ </body>
+</html><!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>UC Riverside: Career Opportunities at UC Riverside</title> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+  <!--[if IE]><![endif]--> 
+  <meta http-equiv="last-modified" content="2013-10-03" /> 
+  <meta name="version" content="2.64 2.146 " /> 
+  <!-- 03/11/14 15:12:47 03/11/14 15:50:19 --> 
+  <!--link rel="stylesheet" type="text/css" href="/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/narrow6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/sifr.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="/min/g=6bis-bluea-narrow" media="all" /> 
+  <!--link rel="stylesheet" type="text/css" href="/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="/min/f=css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all" /> 
+  <link href="//fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css" /> 
+  <script type="text/javascript" src="/min/g=js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="/css/ie6-narrow6.css" media="all" />
+<script defer type="text/javascript" src="/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/css/ie7.css" media="all" />
+<script type="text/javascript" src="/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+  <link rel="alternate" type="application/rss+xml" title="Subscribe to UCR Today via RSS" href="http://ucrtoday.ucr.edu/feed" /> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://www.ucr.edu/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr /> 
+  </div> 
+  <div id="masthead_home" style="background-image:url(/images/design6/mastheads/masthead04.jpg);"> 
+   <h1><a href="//www.ucr.edu/"><span class="printonly">UC Riverside</span></a></h1> 
+   <div class="pagewrapper"> 
+    <div id="search"> 
+     <div id="nav_utility"> 
+      <ul> 
+       <li><a href="//www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+       <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+       <li><a href="//www.ucr.edu/find_people.php">Find People</a></li> 
+      </ul> 
+     </div> 
+     <form id="searchbox" action="//www.ucr.edu/search.php">
+      <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+     </form> 
+     <script type="text/javascript" src="//www.ucr.edu/js/watermark.js"></script> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="nav_main"> 
+   <h2 class="accessibility">Campuswide Navigation</h2> 
+   <ul>
+    <li><a class="active" id="nav_main_home" href="http://www.ucr.edu/"><span>UCR Home</span></a></li>
+    <li><a id="nav_main_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+    <li><a id="nav_main_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+    <li><a id="nav_main_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+    <li><a id="nav_main_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+    <li><a id="nav_main_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+    <li><a id="nav_main_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+    <li><a id="nav_main_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+   </ul> 
+  </div> 
+  <div id="nav_audience"> 
+   <h2 class="accessibility">Audience Navigation</h2> 
+   <ul>
+    <li><a id="nav_audience_future" href="http://www.ucr.edu/future/" title="For Prospective Students"><span>Prospective Students</span></a></li>
+    <li><a id="nav_audience_students" href="http://www.ucr.edu/students/" title="For Current Students"><span>Current Students</span></a></li>
+    <li><a id="nav_audience_parents" href="http://www.ucr.edu/parents/" title="For Parents"><span>Parents</span></a></li>
+    <li><a id="nav_audience_faculty" href="http://www.ucr.edu/faculty/" title="For Faculty"><span>Faculty</span></a></li>
+    <li><a id="nav_audience_staff" href="http://www.ucr.edu/staff/" title="For Staff"><span>Staff</span></a></li>
+    <li><a id="nav_audience_alumni" href="http://www.ucr.edu/alumni/" title="For Alumni"><span>Alumni</span></a></li>
+    <li><a id="nav_audience_friends" href="http://www.ucr.edu/friends/" title="For Friends"><span>Friends</span></a></li>
+    <li><a id="nav_audience_industry" href="http://www.ucr.edu/industry/" title="For Industry"><span>Industry</span></a></li>
+    <li><a id="nav_audience_media" href="http://www.ucr.edu/media/" title="For Media"><span>Media</span></a></li>
+   </ul> 
+  </div> 
+  <hr /> 
+  <!--[if lte IE 6]>
+<div class="pagewrapper">
+	<div style="margin-bottom: 1.5em;">
+		<h5 style="color: #b00; margin: .5em 15em 0">You appear to be using an outdated version of Internet Explorer. We are sorry, but your browser is no longer
+			supported. Please upgrade to a modern browser:</h5>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://getfirefox.com" class="external" title="external site: Mozilla Foundation">Firefox</a></li>
+				<li><a href="http://www.opera.com/browser/" class="external" title="external site: Opera Software">Opera</a></li>
+			</ul>
+		</div>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://www.microsoft.com/windows/internet-explorer/" class="external" title="external site: Microsoft">Internet Explorer 8</a></li>
+				<li><a href="http://www.apple.com/safari/" class="external" title="external site: Apple Inc.">Safari</a></li>
+			</ul>
+		</div>
+		<div class="column49R">
+			<ul class="tight">
+				<li><a href="http://www.google.com/chrome" class="external" title="external site: Google">Google Chrome</a></li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<![endif]--> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="//www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li class="lastitem">Career Opportunities at UC Riverside</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <hr /> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2 class="long">Career Opportunities at UC Riverside</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li><a href="/" title="Home">Home<br /><span>University of California, Riverside</span></a></li>
+       <li class="currentpage"><h3><dfn>Current page is: </dfn>Career Opportunities at UC Riverside</h3></li>
+       <li><a href="/privacy.html" title="Privacy Policy">Privacy Policy<br /><span></span></a></li>
+       <li><a href="/terms.html" title="Terms and Conditions of Use">Terms and Conditions of Use<br /><span></span></a></li>
+       <li><a href="/sendmail.html" title="Web Site Feedback">Web Site Feedback<br /><span></span></a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <hr /> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <p> <img alt="No matter who you are or what your career goals are, UC Riverside has an opportunity for you." src="/images/employ/employment_main.jpg" height="214" width="484" /></p> 
+     <p> Regardless of whether you are a current member of the UCR family, or just considering joining us as a student, staff member or faculty, we have opportunities for you. UCR is the premier research university in Inland Southern California and we are seeking the best to join us. Explore your opportunities below.</p> 
+     <h3><img alt=" " src="/images/employ/staff_tab.gif" height="33" width="484" /><span class="accessibility">Opportunities for Staff</span></h3> 
+     <ul> 
+      <li><a href="http://hr.ucr.edu/jobs/">The Jobs Page at UCR Human Resources</a> is the place to find complete listings of all staff employment opportunities on campus.</li> 
+      <li><a href="http://humanresources.ucr.edu/?content=EducationAndDevelopment/abouted.htm">Education and Development courses</a>, offered through <a href="http://humanresources.ucr.edu/">UCR Human Resources</a>, give employees the opportunity for career growth that can enhance their contributions to the University’s missions and goals.</li> 
+      <li>Labor Relations, including Collective Bargaining, and Workers’ Compensation are handled through <a href="http://humanresources.ucr.edu/">UCR Human Resources</a>.</li> 
+     </ul> 
+     <h3><img alt=" " src="/images/employ/faculty_tab.gif" height="33" width="484" /><span class="accessibility">Opportunities for Faculty</span></h3> 
+     <ul> 
+      <li>The <a href="http://academicpersonnel.ucr.edu/employment/">Office of Academic Personnel</a> oversees the hiring of faculty and academic staff at UC Riverside. Position openings are listed on departmental sites as well as on the <a class="external" title="external site: SoCalHERC" href="http://socalherc.org/home/index.cfm?site_id=761">Southern California Higher Education Recruitment Consortium (SoCalHERC)</a>.</li> 
+      <li>There are great opportunities for faculty at the <a href="http://washingtoncenter.ucr.edu/faculty.html">UC Washington DC Center</a>. UCR sends a faculty member to teach and work at the center every academic quarter.</li> 
+      <li>The <a href="http://internationalscholars.ucr.edu/">International Scholars Center</a> processes visas for international faculty scholars.</li> 
+     </ul> 
+     <h3><img alt=" " src="/images/employ/students_tab.gif" height="33" width="484" /><span class="accessibility">Opportunities for Students</span></h3> 
+     <ul> 
+      <li>The <a href="http://cnas.ucr.edu/">College of Natural and Agricultural Sciences</a> features many <a href="http://cnas-ugresearch.ucr.edu/">undergraduate research opportunities</a> during the year.</li> 
+      <li>Undergraduate research is also offered through the <a href="http://or.ucr.edu/">UCR Office of Research</a>.</li> 
+      <li>The <a href="http://careers.ucr.edu/">UCR Career Center</a> features <a href="http://careers.ucr.edu/jobs/Pages/Jobs.aspx">Job and Internship Listings</a> that help students find the perfect employment opportunity.</li> 
+      <li><a href="http://washingtoncenter.ucr.edu/">UC Washington DC Academic Internship Program</a> offers qualified undergraduates an opportunity to combine course work, field research and work experience during a quarter's residence in our nation's capital.</li> 
+      <li>The <a href="http://internationalcenter.ucr.edu/">International Education Center</a> presents volunteer and internship positions around the world, allowing students a chance to grow through unique opportunity.</li> 
+      <li>UCR's <a href="http://www.graduate.ucr.edu/">Graduate Division</a> hosts the <a href="http://www.graduate.ucr.edu/MSRIP.html">Mentoring Summer Research Internship Program (MSRIP)</a>, an eight-week summer research program for rising juniors and seniors from educationally and/or economically disadvantaged backgrounds. The goal is to increase the number of students from diverse backgrounds who go on to pursue Ph.D.</li> 
+     </ul> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://library.ucr.edu/']);">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://campusstatus.ucr.edu/']);">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://campusstore.ucr.edu/']);">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://www.ucr.edu/employment.html']);">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://diversity.ucr.edu/']);">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://www.ucr.edu/about/directions.html']);">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://admissions.ucr.edu/VisitUCR']);">Visit UCR</a></li> 
+      </ul> 
+      <!-- Generated in 0.021497 seconds using 768 KiB of memory. --> 
+     </div> 
+     <div class="column49"> 
+      <h3>Additional Information</h3> 
+      <address><strong><a href="http://strategiccommunications.ucr.edu/">Office of Strategic Communications</a></strong><br /> <a href="http://campusmap.ucr.edu/campusMap.php?loc=HINHL" title="Campus Map">1156 Hinderaker Hall</a></address> 
+      <ul class="footer_links"> 
+       <li><a id="footer_link_facebook" class="footer_link_icon" href="http://www.facebook.com/UCRiverside" title="external site: Facebook">Visit UCR's Facebook page</a></li> 
+       <li><a id="footer_link_twitter" class="footer_link_icon" href="http://twitter.com/UCRiverside" title="external site: Twitter">Follow UCR on Twitter</a></li> 
+       <li><a id="footer_link_youtube" class="footer_link_icon" href="http://www.youtube.com/UCRiverside" title="external site: YouTube">Visit UCR's YouTube channel</a></li> 
+       <li><a id="footer_link_rss" class="footer_link_icon" href="http://ucrtoday.ucr.edu/feed">Subscribe to UCR Today via RSS</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://careers.ucr.edu/">UCR Career Center</a></li> 
+       <li><a href="http://www.graduate.ucr.edu/">Graduate Division</a></li> 
+       <li><a href="http://humanresources.ucr.edu/">UCR Human Resources</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="//www.ucr.edu/"><span>UCR Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="//www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="//www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="//www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="//www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="//www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="//www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="//www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="//www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="//www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>&copy; 2013 Regents of the University of California</li> 
+      <li>Last modified: 2013-Oct-03</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.02728 seconds using 1.50 MiB of memory. -->   
+ </body>
+</html><!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>UCR Campus Map Beta</title> 
+  <meta http-equiv="last-modified" content="2011-05-23" /> 
+  <meta name="version" content="2.45 2.72 " /> 
+  <!-- 05/23/11 11:05:56 05/23/11 11:05:56 --> 
+  <script type="text/javascript">
+
+if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/Blackberry/)) || (navigator.userAgent.match(/Android/)) || (navigator.userAgent.match(/iPod/i)))
+{location.replace("mobile.html");}
+
+
+
+</script> 
+  <style type="text/css">
+
+ span{cursor:pointer;}
+
+
+</style> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all" /> 
+  <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/prototype.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/scriptaculous.js?load=effects"></script> 
+  <script type="text/javascript" src="ProojectedOverlay.js"></script> 
+  <script type="text/javascript" src="geoxml3.js"></script> 
+  <script type="text/javascript" src="UCRCampusMap1.js"></script> 
+  <script type="text/javascript" src="customPano.js"></script> 
+  <script type="text/javascript">
+var viewResource = function(val){ return "<div id='my_resource' style='text-align:left;padding:10px;' ><p>The information provide here is from the Riverside Transit Agency's website and is being provided to the UCR constituancy as a service. For more information regarding schedules and routes plase see their <a href='http://www.riversidetransit.com/home/index.php?option=com_content&view=article&id=116&Itemid=106' rel='nofollow' target='infor_win'>website</a>. For other inforamation regarding parking or UCR Transportation please <a href='http://www.parking.ucr.edu/'>contact taps</a>.</p>"+
+"<p><strong>**Crest Cruiser/Bear Runner only operate during the academic year</strong></p><p><select onchange='document.getElementById(\"infor_win\").src=this.value'>"+
+"<option value='http://www.riversidetransit.com/home/images/stories/DOWNLOADS/ROUTES/001.pdf'>Route 1 – Service from UCR to Riverside Plaza, Galleria at Tyler, Corona Transit Center</option>"+
+"<option value='http://www.riversidetransit.com/home/images/stories/DOWNLOADS/ROUTES/014.pdf'>Route 14 – Service from Loma Linda to UCR and Galleria at Tyler</option>"+
+"<option value='http://www.riversidetransit.com/home/images/stories/DOWNLOADS/ROUTES/016.pdf'>Route 16 – Service from UCR to Canyon Crest Towne Center and Moreno Valley Mall</option>"+
+"<option value='http://www.riversidetransit.com/home/images/stories/DOWNLOADS/ROUTES/051.pdf'>Route 51 Crest Cruiser** – Service from UCR to Canyon Crest Towne Center</option>"+
+"<option value='http://www.riversidetransit.com/home/images/stories/DOWNLOADS/ROUTES/053.pdf'>Route 53 – Bear Runner** – Evening service UCR to Canyon Crest Towne Center</option>"+
+"<option value='http://www.riversidetransit.com/home/images/stories/DOWNLOADS/ROUTES/204.pdf'>**Express Route 204 – Service between Montclair Transcenter and UCR with stops in Ontario and Jurupa</option>"+
+"<option value='http://www.riversidetransit.com/home/images/stories/DOWNLOADS/ROUTES/208.pdf'>**Express Route 208 – Service between Temecula and UCR with stops in Murrieta, Sun City, and Perris</option>"+
+"<option value='http://www.riversidetransit.com/home/images/stories/DOWNLOADS/ROUTES/212.pdf'>**Express Route 212 - Service between San Jacinto and UCR witn stops in Hemet and Perris</option></select><iframe style='margin-left:-10px;margin-top:15px;' id='infor_win' src='"+val+"'></iframe></p></div>";}
+
+var imageDisplay = function (img){ return "<img src='"+img+"'  style='width:auto !important;height:400px !important;display:block;margin:10px auto auto !important;'>";
+} 
+
+
+</script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<link rel="stylesheet" type="text/css" href="css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/fixiequotes.js"></script>
+<![endif]--> 
+  <link rel="stylesheet" type="text/css" href="MainMap.css" media="all" /> 
+  <!--[if IE]>
+<link rel="stylesheet" type="text/css" href="css/ie.css" media="all" />
+<![endif]--> 
+  <script type="text/css" media="print">
+
+</script> 
+ </head> 
+ <body> 
+  <div class="branding"> 
+   <div id="search-detail"></div> 
+   <div id="locations-detail"> 
+   </div> 
+   <div id="legend-detail"></div> 
+   <div id="legend-settings"></div> 
+   <div id="directions-detail"> 
+   </div> 
+   <div id="mast_head"> 
+    <h2><a href="http://ucr.edu/"><span class="accessibility">UCR Campus Map 
+       <!--sup style="font-size: 0.31em; font-style: italic; color: rgb(241, 171, 0); font-weight: bold;">BETA</sup--></span></a><a href="http://campusmap.ucr.edu/campus-Map.php"></a>
+     <!--img src="images/beta_logo.png"/--></h2> 
+   </div> 
+   <div id="main_nav"> 
+    <span tabindex="0" id="l_legend_detail" onmouseover="document.getElementById('f_img_le').src='images/feedback2.png'" onmouseout="document.getElementById('f_img_le').src='images/feedback.png'" onclick="document.location='feedback.html'" onkeydown="function(e){if(e.keyCode==13){document.location='feedback.html';}}"> 
+     <!-- onclick="getNewWindow('DIV','legend-detail',legend)" onkeydown="handleMyKeyEvent(event,'DIV','legend-detail',legend)"--> <img id="f_img_le" src="images/feedback.png" alt="feedback" /> Feedback</span> 
+    <span tabindex="0" id="l_search_detail" onmouseover="document.getElementById('f_img_s').src='images/search_over.png'" onmouseout="document.getElementById('f_img_s').src='images/search1.png'" onclick="getNewWindow('DIV','search-detail',searchB)" onkeydown="handleMyKeyEvent(event,'DIV','search-detail',searchB)"> <img id="f_img_s" src="images/search1.png" /> Search</span> 
+    <span tabindex="0" id="l_locations_detail" onmouseover="document.getElementById('f_img_l').src='images/locations_over.png'" onmouseout="document.getElementById('f_img_l').src='images/locations1.png'" onclick="getNewWindow('DIV','locations-detail','val')" onkeydown="handleMyKeyEvent(event,'DIV','locations-detail','val')"> <img id="f_img_l" src="images/locations1.png" /> Locations</span> 
+    <span tabindex="0" id="l_search_detail1" onmouseover="document.getElementById('f_img_s1').src='images/hshuttle2.png'" onmouseout="document.getElementById('f_img_s1').src='images/hshuttle1.png'" onclick="getNewWindow('DIV','Schedule-detail',viewResource(this.getAttribute('frm1')))" frm1="http://www.riversidetransit.com/home/images/stories/DOWNLOADS/ROUTES/001.pdf" onkeydown="handleMyKeyEvent(event,'DIV','Schedule-detail',viewResource(this.getAttribute('frm1')))"> <img id="f_img_s1" src="images/hshuttle1.png" /> Bus Schedule</span> 
+    <span tabindex="0" id="l_search_detail1" onclick="document.location='http://my.ucr.edu/visit/tourOptions/Pages/VirtualTours.aspx'" onmouseout="document.getElementById('f_img_s1q').src='images/360-0.png'" onmouseover="document.getElementById('f_img_s1q').src='images/360-1.png'"> <img id="f_img_s1q" src="images/360-0.png" /> Virtual Tours</span> 
+    <!--span tabindex="6" id="l_legend_settings" onmouseover="document.getElementById('f_img_se').src='images/settings_over.png'" onmouseout="document.getElementById('f_img_se').src='images/settings1.png'"  onclick="getNewWindow('DIV','legend-settings',settings)" onkeydown="handleMyKeyEvent(event,'DIV','legend-settings',settings)">
+<img id="f_img_se" src="images/settings1.png"/>
+Settings</span--> 
+   </div> 
+   <ul class="l_map_list_footer"> 
+    <li><a href="/campus-Map.php" tabindex="0">Old Campus Map</a></li> 
+    <li><a href="javascript:void(0)" style="color:white;text-decoration:none;border:0;" onmouseout="this.style.color=&quot;#FFFFFF&quot;" tabindex="0" onmouseover="this.style.color=&quot;#F1Ab00&quot;" onclick="getNewWindow('DIV','directions-detail',directionD)">Directions to UCR Campus</a></li>
+    <li><a indextab="0" style="color:white;text-decoration:none;border:0;" onmouseout="this.style.color=&quot;#FFFFFF&quot;" onmouseover="this.style.color=&quot;#F1Ab00&quot;" href="http://campusmap.ucr.edu/map-color.pdf">Large-Format Printable Map</a></li>
+    <li><a indextab="0" style="color:white;text-decoration:none;border:0;" onmouseout="this.style.color=&quot;#FFFFFF&quot;" onmouseover="this.style.color=&quot;#F1Ab00&quot;" href="http://campusmap.ucr.edu/map.pdf">8&frac12;&times;11 Printable Map</a></li>
+   </ul> 
+  </div> 
+  <div tabindex="10" id="map_canvas" class="map_canvas"> 
+  </div> 
+  <div class="footer"> 
+   <div> 
+   </div> 
+   <div id="footerwrapper"> 
+    <div id="prefooter"> 
+     <div class="column2"> 
+      <h3>General Campus Information</h3> 
+      <address>University of California, Riverside<br />900 University Ave.<br /> Riverside, CA 92521<br /><br />Tel: 951-827-1012<br />E-mail: <a href="mailto:ucr@ucr.edu">ucr@ucr.edu</a><br /><br /><br /></address> 
+     </div> 
+     <div class="column2"> 
+      <h3>Campus Parking Information</h3> 
+      <address>There is a charge for visitor parking. More information is available at <a href="http://www.parking.ucr.edu">Transportation and Parking Services</a><br /><br /> <strong>Parking information:</strong> 951-827-4395<br /> Monday – Friday, 8 a.m. – 4 p.m.<br /><br /> After hours: <strong>Campus Police</strong> 951-827-5222</address> 
+     </div> 
+     <div class="column2R"> 
+      <h3>Additional Information</h3> 
+      <address><strong>Receiving</strong><br /> 3401 Watkins Drive<br /> Riverside, CA 92521 <br /><br /> <strong>Admissions/Campus Tours</strong><br /> Office of Undergraduate Recruitment-Tours<br />951-827-TOUR<br /> <a href="http://my.ucr.edu/visit/Pages/default.aspx">Campus Tours</a></address> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="feedback.html">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html">&copy; 2007 Regents of the University of California</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+   <script type="text/javascript" src="MapInits.js"></script> 
+  </div> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script>   
+  <!-- Generated in 0.027701 seconds using 1.75 MiB of memory. --> 
+ </body>
+</html><!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>UCR Campus Map Beta</title> 
+  <meta http-equiv="last-modified" content="2011-05-23" /> 
+  <meta name="version" content="2.45 2.72 " /> 
+  <!-- 05/23/11 11:05:56 05/23/11 11:05:56 --> 
+  <script type="text/javascript">
+
+if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/Blackberry/)) || (navigator.userAgent.match(/Android/)) || (navigator.userAgent.match(/iPod/i)))
+{location.replace("mobile.html");}
+
+
+
+</script> 
+  <style type="text/css">
+
+ span{cursor:pointer;}
+
+
+</style> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all" /> 
+  <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/prototype.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/scriptaculous.js?load=effects"></script> 
+  <script type="text/javascript" src="ProojectedOverlay.js"></script> 
+  <script type="text/javascript" src="geoxml3.js"></script> 
+  <script type="text/javascript" src="UCRCampusMap1.js"></script> 
+  <script type="text/javascript" src="customPano.js"></script> 
+  <script type="text/javascript">
+var viewResource = function(val){ return "<div id='my_resource' style='text-align:left;padding:10px;' ><p>The information provide here is from the Riverside Transit Agency's website and is being provided to the UCR constituancy as a service. For more information regarding schedules and routes plase see their <a href='http://www.riversidetransit.com/home/index.php?option=com_content&view=article&id=116&Itemid=106' rel='nofollow' target='infor_win'>website</a>. For other inforamation regarding parking or UCR Transportation please <a href='http://www.parking.ucr.edu/'>contact taps</a>.</p>"+
+"<p><strong>**Crest Cruiser/Bear Runner only operate during the academic year</strong></p><p><select onchange='document.getElementById(\"infor_win\").src=this.value'>"+
+"<option value='http://www.riversidetransit.com/home/images/stories/DOWNLOADS/ROUTES/001.pdf'>Route 1 – Service from UCR to Riverside Plaza, Galleria at Tyler, Corona Transit Center</option>"+
+"<option value='http://www.riversidetransit.com/home/images/stories/DOWNLOADS/ROUTES/014.pdf'>Route 14 – Service from Loma Linda to UCR and Galleria at Tyler</option>"+
+"<option value='http://www.riversidetransit.com/home/images/stories/DOWNLOADS/ROUTES/016.pdf'>Route 16 – Service from UCR to Canyon Crest Towne Center and Moreno Valley Mall</option>"+
+"<option value='http://www.riversidetransit.com/home/images/stories/DOWNLOADS/ROUTES/051.pdf'>Route 51 Crest Cruiser** – Service from UCR to Canyon Crest Towne Center</option>"+
+"<option value='http://www.riversidetransit.com/home/images/stories/DOWNLOADS/ROUTES/053.pdf'>Route 53 – Bear Runner** – Evening service UCR to Canyon Crest Towne Center</option>"+
+"<option value='http://www.riversidetransit.com/home/images/stories/DOWNLOADS/ROUTES/204.pdf'>**Express Route 204 – Service between Montclair Transcenter and UCR with stops in Ontario and Jurupa</option>"+
+"<option value='http://www.riversidetransit.com/home/images/stories/DOWNLOADS/ROUTES/208.pdf'>**Express Route 208 – Service between Temecula and UCR with stops in Murrieta, Sun City, and Perris</option>"+
+"<option value='http://www.riversidetransit.com/home/images/stories/DOWNLOADS/ROUTES/212.pdf'>**Express Route 212 - Service between San Jacinto and UCR witn stops in Hemet and Perris</option></select><iframe style='margin-left:-10px;margin-top:15px;' id='infor_win' src='"+val+"'></iframe></p></div>";}
+
+var imageDisplay = function (img){ return "<img src='"+img+"'  style='width:auto !important;height:400px !important;display:block;margin:10px auto auto !important;'>";
+} 
+
+
+</script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<link rel="stylesheet" type="text/css" href="css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/fixiequotes.js"></script>
+<![endif]--> 
+  <link rel="stylesheet" type="text/css" href="MainMap.css" media="all" /> 
+  <!--[if IE]>
+<link rel="stylesheet" type="text/css" href="css/ie.css" media="all" />
+<![endif]--> 
+  <script type="text/css" media="print">
+
+</script> 
+ </head> 
+ <body> 
+  <div class="branding"> 
+   <div id="search-detail"></div> 
+   <div id="locations-detail"> 
+   </div> 
+   <div id="legend-detail"></div> 
+   <div id="legend-settings"></div> 
+   <div id="directions-detail"> 
+   </div> 
+   <div id="mast_head"> 
+    <h2><a href="http://ucr.edu/"><span class="accessibility">UCR Campus Map 
+       <!--sup style="font-size: 0.31em; font-style: italic; color: rgb(241, 171, 0); font-weight: bold;">BETA</sup--></span></a><a href="http://campusmap.ucr.edu/campus-Map.php"></a>
+     <!--img src="images/beta_logo.png"/--></h2> 
+   </div> 
+   <div id="main_nav"> 
+    <span tabindex="0" id="l_legend_detail" onmouseover="document.getElementById('f_img_le').src='images/feedback2.png'" onmouseout="document.getElementById('f_img_le').src='images/feedback.png'" onclick="document.location='feedback.html'" onkeydown="function(e){if(e.keyCode==13){document.location='feedback.html';}}"> 
+     <!-- onclick="getNewWindow('DIV','legend-detail',legend)" onkeydown="handleMyKeyEvent(event,'DIV','legend-detail',legend)"--> <img id="f_img_le" src="images/feedback.png" alt="feedback" /> Feedback</span> 
+    <span tabindex="0" id="l_search_detail" onmouseover="document.getElementById('f_img_s').src='images/search_over.png'" onmouseout="document.getElementById('f_img_s').src='images/search1.png'" onclick="getNewWindow('DIV','search-detail',searchB)" onkeydown="handleMyKeyEvent(event,'DIV','search-detail',searchB)"> <img id="f_img_s" src="images/search1.png" /> Search</span> 
+    <span tabindex="0" id="l_locations_detail" onmouseover="document.getElementById('f_img_l').src='images/locations_over.png'" onmouseout="document.getElementById('f_img_l').src='images/locations1.png'" onclick="getNewWindow('DIV','locations-detail','val')" onkeydown="handleMyKeyEvent(event,'DIV','locations-detail','val')"> <img id="f_img_l" src="images/locations1.png" /> Locations</span> 
+    <span tabindex="0" id="l_search_detail1" onmouseover="document.getElementById('f_img_s1').src='images/hshuttle2.png'" onmouseout="document.getElementById('f_img_s1').src='images/hshuttle1.png'" onclick="getNewWindow('DIV','Schedule-detail',viewResource(this.getAttribute('frm1')))" frm1="http://www.riversidetransit.com/home/images/stories/DOWNLOADS/ROUTES/001.pdf" onkeydown="handleMyKeyEvent(event,'DIV','Schedule-detail',viewResource(this.getAttribute('frm1')))"> <img id="f_img_s1" src="images/hshuttle1.png" /> Bus Schedule</span> 
+    <span tabindex="0" id="l_search_detail1" onclick="document.location='http://my.ucr.edu/visit/tourOptions/Pages/VirtualTours.aspx'" onmouseout="document.getElementById('f_img_s1q').src='images/360-0.png'" onmouseover="document.getElementById('f_img_s1q').src='images/360-1.png'"> <img id="f_img_s1q" src="images/360-0.png" /> Virtual Tours</span> 
+    <!--span tabindex="6" id="l_legend_settings" onmouseover="document.getElementById('f_img_se').src='images/settings_over.png'" onmouseout="document.getElementById('f_img_se').src='images/settings1.png'"  onclick="getNewWindow('DIV','legend-settings',settings)" onkeydown="handleMyKeyEvent(event,'DIV','legend-settings',settings)">
+<img id="f_img_se" src="images/settings1.png"/>
+Settings</span--> 
+   </div> 
+   <ul class="l_map_list_footer"> 
+    <li><a href="/campus-Map.php" tabindex="0">Old Campus Map</a></li> 
+    <li><a href="javascript:void(0)" style="color:white;text-decoration:none;border:0;" onmouseout="this.style.color=&quot;#FFFFFF&quot;" tabindex="0" onmouseover="this.style.color=&quot;#F1Ab00&quot;" onclick="getNewWindow('DIV','directions-detail',directionD)">Directions to UCR Campus</a></li>
+    <li><a indextab="0" style="color:white;text-decoration:none;border:0;" onmouseout="this.style.color=&quot;#FFFFFF&quot;" onmouseover="this.style.color=&quot;#F1Ab00&quot;" href="http://campusmap.ucr.edu/map-color.pdf">Large-Format Printable Map</a></li>
+    <li><a indextab="0" style="color:white;text-decoration:none;border:0;" onmouseout="this.style.color=&quot;#FFFFFF&quot;" onmouseover="this.style.color=&quot;#F1Ab00&quot;" href="http://campusmap.ucr.edu/map.pdf">8&frac12;&times;11 Printable Map</a></li>
+   </ul> 
+  </div> 
+  <div tabindex="10" id="map_canvas" class="map_canvas"> 
+  </div> 
+  <div class="footer"> 
+   <div> 
+   </div> 
+   <div id="footerwrapper"> 
+    <div id="prefooter"> 
+     <div class="column2"> 
+      <h3>General Campus Information</h3> 
+      <address>University of California, Riverside<br />900 University Ave.<br /> Riverside, CA 92521<br /><br />Tel: 951-827-1012<br />E-mail: <a href="mailto:ucr@ucr.edu">ucr@ucr.edu</a><br /><br /><br /></address> 
+     </div> 
+     <div class="column2"> 
+      <h3>Campus Parking Information</h3> 
+      <address>There is a charge for visitor parking. More information is available at <a href="http://www.parking.ucr.edu">Transportation and Parking Services</a><br /><br /> <strong>Parking information:</strong> 951-827-4395<br /> Monday – Friday, 8 a.m. – 4 p.m.<br /><br /> After hours: <strong>Campus Police</strong> 951-827-5222</address> 
+     </div> 
+     <div class="column2R"> 
+      <h3>Additional Information</h3> 
+      <address><strong>Receiving</strong><br /> 3401 Watkins Drive<br /> Riverside, CA 92521 <br /><br /> <strong>Admissions/Campus Tours</strong><br /> Office of Undergraduate Recruitment-Tours<br />951-827-TOUR<br /> <a href="http://my.ucr.edu/visit/Pages/default.aspx">Campus Tours</a></address> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="feedback.html">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html">&copy; 2007 Regents of the University of California</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+   <script type="text/javascript" src="MapInits.js"></script> 
+  </div> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script>   
+  <!-- Generated in 0.030751 seconds using 1.75 MiB of memory. --> 
+ </body>
+</html><!DOCTYPE html>
+<html lang="en-US">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <!--[if IE]>
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+        <meta http-equiv="Content-Language" content="en-us" />
+        <![endif]--> 
+  <meta charset="UTF-8" /> 
+  <meta name="google-site-verification" content="AWvkM5oaH52rN2i0ba38i7ONLcVSbyj5h0N-oOytVnM" /> 
+  <meta name="y_key" content="dee5420ecd7640c2" /> 
+  <meta name="msvalidate.01" content="EAD2F9E10C36DEDB88AAFA9C803D7465" /> 
+  <title>People | CloudFlare | The web performance &amp; security company</title> 
+  <link rel="shortcut icon" type="image/icon" href="http://www.cloudflare.com/favicon.ico" /> 
+  <link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://www.cloudflare.com/apple-touch-icon-57x57-precomposed.png" /> 
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.cloudflare.com/apple-touch-icon-72x72-precomposed.png" /> 
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.cloudflare.com/apple-touch-icon-114x114-precomposed.png" /> 
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.cloudflare.com/apple-touch-icon-144x144-precomposed.png" /> 
+  <link rel="alternate" type="application/rss+xml" href="http://blog.cloudflare.com/rss.xml" /> 
+  <link rel="stylesheet" media="all" href="http://www.cloudflare.com/static/stylesheets/live/fp-f5192c2198876423f43ce65accb92e22/library/thirdparty.css?v=CB6-2013-08-01-1" /> 
+  <link rel="stylesheet" media="all" href="http://www.cloudflare.com/static/stylesheets/live/fp-47459e77255de195a4579fb97561eb6d/library/cloudflare.css?v=CB6-2013-08-01-1" /> 
+  <link rel="stylesheet" media="all" href="http://www.cloudflare.com/static/stylesheets/live/fp-1c63f35d53b22affa16db94bd7fd0996/page/people.css?v=CB6-2013-08-01-1" /> 
+  <script type="text/javascript" src="http://www.cloudflare.com/static/javascripts/live/library/syncprerequisite.js"></script> 
+  <script data-cfasync="true" type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-10218544-2']);
+        _gaq.push(['_setDomainName', 'none']);
+        _gaq.push(['_trackPageview']);
+
+                            cf_track_js_errors = true;
+            cf_raven_sentry_endpoint = 'https://4110fe00842041d49317929b39dd78fc@undefined.cloudflare.com/5';
+                
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script> 
+ </head> 
+ <body> 
+  <div id="SiteContainer" class="structural"> 
+   <div class="background"></div> 
+   <div class="inner"> 
+    <div id="SuperHeader" class="structural fixedWidth"> 
+     <div class="inner"></div> 
+    </div> 
+    <div id="Header" class="structural fixedWidth"> 
+     <div class="inner"> 
+      <div id="Logo" tooltip="CloudFlare is an awesome service for your website!"> 
+       <a href="/" target="_self"><h1 class="ui-helper-hidden-accessible">CloudFlare</h1></a> 
+      </div> 
+      <ul id="SiteNavigation"> 
+       <li class="home"><a href="http://www.cloudflare.com/index" target="_self">Home</a></li> 
+       <li class="features"><a href="http://www.cloudflare.com/overview" target="_self">Features</a></li> 
+       <li class="help"><a href="https://support.cloudflare.com/" target="_self">Help</a></li> 
+       <li class="sign-up"><a href="http://www.cloudflare.com/sign-up" target="_self">Sign up</a></li> 
+       <li class="login"><a href="http://www.cloudflare.com/login" target="_self">Login</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div id="BodyContent" class="structural fixedWidth clear standard secondary marketing"> 
+     <div class="background"> 
+      <div class="middle"></div> 
+      <div class="top"></div> 
+      <div class="bottom"></div> 
+     </div> 
+     <div class="inner"> 
+      <div id="Secondary"> 
+       <div class="inner"> 
+        <ul id="BreadCrumbs"> 
+         <li class="first"><a href="http://www.cloudflare.com/index">CloudFlare</a></li> 
+         <li class="last"><a href="http://www.cloudflare.com/people">People</a></li> 
+        </ul> 
+        <ul id="SecondaryNavigation"> 
+         <li class="people"><a href="http://www.cloudflare.com/people">People</a></li> 
+         <li class="our-story"><a href="http://www.cloudflare.com/our-story">Our story</a></li> 
+         <li class="join-our-team"><a href="http://www.cloudflare.com/join-our-team">Join our team</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="section"> 
+       <div class="article"> 
+        <h2> Meet the people behind CloudFlare </h2> 
+       </div> 
+      </div> 
+      <div id="people"> 
+       <div class="section" id="people-team"> 
+        <div class="people-grid"> 
+         <div class="people-grid-person" tooltip="Matthew wrote his first computer program when he was 7, and hasn't been able to shake the bug since. After attending the University of Chicago Law School, he worked as an attorney for one day before jumping at the opportunity to be a founding member of a tech startup. He hasn't looked back. CloudFlare is Matthew's third entrepreneurial venture. On the side, Matthew teaches Internet law as an adjunct professor, is a certified ski instructor, and a regular attendee of the Sundance Film Festival."> 
+          <div class="people-grid-photo matthew"></div> 
+          <div class="people-grid-name">
+           Matthew
+          </div> 
+          <div class="people-grid-title">
+           Cofounder, CEO
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Lee is the lead software engineer, and has his hands in everything we do. Before co-founding CloudFlare, Lee built other amazing high-availability, high-volume database platforms including Project Honey Pot. In his spare free time, Lee is learning Russian and teaching his son Linux. Na zdarovye!"> 
+          <div class="people-grid-photo lee"></div> 
+          <div class="people-grid-name">
+           Lee
+          </div> 
+          <div class="people-grid-title">
+           Cofounder, Lead Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Michelle creates products people love. Growing up in Canada, she earned a degree in Chemistry and now applies the scientific method to improving businesses. Prior to CloudFlare, she worked at Google and Toshiba, launched two successful startups and got her MBA from Harvard Business School. Outside of the office, you can find Michelle on the yoga mat or doing the Sunday New York Times crossword."> 
+          <div class="people-grid-photo michelle"></div> 
+          <div class="people-grid-name">
+           Michelle
+          </div> 
+          <div class="people-grid-title">
+           Cofounder, User Experience
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Sri makes sure that the data bits keep flowing. After learning the ropes at Yahoo, Sri leads the networking and technical operations at CloudFlare. When not in the data center, Sri loves spending time with his family and cooking."> 
+          <div class="people-grid-photo sri"></div> 
+          <div class="people-grid-name">
+           Sri
+          </div> 
+          <div class="people-grid-title">
+           Systems Reliability Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Damon defined the term community evangelist. Having been one of the first online community managers during the launch of PayPal, Damon has built vibrant communities at SimplyHired, Mint.com and now CloudFlare. In his spare time, Damon likes to take photographs of animals and often travels."> 
+          <div class="people-grid-photo damon"></div> 
+          <div class="people-grid-name">
+           Damon
+          </div> 
+          <div class="people-grid-title">
+           Community Evangelist
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Kristin builds relationships between CloudFlare and the community. She focuses on media coverage, speaking engagements, and organizing meet-ups in CloudFlare’s new office space. Outside of work, you can find her running with the lululemon run club or the San Francisco Marathon Training Program."> 
+          <div class="people-grid-photo kristin"></div> 
+          <div class="people-grid-name">
+           Kristin
+          </div> 
+          <div class="people-grid-title">
+           Communications Specialist
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="John joined the team to make it ridiculously easy for CloudFlare customers to add any web service to their site. Before CloudFlare, John was a founding team member at OpenDNS, built online services at The Atlantic and led product development at CNET. John enjoys racing with the local Dolce Vita Cycling team in San Francisco. The oldest of six kids, John has &quot;only&quot; two of his own."> 
+          <div class="people-grid-photo johnr"></div> 
+          <div class="people-grid-name">
+           John
+          </div> 
+          <div class="people-grid-title">
+           Platform Lead
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="CloudFlare users will eventually become very familiar with Lyn. With more than 15 years of technical support experience, Lyn is joining the CloudFlare team to help our users have a great experience with our service. Originally from the Bay Area, Lyn just returned after 10 years in France, where he spent time behind the customer service scenes of Exedus, Pilot Network Services, and the registrar Gandi.net.  In addition to reacquainting himself with the US, Lyn also enjoys sailing and sail boat racing."> 
+          <div class="people-grid-photo lyn"></div> 
+          <div class="people-grid-name">
+           Lyn
+          </div> 
+          <div class="people-grid-title">
+           Technical Support Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="As our Visual Designer, Kevin will be contributing to our website, branding our marketing materials and keeping us looking good. Kevin is originally from the Bay Area, but spent his first few years out of college working in Sacramento at PAIR design. Outside of the office, he enjoys biking, photography and catching Giants games."> 
+          <div class="people-grid-photo kevin"></div> 
+          <div class="people-grid-name">
+           Kevin
+          </div> 
+          <div class="people-grid-title">
+           Visual Designer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="David is a self-described Internet janitor, having continuously worked to make the Internet a better place during his time at Asia Pacific Network Information Centre (APNIC), the Internet Software Consortium (ISC) (developing BIND), and Nominum. David was the General Manager of ICANN’s Internet Assigned Number’s Authority and also served as ICANN’s VP of IT and Research, successfully overseeing the signing of the DNS root. Now with CloudFlare, David will be assisting with CloudFlare’s DNS and addressing scalability. When David isn’t cleaning up the Internet he is hanging out with his two dogs (Rex &amp; Choco) and pet tortoise (Kamechan)."> 
+          <div class="people-grid-photo davidc"></div> 
+          <div class="people-grid-name">
+           David
+          </div> 
+          <div class="people-grid-title">
+           Technical Staff
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Justin has been working in customer support for the last 7 years. He is originally from upstate New York where he was in a customer support role for a large health care company. Justin is excited about his recent move to the Bay Area and is looking forward to helping make CloudFlare more customer friendly. When Justin isn't helping customers with their CloudFlare questions he enjoys photography, reading, hiking outdoors, and trying to become a wine and coffee snob."> 
+          <div class="people-grid-photo justin"></div> 
+          <div class="people-grid-name">
+           Justin
+          </div> 
+          <div class="people-grid-title">
+           Systems Reliability Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Ram works on CloudFlare apps. Having written one of his own apps Pronounce, Ram is excited to bring more third-party web services to the CloudFlare community. Born and raised in India, Ram enjoys San Francisco and prefers the foggy San Francisco summers over Indian summers.  One of Ram's favorite things to do is to explore new places and take photographs. Check out some of his photos at takeoversf.com."> 
+          <div class="people-grid-photo ram"></div> 
+          <div class="people-grid-name">
+           Ram
+          </div> 
+          <div class="people-grid-title">
+           Web Developer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Having helped with IT support at Apple and Google, Jerome joined the team to make sure CloudFlare’s users have the best experience possible. Jerome is looking forward to meeting customers, learning every byte of our operations, and growing his skill set. When he’s not responding to customer support inquiries, he can be found hanging out with his dog Newton, playing video games, and eating at the newest spots in San Francisco."> 
+          <div class="people-grid-photo jeromec"></div> 
+          <div class="people-grid-name">
+           Jerome
+          </div> 
+          <div class="people-grid-title">
+           Partner Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Joshua joined CloudFlare to work on a variety of special projects. He is no stranger to technology companies, having sold one to Microsoft when he was just a teenager. Joshua brings experience not only from the tech space, but also from financial and government institutions. When he’s not helping rebuild the Internet, Joshua likes to travel and participate in Hashing, an international running and social club. On-on!"> 
+          <div class="people-grid-photo joshm"></div> 
+          <div class="people-grid-name">
+           Joshua
+          </div> 
+          <div class="people-grid-title">
+           Special Projects
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Jeremy likes to bridge the gap between people and technology. As part of the Technical Support team, Jeremy is here to help the CloudFlare community. Jeremy joins us from Rackspace in Austin, and while he'll miss Town Lake, he is excited to be back in the Bay Area. Jeremy likes to cook, explore, and ride his bike. He also considers himself a Burner, so you may see him on the Playa next year."> 
+          <div class="people-grid-photo jeremyt"></div> 
+          <div class="people-grid-name">
+           Jeremy
+          </div> 
+          <div class="people-grid-title">
+           Systems Reliability Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="John is a computer programmer, maker and author of The Geek Atlas. Prior to CloudFlare he worked at a number of startups and created the award-winning POPFile email machine learning software. He knows way too much about GNU Make having self-published a book entitled GNU Make Unleashed.  He joined CloudFlare to take on the task of 'patching the Internet' and we’re thrilled to have him."> 
+          <div class="people-grid-photo johngc"></div> 
+          <div class="people-grid-name">
+           John
+          </div> 
+          <div class="people-grid-title">
+           Programmer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Brett traded in the sunny beaches of SoCal for the cable cars of San Francisco. He was a Systems Administrator at Alchemy Communications and Pictage in Los Angeles, and he will manage and grow our global network of servers. In his free time, Brett enjoys being outdoors, exploring the city, and attending concerts."> 
+          <div class="people-grid-photo brett"></div> 
+          <div class="people-grid-name">
+           Brett
+          </div> 
+          <div class="people-grid-title">
+           Systems Reliability Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Maria brings an international flair to CloudFlare. Originally from Bulgaria, Maria has worked in six different countries. Her experiences at Citibank, Expedia, Boeing and Intel provide her with a combination of skills in technology, business development and security software. CloudFlare is her first startup and she is looking forward to building partnerships with large companies and working on the CloudFlare enterprise offering. Maria loves to travel, play tennis (badly) and climb mountains. She is determined to finish her private pilot license one day."> 
+          <div class="people-grid-photo maria"></div> 
+          <div class="people-grid-name">
+           Maria
+          </div> 
+          <div class="people-grid-title">
+           Business Development
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Originally from Australia, Tom spent two years in Hong Kong and has now ventured his way to San Francisco to join CloudFlare. Having previously worked at Pacnet and a number of other ISPs in Asia/Pacific, Tom is looking forward to applying his network design and deployment skills to the continued growth of CloudFlare’s network. Tom can't wait to explore San Francisco and to travel throughout the United States to see everything that it has to offer."> 
+          <div class="people-grid-photo tom"></div> 
+          <div class="people-grid-name">
+           Tom
+          </div> 
+          <div class="people-grid-title">
+           Network Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="S&eacute;bastien comes to CloudFlare with a diverse background. After living in Germany and France, S&eacute;bastien co-founded his own successful company, dotCloud, then made his way to CloudFlare. S&eacute;bastien loves solving hard problems. He is looking forward to the system challenges of building a large, intricate network at CloudFlare. S&eacute;bastien enjoys rock climbing and hiking, as well as spending time with his wife."> 
+          <div class="people-grid-photo sebastien"></div> 
+          <div class="people-grid-name">
+           S&eacute;bastien
+          </div> 
+          <div class="people-grid-title">
+           Systems Reliability Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Dane recently headed West after spending most of his life in Texas. Prior to CloudFlare, he worked in the product group at MessageOne and founded FanForce, which were acquired by Dell and Tippr respectively. Dane's role on the CloudFlare team is to continue to help us build great products. When not online, he is excited to explore San Francisco and the surrounding Bay Area."> 
+          <div class="people-grid-photo dane"></div> 
+          <div class="people-grid-name">
+           Dane
+          </div> 
+          <div class="people-grid-title">
+           Product Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="James is a LAMP Sensei. He has been coding for various technology companies for the last 15 years. Most recently, he built the foundation for Qraft, an adventure rental marketplace that launched at TechCrunch Disrupt San Francisco in 2011. He joins CloudFlare as a web engineer, focusing on our system architecture. When not thinking about the stack, James likes to hike, bike and snowboard."> 
+          <div class="people-grid-photo jamesg"></div> 
+          <div class="people-grid-name">
+           James
+          </div> 
+          <div class="people-grid-title">
+           Web Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Ryan has a diverse background. He’s spent time as an audio engineer at the San Diego Repertory Theatre, a network engineer at Cambridge International Systems, and now an operations engineer at CloudFlare. Specializing in network engineering and security, Ryan will be helping the CloudFlare operations team expand our network. Ryan enjoys working on electronics projects and practicing archery in Golden Gate Park."> 
+          <div class="people-grid-photo ryanc"></div> 
+          <div class="people-grid-name">
+           Ryan
+          </div> 
+          <div class="people-grid-title">
+           Systems Reliability Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Yichun is no stranger to working at large scale having worked at Yahoo! China and Taobao. He has a diverse background in front-end, operations and systems engineering; you may have come across his work through his web nickname 'agentzh'. His mission at CloudFlare is to improve both nginx and OpenResty. When he’s not programming, Yichun enjoys the beaches here in San Francisco and going for walks through Golden Gate Park with his wife."> 
+          <div class="people-grid-photo yichun"></div> 
+          <div class="people-grid-name">
+           Yichun
+          </div> 
+          <div class="people-grid-title">
+           Systems Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Born and raised in the Bay Area, Dean ventured to the east coast to attend college and work in finance. Deciding it was time for a new adventure, he invested in startups at Draper Fisher Jurvetson and then received his MBA from Stanford. Dean set out to join a technology company that was making a big impact, and he found CloudFlare. He’s excited to work with existing customers, bring on new ones, and continue to help web operation teams with their web presences. Outside of CloudFlare, you can find Dean swimming in the bay at Aquatic Park or enjoying the food and music scene."> 
+          <div class="people-grid-photo dean"></div> 
+          <div class="people-grid-name">
+           Dean
+          </div> 
+          <div class="people-grid-title">
+           Customer Development
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Josh hails from the land down under and is excited to work abroad in the United States. His career started in a computer shop and Josh was immediately drawn to networking. Josh has since transitioned from networking to focusing on the systems that run the network, doing so at two Australian ISPs. At CloudFlare, Josh will help to expand CloudFlare's global network, ensuring our customers get the best experience. As a newbie to the United States, Josh is excited to explore the country and chase his two young children around the city."> 
+          <div class="people-grid-photo joshd"></div> 
+          <div class="people-grid-name">
+           Josh
+          </div> 
+          <div class="people-grid-title">
+           Systems Reliability Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Jenn is here to make the office and team run smoothly. Having worked at a non-profit animal shelter, Jenn is used to doing more with less. She will be using these skills to help the CloudFlare team stay organized, plan events and manage the day to day activities of the office. Lucky for us, she likes to bake and she takes requests for favorite cookies. Outside of organizing the chaos, Jenn likes to play with her dog Stella and go for hikes."> 
+          <div class="people-grid-photo jenn"></div> 
+          <div class="people-grid-name">
+           Jenn
+          </div> 
+          <div class="people-grid-title">
+           Team Coordinator
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Originally from Florida, Terin is excited to join the CloudFlare team. Terin has spent time as a software developer at Grooveshark and was a freelance iOS/Mac developer. He is looking forward to working on a broad range of development projects at CloudFlare, especially the technologies that make the Internet faster. Now that he’s out west, Terin is excited to see the huge redwood trees California is known for, as well as meet new people in San Francisco."> 
+          <div class="people-grid-photo terin"></div> 
+          <div class="people-grid-name">
+           Terin
+          </div> 
+          <div class="people-grid-title">
+           Web Developer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Algin loves making the Internet better for website owners. Having spent a good amount of time as a network engineer at Solerant, an IT support company, Algin got to experience what it was like to make technology easier for people to use. Having been a CloudFlare customer himself, he is excited to join the team and help protect our customer’s sites. When he's not schmoozing his rockstar girlfriend Grace, Algin can be found working on cars or anything mechanical, or racing downhill mountain bikes."> 
+          <div class="people-grid-photo algin"></div> 
+          <div class="people-grid-name">
+           Algin
+          </div> 
+          <div class="people-grid-title">
+           Technical Support Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Jamie likes to make a difference. Having worked at Time Warner Cable, Internet Law Group, Cloudmark and Comcast, Jamie has more than a decade of experience in the anti-abuse messaging space. She is excited to be back in the startup world and is looking forward to bringing her industry expertise to CloudFlare. Outside of work, Jamie enjoys kayaking and pop-culture trivia contests."> 
+          <div class="people-grid-photo jamie"></div> 
+          <div class="people-grid-name">
+           Jamie
+          </div> 
+          <div class="people-grid-title">
+           Policy and Investigation
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Piotr joins CloudFlare all the way from Poland. Piotr founded his own consulting company, FRiCKLE and has written a number of NGINX modules. As a systems engineer at CloudFlare, he will be applying his expertise in NGINX by building customizable modules. Piotr likes to live on the edge—he belongs to the United States Parachute Association and is certified to skydive on his own."> 
+          <div class="people-grid-photo piotr"></div> 
+          <div class="people-grid-name">
+           Piotr
+          </div> 
+          <div class="people-grid-title">
+           Systems Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Tony is an aspiring extreme sports enthusiast who enjoys all things active. He joins CloudFlare from the East Coast after having spent three years working at an interactive design agency in Washington D.C. He’s looking forward to bringing updates to CloudFlare’s interface, as well as pushing new features to our customers. Tony is excited to be in San Francisco where the weather and climate will allow him to skateboard, hike and explore outside all year long."> 
+          <div class="people-grid-photo tony"></div> 
+          <div class="people-grid-name">
+           Tony
+          </div> 
+          <div class="people-grid-title">
+           Web Developer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Josh grew up in the Bay Area and attended CalArts in Southern California where he studied filmmaking and traditional animation. While he still considers himself an artist at heart, he decided that 24fps was far too limiting. These days, his medium of choice is bits and bytes. He was most recently working at Facebook and is excited to join the CloudFlare team, particularly to work on our configuration management and provisioning infrastructure."> 
+          <div class="people-grid-photo joshe"></div> 
+          <div class="people-grid-name">
+           Josh
+          </div> 
+          <div class="people-grid-title">
+           Systems Reliability Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Max joins CloudFlare as part of our Customer Support Team. He headed out to San Francisco from Atlanta, where he was providing customer support at Apple. Max has been interested in web technologies since he built his first website for a history report in sixth grade. He’s excited to be at CloudFlare and for the opportunity to work in technology. Now that he’s in California, Max is looking forward to doing more things outdoors like skiing and taking trips to see the California Redwoods."> 
+          <div class="people-grid-photo max"></div> 
+          <div class="people-grid-name">
+           Max
+          </div> 
+          <div class="people-grid-title">
+           Support Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Born and raised in Spokane, Washington, Jaime headed south to San Francisco to join CloudFlare as a Visual Designer. Jaime is a graduate of Eastern Washington University where she participated in a competitive entry program for graphic design students. After spending time working for an advertising agency and as a freelancer, Jaime set her sights on a new challenge, working in tech. At CloudFlare, Jaime is looking forward to working on all of our fun, spontaneous projects. When she’s not freshening up the CloudFlare image, Jaime likes to play old video games, collect records and read comic books."> 
+          <div class="people-grid-photo jaime"></div> 
+          <div class="people-grid-name">
+           Jaime
+          </div> 
+          <div class="people-grid-title">
+           Visual Designer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Andrew is one of our first employees in the London office. Originally from Cardiff, Wales, Andrew has over 10 years of experience leading and building quantitative technology teams in investment banking and high tech start-ups. At CloudFlare, he is looking forward to measuring, analyzing and improving the optimization performance of our network. With 2 children, Andrew doesn’t have much time for leisure activities, but still manages to run and play football. He also also enjoys craft beers, cooking and watching rugby."> 
+          <div class="people-grid-photo andrew"></div> 
+          <div class="people-grid-name">
+           Andrew
+          </div> 
+          <div class="people-grid-title">
+           Front End Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Rajeev comes to CloudFlare after graduating from Carnegie Mellon with a Masters in Electrical and Computer Engineering. During his time at Carnegie Mellon, Rajeev interned for Google on the Android team and Qualcomm. He’s excited to be a part of the CloudFlare team to help make a positive impact on the web and to make the Internet go faster. Outside of improving web speed, Rajeev is excited to be in the Bay Area and is looking forward to the music and festival scene here in San Francisco."> 
+          <div class="people-grid-photo rajeev"></div> 
+          <div class="people-grid-name">
+           Rajeev
+          </div> 
+          <div class="people-grid-title">
+           Systems Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Sam will be answering support questions and helping our customers from our office in London. Previously, Sam worked at a web hosting company in the UK where he focused on customer support. At CloudFlare, he will be doing the same and is looking forward to applying his hosting knowledge in the CloudFlare environment. Sam has spent time in Thailand helping disadvantaged children learn English, he plays the violin and when he can, he likes to go sailing and windsurfing."> 
+          <div class="people-grid-photo sam"></div> 
+          <div class="people-grid-name">
+           Sam
+          </div> 
+          <div class="people-grid-title">
+           Support Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Serena leads marketing for CloudFlare and is excited to work with customers on building a better web. Serena joins us from Google where she helped businesses of all sizes use Google Apps, YouTube, and AdWords. Prior to that she worked at Postini, an email security and archiving service. A resident of North Beach, Serena loves to hike and camp and can often be found in the city's playgrounds and parks with her two kids and husband."> 
+          <div class="people-grid-photo serena"></div> 
+          <div class="people-grid-name">
+           Serena
+          </div> 
+          <div class="people-grid-title">
+           Marketing Lead
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Trey has spent time living pretty much all over the world. Originally from Texas, he moved to New Zealand in 2005, then made his way to Europe where he lived in Amsterdam for the last five years, working as a Global Enterprise Architect for KPMG. Now back in the US, Trey is excited to be in San Francisco and part of the CloudFlare team. He enjoys doing anything he can do to get a sunburn - including cycling, snowboarding and wakeboarding. "> 
+          <div class="people-grid-photo trey"></div> 
+          <div class="people-grid-name">
+           Trey
+          </div> 
+          <div class="people-grid-title">
+           Solution Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Amy is a numbers cruncher; anything that touches accounting or finance, she has done it. She has been working at startups and other technology companies for more than 10 years and is excited to be joining the CloudFlare team. Born and raised in the Bay Area, Amy loves to spend time with her family on the bay or up on Mt. Tam."> 
+          <div class="people-grid-photo amy"></div> 
+          <div class="people-grid-name">
+           Amy
+          </div> 
+          <div class="people-grid-title">
+           Finance
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Though he’d love to be at a Formula 1 race track any day of the week, we have convinced Marty to hang out in our UK office and help our customers. Previously a developer, Marty came to CloudFlare in the most awesome of ways — he was a customer. He’s now excited to be behind the scenes to help make the CloudFlare experience better for everyone. On his off days, he’ll be traveling between Formula 1 race tracks throughout the world."> 
+          <div class="people-grid-photo marty"></div> 
+          <div class="people-grid-name">
+           Marty
+          </div> 
+          <div class="people-grid-title">
+           Support Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Nick is a software mathemagician. At least, that’s what he was known for at Apple where he previously worked on digital rights management and cryptography. At CloudFlare, we will call him our systemagician as he’ll be working on making our systems projects stronger, better and more robust. When he’s not waving his magic wand over CloudFlare, you can find Nick playing basketball, enjoying the city and hitting up local concerts and shows."> 
+          <div class="people-grid-photo nick"></div> 
+          <div class="people-grid-name">
+           Nick
+          </div> 
+          <div class="people-grid-title">
+           Systems Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="James joins the CloudFlare Ops team in our London office. He will be helping to make sure the bits keep on flowing, at all hours of the night. Prior to CloudFlare, James worked at a large Japanese bank based in London. Though banking was interesting, he’s looking forward to applying his passion for technology here at CloudFlare. Outside work, James is a keen photographer."> 
+          <div class="people-grid-photo jameso"></div> 
+          <div class="people-grid-name">
+           James
+          </div> 
+          <div class="people-grid-title">
+           Systems Reliability Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Ken is CloudFlare’s legal counsel. With an eclectic background in just about everything, Ken works to defend our users’ rights and support CloudFlare’s mission for a better Internet, even if that means receiving a contempt citation and going to jail for a few hours. Before joining CloudFlare, Ken worked at Google on Android and Fiber, the FCC, a telco consultancy in Germany, and a think-tank at Columbia University. Although he has more than 15 years experience in high technology, he still has an affinity for quaint and Victorian punctuation. Outside of work Ken stays busy enjoying the outdoor qualities of the Bay Area and the kelp forests of Monterey Bay."> 
+          <div class="people-grid-photo ken"></div> 
+          <div class="people-grid-name">
+           Ken
+          </div> 
+          <div class="people-grid-title">
+           Counsel
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Simon is part of our Technical Support team in London. Previously, he was a Web Developer at a large marketing communications agency in the UK. Simon has a deep love for the web and is looking forward to helping our customers. Though most people assume he loves rock music, Simon is actually a really big fan of hip-hop and the Beastie Boys. When he’s not being mistaken for Dave Grohl, he enjoys food, traveling and real football."> 
+          <div class="people-grid-photo simon"></div> 
+          <div class="people-grid-name">
+           Simon
+          </div> 
+          <div class="people-grid-title">
+           Support Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Jerome is the newest addition to the French squad here at CloudFlare. Having spent the last 15 years in Paris, he was excited to move to the only U.S. city where he would consider living, San Francisco. Prior to CloudFlare, Jerome was a technical manager at the French Internet Exchange. Though he got to work on large, intricate networks in Europe, he is excited to work on the world wide network we have here at CloudFlare. Jerome has his European pilots license and is looking forward to pursuing his pilots license here in the U.S."> 
+          <div class="people-grid-photo jeromef"></div> 
+          <div class="people-grid-name">
+           J&eacute;r&ocirc;me
+          </div> 
+          <div class="people-grid-title">
+           Network Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Chris is a world traveler. He has lived in almost every major city in the United States, and even a few major cities abroad including London and Shanghai. His experiences at Branchout, Yahoo!, Monster, and FedEx/Kinkos have taken him all over the world, but he’s excited to take a travel break and stay in the Bay Area for a while. As the Sales Lead, Chris is looking forward to supporting CloudFlare’s mission to make the web better. He will be focusing on how to make CloudFlare more accessible to our customers around the world. Chris enjoys cycling, swimming and keeping up with his four kids."> 
+          <div class="people-grid-photo chris"></div> 
+          <div class="people-grid-name">
+           Chris
+          </div> 
+          <div class="people-grid-title">
+           Sales Lead
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Born and raised in India, Nitin moved to the US in 2009 to attend business school at MIT. He has an undergraduate degree in Information Technology and an MBA focusing on Entrepreneurship and Innovation. He joins CloudFlare to help with many different projects, including business development and operations, and is excited to see what else he can get involved in. He’s recently taken up cycling and when he’s not at CloudFlare headquarters, you can find him on Valencia street in the Mission."> 
+          <div class="people-grid-photo nitin"></div> 
+          <div class="people-grid-name">
+           Nitin
+          </div> 
+          <div class="people-grid-title">
+           Special Projects
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Austin grew up in Florida, moved to Pennsylvania to attend Carnegie Mellon where he studied Computer Science, then made the move to the Bay Area to work at Facebook. After spending four years there as a software engineer, Austin began looking for a new adventure in the tech space. That’s when he found CloudFlare. Austin is excited to be joining us and is looking forward to optimizing the CloudFlare network. When he's not improving our infrastructure, Austin enjoys taking his camera all around the Bay Area."> 
+          <div class="people-grid-photo austin"></div> 
+          <div class="people-grid-name">
+           Austin
+          </div> 
+          <div class="people-grid-title">
+           Systems Reliability Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Originally from China, Jiale was both nervous and excited to join CloudFlare — as the first time he was visiting the US would be the day he moved to San Francisco. Now settled in, Jiale is looking forward to solving some of the hard problems we are working on here at CloudFlare. Jiale enjoys music and is currently learning how to play the piano. As a new San Francisco resident, he’s taken up riding his bike along the ocean around the Bay."> 
+          <div class="people-grid-photo jiale"></div> 
+          <div class="people-grid-name">
+           Jiale
+          </div> 
+          <div class="people-grid-title">
+           Systems Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="David is yet another East Coast transplant here at CloudFlare. Hailing from Pittsburgh, David studied computer engineering and robotics at Carnegie Mellon. He then spent a year and a half at Qualcomm working on Windows phone driver development. With a huge interest in open source and improving the web, David’s transition to CloudFlare was a simple choice for him. He’s looking forward to contributing to CloudFlare’s open source projects and improving our development environment. New to San Francisco, David is excited to explore the cultural scene of the city."> 
+          <div class="people-grid-photo davids"></div> 
+          <div class="people-grid-name">
+           David
+          </div> 
+          <div class="people-grid-title">
+           Systems Reliability Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Zygis adds to the international flare of CloudFlare, hailing from Lithuania. He now lives in the UK where he will be working in our London office. He has always wanted to be an engineer, studying computer network management and design at the University of Portsmouth then going on to work at Service Now, an IT service management firm. He found CloudFlare and thought we were solving interesting problems so he decided to join. Zygis loves to build things, especially useless sound and light devices, and one day hopes to have a garden that waters itself."> 
+          <div class="people-grid-photo zygimantas"></div> 
+          <div class="people-grid-name">
+           Zygimantas
+          </div> 
+          <div class="people-grid-title">
+           Systems Reliability Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Micah is a Bay Area native who is happy to be back in the Bay. He attended Brigham Young University where he studied business, then headed to San Diego where he worked at a domain registrar. After working on a passion project for a few months he joined CloudFlare as part of our customer development team. Micah is looking forward to helping make the Internet a faster, more secure place. A lover of art and creativity, Micah enjoys glass blowing and hitting up local museums."> 
+          <div class="people-grid-photo micah"></div> 
+          <div class="people-grid-name">
+           Micah
+          </div> 
+          <div class="people-grid-title">
+           Customer Development
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Albert is a long-time Go pro who is very excited about using it to build bigger and better systems at CloudFlare. Prior to CloudFlare, Albert lived and worked in South Africa where he was born and raised. As a first-time visitor and resident of San Francisco, he’s looking forward to surfing up and down the California coast, which is really the reason he came to San Francisco in the first place."> 
+          <div class="people-grid-photo albert"></div> 
+          <div class="people-grid-name">
+           Albert
+          </div> 
+          <div class="people-grid-title">
+           Systems Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="After fruitful encounters with such diverse topics as high performance key value databases, distributed queueing systems, making real time web communication enjoyable and accelerating the time so that testing servers and protocols takes seconds, Marek finally settled for working in CloudFlare London office, where he appreciates most the parking space for his motorbike."> 
+          <div class="people-grid-photo marek"></div> 
+          <div class="people-grid-name">
+           Marek
+          </div> 
+          <div class="people-grid-title">
+           Systems Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Slava is passionate about large databases and open source. So naturally, he’s a great fit at CloudFlare. Having lived in Kiev, Moscow and the Bay Area, Slava has has gained international database and technology experience and describes himself as “one of these kids of the early nineties who got excited about PCs”. He hails from some of the largest tech companies around, including Sun Systems and PayPal/eBay, and is looking forward to digging into the large data sets here at CloudFlare. When he’s not knee deep in data, Slava can be found playing tennis, traveling or enjoying the outdoors."> 
+          <div class="people-grid-photo slava"></div> 
+          <div class="people-grid-name">
+           Slava
+          </div> 
+          <div class="people-grid-title">
+           Database Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Amir is a Bay Area native who has spent most of his career in tech sales. Previously focusing on the hardware side of tech, Amir is excited to join CloudFlare and work on the cloud computing side. A graduate of San Diego State with a bachelors in Mechanical Engineering, Amir is currently pursuing his MBA from California State University, East Bay. He’s a huge basketball and San Francisco Giants fan and is looking forward to catching a few Giant’s games now that he’s working so close to the ballpark."> 
+          <div class="people-grid-photo amir"></div> 
+          <div class="people-grid-name">
+           Amir
+          </div> 
+          <div class="people-grid-title">
+           Customer Development
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="With a background in datacenter IP network infrastructures, network security and linux systems, Buck fit right in with our network team. He has been a network engineer for almost 10 years and enjoys building and working on large-scale systems. Buck also likes to help solve customer issues and is looking forward to doing that here at CloudFlare. Originally from Texas, Buck misses good BBQ, but enjoys brewing beer here in the Bay and traveling when he can."> 
+          <div class="people-grid-photo buck"></div> 
+          <div class="people-grid-name">
+           Buck
+          </div> 
+          <div class="people-grid-title">
+           Network Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Conley loves data. He has an undergraduate degree in Computer Science and Engineering and did his graduate work in Databases and Data Mining. Prior to joining CloudFlare he was the manager of Applications and Virtualization at UC Riverside, and before that he focused on Security and Identity management for the University. Conley also spent time consulting and considers himself a security focused product manager. He is passionate about customers and realizes it’s important to think about security in design. When he’s not working, Conley enjoys photography, mountain biking and traveling."> 
+          <div class="people-grid-photo conley"></div> 
+          <div class="people-grid-name">
+           Conley
+          </div> 
+          <div class="people-grid-title">
+           Product Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Meera has been in the communications field for many years, working on everything from technical documentation to content marketing and user experience. Meera has worked on enterprise, networking, and optical networking amongst many other topics. While she has worked at large companies, she prefers working for startups for their creative momentum. On the weekends, you can find her catching up on her reading list, trying out new restaurants, or dreaming up travel plans to faraway places."> 
+          <div class="people-grid-photo meera"></div> 
+          <div class="people-grid-name">
+           Meera
+          </div> 
+          <div class="people-grid-title">
+           Content
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Dave comes to CloudFlare with a breadth of experience in the hosting industry. He was an early employee at cPanel where he helped grow the company from 12 to 75 employees. After cPanel he went on to become the CTO at Attracta. After spending some time consulting Dave decided to join CloudFlare to help expand our CloudFlare apps marketplace. He has a passion for helping customers and is looking forward to adding value and helping improving the sites of all CloudFlare’s customers. Dave is an avid runner and enjoys playing the drums."> 
+          <div class="people-grid-photo dave"></div> 
+          <div class="people-grid-name">
+           Dave
+          </div> 
+          <div class="people-grid-title">
+           Platform Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Daniel is another Go programer who plans on learning as much as possible here at CloudFlare. Daniel was previously an embedded programmer where he spent time testing systems for fighter planes and ventilation systems. Moving from the industrial side of tech, he is excited to amp up the CloudFlare Go team and work on Railgun. Currently, he is best known in the UK office for web-enabling his coffee maker, which comes in handy on the mornings he forgets to switch it off."> 
+          <div class="people-grid-photo daniel"></div> 
+          <div class="people-grid-name">
+           Daniel
+          </div> 
+          <div class="people-grid-title">
+           Systems Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Anirban founded StopTheHacker in 2009 and after five years as StopTheHacker’s VP of Research and Development and CTO, he is excited to join forces with CloudFlare. Anirban founded StopTheHacker as part of his PhD research. He could see his research benefiting people in the real world and wanted to provide malware protection to all websites, so that’s what he did. Anirban is looking forward to offering StopTheHacker’s services to all CloudFlare’s customers. When he’s not detecting malware, Anirban likes to spend time with friends and watch movies."> 
+          <div class="people-grid-photo anirban"></div> 
+          <div class="people-grid-name">
+           Anirban
+          </div> 
+          <div class="people-grid-title">
+           Systems Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Adam came to CloudFlare by way of StopTheHacker. Adam was one of the first employees of STH and held many different roles during his time there. Now at CloudFlare, Adam is part of our Ops team and is helping to keep the CloudFlare network online. Even though he was born and raised in Southern California, Adam is very excited to be in San Francisco. He enjoys all things outdoors and has been pleasantly surprised that San Francisco’s weather isn’t “that bad.”"> 
+          <div class="people-grid-photo adam"></div> 
+          <div class="people-grid-name">
+           Adam
+          </div> 
+          <div class="people-grid-title">
+           Systems Reliability Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Megan has a unique and dynamic background. She began her career working in Tech M&amp;A Investment Banking, then invested in growing consumer internet and software companies at New Enterprise Associates, after which she joined an eCommerce company where she helped launch a new vertical. She comes to CloudFlare excited to focus on the customer development side of the business with a company that really digs into the mechanics of the Internet. Megan loves the outdoors and can usually be found racing her road bike, trail running, climbing trees, or on a yoga mat. She is most proud of her cat 2 road cycling upgrade during her first season of racing."> 
+          <div class="people-grid-photo megan"></div> 
+          <div class="people-grid-name">
+           Megan
+          </div> 
+          <div class="people-grid-title">
+           Customer Development
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Ryan is another Southern California transplant who has been enjoying his time in San Francisco. He is an experienced professional software engineer with a history in the online retail and payment systems space. Ryan has had his hands in web services his entire career and has been a CloudFlare customer long before he was part of the team. Ryan is happiest writing code and playing the guitar or banjo."> 
+          <div class="people-grid-photo ryank"></div> 
+          <div class="people-grid-name">
+           Ryan
+          </div> 
+          <div class="people-grid-title">
+           Web Engineer
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Eric is originally from San Antonio where he spent the last few years as a “Racker” at Rackspace. Looking for his next adventure (and for a chance to work at a startup), Eric was drawn to CloudFlare. As part of our customer support team, Eric is looking forward to applying his hosting knowledge to help solve some of the problems our customers run into. Eric is a big traveler and can’t wait to visit Australia and Scandinavia in the near future."> 
+          <div class="people-grid-photo eric"></div> 
+          <div class="people-grid-name">
+           Eric
+          </div> 
+          <div class="people-grid-title">
+           Customer Support
+          </div> 
+         </div> 
+        </div> 
+        <div class="clear"></div> 
+       </div> 
+       <div class="hrDotted20"></div> 
+       <div class="section" id="people-investors"> 
+        <h3>Our Investors</h3> 
+        <div class="people-grid"> 
+         <div class="people-grid-person" tooltip="Ray is an engineer at heart disguised as a VC. He loves to tinker with technology and get into the details of how things work. Having spent many years investing in security companies, including Check Point Software, Ray brings a wealth of knowledge to the team. And, we have to mention that he is also a nuclear engineer by training. We think that's very cool."> 
+          <div class="people-grid-photo ray"></div> 
+          <div class="people-grid-name">
+           Ray Rothrock
+          </div> 
+          <div class="people-grid-title">
+           Venrock
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Carl is Tech Executive meets Academic meets Investor. With a number of patents and deep experience in Executive positions at companies like AT&amp;T Consumer, Novell and venture-backed startups, Carl now invests in tech companies and shares his wisdom in the board room. He is an avid baseball fan, runner, hiker, and rock climber. Sometimes he can be found doing them all at once."> 
+          <div class="people-grid-photo carl"></div> 
+          <div class="people-grid-name">
+           Carl Ledbetter
+          </div> 
+          <div class="people-grid-title">
+           Pelion Venture Partners
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="As a former Microsoft product manager for Windows95, Scott had been looking for a way to help build another operating system when he met the CloudFlare team. Scott's interests are as diverse as the companies he invests in, ranging from clean tech (Bloom Energy) to hardware (Fusion-IO) to social gaming (Playdom). Scott is responsible for NEA's China activities and his travel there has helped him develop a keen sense for great teas which he often treats us to at our Board meetings."> 
+          <div class="people-grid-photo scott"></div> 
+          <div class="people-grid-name">
+           Scott Sandell
+          </div> 
+          <div class="people-grid-title">
+           New Enterprise Associates
+          </div> 
+         </div> 
+         <div class="people-grid-person" tooltip="Brad Burnham is a managing partner at Union Square Ventures. He started working in information technology with AT&amp;T in 1979. Brad spun Echo Logic out of Bell Laboratories in 1989 and joined AT&amp;T Ventures in 1993. Brad co-founded TACODA in 2001 before joining Fred to create Union Square Ventures in 2003. He and the USV team are looking forward to working with CloudFlare to make essential network services available to innovators large and small worldwide."> 
+          <div class="people-grid-photo brad"></div> 
+          <div class="people-grid-name">
+           Brad Burnham
+          </div> 
+          <div class="people-grid-title">
+           Union Square Ventures
+          </div> 
+         </div> 
+        </div> 
+        <div class="clear"></div> 
+       </div> 
+      </div> 
+      <div class="clear"></div> 
+     </div> 
+    </div> 
+    <div id="Footer" class="structural fixedWidth standard"> 
+     <div class="inner"> 
+      <div class="section"> 
+       <div id="PublicFooter" class="structural fixedWidth standard"> 
+        <div id="PublicFooter-upperright"> 
+         <div id="smt-lang-selector"> 
+         </div> 
+        </div> 
+        <div id="PublicFooter-lowerright"> 
+         <a id="LinkedInLink" href="http://www.linkedin.com/company/407222" target="_blank"> 
+          <div class="cf-icon service linkedin"> 
+          </div> </a> 
+         <a id="GooglePlusLink" href="https://plus.google.com/100611700350554803650/" rel="publisher" target="_blank"> 
+          <div class="cf-icon service googleplus"> 
+          </div> </a> 
+         <a id="TwitterLink" href="http://twitter.com/cloudflare" target="_blank"> 
+          <div class="cf-icon service twitter"> 
+          </div> </a> 
+         <a id="FacebookLink" href="http://www.facebook.com/CloudFlare?ref=ts" target="_blank"> 
+          <div class="cf-icon service facebook"> 
+          </div> </a> 
+         <div id="PublicFooter-copyright"> 
+          <span>&copy; CloudFlare, Inc.</span> 
+         </div> 
+        </div> 
+        <div id="PublicFooter-navigation"> 
+         <div class="PublicFooter-navigation-group"> 
+          <h5>What we do</h5> 
+          <ul> 
+           <li><a href="http://www.cloudflare.com/plans">Plans</a></li> 
+           <li><a href="http://www.cloudflare.com/overview">Overview</a></li> 
+           <li><a href="http://www.cloudflare.com/features-cdn">Features tour</a></li> 
+           <li><a href="http://www.cloudflare.com/network-map">CloudFlare's network</a></li> 
+           <li><a href="http://www.cloudflare.com/apps">CloudFlare apps</a></li> 
+          </ul> 
+         </div> 
+         <div class="PublicFooter-navigation-group"> 
+          <h5>Community</h5> 
+          <ul> 
+           <li><a href="http://www.cloudflare.com/case-studies">Case studies</a></li> 
+           <li><a href="http://blog.cloudflare.com">CloudFlare blog</a></li> 
+           <li><a href="http://www.cloudflare.com/web-badges">Web badges</a></li> 
+           <li><a href="http://www.cloudflare.com/hosting-partners">Hosting partners</a></li> 
+           <li><a href="http://developers.cloudflare.com">Developers</a></li> 
+          </ul> 
+         </div> 
+         <div class="PublicFooter-navigation-group"> 
+          <h5>Support</h5> 
+          <ul> 
+           <li><a href="https://support.cloudflare.com/">Help center</a></li> 
+           <li><a href="http://www.cloudflare.com/videos">Support videos</a></li> 
+           <li><a href="http://www.cloudflare.com/system-status">System status</a></li> 
+           <li><a href="http://www.cloudflare.com/resources-downloads">Downloads</a></li> 
+          </ul> 
+         </div> 
+         <div class="PublicFooter-navigation-group-last"> 
+          <h5>About us</h5> 
+          <ul> 
+           <li><a href="http://www.cloudflare.com/people">Our team</a></li> 
+           <li><a href="http://www.cloudflare.com/careers">Careers</a></li> 
+           <li><a href="http://www.cloudflare.com/press-center">Press center</a></li> 
+           <li><a href="http://www.cloudflare.com/terms">Terms of service</a></li> 
+           <li><a href="http://www.cloudflare.com/security-policy">Privacy &amp; security</a></li> 
+          </ul> 
+         </div> 
+        </div> 
+        <div class="clear"></div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="SubFooter" class="structural fixedWidth"> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="FixedContent" class="structural"> 
+   <ul id="Notifications"></ul> 
+  </div> 
+  <div id="HiddenContent" class="ui-helper-hidden ui-helper-hidden-accessible"> 
+  </div> 
+  <script type="text/javascript" src="http://www.cloudflare.com/static/javascripts/live/fp-f3ed101eb6518848c79a6649c24be80b/library/thirdparty.js?v=CB6-2013-08-01-1"></script> 
+  <script type="text/javascript" src="http://www.cloudflare.com/static/javascripts/live/fp-49e230f1518cd874015847d52f03d873/library/cloudflare.js?v=CB6-2013-08-01-1"></script> 
+  <script>$.cf.data = {"login":false};</script> 
+  <script type="text/javascript" src="http://www.cloudflare.com/static/javascripts/live/fp-374fd64a156f2e7b0162cd3d120f3d32/page/people.js?v=CB6-2013-08-01-1"></script> 
+  <script type="text/javascript">
+            $(function() {
+
+                $.cf.invalidateClient();
+                $('#SiteNavigation > li.cloudflare').addClass('active');
+                $('#SecondaryNavigation > li.people').addClass('active');
+                $('#SiteNavigation').markedNavigation({animated: false});
+                $('#SiteNavigation > li > a[tooltip]').tooltip();
+                $('#SubFooterContactLink').bind('click', function(event) { $.cf.loadModalDialog({type: 'feedback'}, {title: 'Send feedback'}); });
+
+            });
+        </script>   
+ </body>
+</html>

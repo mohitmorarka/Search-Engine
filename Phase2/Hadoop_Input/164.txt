@@ -1,0 +1,1388 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>Center for Conservation Biology: Home</title> 
+  <meta http-equiv="last-modified" content="2014-03-05" /> 
+  <meta name="version" content="2.60 2.113 " /> 
+  <!-- 03/11/14 15:50:34 03/11/14 15:50:34 --> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/narrow6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/g=6bis-bluea-narrow" media="all" /> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/f=css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all" /> 
+  <script type="text/javascript" src="http://www.ucr.edu/min/g=js-sifr"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-narrow6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/min/f=fixiequotes.js"></script>
+<![endif]--> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://ccb.ucr.edu/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr /> 
+   <div id="brandingbar"> 
+    <h2><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="University of California, Riverside" title="UCR Home page" /></a></h2> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/images/masthead.jpg);"> 
+   <h1><a href="http://ccb.ucr.edu/"><span class="printonly">Center for Conservation Biology</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr /> 
+  <div class="breadcrumbs"> 
+   <h3 class="accessibility">Breadcrumbs</h3> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://cnas.ucr.edu/">CNAS</a> &gt;</li> 
+    <li class="lastitem">Center for Conservation Biology</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox" action="http://www.ucr.edu/search.php">
+     <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" size="18" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+    </form> 
+    <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+   </div> 
+   <hr /> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>Home</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li class="currentpage"><h3><dfn>Current page is: </dfn>Home</h3></li>
+       <li class="nav_inline_last"><h3>Who We Are</h3>
+        <ul>
+         <li><a href="staff.html" title="Staff">Staff</a></li>
+         <li>&nbsp;| <a href="steering.html" title="Steering Committee">Steering Committee</a></li>
+         <li>&nbsp;| <a href="affiliated.html" title="Affiliated Faculty: UCR">Affiliated Faculty: UCR</a></li>
+         <li>&nbsp;| <a href="affilnonucr.html" title="&amp; Non-UCR">&amp; Non-UCR</a></li>
+        </ul></li>
+       <li><a href="/employment.html" title="Employment">Employment<br /><span>Current Opportunities</span></a></li>
+       <li><a href="/projects.html" title="Projects">Projects<br /><span>Our Current Research</span></a></li>
+       <li><a href="/facilities.html" title="Facilities">Facilities<br /><span> Where It Takes Place</span></a></li>
+       <li><a href="/publications.html" title="Publications">Publications<br /><span>Our Current Database</span></a></li>
+       <li><a href="/funding.html" title="Call for Proposals">Call for Proposals<br /><span>For Undergraduate &amp; Researchers</span></a></li>
+       <li><a href="/workshops.html" title="Workshops">Workshops<br /><span></span></a>
+        <ul>
+         <li class="currentpage"><h3><dfn>Current page is: </dfn>HCP Workshop: Habitat Conservation Plans in Southern California: Lessons Learned over a Decade (+)</h3></li>
+         <li class="currentpage"><h3><dfn>Current page is: </dfn>Our Past Events</h3></li>
+        </ul></li>
+       <li><a href="/links.html" title="Links">Links</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <hr /> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy.css" cssmenu="" width="790" --> 
+     <!-- com.omniupdate.div label="title" group="Everyone" button="734" -->
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="484" --> 
+     <!-- /com.omniupdate.div --> 
+     <div id="omnicontent"> 
+      <!-- com.omniupdate.div label="home-image" group="Everyone" button="657" -->
+      <!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="484"/ -->
+      <br /> 
+      <img src="/newheader.png" alt="andreakaus" width="484" height="246" />
+      <br /> 
+      <div class="spotlight"> 
+       <h3>The Center For Conservation Biology Mission Is To:</h3> 
+       <p><strong>+</strong> Proactively <strong>identify</strong> new research priorities in conservation biology and inaugurate new collaborative research programs.</p> 
+       <p><strong>+</strong> <strong>Develop</strong> research programs in response to existing needs in conservation biology.</p> 
+       <p><strong>+</strong> <strong>Assist</strong> in the conservation and restoration of species and ecosystems by facilitating the collection, evaluation and dissemination of scientific information.</p> 
+       <p><a class="linkMore" href="/mission.html">Read More</a></p> 
+      </div>
+      <!-- /com.omniupdate.div --> 
+      <div class="column23"> 
+       <!-- com.omniupdate.div label="column2" group="Everyone" button="657" -->
+       <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="315" -->
+       <!-- /com.omniupdate.div --> 
+      </div> 
+      <div class="column3R on_the_side"> 
+       <!-- com.omniupdate.div label="column3R" group="Everyone" button="657" -->
+       <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="145" -->
+       <!-- /com.omniupdate.div --> 
+      </div> 
+      <div class="clear"></div> 
+      <!-- com.omniupdate.div label="tabs" group="Everyone" button="657" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="460" -->
+      <ul class="texttab-control"> 
+       <li><a href="#announcements">News</a></li> 
+       <li><a href="#seminars">Seminars</a></li> 
+       <li><a href="#events">Events</a></li> 
+       <li><a href="#about">Recent Awards</a></li> 
+       <li><a href="#publications">Recent Publications</a></li> 
+      </ul> 
+      <!-- /com.omniupdate.div --> 
+      <div id="about"> 
+       <div class="texttab-column"> 
+        <!-- com.omniupdate.div label="news-tab" group="Everyone" button="657" -->
+        <br /> 
+        <em>There are no updates at this time.</em> 
+        <!-- /com.omniupdate.div --> 
+       </div> 
+      </div> 
+      <div id="announcements"> 
+       <div class="texttab-column"> 
+        <!-- com.omniupdate.div label="calendar-tab" group="Everyone" button="657" -->
+        <br /> 
+        <ul class="alt3"> 
+         <li>HCP Workshop: Habitat Conservation Plans in Southern California: <a href="/workshops.html">Lessons Learned over a Decade (+)</a></li> 
+         <li>Our recent 2014 publications list has been updated. Please check our <a href="#publications">Recent Publications</a> tab for more information.</li> 
+        </ul> 
+        <br /> 
+        <div align="right">
+         <a class="Morelink" href="/archive.html">News Archive</a>
+        </div>
+        <!-- /com.omniupdate.div --> 
+       </div> 
+      </div> 
+      <div id="seminars"> 
+       <div class="texttab-column"> 
+        <!-- com.omniupdate.div label="newsletter-tab" group="Everyone" button="657" -->
+        <!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="460"/ -->
+        <div class="boxa"> 
+        </div> 
+        <!-- /com.omniupdate.div --> 
+       </div> 
+      </div> 
+      <div id="events"> 
+       <div class="texttab-column"> 
+        <!-- com.omniupdate.div label="spotlights-tab" group="Everyone" button="657" -->
+        <!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="460"/ -->
+        <p> <br /> There are currently no events planned through the Center for Conservation Biology </p> 
+        <div align="right"> 
+         <a class="Morelink" href="http://ccb.ucr.edu/events.html">Past Events</a> 
+        </div> 
+        <!-- /com.omniupdate.div --> 
+       </div> 
+      </div> 
+      <div id="publications"> 
+       <div class="texttab-column"> 
+        <!-- com.omniupdate.div label="publications-tab" group="Everyone" button="657" -->
+        <!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="460"/ -->
+        <ul> 
+         <li>Bledsoe, C. S., M. F. Allen, and D. Southworth. 2014. Beyond Mutualism: Complex Mycorrhizal Interactions. Pages 311–334 in U. Luttge, W. Beyschlag, and J. Cushman, editors. Progress in Botany 75. Springer-Verlag Berlin, Berlin.</li> 
+         <li>Hernandez, R. R., S. B. Easter, M. L. Murphy-Mariscal, F. T. Maestre, M. Tavassoli, E. B. Allen, C. W. Barrows, J. Belnap, R. Ochoa-Hueso, S. Ravi, and M. F. Allen. 2014. Environmental impacts of utility-scale solar energy. Renewable &amp; Sustainable Energy Reviews 29:766–779.</li> 
+        </ul> 
+        <br /> 
+        <div align="right">
+         <a class="Morelink" href="/publications.html">Past Publications</a>
+        </div>
+        <!-- /com.omniupdate.div --> 
+       </div> 
+      </div> 
+      <div class="clear"></div> 
+      <!-- com.omniupdate.div label="related_links" group="Everyone" button="657" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="484" --> 
+      <!-- /com.omniupdate.div --> 
+      <!-- com.omniupdate.efp -->
+      <!-- /com.omniupdate.efp --> 
+     </div> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR">Visit UCR</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <address><strong>Center for Conservation Biology</strong><br /> <a href="http://campusmap.ucr.edu/campusMap.php?loc=BOYCE" title="Campus Map">1435 Boyce Hall</a><br /><br /> Tel: (951) 827-5494<br /> E-mail: <a href="mailto:debbie.brown@ucr.edu?subject=Web Site Inquiry">debbie.brown@ucr.edu</a></address> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://cnas.ucr.edu/">CNAS Dean's Office</a></li> 
+       <li><a href="http://or.ucr.edu/">UCR Office of Research</a></li> 
+       <li><a href="http://plantpathology.ucr.edu/new/index.php?page=people&amp;p=7">BNPPS Administrative Unit</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://ccb.ucr.edu/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>&copy; 2014 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=d01235&amp;site=ccb&amp;path=%2Findex.html">Last modified: 2014-Mar-05</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+  <!-- Generated in 0.212061 seconds using 2.00 MiB of memory. -->   
+ </body>
+</html><!DOCTYPE html>
+<html lang="en" data-cast-api-enabled="true">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <script>var ytcsi = {gt: function(n) {n = (n || '') + 'data_';return ytcsi[n] || (ytcsi[n] = {tick: {},span: {},info: {}});},tick: function(l, t, n) {ytcsi.gt(n).tick[l] = t || +new Date();},span: function(l, s, n) {ytcsi.gt(n).span[l] = (typeof s == 'number') ? s :+new Date() - ytcsi.data_.tick[l];},info: function(k, v, n) {ytcsi.gt(n).info[k] = v;}};(function() {var perf = window['performance'] || window['mozPerformance'] ||window['msPerformance'] || window['webkitPerformance'];ytcsi.tick('_start', perf ? perf['timing']['responseStart'] : null);})();if (document.webkitVisibilityState == 'prerender') {ytcsi.info('prerender', 1);document.addEventListener('webkitvisibilitychange', function() {ytcsi.tick('_start');}, false);}try {ytcsi.pt_ = (window.chrome && chrome.csi().pageT ||window.gtbExternal && gtbExternal.pageT() ||window.external && external.pageT);if (ytcsi.pt_) {ytcsi.info('pt', Math.floor(ytcsi.pt_));}} catch(e) {}</script> 
+  <script>
+try {window.ytbuffer = {};ytbuffer.handleClick = function(e) {var element = e.target || e.srcElement;while (element.parentElement) {if (element.className.match(/(^| )yt-can-buffer( |$)/)) {window.ytbuffer = {bufferedClick: e};element.className += ' yt-is-buffered';break;}element = element.parentElement;}};if (document.addEventListener) {document.addEventListener('click', ytbuffer.handleClick);} else {document.attachEvent('onclick', ytbuffer.handleClick);}} catch(e) {}  </script> 
+  <script>
+    var ytpreload = ytpreload || {};
+    ytpreload.SnapClassList = ['content-snap-width-1', 'content-snap-width-2',
+                               'content-snap-width-3'];
+    ytpreload.getSnapClass = function(guidePinned) {
+      var SCROLLBAR_WIDTH = 21;
+      var CONTENT_PADDING = 50;
+      var GUIDE_WIDTH = 230;
+      var SNAP_WIDTH_2 = 1056;
+      var SNAP_WIDTH_3 = 1262;
+      var screenWidth = window.innerWidth ||
+          document.documentElement.clientWidth;
+
+      var spaceForContent = screenWidth - SCROLLBAR_WIDTH - CONTENT_PADDING;
+      if (ytpreload.usePinnedGuideStyle() && guidePinned) {
+        spaceForContent -= GUIDE_WIDTH;
+      }
+
+      if (spaceForContent >= SNAP_WIDTH_3) {
+        return ytpreload.SnapClassList[2];
+      } else if (spaceForContent >= SNAP_WIDTH_2){
+        return ytpreload.SnapClassList[1];
+      } else {
+        return ytpreload.SnapClassList[0];
+      }
+
+    };
+    ytpreload.GUIDE_PINNED_CLASS = 'guide-pinned';
+    ytpreload.GUIDE_VISIBILITY_CLASS = 'show-guide';
+    ytpreload.usePinnedGuideStyle = function() {
+      var screenWidth = window.innerWidth ||
+          document.documentElement.clientWidth;
+      return screenWidth >= 1251;
+    };
+    (function() {
+      var htmlEl = document.getElementsByTagName('html')[0];
+      var classList = [htmlEl.className];
+        if (ytpreload.usePinnedGuideStyle()) {
+          classList.push(ytpreload.GUIDE_PINNED_CLASS);
+            classList.push(ytpreload.GUIDE_VISIBILITY_CLASS);
+        }
+        classList.push(' ', ytpreload.getSnapClass(
+            true));
+      htmlEl.className = classList.join(' ');
+    })();
+  </script> 
+  <link id="css-4157259405" class="www-core" rel="stylesheet" href="//s.ytimg.com/yts/cssbin/www-core-vflKUxBw2.css" data-loaded="true" /> 
+  <script>if (window.ytcsi) {window.ytcsi.tick("ce", null, '');}</script> 
+  <title>BournsCollege - YouTube</title>
+  <link rel="search" type="application/opensearchdescription+xml" href="http://www.youtube.com/opensearch?locale=en_US" title="YouTube Video Search" />
+  <link rel="shortcut icon" href="http://s.ytimg.com/yts/img/favicon-vfldLzJxy.ico" type="image/x-icon" /> 
+  <link rel="icon" href="//s.ytimg.com/yts/img/favicon_32-vflWoMFGx.png" sizes="32x32" />
+  <link rel="canonical" href="http://www.youtube.com/user/BournsCollege" />
+  <link rel="alternate" media="handheld" href="http://m.youtube.com/user/BournsCollege?" />
+  <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.youtube.com/user/BournsCollege?" /> 
+  <meta name="title" content="BournsCollege" /> 
+  <meta name="description" content="" /> 
+  <meta name="keywords" content="video, sharing, camera phone, video phone, free, upload" /> 
+  <link rel="image_src" href="https://yt3.ggpht.com/-M2k5btgItJs/AAAAAAAAAAI/AAAAAAAAAAA/8MgnPOxN3HA/s48-c-k-no/photo.jpg" /> 
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="http://gdata.youtube.com/feeds/base/users/BournsCollege/uploads?alt=rss&amp;v=2&amp;orderby=published&amp;client=ytapi-youtube-profile" /> 
+  <meta property="og:site_name" content="YouTube" /> 
+  <meta property="og:url" content="http://www.youtube.com/user/BournsCollege" /> 
+  <meta property="og:title" content="BournsCollege" /> 
+  <meta property="og:type" content="profile" /> 
+  <meta property="og:image" content="https://yt3.ggpht.com/-M2k5btgItJs/AAAAAAAAAAI/AAAAAAAAAAA/8MgnPOxN3HA/s900-c-k-no/photo.jpg" /> 
+  <meta property="og:description" content=" " /> 
+  <meta property="fb:app_id" content="87741124305" /> 
+  <meta name="twitter:card" content="summary" /> 
+  <meta name="twitter:site" content="@youtube" /> 
+  <meta name="twitter:url" content="http://www.youtube.com/user/BournsCollege" /> 
+  <meta name="twitter:title" content="BournsCollege" /> 
+  <meta name="twitter:description" content=" " /> 
+  <meta name="twitter:image" content="https://yt3.ggpht.com/-M2k5btgItJs/AAAAAAAAAAI/AAAAAAAAAAA/8MgnPOxN3HA/s900-c-k-no/photo.jpg" /> 
+  <meta name="twitter:app:name:iphone" content="YouTube" /> 
+  <meta name="twitter:app:id:iphone" content="544007664" /> 
+  <meta name="twitter:app:name:ipad" content="YouTube" /> 
+  <meta name="twitter:app:id:ipad" content="544007664" /> 
+  <meta name="twitter:app:url:iphone" content="vnd.youtube://user/UC60DUrOsOzmOIkpl1OZc8KQ" /> 
+  <meta name="twitter:app:url:ipad" content="vnd.youtube://user/UC60DUrOsOzmOIkpl1OZc8KQ" /> 
+  <meta name="twitter:app:name:googleplay" content="YouTube" /> 
+  <meta name="twitter:app:id:googleplay" content="com.google.android.youtube" /> 
+  <meta name="twitter:app:url:googleplay" content="http://www.youtube.com/user/BournsCollege" /> 
+  <link itemprop="url" href="http://www.youtube.com/user/BournsCollege" /> 
+  <meta itemprop="name" content="BournsCollege" /> 
+  <meta itemprop="description" content=" " /> 
+  <meta itemprop="paid" content="False" /> 
+  <meta itemprop="channelId" content="UC60DUrOsOzmOIkpl1OZc8KQ" /> 
+ </head>
+ <body dir="ltr" class="  ltr       site-center-aligned site-as-giant-card guide-pinning-enabled appbar-hidden      not-exp-new-metadata-style   hitchhiker-enabled    guide-enabled  guide-expanded    flex-width-enabled      flex-width-enabled-snap  " id="body">
+  <span itemprop="author" itemscope="" itemtype="http://schema.org/Person"> 
+   <link itemprop="url" href="http://www.youtube.com/user/BournsCollege" /> </span> 
+  <span itemprop="author" itemscope="" itemtype="http://schema.org/Person"> 
+   <link itemprop="url" href="https://plus.google.com/115871633306866086154" /> </span> 
+  <link itemprop="thumbnailUrl" href="https://yt3.ggpht.com/-M2k5btgItJs/AAAAAAAAAAI/AAAAAAAAAAA/8MgnPOxN3HA/s900-c-k-no/photo.jpg" /> 
+  <span itemprop="thumbnail" itemscope="" itemtype="http://schema.org/ImageObject"> 
+   <link itemprop="url" href="https://yt3.ggpht.com/-M2k5btgItJs/AAAAAAAAAAI/AAAAAAAAAAA/8MgnPOxN3HA/s900-c-k-no/photo.jpg" /> 
+   <meta itemprop="width" content="900" /> 
+   <meta itemprop="height" content="900" /> </span> 
+  <meta itemprop="isFamilyFriendly" content="True" /> 
+  <meta itemprop="regionsAllowed" content="AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW" /> 
+  <div id="watch-container" itemid="" itemscope="" itemtype="http://schema.org/YoutubeChannelV2"> 
+   <link itemprop="url" href="http://www.youtube.com/user/BournsCollege" /> 
+   <meta itemprop="name" content="BournsCollege" /> 
+   <meta itemprop="description" content=" " /> 
+   <meta itemprop="paid" content="False" /> 
+   <meta itemprop="channelId" content="UC60DUrOsOzmOIkpl1OZc8KQ" /> 
+   <span itemprop="author" itemscope="" itemtype="http://schema.org/Person"> 
+    <link itemprop="url" href="http://www.youtube.com/user/BournsCollege" /> </span> 
+   <span itemprop="author" itemscope="" itemtype="http://schema.org/Person"> 
+    <link itemprop="url" href="https://plus.google.com/115871633306866086154" /> </span> 
+   <link itemprop="thumbnailUrl" href="https://yt3.ggpht.com/-M2k5btgItJs/AAAAAAAAAAI/AAAAAAAAAAA/8MgnPOxN3HA/s900-c-k-no/photo.jpg" /> 
+   <span itemprop="thumbnail" itemscope="" itemtype="http://schema.org/ImageObject"> 
+    <link itemprop="url" href="https://yt3.ggpht.com/-M2k5btgItJs/AAAAAAAAAAI/AAAAAAAAAAA/8MgnPOxN3HA/s900-c-k-no/photo.jpg" /> 
+    <meta itemprop="width" content="900" /> 
+    <meta itemprop="height" content="900" /> </span> 
+   <meta itemprop="isFamilyFriendly" content="True" /> 
+   <meta itemprop="regionsAllowed" content="AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW" /> 
+  </div> 
+  <link id="css-3595345562" class="www-home-c4" rel="stylesheet" href="//s.ytimg.com/yts/cssbin/www-home-c4-vflC_xyti.css" data-loaded="true" /> 
+  <script>if (window.ytcsi) {window.ytcsi.tick("cl", null, '');}</script>  
+  <div id="body-container">
+   <form name="logoutForm" method="POST" action="/logout">
+    <input type="hidden" name="action_logout" value="1" />
+   </form>
+   <div id="masthead-positioner"> 
+    <div id="yt-masthead-container" class="yt-grid-box yt-base-gutter">
+     <div id="yt-masthead" class="">
+      <div class="yt-masthead-logo-container "> 
+       <a id="logo-container" href="/" title="YouTube home" class="spf-link"><img id="logo" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="YouTube home" /></a> 
+       <div id="appbar-guide-button-container">
+        <button id="appbar-guide-button" type="button" class="appbar-guide-toggle appbar-guide-clickable-ancestor yt-uix-button yt-uix-button-text yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" onclick=";return false;" role="button" aria-label="Guide"><span class="yt-uix-button-icon-wrapper"><img class="yt-uix-button-icon yt-uix-button-icon-appbar-guide" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title="" /></span><img class="yt-uix-button-arrow" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title="" /></button>
+        <div id="appbar-guide-button-notification-check" class="yt-valign">
+         <img class="appbar-guide-notification-icon yt-valign-content" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title="" />
+        </div>
+       </div>
+       <div id="appbar-main-guide-notification-container"></div>
+      </div>
+      <div id="yt-masthead-signin">
+       <span id="appbar-onebar-upload-group" class="yt-uix-button-group"><a href="//www.youtube.com/upload" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;feature=mhsb" id="upload-btn"><span class="yt-uix-button-content">Upload </span></a></span>
+       <button type="button" class=" yt-uix-button yt-uix-button-primary yt-uix-button-size-default" onclick=";window.location.href=this.getAttribute('href');return false;" href="https://accounts.google.com/ServiceLogin?uilel=3&amp;service=youtube&amp;passive=true&amp;hl=en&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Dsign_in_button%26hl%3Den%26next%3D%252Fuser%252FBournsCollege" role="button"><span class="yt-uix-button-content">Sign in </span></button>
+      </div>
+      <div id="yt-masthead-content">
+       <form id="masthead-search" class="search-form consolidated-form" action="/results" onsubmit="if (_gel('masthead-search-term').value == '') return false;">
+        <button id="search-btn" dir="ltr" tabindex="2" type="submit" onclick="if (_gel('masthead-search-term').value == '') return false; _gel('masthead-search').submit(); return false;;return true;" class="search-btn-component search-button yt-uix-button yt-uix-button-default yt-uix-button-size-default" role="button"><span class="yt-uix-button-content">Search </span></button>
+        <div id="masthead-search-terms" class="masthead-search-terms-border" dir="ltr">
+         <label><input id="masthead-search-term" autocomplete="off" class="search-term yt-uix-form-input-bidi" name="search_query" value="" type="text" tabindex="1" title="Search" /></label>
+        </div>
+       </form>
+      </div>
+     </div>
+    </div> 
+    <div id="masthead-appbar-container" class="clearfix">
+     <div id="masthead-appbar">
+      <div id="appbar-content" class="    appbar-content-hidden"> 
+       <div id="appbar-nav" class="appbar-content-hidable"> 
+        <a href="/user/BournsCollege"> <img class="appbar-nav-avatar" src="https://yt3.ggpht.com/-M2k5btgItJs/AAAAAAAAAAI/AAAAAAAAAAA/8MgnPOxN3HA/s100-c-k-no/photo.jpg" title="BournsCollege" alt="BournsCollege" /> </a> 
+        <ul class="appbar-nav-menu">
+         <li> <h2 class="epic-nav-item-heading "> BournsCollege </h2> </li>
+         <li> <a href="/user/BournsCollege/videos" class="yt-uix-button   spf-link yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size-default" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CKEBEMMtKAE"><span class="yt-uix-button-content">Videos </span></a> </li>
+         <li> <a href="/user/BournsCollege/playlists" class="yt-uix-button   spf-link yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size-default" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CKIBEMMtKAI"><span class="yt-uix-button-content">Playlists </span></a> </li>
+         <li> <a href="/user/BournsCollege/about" class="yt-uix-button   spf-link yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size-default" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CKMBEMMtKAM"><span class="yt-uix-button-content">About </span></a> </li>
+         <li> <a href="/user/BournsCollege/search" class="yt-uix-button   spf-link yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size-default yt-uix-button-empty" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CKQBEMMtKAQ"></a> </li>
+        </ul> 
+       </div> 
+      </div>
+     </div>
+    </div> 
+    <iframe id="masthead-ie-mask"></iframe>
+   </div>
+   <div id="masthead-positioner-height-offset"></div>
+   <div id="page-container">
+    <div id="page" class="  channel    not-fixed-width-tab-widescreen clearfix">
+     <div id="guide" class="yt-scrollbar"> 
+      <div id="appbar-guide-menu" class="appbar-menu appbar-guide-menu-visibility appbar-guide-menu-layout appbar-guide-clickable-ancestor yt-uix-scroller"> 
+       <div id="guide-container" class="vve-check" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CAEQ_h4"> 
+        <div class="guide-module-content yt-scrollbar"> 
+         <ul class="guide-toplevel"> 
+          <li class="guide-section vve-check" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CAIQ5isoAA" data-visibility-tracking="CAAQ5isiEwjBkIiXyYu9AhUFiH4KHVtgAJo="> 
+           <div class="guide-item-container personal-item"> 
+            <ul class="guide-user-links yt-uix-tdl yt-box"> 
+             <li class="vve-check overflowable-list-item guide-channel" id="what_to_watch-guide-item" data-visibility-tracking="CAEQtSwiEwjBkIiXyYu9AhUFiH4KHVtgAJo="> <a class="guide-item yt-uix-sessionlink yt-valign spf-link   " href="/" title="What to Watch" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;feature=g-system" data-visibility-tracking="CAEQtSwiEwjBkIiXyYu9AhUFiH4KHVtgAJo=" data-external-id="what_to_watch" data-serialized-endpoint="0qDduQEREg9GRXdoYXRfdG9fd2F0Y2g%3D"> <span class="yt-valign-container"> <img class="thumb guide-what-to-watch-icon" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title="" /> <span class="display-name  no-count"> <span> What to Watch </span> </span> </span> </a> </li> 
+            </ul> 
+           </div> 
+           <hr class="guide-section-separator" /> </li> 
+          <li class="guide-section vve-check" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CAQQ5isoAQ" data-visibility-tracking="CAIQ5isiEwjBkIiXyYu9AhUFiH4KHVtgAJo="> 
+           <div class="guide-item-container personal-item"> 
+            <h3> Best of YouTube </h3> 
+            <ul class="guide-user-links yt-uix-tdl yt-box"> 
+             <li class="vve-check overflowable-list-item guide-channel" id="UCF0pVplsI8R5kcAqgtoRqoA-guide-item" data-visibility-tracking="CAMQtSwiEwjBkIiXyYu9AhUFiH4KHVtgAJo="> <a class="guide-item yt-uix-sessionlink yt-valign spf-link   " href="/channel/UCF0pVplsI8R5kcAqgtoRqoA" title="Popular on YouTube" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;feature=g-channel" data-visibility-tracking="CAMQtSwiEwjBkIiXyYu9AhUFiH4KHVtgAJo=" data-external-id="UCF0pVplsI8R5kcAqgtoRqoA" data-serialized-endpoint="0qDduQEaEhhVQ0YwcFZwbHNJOFI1a2NBcWd0b1Jxb0E%3D"> <span class="yt-valign-container"> <span class="thumb"> <span class="video-thumb  yt-thumb yt-thumb-20"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="//i1.ytimg.com/i/F0pVplsI8R5kcAqgtoRqoA/1.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="20" height="20" /> <span class="vertical-align"></span> </span> </span> </span> </span> <span class="display-name  no-count"> <span> Popular on YouTube </span> </span> </span> </a> </li> 
+             <li class="vve-check overflowable-list-item guide-channel" id="UC-9-kyTW8ZkZNDHQJ6FgpwQ-guide-item" data-visibility-tracking="CAQQtSwiEwjBkIiXyYu9AhUFiH4KHVtgAJo="> <a class="guide-item yt-uix-sessionlink yt-valign spf-link   " href="/channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ" title="Music" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;feature=g-channel" data-visibility-tracking="CAQQtSwiEwjBkIiXyYu9AhUFiH4KHVtgAJo=" data-external-id="UC-9-kyTW8ZkZNDHQJ6FgpwQ" data-serialized-endpoint="0qDduQEaEhhVQy05LWt5VFc4WmtaTkRIUUo2Rmdwd1E%3D"> <span class="yt-valign-container"> <span class="thumb"> <span class="video-thumb  yt-thumb yt-thumb-20"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="//i1.ytimg.com/i/-9-kyTW8ZkZNDHQJ6FgpwQ/1.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="20" height="20" /> <span class="vertical-align"></span> </span> </span> </span> </span> <span class="display-name  no-count"> <span> Music </span> </span> </span> </a> </li> 
+             <li class="vve-check overflowable-list-item guide-channel" id="UCEgdi0XIXXZ-qJOFPf4JSKw-guide-item" data-visibility-tracking="CAUQtSwiEwjBkIiXyYu9AhUFiH4KHVtgAJo="> <a class="guide-item yt-uix-sessionlink yt-valign spf-link   " href="/channel/UCEgdi0XIXXZ-qJOFPf4JSKw" title="Sports" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;feature=g-channel" data-visibility-tracking="CAUQtSwiEwjBkIiXyYu9AhUFiH4KHVtgAJo=" data-external-id="UCEgdi0XIXXZ-qJOFPf4JSKw" data-serialized-endpoint="0qDduQEaEhhVQ0VnZGkwWElYWFotcUpPRlBmNEpTS3c%3D"> <span class="yt-valign-container"> <span class="thumb"> <span class="video-thumb  yt-thumb yt-thumb-20"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="//i1.ytimg.com/i/Egdi0XIXXZ-qJOFPf4JSKw/1.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="20" height="20" /> <span class="vertical-align"></span> </span> </span> </span> </span> <span class="display-name  no-count"> <span> Sports </span> </span> </span> </a> </li> 
+             <li class="vve-check overflowable-list-item guide-channel" id="UCOpNcN46UbXVtpKMrmU4Abg-guide-item" data-visibility-tracking="CAYQtSwiEwjBkIiXyYu9AhUFiH4KHVtgAJo="> <a class="guide-item yt-uix-sessionlink yt-valign spf-link   " href="/channel/UCOpNcN46UbXVtpKMrmU4Abg" title="Gaming" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;feature=g-channel" data-visibility-tracking="CAYQtSwiEwjBkIiXyYu9AhUFiH4KHVtgAJo=" data-external-id="UCOpNcN46UbXVtpKMrmU4Abg" data-serialized-endpoint="0qDduQEaEhhVQ09wTmNONDZVYlhWdHBLTXJtVTRBYmc%3D"> <span class="yt-valign-container"> <span class="thumb"> <span class="video-thumb  yt-thumb yt-thumb-20"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="//i1.ytimg.com/i/OpNcN46UbXVtpKMrmU4Abg/1.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="20" height="20" /> <span class="vertical-align"></span> </span> </span> </span> </span> <span class="display-name  no-count"> <span> Gaming </span> </span> </span> </a> </li> 
+             <li class="vve-check overflowable-list-item guide-channel" id="UC3yA8nDwraeOfnYfBWun83g-guide-item" data-visibility-tracking="CAcQtSwiEwjBkIiXyYu9AhUFiH4KHVtgAJo="> <a class="guide-item yt-uix-sessionlink yt-valign spf-link   " href="/channel/UC3yA8nDwraeOfnYfBWun83g" title="Education" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;feature=g-channel" data-visibility-tracking="CAcQtSwiEwjBkIiXyYu9AhUFiH4KHVtgAJo=" data-external-id="UC3yA8nDwraeOfnYfBWun83g" data-serialized-endpoint="0qDduQEaEhhVQzN5QThuRHdyYWVPZm5ZZkJXdW44M2c%3D"> <span class="yt-valign-container"> <span class="thumb"> <span class="video-thumb  yt-thumb yt-thumb-20"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="//i1.ytimg.com/i/3yA8nDwraeOfnYfBWun83g/1.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="20" height="20" /> <span class="vertical-align"></span> </span> </span> </span> </span> <span class="display-name  no-count"> <span> Education </span> </span> </span> </a> </li> 
+             <li class="vve-check overflowable-list-item guide-channel" id="UCczhp4wznQWonO7Pb8HQ2MQ-guide-item" data-visibility-tracking="CAgQtSwiEwjBkIiXyYu9AhUFiH4KHVtgAJo="> <a class="guide-item yt-uix-sessionlink yt-valign spf-link   " href="/channel/UCczhp4wznQWonO7Pb8HQ2MQ" title="Movies" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;feature=g-channel" data-visibility-tracking="CAgQtSwiEwjBkIiXyYu9AhUFiH4KHVtgAJo=" data-external-id="UCczhp4wznQWonO7Pb8HQ2MQ" data-serialized-endpoint="0qDduQEaEhhVQ2N6aHA0d3puUVdvbk83UGI4SFEyTVE%3D"> <span class="yt-valign-container"> <span class="thumb"> <span class="video-thumb  yt-thumb yt-thumb-20"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="https://yt3.ggpht.com/-DIjHsEMMaRE/AAAAAAAAAAI/AAAAAAAAAAA/q6whn_JcUH8/s88-c-k-no/photo.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="20" height="20" /> <span class="vertical-align"></span> </span> </span> </span> </span> <span class="display-name  no-count"> <span> Movies </span> </span> </span> </a> </li> 
+             <li class="vve-check overflowable-list-item guide-channel" id="UCl8dMTqDrJQ0c8y23UBu4kQ-guide-item" data-visibility-tracking="CAkQtSwiEwjBkIiXyYu9AhUFiH4KHVtgAJo="> <a class="guide-item yt-uix-sessionlink yt-valign spf-link   " href="/channel/UCl8dMTqDrJQ0c8y23UBu4kQ" title="TV Shows" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;feature=g-channel" data-visibility-tracking="CAkQtSwiEwjBkIiXyYu9AhUFiH4KHVtgAJo=" data-external-id="UCl8dMTqDrJQ0c8y23UBu4kQ" data-serialized-endpoint="0qDduQEaEhhVQ2w4ZE1UcURySlEwYzh5MjNVQnU0a1E%3D"> <span class="yt-valign-container"> <span class="thumb"> <span class="video-thumb  yt-thumb yt-thumb-20"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="https://yt3.ggpht.com/-hFxEr8QHrvM/AAAAAAAAAAI/AAAAAAAAAAA/REjjL0X3gIs/s88-c-k-no/photo.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="20" height="20" /> <span class="vertical-align"></span> </span> </span> </span> </span> <span class="display-name  no-count"> <span> TV Shows </span> </span> </span> </a> </li> 
+             <li class="vve-check overflowable-list-item guide-channel" id="HCPvDBPPFfuaM-guide-item" data-visibility-tracking="CAoQtSwiEwjBkIiXyYu9AhUFiH4KHVtgAJo="> <a class="guide-item yt-uix-sessionlink yt-valign spf-link   " href="/channel/HCPvDBPPFfuaM" title="News" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;feature=g-channel" data-visibility-tracking="CAoQtSwiEwjBkIiXyYu9AhUFiH4KHVtgAJo=" data-external-id="HCPvDBPPFfuaM" data-serialized-endpoint="0qDduQEPEg1IQ1B2REJQUEZmdWFN"> <span class="yt-valign-container"> <span class="thumb"> <span class="video-thumb  yt-thumb yt-thumb-20"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="//i1.ytimg.com/li/PvDBPPFfuaM/default.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="20" height="20" /> <span class="vertical-align"></span> </span> </span> </span> </span> <span class="display-name  no-count"> <span> News </span> </span> </span> </a> </li> 
+             <li class="vve-check overflowable-list-item guide-channel" id="UCBR8-60-B28hp2BmDPdntcQ-guide-item" data-visibility-tracking="CAsQtSwiEwjBkIiXyYu9AhUFiH4KHVtgAJo="> <a class="guide-item yt-uix-sessionlink yt-valign spf-link   " href="/channel/UCBR8-60-B28hp2BmDPdntcQ" title="Spotlight" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;feature=g-channel" data-visibility-tracking="CAsQtSwiEwjBkIiXyYu9AhUFiH4KHVtgAJo=" data-external-id="UCBR8-60-B28hp2BmDPdntcQ" data-serialized-endpoint="0qDduQEaEhhVQ0JSOC02MC1CMjhocDJCbURQZG50Y1E%3D"> <span class="yt-valign-container"> <span class="thumb"> <span class="video-thumb  yt-thumb yt-thumb-20"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="https://yt3.ggpht.com/-dL2jeHlm2Ok/AAAAAAAAAAI/AAAAAAAAAAA/ZCMMkRj-hrw/s88-c-k-no/photo.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="20" height="20" /> <span class="vertical-align"></span> </span> </span> </span> </span> <span class="display-name  no-count"> <span> Spotlight </span> </span> </span> </a> </li> 
+            </ul> 
+           </div> 
+           <hr class="guide-section-separator" /> </li> 
+          <li class="guide-section vve-check" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CA4Q5isoAg" data-visibility-tracking="CAwQ5isiEwjBkIiXyYu9AhUFiH4KHVtgAJo="> 
+           <div class="guide-item-container personal-item"> 
+            <h3> <a href="/subscription_manager" class=" yt-uix-sessionlink" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;feature=g-chrec">Channels for you</a> </h3> 
+            <ul class="guide-user-links yt-uix-tdl yt-box"> 
+             <li class="vve-check overflowable-list-item guide-channel" id="UCUD4yDVyM54QpfqGJX4S7ng-guide-item" data-visibility-tracking="CA0QtSwiEwjBkIiXyYu9AhUFiH4KHVtgAJo="> <a class="guide-item yt-uix-sessionlink yt-valign spf-link   " href="/channel/UCUD4yDVyM54QpfqGJX4S7ng" title="YouTube Nation" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;feature=g-chfeat" data-visibility-tracking="CA0QtSwiEwjBkIiXyYu9AhUFiH4KHVtgAJo=" data-external-id="UCUD4yDVyM54QpfqGJX4S7ng" data-serialized-endpoint="0qDduQEaEhhVQ1VENHlEVnlNNTRRcGZxR0pYNFM3bmc%3D"> <span class="yt-valign-container"> <span class="thumb"> <span class="video-thumb  yt-thumb yt-thumb-20"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="https://yt3.ggpht.com/-EfyIhWjZ5UA/AAAAAAAAAAI/AAAAAAAAAAA/dVpux-V52kU/s88-c-k-no/photo.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="20" height="20" /> <span class="vertical-align"></span> </span> </span> </span> </span> <span class="display-name  no-count"> <span> YouTube Nation </span> </span> </span> </a> </li> 
+             <li class="vve-check overflowable-list-item guide-channel" id="UCaDVcGDMkvcRb4qGARkWlyg-guide-item" data-visibility-tracking="CA4QtSwiEwjBkIiXyYu9AhUFiH4KHVtgAJo="> <a class="guide-item yt-uix-sessionlink yt-valign spf-link   " href="/channel/UCaDVcGDMkvcRb4qGARkWlyg" title="SoulPancake" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;feature=g-chfeat" data-visibility-tracking="CA4QtSwiEwjBkIiXyYu9AhUFiH4KHVtgAJo=" data-external-id="UCaDVcGDMkvcRb4qGARkWlyg" data-serialized-endpoint="0qDduQEaEhhVQ2FEVmNHRE1rdmNSYjRxR0FSa1dseWc%3D"> <span class="yt-valign-container"> <span class="thumb"> <span class="video-thumb  yt-thumb yt-thumb-20"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="https://yt3.ggpht.com/-pF7Kz9ZVrgk/AAAAAAAAAAI/AAAAAAAAAAA/s-OlsoZAWls/s88-c-k-no/photo.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="20" height="20" /> <span class="vertical-align"></span> </span> </span> </span> </span> <span class="display-name  no-count"> <span> SoulPancake </span> </span> </span> </a> </li> 
+             <li class="vve-check overflowable-list-item guide-channel" id="UCL6qdy1ay1Qy-8KF3LyzY_A-guide-item" data-visibility-tracking="CA8QtSwiEwjBkIiXyYu9AhUFiH4KHVtgAJo="> <a class="guide-item yt-uix-sessionlink yt-valign spf-link   " href="/channel/UCL6qdy1ay1Qy-8KF3LyzY_A" title="INDMUSIC" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;feature=g-chfeat" data-visibility-tracking="CA8QtSwiEwjBkIiXyYu9AhUFiH4KHVtgAJo=" data-external-id="UCL6qdy1ay1Qy-8KF3LyzY_A" data-serialized-endpoint="0qDduQEaEhhVQ0w2cWR5MWF5MVF5LThLRjNMeXpZX0E%3D"> <span class="yt-valign-container"> <span class="thumb"> <span class="video-thumb  yt-thumb yt-thumb-20"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="https://yt3.ggpht.com/-bvyAn4oduvo/AAAAAAAAAAI/AAAAAAAAAAA/AtZ--T0NYoc/s88-c-k-no/photo.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="20" height="20" /> <span class="vertical-align"></span> </span> </span> </span> </span> <span class="display-name  no-count"> <span> INDMUSIC </span> </span> </span> </a> </li> 
+             <li class="vve-check overflowable-list-item guide-channel" id="UCUK0HBIBWgM2c4vsPhkYY4w-guide-item" data-visibility-tracking="CBAQtSwiEwjBkIiXyYu9AhUFiH4KHVtgAJo="> <a class="guide-item yt-uix-sessionlink yt-valign spf-link   " href="/channel/UCUK0HBIBWgM2c4vsPhkYY4w" title="The Slow Mo Guys" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;feature=g-chfeat" data-visibility-tracking="CBAQtSwiEwjBkIiXyYu9AhUFiH4KHVtgAJo=" data-external-id="UCUK0HBIBWgM2c4vsPhkYY4w" data-serialized-endpoint="0qDduQEaEhhVQ1VLMEhCSUJXZ00yYzR2c1Boa1lZNHc%3D"> <span class="yt-valign-container"> <span class="thumb"> <span class="video-thumb  yt-thumb yt-thumb-20"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="https://yt3.ggpht.com/-hdZED2lNuKE/AAAAAAAAAAI/AAAAAAAAAAA/ppDB-or2f7I/s88-c-k-no/photo.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="20" height="20" /> <span class="vertical-align"></span> </span> </span> </span> </span> <span class="display-name  no-count"> <span> The Slow Mo Guys </span> </span> </span> </a> </li> 
+             <li class="vve-check overflowable-list-item guide-channel" id="UCm_kb1Qt-gc08BEgHfUmwfA-guide-item" data-visibility-tracking="CBEQtSwiEwjBkIiXyYu9AhUFiH4KHVtgAJo="> <a class="guide-item yt-uix-sessionlink yt-valign spf-link   " href="/channel/UCm_kb1Qt-gc08BEgHfUmwfA" title="BabyTV ????????" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;feature=g-chfeat" data-visibility-tracking="CBEQtSwiEwjBkIiXyYu9AhUFiH4KHVtgAJo=" data-external-id="UCm_kb1Qt-gc08BEgHfUmwfA" data-serialized-endpoint="0qDduQEaEhhVQ21fa2IxUXQtZ2MwOEJFZ0hmVW13ZkE%3D"> <span class="yt-valign-container"> <span class="thumb"> <span class="video-thumb  yt-thumb yt-thumb-20"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="https://yt3.ggpht.com/-oE16k6kTALA/AAAAAAAAAAI/AAAAAAAAAAA/9Adqm06bBdQ/s88-c-k-no/photo.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="20" height="20" /> <span class="vertical-align"></span> </span> </span> </span> </span> <span class="display-name  no-count"> <span> BabyTV ???????? </span> </span> </span> </a> </li> 
+            </ul> 
+           </div> 
+           <hr class="guide-section-separator" /> </li> 
+          <li class="guide-section vve-check" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CBQQ5isoAw" data-visibility-tracking="CBIQ5isiEwjBkIiXyYu9AhUFiH4KHVtgAJo="> 
+           <div class="guide-item-container personal-item"> 
+            <ul class="guide-user-links yt-uix-tdl yt-box"> 
+             <li class="vve-check overflowable-list-item guide-channel" id="guide_builder-guide-item" data-visibility-tracking="CBMQtSwiEwjBkIiXyYu9AhUFiH4KHVtgAJo="> <a class="guide-item yt-uix-sessionlink yt-valign spf-nolink   " href="/channels" title="Browse channels" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;feature=g-manage" data-visibility-tracking="CBMQtSwiEwjBkIiXyYu9AhUFiH4KHVtgAJo=" data-external-id="guide_builder" data-serialized-endpoint="0qPduQECCAE%3D"> <span class="yt-valign-container"> <img class="thumb guide-builder-icon" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title="" /> <span class="display-name  no-count"> <span> Browse channels </span> </span> </span> </a> </li> 
+            </ul> 
+           </div> 
+           <hr class="guide-section-separator" /> </li> 
+          <li class="guide-section guide-header signup-promo "> <p> Sign in now to see your channels and recommendations! </p> 
+           <div id="guide-builder-promo-buttons" class="signed-out clearfix"> 
+            <a href="https://accounts.google.com/ServiceLogin?uilel=3&amp;service=youtube&amp;passive=true&amp;hl=en&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Dsign_in_promo%26hl%3Den%26next%3D%252Fuser%252FBournsCollege" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ"><span class="yt-uix-button-content">Sign In </span></a> 
+           </div> </li> 
+         </ul> 
+        </div> 
+       </div> 
+      </div> 
+      <div id="appbar-guide-notifications" class="hid"> 
+       <div id="appbar-guide-notification-watch-later-video-added"> 
+        <!--
+<div class="appbar-guide-notification"><span class="appbar-guide-notification-content-wrapper yt-valign"><img class="appbar-guide-notification-icon" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif"><span class="appbar-guide-notification-text-content">Added to Watch Later</span></span></div>    --> 
+       </div> 
+       <div id="appbar-guide-notification-watch-later-video-removed"> 
+        <!--
+<div class="appbar-guide-notification"><span class="appbar-guide-notification-content-wrapper yt-valign"><img class="appbar-guide-notification-icon" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif"><span class="appbar-guide-notification-text-content">Removed from Watch Later</span></span></div>    --> 
+       </div> 
+       <div id="appbar-guide-notification-subscription"> 
+        <!--
+<div class="appbar-guide-notification"><span class="appbar-guide-notification-content-wrapper yt-valign"><img class="appbar-guide-notification-icon" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif"><span class="appbar-guide-notification-text-content">Subscription added</span></span></div>    --> 
+       </div> 
+       <div id="appbar-guide-notification-unsubscription"> 
+        <!--
+<div class="appbar-guide-notification"><span class="appbar-guide-notification-content-wrapper yt-valign"><img class="appbar-guide-notification-icon" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif"><span class="appbar-guide-notification-text-content">Subscription removed</span></span></div>    --> 
+       </div> 
+       <div id="appbar-guide-notification-playlist-like"> 
+        <!--
+<div class="appbar-guide-notification"><span class="appbar-guide-notification-content-wrapper yt-valign"><img class="appbar-guide-notification-icon" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif"><span class="appbar-guide-notification-text-content">Playlist added</span></span></div>    --> 
+       </div> 
+       <div id="appbar-guide-notification-playlist-unlike"> 
+        <!--
+<div class="appbar-guide-notification"><span class="appbar-guide-notification-content-wrapper yt-valign"><img class="appbar-guide-notification-icon" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif"><span class="appbar-guide-notification-text-content">Playlist removed</span></span></div>    --> 
+       </div> 
+       <div id="appbar-guide-notification-video-like"> 
+        <!--
+<div class="appbar-guide-notification"><span class="appbar-guide-notification-content-wrapper yt-valign"><img class="appbar-guide-notification-icon" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif"><span class="appbar-guide-notification-text-content">Added to Liked videos</span></span></div>    --> 
+       </div> 
+       <div id="appbar-guide-notification-video-unlike"> 
+        <!--
+<div class="appbar-guide-notification"><span class="appbar-guide-notification-content-wrapper yt-valign"><img class="appbar-guide-notification-icon" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif"><span class="appbar-guide-notification-text-content">Removed from Liked videos</span></span></div>    --> 
+       </div> 
+      </div> 
+      <div id="appbar-guide-item-templates" class="hid"> 
+       <div id="appbar-guide-item-template-playlist"> 
+        <!--
+          <li class="vve-check overflowable-list-item guide-channel" id="__ID__-guide-item"
+      data-visibility-tracking="">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-nolink   "
+    href="__URL__"
+    title="__TITLE__"
+    data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;feature=g-playlists"
+    data-visibility-tracking=""
+    data-external-id="__ID__"
+    data-serialized-endpoint=""
+  >
+    <span class="yt-valign-container">
+        <img class="thumb guide-playlists-icon" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title="">
+        <span class="display-name  no-count">
+          <span>
+            __TITLE__
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+      --> 
+       </div> 
+      </div> 
+      <iframe id="appbar-guide-iframe-mask" class="appbar-guide-menu-visibility appbar-guide-menu-layout"></iframe> 
+     </div> 
+     <div id="alerts" class="content-alignment"> 
+     </div> 
+     <div id="header"> 
+     </div> 
+     <div id="player" class="    off-screen  "> 
+      <div id="playlist" class="playlist"> 
+      </div> 
+      <div id="player-unavailable" class="  hid  "> 
+      </div> 
+      <div id="player-api" class="player-width player-height off-screen-target  player-api"></div> 
+      <div id="playlist-tray" class="playlist-tray"> 
+      </div> 
+      <div class="clear"></div> 
+     </div> 
+     <div id="content" class="  content-alignment"> 
+      <div class="branded-page-v2-container     branded-page-base-bold-titles branded-page-v2-has-top-row branded-page-v2-container-flex-width"> 
+       <div class="branded-page-v2-top-row"> 
+        <div class="branded-page-v2-header channel-header yt-card"> 
+         <div id="gh-banner"> 
+          <style>
+      #c4-header-bg-container {
+      background-image: url(//s.ytimg.com/yts/img/channels/c4/default_banner-vfl7DRgTn.png);
+  }
+
+#c4-header-bg-container {
+      background-color: #0074BD;
+    }
+
+  @media screen and (-webkit-min-device-pixel-ratio: 1.5),
+         screen and (min-resolution: 1.5dppx) {
+#c4-header-bg-container {
+        background-image: url(//s.ytimg.com/yts/img/channels/c4/default_banner_hq-vfl4dpY8T.png);
+    }
+  }
+
+#c4-header-bg-container .hd-banner-image {
+      background-image: url(//s.ytimg.com/yts/img/channels/c4/default_banner_hq-vfl4dpY8T.png);
+  }
+
+    </style> 
+          <div id="c4-header-bg-container" class=""> 
+           <div class="hd-banner"> 
+            <div class="hd-banner-image"></div> 
+           </div> 
+           <div id="header-links"> 
+            <ul class="about-network-links"> 
+             <li class="channel-links-item"> <a href="https://plus.google.com/115871633306866086154" rel="me nofollow" target="_blank" title="" class="about-channel-link yt-uix-redirect-link about-channel-link-with-icon"> <img src="//s2.googleusercontent.com/s2/favicons?domain=plus.google.com&amp;feature=youtube_channel" class="about-channel-link-favicon" alt="" width="16" height="16" /> </a> </li> 
+            </ul> 
+           </div> 
+           <a class="channel-header-profile-image-container spf-link" href="/user/BournsCollege"> <img class="channel-header-profile-image" src="https://yt3.ggpht.com/-M2k5btgItJs/AAAAAAAAAAI/AAAAAAAAAAA/8MgnPOxN3HA/s100-c-k-no/photo.jpg" title="BournsCollege" alt="BournsCollege" /> </a> 
+          </div> 
+         </div> 
+         <div class=""> 
+          <div class="primary-header-contents" id="c4-primary-header-contents"> 
+           <div class="primary-header-actions clearfix"> 
+            <span class="channel-header-subscription-button-container yt-uix-button-subscription-container with-preferences"><button aria-busy="false" onclick=";return false;" aria-role="button" type="button" class="yt-uix-subscription-button yt-can-buffer yt-uix-button yt-uix-button-subscribe-branded yt-uix-button-size-default yt-uix-button-has-icon" aria-live="polite" data-href="https://accounts.google.com/ServiceLogin?uilel=3&amp;service=youtube&amp;passive=true&amp;hl=en&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26continue_action%3DQUFFLUhqbWNoak1MZTlZZjdncjJuU3U3Qkc2UGRjbFV3UXxBQ3Jtc0trTzBGRnVfU3Y5WFdsbFlnTUszX015NVJ5Q1NCWTE3WVNvMTJFZWM3REo4UUl6LU0tdDdtQTdOdG51SURmRmpGcWctYVJDZUlSanN4dl95Z2ZVbWllajhIMHdERUhVVjVXTE5HeTN6SV9Mc3hHck5zRi1oRWlyT1NhS3JoY251V0p0Q1lGOTFJNnM0NmNSUmhRcmhWNlhIVlFpVEtaSzNMN3hqSGs1cWFYZ3VZSEdsRDI1ZHpiOVI3UXFkeWZkX3ZZQXgyMWw%253D%26feature%3Dsubscribe%26hl%3Den%26next%3D%252Fchannel%252FUC60DUrOsOzmOIkpl1OZc8KQ" data-channel-external-id="UC60DUrOsOzmOIkpl1OZc8KQ" data-style-type="branded" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CBcQmys&amp;feature=channels4" role="button"><span class="yt-uix-button-icon-wrapper"><img class="yt-uix-button-icon yt-uix-button-icon-subscribe" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title="" /></span><span class="yt-uix-button-content"><span class="subscribe-label" aria-label="Subscribe">Subscribe</span><span class="subscribed-label" aria-label="Unsubscribe">Subscribed</span><span class="unsubscribe-label" aria-label="Unsubscribe">Unsubscribe</span> </span></button><button type="button" class="yt-uix-subscription-preferences-button yt-uix-button yt-uix-button-default yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" onclick=";return false;" data-channel-external-id="UC60DUrOsOzmOIkpl1OZc8KQ" role="button"><span class="yt-uix-button-icon-wrapper"><img class="yt-uix-button-icon yt-uix-button-icon-subscription-preferences" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title="" /></span></button><span class="yt-subscription-button-subscriber-count-branded-horizontal subscribed">36</span> <span class="yt-subscription-button-disabled-mask" title=""></span> 
+             <div class="yt-uix-overlay " data-overlay-style="primary" data-overlay-shape="tiny"> 
+              <div class="yt-dialog hid "> 
+               <div class="yt-dialog-base"> 
+                <span class="yt-dialog-align"></span> 
+                <div class="yt-dialog-fg"> 
+                 <div class="yt-dialog-fg-content"> 
+                  <div class="yt-dialog-header"> 
+                   <h2 class="yt-dialog-title"> Subscription preferences </h2> 
+                  </div> 
+                  <div class="yt-dialog-loading"> 
+                   <div class="yt-dialog-waiting-content"> 
+                    <div class="yt-spinner-img"></div>
+                    <div class="yt-dialog-waiting-text">
+                     Loading...
+                    </div> 
+                   </div> 
+                  </div> 
+                  <div class="yt-dialog-content"> 
+                   <div class="subscription-preferences-overlay-content-container"> 
+                    <div class="subscription-preferences-overlay-loading "> 
+                     <p class="yt-spinner"> <img class="yt-spinner-img" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" title="" /> <span class="yt-spinner-message"> Loading... </span> </p> 
+                    </div> 
+                    <div class="subscription-preferences-overlay-content"> 
+                    </div> 
+                   </div> 
+                  </div> 
+                  <div class="yt-dialog-working"> 
+                   <div id="yt-dialog-working-overlay"> 
+                   </div> 
+                   <div id="yt-dialog-working-bubble"> 
+                    <div class="yt-dialog-waiting-content"> 
+                     <div class="yt-spinner-img"></div>
+                     <div class="yt-dialog-waiting-text">
+                      Working...
+                     </div> 
+                    </div> 
+                   </div> 
+                  </div> 
+                 </div> 
+                </div> 
+               </div> 
+              </div> 
+             </div> </span> 
+           </div> 
+           <h1 class="branded-page-header-title"> <span class="qualified-channel-title ellipsized"><span class="qualified-channel-title-wrapper"><span dir="ltr" class="qualified-channel-title-text"><a dir="ltr" href="/user/BournsCollege" class="spf-link branded-page-header-title-link yt-uix-sessionlink" title="BournsCollege" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ">BournsCollege</a></span></span></span>  </h1> 
+          </div> 
+          <div id="channel-subheader" class="clearfix branded-page-gutter-padding appbar-content-trigger"> 
+           <ul id="channel-navigation-menu" class="clearfix"> 
+            <li> <h2 class="epic-nav-item-heading ">Home</h2> </li> 
+            <li> <a href="/user/BournsCollege/videos" class="yt-uix-button  spf-link  yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size-default" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ"><span class="yt-uix-button-content">Videos </span></a> </li> 
+            <li> <a href="/user/BournsCollege/playlists" class="yt-uix-button  spf-link  yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size-default" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ"><span class="yt-uix-button-content">Playlists </span></a> </li> 
+            <li> <a href="/user/BournsCollege/about" class="yt-uix-button  spf-link  yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size-default" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ"><span class="yt-uix-button-content">About </span></a> </li> 
+            <li> 
+             <div id="channel-search">
+              <label class="show-search epic-nav-item secondary-nav" for="channels-search-field"><img class="epic-nav-item-heading-icon" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Search Channel" /></label>
+              <form class="search-form epic-nav-item secondary-nav" action="/user/BournsCollege/search" method="get">
+               <span class=" yt-uix-form-input-container yt-uix-form-input-text-container "> <input class="yt-uix-form-input-text search-field" name="query" id="channels-search-field" type="text" placeholder="Search Channel" maxlength="100" autocomplete="off" /> </span>
+               <button type="submit" class="search-button yt-uix-button yt-uix-button-c4-search yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" onclick=";return true;" role="button"><span class="yt-uix-button-icon-wrapper"><img class="yt-uix-button-icon yt-uix-button-icon-search" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title="" /></span></button>
+              </form>
+             </div> </li> 
+           </ul> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="branded-page-v2-col-container"> 
+        <div class="branded-page-v2-col-container-inner"> 
+         <div class="branded-page-v2-primary-col"> 
+          <div class="     yt-card    clearfix"> 
+           <div class="branded-page-v2-body branded-page-v2-primary-column-content" id="gh-activityfeed"> 
+            <div id="feed" class="activity-feeds-container"> 
+             <div id="feed-page-subnav" class="branded-page-v2-subnav-container branded-page-gutter-padding clearfix"> 
+              <button id="feed-view-select" type="button" class=" yt-uix-button yt-uix-button-default yt-uix-button-size-default" onclick=";return false;" data-button-menu-indicate-selected="true" role="button" aria-pressed="false" aria-expanded="false" aria-haspopup="true" aria-activedescendant=""><span class="yt-uix-button-content">All activities </span><img class="yt-uix-button-arrow" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title="" />
+               <ul class=" yt-uix-button-menu yt-uix-button-menu-default" role="menu" aria-haspopup="true" style="display: none;">
+                <li role="menuitem" id="aria-id-16360369516"><span class=" yt-uix-button-menu-item spf-link" onclick=";spf.navigate(this.getAttribute('href'));return false;" href="/user/BournsCollege/feed?activity_view=3">Uploads</span></li>
+               </ul></button> 
+             </div> 
+             <ul id="channel-feed" class="feed-list"> 
+              <li class="feed-item-container yt-section-hover-container  legacy-style vve-check" data-channel-key="UC60DUrOsOzmOIkpl1OZc8KQ" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CB4Q1h8oAA"> 
+               <div class="comment-notice feed-item-dismissal hid"></div> 
+               <div class="feed-item-dismissable post-item "> 
+                <div class="feed-author-bubble-container"> 
+                 <a href="/user/BournsCollege" class="feed-author-bubble yt-uix-sessionlink spf-link  g-hovercard" data-ytid="" data-name="c4-feed-u" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CCUQpR4&amp;feature=c4-feed-u"> <span class="feed-item-author "> <span class="video-thumb  yt-thumb yt-thumb-28"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="https://yt3.ggpht.com/-M2k5btgItJs/AAAAAAAAAAI/AAAAAAAAAAA/8MgnPOxN3HA/s28-c-k-no/photo.jpg" alt="BournsCollege" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="28" height="28" /> <span class="vertical-align"></span> </span> </span> </span> </span> </a> 
+                </div> 
+                <div class="feed-item-main"> 
+                 <div class="feed-item-header spf-link vve-check" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CCMQmR4"> 
+                  <span class="feed-item-actions-line"> <span class="feed-item-owner"><a href="/user/BournsCollege" class="g-hovercard yt-uix-sessionlink yt-user-name spf-link" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;feature=c4-feed-u" dir="ltr" data-ytid="UC60DUrOsOzmOIkpl1OZc8KQ" data-name="c4-feed-u">BournsCollege</a></span> uploaded a video </span> 
+                 </div> 
+                 <div class="feed-item-main-content"> 
+                  <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-tile"> 
+                   <div class="yt-lockup-thumbnail"> 
+                    <a href="/watch?v=6FtZKtKSOBY" class="ux-thumb-wrap yt-uix-sessionlink contains-addto spf-link" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CCEQwBs&amp;feature=c4-feed-u"> <span class="video-thumb  yt-thumb yt-thumb-185"> <span class="yt-thumb-default"> <span class="yt-thumb-clip"> <img data-thumb="//i1.ytimg.com/vi/6FtZKtKSOBY/mqdefault.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="185" /> <span class="vertical-align"></span> </span> </span> </span> <span class="video-time">56:43</span> <button type="button" class="addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="6FtZKtKSOBY" role="button"><span class="yt-uix-button-content"> <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later" /> </span><img class="yt-uix-button-arrow" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title="" /></button> </a> 
+                   </div> 
+                   <div class="yt-lockup-content"> 
+                    <h3 class="yt-lockup-title"> <a class="yt-uix-sessionlink yt-uix-tile-link spf-link yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="Mariesa L. Crow May 24 2013" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CCIQvxs&amp;feature=c4-feed-u" href="/watch?v=6FtZKtKSOBY"> Mariesa L. Crow May 24 2013 </a> </h3> 
+                    <div class="yt-lockup-meta"> 
+                     <ul class="yt-lockup-meta-info"> 
+                      <li>9 months ago</li>
+                      <li>58 views</li> 
+                     </ul> 
+                    </div> 
+                    <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+                      Mariesa L. Crow, Fred Finley Distinguished Professor of Electrical Engineering at Missouri University of Science and Technology, delivered a lecture as part of the Bourns College of Engineering Dis... 
+                    </div> 
+                   </div> 
+                  </div> 
+                 </div> 
+                </div> 
+               </div> </li> 
+              <li class="feed-item-container yt-section-hover-container  legacy-style vve-check" data-channel-key="UC60DUrOsOzmOIkpl1OZc8KQ" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CCYQ1h8oAQ"> 
+               <div class="comment-notice feed-item-dismissal hid"></div> 
+               <div class="feed-item-dismissable post-item "> 
+                <div class="feed-author-bubble-container"> 
+                 <a href="/user/BournsCollege" class="feed-author-bubble yt-uix-sessionlink spf-link  g-hovercard" data-ytid="" data-name="c4-feed-u" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CC0QpR4&amp;feature=c4-feed-u"> <span class="feed-item-author "> <span class="video-thumb  yt-thumb yt-thumb-28"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="https://yt3.ggpht.com/-M2k5btgItJs/AAAAAAAAAAI/AAAAAAAAAAA/8MgnPOxN3HA/s28-c-k-no/photo.jpg" alt="BournsCollege" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="28" height="28" /> <span class="vertical-align"></span> </span> </span> </span> </span> </a> 
+                </div> 
+                <div class="feed-item-main"> 
+                 <div class="feed-item-header spf-link vve-check" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CCsQmR4"> 
+                  <span class="feed-item-actions-line"> <span class="feed-item-owner"><a href="/user/BournsCollege" class="g-hovercard yt-uix-sessionlink yt-user-name spf-link" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;feature=c4-feed-u" dir="ltr" data-ytid="UC60DUrOsOzmOIkpl1OZc8KQ" data-name="c4-feed-u">BournsCollege</a></span> uploaded a video </span> 
+                 </div> 
+                 <div class="feed-item-main-content"> 
+                  <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-tile"> 
+                   <div class="yt-lockup-thumbnail"> 
+                    <a href="/watch?v=YymVDse8jCw" class="ux-thumb-wrap yt-uix-sessionlink contains-addto spf-link" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CCoQwBs&amp;feature=c4-feed-u"> <span class="video-thumb  yt-thumb yt-thumb-185"> <span class="yt-thumb-default"> <span class="yt-thumb-clip"> <img data-thumb="//i1.ytimg.com/vi/YymVDse8jCw/mqdefault.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="185" /> <span class="vertical-align"></span> </span> </span> </span> <span class="video-time">57:15</span> <button type="button" class="addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="YymVDse8jCw" role="button"><span class="yt-uix-button-content"> <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later" /> </span><img class="yt-uix-button-arrow" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title="" /></button> </a> 
+                   </div> 
+                   <div class="yt-lockup-content"> 
+                    <h3 class="yt-lockup-title"> <a class="yt-uix-sessionlink yt-uix-tile-link spf-link yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="Vladimir Mitin April 12, 2013" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CCkQvxs&amp;feature=c4-feed-u" href="/watch?v=YymVDse8jCw"> Vladimir Mitin April 12, 2013 </a> </h3> 
+                    <div class="yt-lockup-meta"> 
+                     <ul class="yt-lockup-meta-info"> 
+                      <li>9 months ago</li>
+                      <li>66 views</li> 
+                     </ul> 
+                    </div> 
+                    <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+                      SUNY Distinguished Professor Vladimir Mitin of the University of Buffalo, State University of New York, delivers a Bourns College of Engineering Distinguished Speaker Series talk on &quot;Nanomaterials ... 
+                    </div> 
+                   </div> 
+                  </div> 
+                 </div> 
+                </div> 
+               </div> </li> 
+              <li class="feed-item-container yt-section-hover-container  legacy-style vve-check" data-channel-key="UC60DUrOsOzmOIkpl1OZc8KQ" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CC4Q1h8oAg"> 
+               <div class="comment-notice feed-item-dismissal hid"></div> 
+               <div class="feed-item-dismissable post-item "> 
+                <div class="feed-author-bubble-container"> 
+                 <a href="/user/BournsCollege" class="feed-author-bubble yt-uix-sessionlink spf-link  g-hovercard" data-ytid="" data-name="c4-feed-u" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CDUQpR4&amp;feature=c4-feed-u"> <span class="feed-item-author "> <span class="video-thumb  yt-thumb yt-thumb-28"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="https://yt3.ggpht.com/-M2k5btgItJs/AAAAAAAAAAI/AAAAAAAAAAA/8MgnPOxN3HA/s28-c-k-no/photo.jpg" alt="BournsCollege" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="28" height="28" /> <span class="vertical-align"></span> </span> </span> </span> </span> </a> 
+                </div> 
+                <div class="feed-item-main"> 
+                 <div class="feed-item-header spf-link vve-check" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CDMQmR4"> 
+                  <span class="feed-item-actions-line"> <span class="feed-item-owner"><a href="/user/BournsCollege" class="g-hovercard yt-uix-sessionlink yt-user-name spf-link" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;feature=c4-feed-u" dir="ltr" data-ytid="UC60DUrOsOzmOIkpl1OZc8KQ" data-name="c4-feed-u">BournsCollege</a></span> uploaded a video </span> 
+                 </div> 
+                 <div class="feed-item-main-content"> 
+                  <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-tile"> 
+                   <div class="yt-lockup-thumbnail"> 
+                    <a href="/watch?v=ZFM9odzQppE" class="ux-thumb-wrap yt-uix-sessionlink contains-addto spf-link" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CDEQwBs&amp;feature=c4-feed-u"> <span class="video-thumb  yt-thumb yt-thumb-185"> <span class="yt-thumb-default"> <span class="yt-thumb-clip"> <img data-thumb="//i1.ytimg.com/vi/ZFM9odzQppE/mqdefault.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="185" /> <span class="vertical-align"></span> </span> </span> </span> <span class="video-time">1:09:42</span> <button type="button" class="addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="ZFM9odzQppE" role="button"><span class="yt-uix-button-content"> <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later" /> </span><img class="yt-uix-button-arrow" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title="" /></button> </a> 
+                   </div> 
+                   <div class="yt-lockup-content"> 
+                    <h3 class="yt-lockup-title"> <a class="yt-uix-sessionlink yt-uix-tile-link spf-link yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="Krishnan Rajeshwar March 15 2013" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CDIQvxs&amp;feature=c4-feed-u" href="/watch?v=ZFM9odzQppE"> Krishnan Rajeshwar March 15 2013 </a> </h3> 
+                    <div class="yt-lockup-meta"> 
+                     <ul class="yt-lockup-meta-info"> 
+                      <li>11 months ago</li>
+                      <li>84 views</li> 
+                     </ul> 
+                    </div> 
+                    <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+                      Krishnan Rajeshwar, Distinguished University Professor at the University of Texas at Arlington, delivered a lecture as part of the Bourns College of Engineering at UC Riverside Distinguished Speake... 
+                    </div> 
+                   </div> 
+                  </div> 
+                 </div> 
+                </div> 
+               </div> </li> 
+              <li class="feed-item-container yt-section-hover-container  legacy-style vve-check" data-channel-key="UC60DUrOsOzmOIkpl1OZc8KQ" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CDYQ1h8oAw"> 
+               <div class="comment-notice feed-item-dismissal hid"></div> 
+               <div class="feed-item-dismissable post-item "> 
+                <div class="feed-author-bubble-container"> 
+                 <a href="/user/BournsCollege" class="feed-author-bubble yt-uix-sessionlink spf-link  g-hovercard" data-ytid="" data-name="c4-feed-u" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CD0QpR4&amp;feature=c4-feed-u"> <span class="feed-item-author "> <span class="video-thumb  yt-thumb yt-thumb-28"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="https://yt3.ggpht.com/-M2k5btgItJs/AAAAAAAAAAI/AAAAAAAAAAA/8MgnPOxN3HA/s28-c-k-no/photo.jpg" alt="BournsCollege" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="28" height="28" /> <span class="vertical-align"></span> </span> </span> </span> </span> </a> 
+                </div> 
+                <div class="feed-item-main"> 
+                 <div class="feed-item-header spf-link vve-check" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CDsQmR4"> 
+                  <span class="feed-item-actions-line"> <span class="feed-item-owner"><a href="/user/BournsCollege" class="g-hovercard yt-uix-sessionlink yt-user-name spf-link" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;feature=c4-feed-u" dir="ltr" data-ytid="UC60DUrOsOzmOIkpl1OZc8KQ" data-name="c4-feed-u">BournsCollege</a></span> uploaded a video </span> 
+                 </div> 
+                 <div class="feed-item-main-content"> 
+                  <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-tile"> 
+                   <div class="yt-lockup-thumbnail"> 
+                    <a href="/watch?v=-16bckg-tU4" class="ux-thumb-wrap yt-uix-sessionlink contains-addto spf-link" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CDkQwBs&amp;feature=c4-feed-u"> <span class="video-thumb  yt-thumb yt-thumb-185"> <span class="yt-thumb-default"> <span class="yt-thumb-clip"> <img data-thumb="//i1.ytimg.com/vi/-16bckg-tU4/mqdefault.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="185" /> <span class="vertical-align"></span> </span> </span> </span> <span class="video-time">1:01</span> <button type="button" class="addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="-16bckg-tU4" role="button"><span class="yt-uix-button-content"> <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later" /> </span><img class="yt-uix-button-arrow" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title="" /></button> </a> 
+                   </div> 
+                   <div class="yt-lockup-content"> 
+                    <h3 class="yt-lockup-title"> <a class="yt-uix-sessionlink yt-uix-tile-link spf-link yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="2013 BCOE Homecoming Faculty vs. Alumni Basketball Game" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CDoQvxs&amp;feature=c4-feed-u" href="/watch?v=-16bckg-tU4"> 2013 BCOE Homecoming Faculty vs. Alumni Basketball Game </a> </h3> 
+                    <div class="yt-lockup-meta"> 
+                     <ul class="yt-lockup-meta-info"> 
+                      <li>1 year ago</li>
+                      <li>91 views</li> 
+                     </ul> 
+                    </div> 
+                    <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+                      After losing the 2012 game, the faculty came roaring back in 2013 to win a hard-fought BCOE Homecoming Faculty vs. Alumni Basketball Game by a score of 46-44. Video footage courtesy of Ross French,... 
+                    </div> 
+                   </div> 
+                  </div> 
+                 </div> 
+                </div> 
+               </div> </li> 
+              <li class="feed-item-container yt-section-hover-container  legacy-style vve-check" data-channel-key="UC60DUrOsOzmOIkpl1OZc8KQ" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CD4Q1h8oBA"> 
+               <div class="comment-notice feed-item-dismissal hid"></div> 
+               <div class="feed-item-dismissable post-item "> 
+                <div class="feed-author-bubble-container"> 
+                 <a href="/user/BournsCollege" class="feed-author-bubble yt-uix-sessionlink spf-link  g-hovercard" data-ytid="" data-name="c4-feed-u" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CEUQpR4&amp;feature=c4-feed-u"> <span class="feed-item-author "> <span class="video-thumb  yt-thumb yt-thumb-28"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="https://yt3.ggpht.com/-M2k5btgItJs/AAAAAAAAAAI/AAAAAAAAAAA/8MgnPOxN3HA/s28-c-k-no/photo.jpg" alt="BournsCollege" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="28" height="28" /> <span class="vertical-align"></span> </span> </span> </span> </span> </a> 
+                </div> 
+                <div class="feed-item-main"> 
+                 <div class="feed-item-header spf-link vve-check" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CEMQmR4"> 
+                  <span class="feed-item-actions-line"> <span class="feed-item-owner"><a href="/user/BournsCollege" class="g-hovercard yt-uix-sessionlink yt-user-name spf-link" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;feature=c4-feed-u" dir="ltr" data-ytid="UC60DUrOsOzmOIkpl1OZc8KQ" data-name="c4-feed-u">BournsCollege</a></span> uploaded a video </span> 
+                 </div> 
+                 <div class="feed-item-main-content"> 
+                  <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-tile"> 
+                   <div class="yt-lockup-thumbnail"> 
+                    <a href="/watch?v=wKgADeSHFFA" class="ux-thumb-wrap yt-uix-sessionlink contains-addto spf-link" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CEEQwBs&amp;feature=c4-feed-u"> <span class="video-thumb  yt-thumb yt-thumb-185"> <span class="yt-thumb-default"> <span class="yt-thumb-clip"> <img data-thumb="//i1.ytimg.com/vi/wKgADeSHFFA/mqdefault.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="185" /> <span class="vertical-align"></span> </span> </span> </span> <span class="video-time">1:03</span> <button type="button" class="addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="wKgADeSHFFA" role="button"><span class="yt-uix-button-content"> <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later" /> </span><img class="yt-uix-button-arrow" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title="" /></button> </a> 
+                   </div> 
+                   <div class="yt-lockup-content"> 
+                    <h3 class="yt-lockup-title"> <a class="yt-uix-sessionlink yt-uix-tile-link spf-link yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="Dean's Night Invitation" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CEIQvxs&amp;feature=c4-feed-u" href="/watch?v=wKgADeSHFFA"> Dean's Night Invitation </a> </h3> 
+                    <div class="yt-lockup-meta"> 
+                     <ul class="yt-lockup-meta-info"> 
+                      <li>1 year ago</li>
+                      <li>92 views</li> 
+                     </ul> 
+                    </div> 
+                    <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+                      An invitation from Dean Reza Abbaschian to join him for Dean's Night as the UCR Highlanders basketball team takes on UCSB on Wednesday, Feb. 20, and to attend the annual alumni vs. faculty basketba... 
+                    </div> 
+                   </div> 
+                  </div> 
+                 </div> 
+                </div> 
+               </div> </li> 
+              <li class="feed-item-container yt-section-hover-container  legacy-style vve-check" data-channel-key="UC60DUrOsOzmOIkpl1OZc8KQ" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CEYQ1h8oBQ"> 
+               <div class="comment-notice feed-item-dismissal hid"></div> 
+               <div class="feed-item-dismissable post-item "> 
+                <div class="feed-author-bubble-container"> 
+                 <a href="/user/BournsCollege" class="feed-author-bubble yt-uix-sessionlink spf-link  g-hovercard" data-ytid="" data-name="c4-feed-u" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CE0QpR4&amp;feature=c4-feed-u"> <span class="feed-item-author "> <span class="video-thumb  yt-thumb yt-thumb-28"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="https://yt3.ggpht.com/-M2k5btgItJs/AAAAAAAAAAI/AAAAAAAAAAA/8MgnPOxN3HA/s28-c-k-no/photo.jpg" alt="BournsCollege" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="28" height="28" /> <span class="vertical-align"></span> </span> </span> </span> </span> </a> 
+                </div> 
+                <div class="feed-item-main"> 
+                 <div class="feed-item-header spf-link vve-check" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CEsQmR4"> 
+                  <span class="feed-item-actions-line"> <span class="feed-item-owner"><a href="/user/BournsCollege" class="g-hovercard yt-uix-sessionlink yt-user-name spf-link" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;feature=c4-feed-u" dir="ltr" data-ytid="UC60DUrOsOzmOIkpl1OZc8KQ" data-name="c4-feed-u">BournsCollege</a></span> uploaded a video </span> 
+                 </div> 
+                 <div class="feed-item-main-content"> 
+                  <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-tile"> 
+                   <div class="yt-lockup-thumbnail"> 
+                    <a href="/watch?v=Zbe9b9Ola5M" class="ux-thumb-wrap yt-uix-sessionlink contains-addto spf-link" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CEoQwBs&amp;feature=c4-feed-u"> <span class="video-thumb  yt-thumb yt-thumb-185"> <span class="yt-thumb-default"> <span class="yt-thumb-clip"> <img data-thumb="//i1.ytimg.com/vi/Zbe9b9Ola5M/mqdefault.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="185" /> <span class="vertical-align"></span> </span> </span> </span> <span class="video-time">2:29</span> <button type="button" class="addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="Zbe9b9Ola5M" role="button"><span class="yt-uix-button-content"> <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later" /> </span><img class="yt-uix-button-arrow" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title="" /></button> </a> 
+                   </div> 
+                   <div class="yt-lockup-content"> 
+                    <h3 class="yt-lockup-title"> <a class="yt-uix-sessionlink yt-uix-tile-link spf-link yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="87th Annual Colloid &amp; Surface Science Symposium at UC Riverside" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CEkQvxs&amp;feature=c4-feed-u" href="/watch?v=Zbe9b9Ola5M"> 87th Annual Colloid &amp; Surface Science Symposium at UC Riverside </a> </h3> 
+                    <div class="yt-lockup-meta"> 
+                     <ul class="yt-lockup-meta-info"> 
+                      <li>1 year ago</li>
+                      <li>402 views</li> 
+                     </ul> 
+                    </div> 
+                    <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+                      An invitation from Associate Professor of Chemical and Environmental Engineering Sharon Walker to attend the American Chemical Society's 87th Annual Colloid &amp; Surface Science Symposium (
+                     <a href="http://coll" target="_blank" title="http://coll" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">http://coll</a>... 
+                    </div> 
+                   </div> 
+                  </div> 
+                 </div> 
+                </div> 
+               </div> </li> 
+              <li class="feed-item-container yt-section-hover-container  legacy-style vve-check" data-channel-key="UC60DUrOsOzmOIkpl1OZc8KQ" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CE4Q1h8oBg"> 
+               <div class="comment-notice feed-item-dismissal hid"></div> 
+               <div class="feed-item-dismissable post-item "> 
+                <div class="feed-author-bubble-container"> 
+                 <a href="/user/BournsCollege" class="feed-author-bubble yt-uix-sessionlink spf-link  g-hovercard" data-ytid="" data-name="c4-feed-u" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CFUQpR4&amp;feature=c4-feed-u"> <span class="feed-item-author "> <span class="video-thumb  yt-thumb yt-thumb-28"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="https://yt3.ggpht.com/-M2k5btgItJs/AAAAAAAAAAI/AAAAAAAAAAA/8MgnPOxN3HA/s28-c-k-no/photo.jpg" alt="BournsCollege" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="28" height="28" /> <span class="vertical-align"></span> </span> </span> </span> </span> </a> 
+                </div> 
+                <div class="feed-item-main"> 
+                 <div class="feed-item-header spf-link vve-check" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CFMQmR4"> 
+                  <span class="feed-item-actions-line"> <span class="feed-item-owner"><a href="/user/BournsCollege" class="g-hovercard yt-uix-sessionlink yt-user-name spf-link" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;feature=c4-feed-u" dir="ltr" data-ytid="UC60DUrOsOzmOIkpl1OZc8KQ" data-name="c4-feed-u">BournsCollege</a></span> uploaded a video </span> 
+                 </div> 
+                 <div class="feed-item-main-content"> 
+                  <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-tile"> 
+                   <div class="yt-lockup-thumbnail"> 
+                    <a href="/watch?v=F86VuUEwkPA" class="ux-thumb-wrap yt-uix-sessionlink contains-addto spf-link" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CFIQwBs&amp;feature=c4-feed-u"> <span class="video-thumb  yt-thumb yt-thumb-185"> <span class="yt-thumb-default"> <span class="yt-thumb-clip"> <img data-thumb="//i1.ytimg.com/vi/F86VuUEwkPA/mqdefault.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="185" /> <span class="vertical-align"></span> </span> </span> </span> <span class="video-time">2:29</span> <button type="button" class="addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="F86VuUEwkPA" role="button"><span class="yt-uix-button-content"> <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later" /> </span><img class="yt-uix-button-arrow" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title="" /></button> </a> 
+                   </div> 
+                   <div class="yt-lockup-content"> 
+                    <h3 class="yt-lockup-title"> <a class="yt-uix-sessionlink yt-uix-tile-link spf-link yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="87th Annual Colloid &amp; Surface Science Symposium at UC Riverside" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CFEQvxs&amp;feature=c4-feed-u" href="/watch?v=F86VuUEwkPA"> 87th Annual Colloid &amp; Surface Science Symposium at UC Riverside </a> </h3> 
+                    <div class="yt-lockup-meta"> 
+                     <ul class="yt-lockup-meta-info"> 
+                      <li>1 year ago</li>
+                      <li>685 views</li> 
+                     </ul> 
+                    </div> 
+                    <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+                      An invitation from Associate Professor of Chemical and Environmental Engineering Sharon Walker to attend the American Chemical Society's 87th Annual Colloid &amp; Surface Science Symposium (
+                     <a href="http://coll" target="_blank" title="http://coll" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">http://coll</a>... 
+                    </div> 
+                   </div> 
+                  </div> 
+                 </div> 
+                </div> 
+               </div> </li> 
+              <li class="feed-item-container yt-section-hover-container  legacy-style vve-check" data-channel-key="UC60DUrOsOzmOIkpl1OZc8KQ" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CFYQ1h8oBw"> 
+               <div class="comment-notice feed-item-dismissal hid"></div> 
+               <div class="feed-item-dismissable post-item "> 
+                <div class="feed-author-bubble-container"> 
+                 <a href="/user/BournsCollege" class="feed-author-bubble yt-uix-sessionlink spf-link  g-hovercard" data-ytid="" data-name="c4-feed-u" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CF0QpR4&amp;feature=c4-feed-u"> <span class="feed-item-author "> <span class="video-thumb  yt-thumb yt-thumb-28"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="https://yt3.ggpht.com/-M2k5btgItJs/AAAAAAAAAAI/AAAAAAAAAAA/8MgnPOxN3HA/s28-c-k-no/photo.jpg" alt="BournsCollege" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="28" height="28" /> <span class="vertical-align"></span> </span> </span> </span> </span> </a> 
+                </div> 
+                <div class="feed-item-main"> 
+                 <div class="feed-item-header spf-link vve-check" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CFsQmR4"> 
+                  <span class="feed-item-actions-line"> <span class="feed-item-owner"><a href="/user/BournsCollege" class="g-hovercard yt-uix-sessionlink yt-user-name spf-link" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;feature=c4-feed-u" dir="ltr" data-ytid="UC60DUrOsOzmOIkpl1OZc8KQ" data-name="c4-feed-u">BournsCollege</a></span> uploaded a video </span> 
+                 </div> 
+                 <div class="feed-item-main-content"> 
+                  <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-tile"> 
+                   <div class="yt-lockup-thumbnail"> 
+                    <a href="/watch?v=oRCCIWPReQ8" class="ux-thumb-wrap yt-uix-sessionlink contains-addto spf-link" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CFoQwBs&amp;feature=c4-feed-u"> <span class="video-thumb  yt-thumb yt-thumb-185"> <span class="yt-thumb-default"> <span class="yt-thumb-clip"> <img data-thumb="//i1.ytimg.com/vi/oRCCIWPReQ8/mqdefault.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="185" /> <span class="vertical-align"></span> </span> </span> </span> <span class="video-time">28:32</span> <button type="button" class="addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="oRCCIWPReQ8" role="button"><span class="yt-uix-button-content"> <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later" /> </span><img class="yt-uix-button-arrow" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title="" /></button> </a> 
+                   </div> 
+                   <div class="yt-lockup-content"> 
+                    <h3 class="yt-lockup-title"> <a class="yt-uix-sessionlink yt-uix-tile-link spf-link yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="Bourns Portrait Dedication" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CFkQvxs&amp;feature=c4-feed-u" href="/watch?v=oRCCIWPReQ8"> Bourns Portrait Dedication </a> </h3> 
+                    <div class="yt-lockup-meta"> 
+                     <ul class="yt-lockup-meta-info"> 
+                      <li>2 years ago</li>
+                      <li>209 views</li> 
+                     </ul> 
+                    </div> 
+                    <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+                      On December 8, 2011, the Bourns College of Engineering unveiled a portrait of Marlan and Rosemary Bourns, for whom the college is named. The portrait, commissioned by their family for Marlan Bourns... 
+                    </div> 
+                   </div> 
+                  </div> 
+                 </div> 
+                </div> 
+               </div> </li> 
+              <li class="feed-item-container yt-section-hover-container  legacy-style vve-check" data-channel-key="UC60DUrOsOzmOIkpl1OZc8KQ" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CF4Q1h8oCA"> 
+               <div class="comment-notice feed-item-dismissal hid"></div> 
+               <div class="feed-item-dismissable post-item "> 
+                <div class="feed-author-bubble-container"> 
+                 <a href="/user/BournsCollege" class="feed-author-bubble yt-uix-sessionlink spf-link  g-hovercard" data-ytid="" data-name="c4-feed-u" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CGUQpR4&amp;feature=c4-feed-u"> <span class="feed-item-author "> <span class="video-thumb  yt-thumb yt-thumb-28"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="https://yt3.ggpht.com/-M2k5btgItJs/AAAAAAAAAAI/AAAAAAAAAAA/8MgnPOxN3HA/s28-c-k-no/photo.jpg" alt="BournsCollege" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="28" height="28" /> <span class="vertical-align"></span> </span> </span> </span> </span> </a> 
+                </div> 
+                <div class="feed-item-main"> 
+                 <div class="feed-item-header spf-link vve-check" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CGMQmR4"> 
+                  <span class="feed-item-actions-line"> <span class="feed-item-owner"><a href="/user/BournsCollege" class="g-hovercard yt-uix-sessionlink yt-user-name spf-link" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;feature=c4-feed-u" dir="ltr" data-ytid="UC60DUrOsOzmOIkpl1OZc8KQ" data-name="c4-feed-u">BournsCollege</a></span> uploaded a video </span> 
+                 </div> 
+                 <div class="feed-item-main-content"> 
+                  <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-tile"> 
+                   <div class="yt-lockup-thumbnail"> 
+                    <a href="/watch?v=9Tr-tjlhd1g" class="ux-thumb-wrap yt-uix-sessionlink contains-addto spf-link" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CGIQwBs&amp;feature=c4-feed-u"> <span class="video-thumb  yt-thumb yt-thumb-185"> <span class="yt-thumb-default"> <span class="yt-thumb-clip"> <img data-thumb="//i1.ytimg.com/vi/9Tr-tjlhd1g/mqdefault.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="185" /> <span class="vertical-align"></span> </span> </span> </span> <span class="video-time">25:19</span> <button type="button" class="addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="9Tr-tjlhd1g" role="button"><span class="yt-uix-button-content"> <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later" /> </span><img class="yt-uix-button-arrow" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title="" /></button> </a> 
+                   </div> 
+                   <div class="yt-lockup-content"> 
+                    <h3 class="yt-lockup-title"> <a class="yt-uix-sessionlink yt-uix-tile-link spf-link yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="iHub Press Conference August 2, 2011" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CGEQvxs&amp;feature=c4-feed-u" href="/watch?v=9Tr-tjlhd1g"> iHub Press Conference August 2, 2011 </a> </h3> 
+                    <div class="yt-lockup-meta"> 
+                     <ul class="yt-lockup-meta-info"> 
+                      <li>2 years ago</li>
+                      <li>114 views</li> 
+                     </ul> 
+                    </div> 
+                    <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+                      The Bourns College of Engineering-Center for Environmental Research and Technology hosted a press conference August 2, 2011, to announce the creation of an expanded San Diego/Riverside Innovation H... 
+                    </div> 
+                   </div> 
+                  </div> 
+                 </div> 
+                </div> 
+               </div> </li> 
+              <li class="feed-item-container yt-section-hover-container  legacy-style vve-check" data-channel-key="UC60DUrOsOzmOIkpl1OZc8KQ" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CGYQ1h8oCQ"> 
+               <div class="comment-notice feed-item-dismissal hid"></div> 
+               <div class="feed-item-dismissable post-item "> 
+                <div class="feed-author-bubble-container"> 
+                 <a href="/user/BournsCollege" class="feed-author-bubble yt-uix-sessionlink spf-link  g-hovercard" data-ytid="" data-name="c4-feed-u" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CG0QpR4&amp;feature=c4-feed-u"> <span class="feed-item-author "> <span class="video-thumb  yt-thumb yt-thumb-28"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="https://yt3.ggpht.com/-M2k5btgItJs/AAAAAAAAAAI/AAAAAAAAAAA/8MgnPOxN3HA/s28-c-k-no/photo.jpg" alt="BournsCollege" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="28" height="28" /> <span class="vertical-align"></span> </span> </span> </span> </span> </a> 
+                </div> 
+                <div class="feed-item-main"> 
+                 <div class="feed-item-header spf-link vve-check" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CGsQmR4"> 
+                  <span class="feed-item-actions-line"> <span class="feed-item-owner"><a href="/user/BournsCollege" class="g-hovercard yt-uix-sessionlink yt-user-name spf-link" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;feature=c4-feed-u" dir="ltr" data-ytid="UC60DUrOsOzmOIkpl1OZc8KQ" data-name="c4-feed-u">BournsCollege</a></span> uploaded a video </span> 
+                 </div> 
+                 <div class="feed-item-main-content"> 
+                  <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-tile"> 
+                   <div class="yt-lockup-thumbnail"> 
+                    <a href="/watch?v=2YQ0rR3zu10" class="ux-thumb-wrap yt-uix-sessionlink contains-addto spf-link" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CGkQwBs&amp;feature=c4-feed-u"> <span class="video-thumb  yt-thumb yt-thumb-185"> <span class="yt-thumb-default"> <span class="yt-thumb-clip"> <img data-thumb="//i1.ytimg.com/vi/2YQ0rR3zu10/mqdefault.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="185" /> <span class="vertical-align"></span> </span> </span> </span> <span class="video-time">22:59</span> <button type="button" class="addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="2YQ0rR3zu10" role="button"><span class="yt-uix-button-content"> <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later" /> </span><img class="yt-uix-button-arrow" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title="" /></button> </a> 
+                   </div> 
+                   <div class="yt-lockup-content"> 
+                    <h3 class="yt-lockup-title"> <a class="yt-uix-sessionlink yt-uix-tile-link spf-link yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="What Can Computer Science Do For Malaria Research?" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CGoQvxs&amp;feature=c4-feed-u" href="/watch?v=2YQ0rR3zu10"> What Can Computer Science Do For Malaria Research? </a> </h3> 
+                    <div class="yt-lockup-meta"> 
+                     <ul class="yt-lockup-meta-info"> 
+                      <li>2 years ago</li>
+                      <li>373 views</li> 
+                     </ul> 
+                    </div> 
+                    <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+                      Presentation by Bourns College of Engineering Professor of Computer Science Eamonn Keogh to the Citizens University Committee in Riverside on February 23, 2011. The talk describes his research usin... 
+                    </div> 
+                   </div> 
+                  </div> 
+                 </div> 
+                </div> 
+               </div> </li> 
+              <li class="feed-item-container yt-section-hover-container  legacy-style vve-check" data-channel-key="UC60DUrOsOzmOIkpl1OZc8KQ" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CG4Q1h8oCg"> 
+               <div class="comment-notice feed-item-dismissal hid"></div> 
+               <div class="feed-item-dismissable post-item "> 
+                <div class="feed-author-bubble-container"> 
+                 <a href="/user/BournsCollege" class="feed-author-bubble yt-uix-sessionlink spf-link  g-hovercard" data-ytid="" data-name="c4-feed-u" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CHUQpR4&amp;feature=c4-feed-u"> <span class="feed-item-author "> <span class="video-thumb  yt-thumb yt-thumb-28"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="https://yt3.ggpht.com/-M2k5btgItJs/AAAAAAAAAAI/AAAAAAAAAAA/8MgnPOxN3HA/s28-c-k-no/photo.jpg" alt="BournsCollege" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="28" height="28" /> <span class="vertical-align"></span> </span> </span> </span> </span> </a> 
+                </div> 
+                <div class="feed-item-main"> 
+                 <div class="feed-item-header spf-link vve-check" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CHMQmR4"> 
+                  <span class="feed-item-actions-line"> <span class="feed-item-owner"><a href="/user/BournsCollege" class="g-hovercard yt-uix-sessionlink yt-user-name spf-link" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;feature=c4-feed-u" dir="ltr" data-ytid="UC60DUrOsOzmOIkpl1OZc8KQ" data-name="c4-feed-u">BournsCollege</a></span> uploaded a video </span> 
+                 </div> 
+                 <div class="feed-item-main-content"> 
+                  <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-tile"> 
+                   <div class="yt-lockup-thumbnail"> 
+                    <a href="/watch?v=sBpusZSzpyI" class="ux-thumb-wrap yt-uix-sessionlink contains-addto spf-link" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CHIQwBs&amp;feature=c4-feed-u"> <span class="video-thumb  yt-thumb yt-thumb-185"> <span class="yt-thumb-default"> <span class="yt-thumb-clip"> <img data-thumb="//i1.ytimg.com/vi/sBpusZSzpyI/mqdefault.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="185" /> <span class="vertical-align"></span> </span> </span> </span> <span class="video-time">7:00</span> <button type="button" class="addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="sBpusZSzpyI" role="button"><span class="yt-uix-button-content"> <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later" /> </span><img class="yt-uix-button-arrow" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title="" /></button> </a> 
+                   </div> 
+                   <div class="yt-lockup-content"> 
+                    <h3 class="yt-lockup-title"> <a class="yt-uix-sessionlink yt-uix-tile-link spf-link yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="From Biomimesis to Bioinspiration" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CHEQvxs&amp;feature=c4-feed-u" href="/watch?v=sBpusZSzpyI"> From Biomimesis to Bioinspiration </a> </h3> 
+                    <div class="yt-lockup-meta"> 
+                     <ul class="yt-lockup-meta-info"> 
+                      <li>3 years ago</li>
+                      <li>302 views</li> 
+                     </ul> 
+                    </div> 
+                    <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+                      A video produced in conjunction with the publication of Assistant Professor of Bioengineering Valentine Vullev's article, &quot;From Biomimesis to Bioinspiration: What's the Benefit for Solar Energy Con... 
+                    </div> 
+                   </div> 
+                  </div> 
+                 </div> 
+                </div> 
+               </div> </li> 
+              <li class="feed-item-container yt-section-hover-container  legacy-style vve-check" data-channel-key="UC60DUrOsOzmOIkpl1OZc8KQ" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CHYQ1h8oCw"> 
+               <div class="comment-notice feed-item-dismissal hid"></div> 
+               <div class="feed-item-dismissable post-item "> 
+                <div class="feed-author-bubble-container"> 
+                 <a href="/user/BournsCollege" class="feed-author-bubble yt-uix-sessionlink spf-link  g-hovercard" data-ytid="" data-name="c4-feed-u" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CH0QpR4&amp;feature=c4-feed-u"> <span class="feed-item-author "> <span class="video-thumb  yt-thumb yt-thumb-28"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="https://yt3.ggpht.com/-M2k5btgItJs/AAAAAAAAAAI/AAAAAAAAAAA/8MgnPOxN3HA/s28-c-k-no/photo.jpg" alt="BournsCollege" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="28" height="28" /> <span class="vertical-align"></span> </span> </span> </span> </span> </a> 
+                </div> 
+                <div class="feed-item-main"> 
+                 <div class="feed-item-header spf-link vve-check" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CHsQmR4"> 
+                  <span class="feed-item-actions-line"> <span class="feed-item-owner"><a href="/user/BournsCollege" class="g-hovercard yt-uix-sessionlink yt-user-name spf-link" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;feature=c4-feed-u" dir="ltr" data-ytid="UC60DUrOsOzmOIkpl1OZc8KQ" data-name="c4-feed-u">BournsCollege</a></span> uploaded a video </span> 
+                 </div> 
+                 <div class="feed-item-main-content"> 
+                  <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-tile"> 
+                   <div class="yt-lockup-thumbnail"> 
+                    <a href="/watch?v=tAl5udsQE6o" class="ux-thumb-wrap yt-uix-sessionlink contains-addto spf-link" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CHoQwBs&amp;feature=c4-feed-u"> <span class="video-thumb  yt-thumb yt-thumb-185"> <span class="yt-thumb-default"> <span class="yt-thumb-clip"> <img data-thumb="//i1.ytimg.com/vi/tAl5udsQE6o/mqdefault.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="185" /> <span class="vertical-align"></span> </span> </span> </span> <span class="video-time">6:46</span> <button type="button" class="addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="tAl5udsQE6o" role="button"><span class="yt-uix-button-content"> <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later" /> </span><img class="yt-uix-button-arrow" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title="" /></button> </a> 
+                   </div> 
+                   <div class="yt-lockup-content"> 
+                    <h3 class="yt-lockup-title"> <a class="yt-uix-sessionlink yt-uix-tile-link spf-link yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="The Bourns Difference" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CHkQvxs&amp;feature=c4-feed-u" href="/watch?v=tAl5udsQE6o"> The Bourns Difference </a> </h3> 
+                    <div class="yt-lockup-meta"> 
+                     <ul class="yt-lockup-meta-info"> 
+                      <li>3 years ago</li>
+                      <li>336 views</li> 
+                     </ul> 
+                    </div> 
+                    <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+                      Learn why the Bourns College of Engineering is the number one ranked public college of engineering of its size in the U.S. 
+                    </div> 
+                   </div> 
+                  </div> 
+                 </div> 
+                </div> 
+               </div> </li> 
+              <li class="feed-item-container yt-section-hover-container  legacy-style vve-check" data-channel-key="UC60DUrOsOzmOIkpl1OZc8KQ" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CH4Q1h8oDA"> 
+               <div class="comment-notice feed-item-dismissal hid"></div> 
+               <div class="feed-item-dismissable post-item "> 
+                <div class="feed-author-bubble-container"> 
+                 <a href="/user/BournsCollege" class="feed-author-bubble yt-uix-sessionlink spf-link  g-hovercard" data-ytid="" data-name="c4-feed-u" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CIUBEKUe&amp;feature=c4-feed-u"> <span class="feed-item-author "> <span class="video-thumb  yt-thumb yt-thumb-28"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="https://yt3.ggpht.com/-M2k5btgItJs/AAAAAAAAAAI/AAAAAAAAAAA/8MgnPOxN3HA/s28-c-k-no/photo.jpg" alt="BournsCollege" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="28" height="28" /> <span class="vertical-align"></span> </span> </span> </span> </span> </a> 
+                </div> 
+                <div class="feed-item-main"> 
+                 <div class="feed-item-header spf-link vve-check" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CIMBEJke"> 
+                  <span class="feed-item-actions-line"> <span class="feed-item-owner"><a href="/user/BournsCollege" class="g-hovercard yt-uix-sessionlink yt-user-name spf-link" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;feature=c4-feed-u" dir="ltr" data-ytid="UC60DUrOsOzmOIkpl1OZc8KQ" data-name="c4-feed-u">BournsCollege</a></span> uploaded a video </span> 
+                 </div> 
+                 <div class="feed-item-main-content"> 
+                  <div class="yt-lockup clearfix  yt-lockup-video yt-lockup-tile"> 
+                   <div class="yt-lockup-thumbnail"> 
+                    <a href="/watch?v=ZZVTryBr5ec" class="ux-thumb-wrap yt-uix-sessionlink contains-addto spf-link" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CIIBEMAb&amp;feature=c4-feed-u"> <span class="video-thumb  yt-thumb yt-thumb-185"> <span class="yt-thumb-default"> <span class="yt-thumb-clip"> <img data-thumb="//i1.ytimg.com/vi/ZZVTryBr5ec/mqdefault.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="185" /> <span class="vertical-align"></span> </span> </span> </span> <span class="video-time">2:27</span> <button type="button" class="addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="ZZVTryBr5ec" role="button"><span class="yt-uix-button-content"> <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later" /> </span><img class="yt-uix-button-arrow" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title="" /></button> </a> 
+                   </div> 
+                   <div class="yt-lockup-content"> 
+                    <h3 class="yt-lockup-title"> <a class="yt-uix-sessionlink yt-uix-tile-link spf-link yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="Winston Chung Commits to $10M Gift to College" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CIEBEL8b&amp;feature=c4-feed-u" href="/watch?v=ZZVTryBr5ec"> Winston Chung Commits to $10M Gift to College </a> </h3> 
+                    <div class="yt-lockup-meta"> 
+                     <ul class="yt-lockup-meta-info"> 
+                      <li>3 years ago</li>
+                      <li>160 views</li> 
+                     </ul> 
+                    </div> 
+                    <div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">
+                      On Monday, January 24, 2011, Chinese inventor and entrepreneur Winston Chung visited UC Riverside, toured the Bourns College of Engineering research laboratories and facilities and met with student... 
+                    </div> 
+                   </div> 
+                  </div> 
+                 </div> 
+                </div> 
+               </div> </li> 
+             </ul> 
+            </div> 
+            <div id="ad_creative_1" class="ad-div hid" style="z-index: 1"> 
+             <div id="ad_creative_div_1"></div> 
+             <script>(function() {function tagMpuIframe() {var containerEl = document.getElementById('ad_creative_div_1');if (!containerEl) {return;}var iframeEl = document.createElement('iframe');var iframeSrc = 'http://ad.doubleclick.net/N4061/adi/com.ytbc/BournsCollege;sz=1x1;tile=1;dc_yt=1;kga=-1;kgg=-1;klg=en;kmyd=ad_creative_1;ytexp=935624,930811,916624,936106,902547;ord=' +Math.floor(Math.random() * 10000000000000000) +'?';iframeEl.id = 'ad_creative_iframe_1';iframeEl.width = '1';iframeEl.height = '1';iframeEl.style.cssText = 'z-index:1;';iframeEl.scrolling = 'no';iframeEl.frameBorder = '0';containerEl.appendChild(iframeEl);iframeEl.src = iframeSrc;}tagMpuIframe();})();</script> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="branded-page-v2-secondary-col"> 
+          <div class="branded-page-related-channels branded-page-box yt-card"> 
+           <h2 class="branded-page-module-title yt-uix-tooltip" data-tooltip-text="These recommendations have been automatically generated by YouTube." dir="ltr"> Popular channels on YouTube </h2> 
+           <ul class="branded-page-related-channels-list"> 
+            <li class="branded-page-related-channels-item spf-link clearfix" data-external-id="UCZJ7m7EnCNodqnu5SAtg8eQ"> <span class="yt-lockup clearfix  yt-lockup-channel yt-lockup-mini"> 
+              <div class="yt-lockup-thumbnail" style="width: 34px;"> 
+               <a href="/user/HolaSoyGerman" class="ux-thumb-wrap yt-uix-sessionlink spf-link" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CIgBEMAb&amp;feature=rc-rel"> <span class="video-thumb  yt-thumb yt-thumb-34 g-hovercard" data-ytid="UCZJ7m7EnCNodqnu5SAtg8eQ"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="//i1.ytimg.com/i/ZJ7m7EnCNodqnu5SAtg8eQ/mq1.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="34" height="34" /> <span class="vertical-align"></span> </span> </span> </span> </a> 
+              </div> 
+              <div class="yt-lockup-content"> 
+               <span class="qualified-channel-title ellipsized"><span class="qualified-channel-title-wrapper"><span dir="ltr" class="qualified-channel-title-text g-hovercard" data-ytid="UCZJ7m7EnCNodqnu5SAtg8eQ" data-name="rc-rel"> <h3 class="yt-lockup-title"> <a class="yt-uix-sessionlink yt-uix-tile-link spf-link" dir="ltr" title="HolaSoyGerman" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CIoBEL8b&amp;feature=rc-rel" href="/user/HolaSoyGerman"> HolaSoyGerman </a> </h3> </span></span></span> 
+               <div class="yt-lockup-meta spf-nolink"> 
+                <span class=" yt-uix-button-subscription-container"><button aria-busy="false" onclick=";return false;" aria-role="button" title="16,601,094 subscribers" type="button" class="yt-uix-subscription-button yt-can-buffer yt-uix-hovercard yt-uix-button yt-uix-button-subscribe-unbranded yt-uix-button-size-default yt-uix-button-has-icon yt-uix-tooltip" aria-live="polite" data-subscriber-count-title="16,601,094 subscribers" data-channel-external-id="UCZJ7m7EnCNodqnu5SAtg8eQ" data-style-type="unbranded" data-subscriber-count-tooltip="True" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CIkBEJsr&amp;feature=rc-rel" data-href="https://accounts.google.com/ServiceLogin?uilel=3&amp;service=youtube&amp;passive=true&amp;hl=en&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26continue_action%3DQUFFLUhqbm5vbmtmZ1RUNmQ4YWk0VXI3ZXk4dHUzV0JyQXxBQ3Jtc0tuWUJZVm9XY2hzYnhvVlI0clQtYS1yOXZKWVk1MnI3NEdjdlRBb1hSRkF5SUJ1aTFkbjlER0Uxb1JTMDR4elJkS2lzR09HaXJPZEJobEl6WExYeFRIT2hpLUJPaUJqcU55dTdVX3hjRlh0LVg3b0ZuYW5vVWtncUtMbThTaXRZOTBra0tGS1VqdzV6eXl6SGhaQVdGb3hWSlZkdzJPRm01SFA4SHdXdnFlX0JBR2Y4UEVPZjhxcVR0Mlh0TkVwZ21ReTRTZ0E%253D%26feature%3Dsubscribe%26hl%3Den%26next%3D%252Fchannel%252FUCZJ7m7EnCNodqnu5SAtg8eQ" role="button"><span class="yt-uix-button-icon-wrapper"><img class="yt-uix-button-icon yt-uix-button-icon-subscribe" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="16,601,094 subscribers" title="" /></span><span class="yt-uix-button-content"><span class="subscribe-label" aria-label="Subscribe">Subscribe</span><span class="subscribed-label" aria-label="Unsubscribe">Subscribed</span><span class="unsubscribe-label" aria-label="Unsubscribe">Unsubscribe</span> </span></button> <span class="yt-subscription-button-disabled-mask" title=""></span> </span> 
+               </div> 
+              </div> </span> </li> 
+            <li class="branded-page-related-channels-item spf-link clearfix" data-external-id="UCY30JRSgfhYXA6i6xX1erWg"> <span class="yt-lockup clearfix  yt-lockup-channel yt-lockup-mini"> 
+              <div class="yt-lockup-thumbnail" style="width: 34px;"> 
+               <a href="/user/smosh" class="ux-thumb-wrap yt-uix-sessionlink spf-link" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CIwBEMAb&amp;feature=rc-rel"> <span class="video-thumb  yt-thumb yt-thumb-34 g-hovercard" data-ytid="UCY30JRSgfhYXA6i6xX1erWg"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="https://yt3.ggpht.com/-AufHIQ3sLmM/AAAAAAAAAAI/AAAAAAAAAAA/hPFE6k06-Ls/s176-c-k-no/photo.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="34" height="34" /> <span class="vertical-align"></span> </span> </span> </span> </a> 
+              </div> 
+              <div class="yt-lockup-content"> 
+               <span class="qualified-channel-title ellipsized has-badge"><span class="qualified-channel-title-wrapper"><span dir="ltr" class="qualified-channel-title-text g-hovercard" data-ytid="UCY30JRSgfhYXA6i6xX1erWg" data-name="rc-rel"> <h3 class="yt-lockup-title"> <a class="yt-uix-sessionlink yt-uix-tile-link spf-link" dir="ltr" title="Smosh" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CI4BEL8b&amp;feature=rc-rel" href="/user/smosh"> Smosh </a> </h3> </span></span> <a class="qualified-channel-title-badge" href="//support.google.com/youtube/bin/answer.py?answer=3046484&amp;hl=en" target="_blank"> <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-tooltip yt-channel-title-icon-verified" alt="" title="Verified" /> </a> </span> 
+               <div class="yt-lockup-meta spf-nolink"> 
+                <span class=" yt-uix-button-subscription-container"><button aria-busy="false" onclick=";return false;" aria-role="button" title="17,077,240 subscribers" type="button" class="yt-uix-subscription-button yt-can-buffer yt-uix-hovercard yt-uix-button yt-uix-button-subscribe-unbranded yt-uix-button-size-default yt-uix-button-has-icon yt-uix-tooltip" aria-live="polite" data-subscriber-count-title="17,077,240 subscribers" data-channel-external-id="UCY30JRSgfhYXA6i6xX1erWg" data-style-type="unbranded" data-subscriber-count-tooltip="True" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CI0BEJsr&amp;feature=rc-rel" data-href="https://accounts.google.com/ServiceLogin?uilel=3&amp;service=youtube&amp;passive=true&amp;hl=en&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26continue_action%3DQUFFLUhqbmdZcUlORlItS29nM29yVW0tX25rdmxGRmxhZ3xBQ3Jtc0ttVmtmeEt6TGRqUGxGaHJNTmkwVDYxS2Y1ZVh1SEVWal9oOHdEejhBUDgtU3h2LVNmay1SNWZoMzZtMVNIalJyamlfcU84Nng0TDgzVkFISG9RMUp1WDFiek8tNzlkNVBBOFcwS2xOY0dlWmdoSkdEdmoyZUVudF9ZMDduRW5FbWZVaGotYU9fUkpvQkRNeWJpV2lsTVhfWnpkandLTE1jNWI3U1VpYUlYSTd5MXdKZjgyYlYwc29vSFN4bkdZczBkSTNoRXg%253D%26feature%3Dsubscribe%26hl%3Den%26next%3D%252Fchannel%252FUCY30JRSgfhYXA6i6xX1erWg" role="button"><span class="yt-uix-button-icon-wrapper"><img class="yt-uix-button-icon yt-uix-button-icon-subscribe" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="17,077,240 subscribers" title="" /></span><span class="yt-uix-button-content"><span class="subscribe-label" aria-label="Subscribe">Subscribe</span><span class="subscribed-label" aria-label="Unsubscribe">Subscribed</span><span class="unsubscribe-label" aria-label="Unsubscribe">Unsubscribe</span> </span></button> <span class="yt-subscription-button-disabled-mask" title=""></span> </span> 
+               </div> 
+              </div> </span> </li> 
+            <li class="branded-page-related-channels-item spf-link clearfix" data-external-id="UC-lHJZR3Gqxm24_Vd_AJ5Yw"> <span class="yt-lockup clearfix  yt-lockup-channel yt-lockup-mini"> 
+              <div class="yt-lockup-thumbnail" style="width: 34px;"> 
+               <a href="/user/PewDiePie" class="ux-thumb-wrap yt-uix-sessionlink spf-link" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CJABEMAb&amp;feature=rc-rel"> <span class="video-thumb  yt-thumb yt-thumb-34 g-hovercard" data-ytid="UC-lHJZR3Gqxm24_Vd_AJ5Yw"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="https://yt3.ggpht.com/-rJq9gk1QIis/AAAAAAAAAAI/AAAAAAAAAAA/Kx4wkvKOfxY/s176-c-k-no/photo.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="34" height="34" /> <span class="vertical-align"></span> </span> </span> </span> </a> 
+              </div> 
+              <div class="yt-lockup-content"> 
+               <span class="qualified-channel-title ellipsized has-badge"><span class="qualified-channel-title-wrapper"><span dir="ltr" class="qualified-channel-title-text g-hovercard" data-ytid="UC-lHJZR3Gqxm24_Vd_AJ5Yw" data-name="rc-rel"> <h3 class="yt-lockup-title"> <a class="yt-uix-sessionlink yt-uix-tile-link spf-link" dir="ltr" title="PewDiePie" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CJIBEL8b&amp;feature=rc-rel" href="/user/PewDiePie"> PewDiePie </a> </h3> </span></span> <a class="qualified-channel-title-badge" href="//support.google.com/youtube/bin/answer.py?answer=3046484&amp;hl=en" target="_blank"> <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-tooltip yt-channel-title-icon-verified" alt="" title="Verified" /> </a> </span> 
+               <div class="yt-lockup-meta spf-nolink"> 
+                <span class=" yt-uix-button-subscription-container"><button aria-busy="false" onclick=";return false;" aria-role="button" title="24,771,401 subscribers" type="button" class="yt-uix-subscription-button yt-can-buffer yt-uix-hovercard yt-uix-button yt-uix-button-subscribe-unbranded yt-uix-button-size-default yt-uix-button-has-icon yt-uix-tooltip" aria-live="polite" data-subscriber-count-title="24,771,401 subscribers" data-channel-external-id="UC-lHJZR3Gqxm24_Vd_AJ5Yw" data-style-type="unbranded" data-subscriber-count-tooltip="True" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CJEBEJsr&amp;feature=rc-rel" data-href="https://accounts.google.com/ServiceLogin?uilel=3&amp;service=youtube&amp;passive=true&amp;hl=en&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26continue_action%3DQUFFLUhqbEY2dlhnbXpFRms5R28ydkgtQXRVV3pZdVA3QXxBQ3Jtc0tuMHROVGRnNTZsM3JSenQ0R1c4UlZoZnFyOTBXWGUwSjNKenZ1azR3UGVPMFVDZnBXVHowTkJyTDVLUUE1aWluazkxNmNuSm5iMGVFdTctTUhQTGl2bjluLTRhNTRROFBsSkR0T1dqclZNcWxub3hwRGI1d2JiN1pCZDlra09yaTVzdFF6Ym9qT2JCemQ2RU16MFBUNGxoa2RCWU1yakZUbVV2YzNPd1hsamIxUERuT2tIWldxWGxkS2xva3lqZ2g4aDVKWEo%253D%26feature%3Dsubscribe%26hl%3Den%26next%3D%252Fchannel%252FUC-lHJZR3Gqxm24_Vd_AJ5Yw" role="button"><span class="yt-uix-button-icon-wrapper"><img class="yt-uix-button-icon yt-uix-button-icon-subscribe" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="24,771,401 subscribers" title="" /></span><span class="yt-uix-button-content"><span class="subscribe-label" aria-label="Subscribe">Subscribe</span><span class="subscribed-label" aria-label="Unsubscribe">Subscribed</span><span class="unsubscribe-label" aria-label="Unsubscribe">Unsubscribe</span> </span></button> <span class="yt-subscription-button-disabled-mask" title=""></span> </span> 
+               </div> 
+              </div> </span> </li> 
+            <li class="branded-page-related-channels-item spf-link clearfix" data-external-id="UC2xskkQVFEpLcGFnNSLQY0A"> <span class="yt-lockup clearfix  yt-lockup-channel yt-lockup-mini"> 
+              <div class="yt-lockup-thumbnail" style="width: 34px;"> 
+               <a href="/user/RihannaVEVO" class="ux-thumb-wrap yt-uix-sessionlink spf-link" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CJQBEMAb&amp;feature=rc-rel"> <span class="video-thumb  yt-thumb yt-thumb-34 g-hovercard" data-ytid="UC2xskkQVFEpLcGFnNSLQY0A"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="https://yt3.ggpht.com/-7iKcy1xQesU/AAAAAAAAAAI/AAAAAAAAAAA/AqQs92Q0Y8w/s176-c-k-no/photo.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="34" height="34" /> <span class="vertical-align"></span> </span> </span> </span> </a> 
+              </div> 
+              <div class="yt-lockup-content"> 
+               <span class="qualified-channel-title ellipsized has-badge"><span class="qualified-channel-title-wrapper"><span dir="ltr" class="qualified-channel-title-text g-hovercard" data-ytid="UC2xskkQVFEpLcGFnNSLQY0A" data-name="rc-rel"> <h3 class="yt-lockup-title"> <a class="yt-uix-sessionlink yt-uix-tile-link spf-link" dir="ltr" title="RihannaVEVO" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CJYBEL8b&amp;feature=rc-rel" href="/user/RihannaVEVO"> RihannaVEVO </a> </h3> </span></span> <a class="qualified-channel-title-badge" href="//support.google.com/youtube/bin/answer.py?answer=3046484&amp;hl=en" target="_blank"> <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-tooltip yt-channel-title-icon-verified" alt="" title="Verified" /> </a> </span> 
+               <div class="yt-lockup-meta spf-nolink"> 
+                <span class=" yt-uix-button-subscription-container"><button aria-busy="false" onclick=";return false;" aria-role="button" title="13,231,445 subscribers" type="button" class="yt-uix-subscription-button yt-can-buffer yt-uix-hovercard yt-uix-button yt-uix-button-subscribe-unbranded yt-uix-button-size-default yt-uix-button-has-icon yt-uix-tooltip" aria-live="polite" data-subscriber-count-title="13,231,445 subscribers" data-channel-external-id="UC2xskkQVFEpLcGFnNSLQY0A" data-style-type="unbranded" data-subscriber-count-tooltip="True" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CJUBEJsr&amp;feature=rc-rel" data-href="https://accounts.google.com/ServiceLogin?uilel=3&amp;service=youtube&amp;passive=true&amp;hl=en&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26continue_action%3DQUFFLUhqbWJlVWtJakUwVWVHZ1I0MGo4R0pnN3FTZUhkUXxBQ3Jtc0ttVmJ3OG04TS1rbmppcTYtSG0zMTF4QjFYSTdZS0VzTnVWUGdUSFBsWHFDMlRBVWxZVGIyU2J3QkVkUXozZHF6OGY3ZF9YbTZ5ejg5eHA3YjVSYVc5LVZsSUxjLU5QbmxTdGN6T1ZjV29BejhuN0xULUdpNXlPRFQ0aWJDWl9iRFNxcXpieE42cVBkY1o2d01jRjdCeGZtMXJrRW5hYUM5UlE1TjNmT240U0doVjgtd3F3Q3BmX1FVYVhTa25BQlZucG1sSTg%253D%26feature%3Dsubscribe%26hl%3Den%26next%3D%252Fchannel%252FUC2xskkQVFEpLcGFnNSLQY0A" role="button"><span class="yt-uix-button-icon-wrapper"><img class="yt-uix-button-icon yt-uix-button-icon-subscribe" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="13,231,445 subscribers" title="" /></span><span class="yt-uix-button-content"><span class="subscribe-label" aria-label="Subscribe">Subscribe</span><span class="subscribed-label" aria-label="Unsubscribe">Subscribed</span><span class="unsubscribe-label" aria-label="Unsubscribe">Unsubscribe</span> </span></button> <span class="yt-subscription-button-disabled-mask" title=""></span> </span> 
+               </div> 
+              </div> </span> </li> 
+            <li class="branded-page-related-channels-item spf-link clearfix" data-external-id="UCbW18JZRgko_mOGm5er8Yzg"> <span class="yt-lockup clearfix  yt-lockup-channel yt-lockup-mini"> 
+              <div class="yt-lockup-thumbnail" style="width: 34px;"> 
+               <a href="/user/OneDirectionVEVO" class="ux-thumb-wrap yt-uix-sessionlink spf-link" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CJgBEMAb&amp;feature=rc-rel"> <span class="video-thumb  yt-thumb yt-thumb-34 g-hovercard" data-ytid="UCbW18JZRgko_mOGm5er8Yzg"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="https://yt3.ggpht.com/-QRypZt--uYA/AAAAAAAAAAI/AAAAAAAAAAA/Y8-NLYzQzZc/s176-c-k-no/photo.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="34" height="34" /> <span class="vertical-align"></span> </span> </span> </span> </a> 
+              </div> 
+              <div class="yt-lockup-content"> 
+               <span class="qualified-channel-title ellipsized has-badge"><span class="qualified-channel-title-wrapper"><span dir="ltr" class="qualified-channel-title-text g-hovercard" data-ytid="UCbW18JZRgko_mOGm5er8Yzg" data-name="rc-rel"> <h3 class="yt-lockup-title"> <a class="yt-uix-sessionlink yt-uix-tile-link spf-link" dir="ltr" title="OneDirectionVEVO" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CJoBEL8b&amp;feature=rc-rel" href="/user/OneDirectionVEVO"> OneDirectionVEVO </a> </h3> </span></span> <a class="qualified-channel-title-badge" href="//support.google.com/youtube/bin/answer.py?answer=3046484&amp;hl=en" target="_blank"> <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-tooltip yt-channel-title-icon-verified" alt="" title="Verified" /> </a> </span> 
+               <div class="yt-lockup-meta spf-nolink"> 
+                <span class=" yt-uix-button-subscription-container"><button aria-busy="false" onclick=";return false;" aria-role="button" title="12,611,286 subscribers" type="button" class="yt-uix-subscription-button yt-can-buffer yt-uix-hovercard yt-uix-button yt-uix-button-subscribe-unbranded yt-uix-button-size-default yt-uix-button-has-icon yt-uix-tooltip" aria-live="polite" data-subscriber-count-title="12,611,286 subscribers" data-channel-external-id="UCbW18JZRgko_mOGm5er8Yzg" data-style-type="unbranded" data-subscriber-count-tooltip="True" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CJkBEJsr&amp;feature=rc-rel" data-href="https://accounts.google.com/ServiceLogin?uilel=3&amp;service=youtube&amp;passive=true&amp;hl=en&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26continue_action%3DQUFFLUhqbTJkcm9aNDZMbXlCZFFIdGJyRmxVRzdIYWlrd3xBQ3Jtc0ttTkRlVkh6NUJYYjBmVXEtZFVqUDZqWDRGZTZ3T1NBU0s5VzUtMDYtUWRlclcwQ1RNdk90R0tqVVA1SGtiYVRWcXZlSWVaVW5DLVM0VDNBY2hRSXJESWtzM0ViNWk2R1VyazZRTkxLTGlMQnIwM05NRVBCYlZ6UkpVNjUzRTdkOTdTdkU4MTRsSk1JT1ByQVVJTkNFLVhZTndoRFZNNkxnNDVTTW1jeWFvTS1hV2hndXAxaWs5Y3VyUnJIcHpuTnBsbWhKbWQ%253D%26feature%3Dsubscribe%26hl%3Den%26next%3D%252Fchannel%252FUCbW18JZRgko_mOGm5er8Yzg" role="button"><span class="yt-uix-button-icon-wrapper"><img class="yt-uix-button-icon yt-uix-button-icon-subscribe" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="12,611,286 subscribers" title="" /></span><span class="yt-uix-button-content"><span class="subscribe-label" aria-label="Subscribe">Subscribe</span><span class="subscribed-label" aria-label="Unsubscribe">Subscribed</span><span class="unsubscribe-label" aria-label="Unsubscribe">Unsubscribe</span> </span></button> <span class="yt-subscription-button-disabled-mask" title=""></span> </span> 
+               </div> 
+              </div> </span> </li> 
+            <li class="branded-page-related-channels-item spf-link clearfix" data-external-id="UC9gFih9rw0zNCK3ZtoKQQyA"> <span class="yt-lockup clearfix  yt-lockup-channel yt-lockup-mini"> 
+              <div class="yt-lockup-thumbnail" style="width: 34px;"> 
+               <a href="/user/JennaMarbles" class="ux-thumb-wrap yt-uix-sessionlink spf-link" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CJwBEMAb&amp;feature=rc-rel"> <span class="video-thumb  yt-thumb yt-thumb-34 g-hovercard" data-ytid="UC9gFih9rw0zNCK3ZtoKQQyA"> <span class="yt-thumb-square"> <span class="yt-thumb-clip"> <img data-thumb="https://yt3.ggpht.com/-34FbM3JM5Ck/AAAAAAAAAAI/AAAAAAAAAAA/qVlymUN44C8/s176-c-k-no/photo.jpg" alt="Thumbnail" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="34" height="34" /> <span class="vertical-align"></span> </span> </span> </span> </a> 
+              </div> 
+              <div class="yt-lockup-content"> 
+               <span class="qualified-channel-title ellipsized has-badge"><span class="qualified-channel-title-wrapper"><span dir="ltr" class="qualified-channel-title-text g-hovercard" data-ytid="UC9gFih9rw0zNCK3ZtoKQQyA" data-name="rc-rel"> <h3 class="yt-lockup-title"> <a class="yt-uix-sessionlink yt-uix-tile-link spf-link" dir="ltr" title="JennaMarbles" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CJ4BEL8b&amp;feature=rc-rel" href="/user/JennaMarbles"> JennaMarbles </a> </h3> </span></span> <a class="qualified-channel-title-badge" href="//support.google.com/youtube/bin/answer.py?answer=3046484&amp;hl=en" target="_blank"> <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-tooltip yt-channel-title-icon-verified" alt="" title="Verified" /> </a> </span> 
+               <div class="yt-lockup-meta spf-nolink"> 
+                <span class=" yt-uix-button-subscription-container"><button aria-busy="false" onclick=";return false;" aria-role="button" title="12,925,224 subscribers" type="button" class="yt-uix-subscription-button yt-can-buffer yt-uix-hovercard yt-uix-button yt-uix-button-subscribe-unbranded yt-uix-button-size-default yt-uix-button-has-icon yt-uix-tooltip" aria-live="polite" data-subscriber-count-title="12,925,224 subscribers" data-channel-external-id="UC9gFih9rw0zNCK3ZtoKQQyA" data-style-type="unbranded" data-subscriber-count-tooltip="True" data-sessionlink="ei=qZMfU4GYEoWQ-gPbwIHQCQ&amp;ved=CJ0BEJsr&amp;feature=rc-rel" data-href="https://accounts.google.com/ServiceLogin?uilel=3&amp;service=youtube&amp;passive=true&amp;hl=en&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26continue_action%3DQUFFLUhqbW1pZjFybElhZFMtbDF5TDZxYTdCZ2dmbE9QQXxBQ3Jtc0trNmdXSW9RMUNoRlk3WjktQXVjUjZLN1BJbVBFU1Bhb0VSeXV2dkJtZUlCQlJSUzA2aWZSYV9MaG9lMzhxX3VOcHB3TDJYakc4OUNJbWFVY1NSaHVZN3NwNURoRk5IMDZ1UGlaZHA5OXZLUldpQlhZSm15VGEtdVF2TXlBY05zb3VINjl2NUxzRXVsY0NFX3RpWjZCaWRtZS1pNzg4TUp3SDU1X3pSR0hCa3ZacE94aDdNczdiXzAxZHRJTVBnTWVrVm0tYXo%253D%26feature%3Dsubscribe%26hl%3Den%26next%3D%252Fchannel%252FUC9gFih9rw0zNCK3ZtoKQQyA" role="button"><span class="yt-uix-button-icon-wrapper"><img class="yt-uix-button-icon yt-uix-button-icon-subscribe" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="12,925,224 subscribers" title="" /></span><span class="yt-uix-button-content"><span class="subscribe-label" aria-label="Subscribe">Subscribe</span><span class="subscribed-label" aria-label="Unsubscribe">Subscribed</span><span class="unsubscribe-label" aria-label="Unsubscribe">Unsubscribe</span> </span></button> <span class="yt-subscription-button-disabled-mask" title=""></span> </span> 
+               </div> 
+              </div> </span> </li> 
+           </ul> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div>
+    </div>
+   </div>
+  </div> 
+  <div id="footer-container" class="yt-base-gutter">
+   <div id="footer">
+    <div id="footer-main">
+     <div id="footer-logo">
+      <a href="/" title="YouTube home"><img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="YouTube home" /></a>
+     </div> 
+     <ul class="pickers yt-uix-button-group" data-button-toggle-group="optional"> 
+      <li> <button id="yt-picker-language-button" type="button" class=" yt-uix-button yt-uix-button-default yt-uix-button-size-default yt-uix-button-has-icon" onclick=";return false;" data-button-menu-id="arrow-display" data-button-toggle="true" data-picker-key="language" data-button-action="yt.www.picker.load" data-picker-position="footer" role="button"><span class="yt-uix-button-icon-wrapper"><img class="yt-uix-button-icon yt-uix-button-icon-footer-language" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title="" /></span><span class="yt-uix-button-content"> <span class="yt-picker-button-label"> Language: </span> English </span><img class="yt-uix-button-arrow" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title="" /></button> </li> 
+      <li> <button id="yt-picker-country-button" type="button" class=" yt-uix-button yt-uix-button-default yt-uix-button-size-default" onclick=";return false;" data-button-menu-id="arrow-display" data-button-toggle="true" data-picker-key="country" data-button-action="yt.www.picker.load" data-picker-position="footer" role="button"><span class="yt-uix-button-content"> <span class="yt-picker-button-label"> Country: </span> Worldwide </span><img class="yt-uix-button-arrow" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title="" /></button> </li> 
+      <li> <button id="yt-picker-safetymode-button" type="button" class=" yt-uix-button yt-uix-button-default yt-uix-button-size-default" onclick=";return false;" data-button-menu-id="arrow-display" data-button-toggle="true" data-picker-key="safetymode" data-button-action="yt.www.picker.load" data-picker-position="footer" role="button"><span class="yt-uix-button-content"> <span class="yt-picker-button-label"> Safety: </span> Off </span><img class="yt-uix-button-arrow" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title="" /></button> </li> 
+     </ul> 
+     <button data-ghelp-anchor="google-help" id="google-help" type="button" class="yt-uix-button-reverse yt-google-help-link yt-uix-button yt-uix-button-default yt-uix-button-size-default" onclick=";return false;" role="button"><span class="yt-uix-button-content"> <img class="questionmark" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" /> <span>Help</span> <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" /> </span></button> 
+     <div id="yt-picker-language-footer" class="yt-picker" style="display: none"> 
+      <p class="yt-spinner"> <img class="yt-spinner-img" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" title="" /> <span class="yt-spinner-message"> Loading... </span> </p> 
+     </div> 
+     <div id="yt-picker-country-footer" class="yt-picker" style="display: none"> 
+      <p class="yt-spinner"> <img class="yt-spinner-img" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" title="" /> <span class="yt-spinner-message"> Loading... </span> </p> 
+     </div> 
+     <div id="yt-picker-safetymode-footer" class="yt-picker" style="display: none"> 
+      <p class="yt-spinner"> <img class="yt-spinner-img" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" title="" /> <span class="yt-spinner-message"> Loading... </span> </p> 
+     </div> 
+    </div>
+    <div id="footer-links">
+     <ul id="footer-links-primary"> 
+      <li><a href="//www.youtube.com/yt/about/">About</a></li> 
+      <li><a href="//www.youtube.com/yt/press/">Press &amp; Blogs</a></li> 
+      <li><a href="//www.youtube.com/yt/copyright/">Copyright</a></li> 
+      <li><a href="//www.youtube.com/yt/creators/">Creators &amp; Partners</a></li> 
+      <li><a href="//www.youtube.com/yt/advertise/">Advertising</a></li> 
+      <li><a href="//www.youtube.com/yt/dev/">Developers</a></li> 
+      <li><a href="https://plus.google.com/+youtube" dir="ltr">+YouTube</a></li> 
+     </ul>
+     <ul id="footer-links-secondary"> 
+      <li><a href="/t/terms">Terms</a></li> 
+      <li><a href="https://www.google.com/intl/en/policies/privacy/">Privacy</a></li> 
+      <li><a href="//www.youtube.com/yt/policyandsafety/"> Policy &amp; Safety </a></li> 
+      <li><a href="//support.google.com/youtube/?hl=en" onclick="return yt.www.feedback.start(59);" class="reportbug">Send feedback</a></li> 
+      <li><a href="/testtube">Try something new!</a></li> 
+      <li></li> 
+     </ul>
+    </div>
+   </div>
+  </div> 
+  <div class="yt-dialog hid " id="feed-privacy-lb"> 
+   <div class="yt-dialog-base"> 
+    <span class="yt-dialog-align"></span> 
+    <div class="yt-dialog-fg"> 
+     <div class="yt-dialog-fg-content"> 
+      <div class="yt-dialog-loading"> 
+       <div class="yt-dialog-waiting-content"> 
+        <div class="yt-spinner-img"></div>
+        <div class="yt-dialog-waiting-text">
+         Loading...
+        </div> 
+       </div> 
+      </div> 
+      <div class="yt-dialog-content"> 
+       <div id="feed-privacy-dialog"> 
+       </div> 
+      </div> 
+      <div class="yt-dialog-working"> 
+       <div id="yt-dialog-working-overlay"> 
+       </div> 
+       <div id="yt-dialog-working-bubble"> 
+        <div class="yt-dialog-waiting-content"> 
+         <div class="yt-spinner-img"></div>
+         <div class="yt-dialog-waiting-text">
+          Working...
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="shared-addto-watch-later-login" class="hid"> 
+   <a href="https://accounts.google.com/ServiceLogin?uilel=3&amp;service=youtube&amp;passive=true&amp;hl=en&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Dplaylist%26hl%3Den%26next%3D%252Fuser%252FBournsCollege" class="sign-in-link">Sign in</a> to add this to Watch Later 
+  </div> 
+  <div id="shared-addto-menu" style="display: none;" class="hid sign-in"> 
+   <div class="addto-menu"> 
+    <div id="addto-list-panel" class="menu-panel active-panel"> 
+     <span class="addto-playlist-item yt-uix-button-menu-item yt-uix-tooltip sign-in" data-possible-tooltip="" data-tooltip-show-delay="750"> <img class="playlist-status" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title="" /><a href="https://accounts.google.com/ServiceLogin?uilel=3&amp;service=youtube&amp;passive=true&amp;hl=en&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Dplaylist%26hl%3Den%26next%3D%252Fuser%252FBournsCollege" class="sign-in-link">Sign in</a> to add this to Watch Later </span> 
+    </div> 
+    <div id="addto-list-saving-panel" class="menu-panel"> 
+     <div class="addto-loading loading-content"> 
+      <p class="yt-spinner"> <img class="yt-spinner-img" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" title="" /> <span class="yt-spinner-message"> Loading playlists... </span> </p> 
+     </div> 
+    </div> 
+    <div id="addto-list-error-panel" class="menu-panel"> 
+     <div class="panel-content"> 
+      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" /> 
+      <span class="error-details"></span> 
+      <a class="show-menu-link">Back</a> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <script>if (window.ytcsi) {window.ytcsi.tick("hr", null, '');}</script>
+  <script>var ytspf = ytspf || {};ytspf.enabled = true;ytspf.config = {};ytspf.config['navigate-limit'] = 10;ytspf.config['navigate-lifetime'] = 64800000;</script> 
+  <script id="js-3884047871" class="spf" src="//s.ytimg.com/yts/jsbin/spf-vflwI12bF.js" data-loaded="true"></script> 
+  <script id="js-766429913" class="www_base_mod" src="//s.ytimg.com/yts/jsbin/www-en_US-vflcBbItZ/base.js" data-loaded="true"></script> 
+  <script>if (window.ytcsi) {window.ytcsi.tick("je", null, '');}</script> 
+  <script>
+    
+      (function() {
+      var channelHeaderEl = document.querySelector('.channel-header');
+
+      if (!/channel-header-auto-hide/.test(channelHeaderEl.className)) {
+        return;
+      }
+
+      var brandedPageContainer = document.querySelector('.branded-page-v2-container');
+      var originalHeight = brandedPageContainer.clientHeight;
+      channelHeaderEl.className = channelHeaderEl.className.replace(/\bhid\b/);
+      var height = brandedPageContainer.clientHeight;
+      var scrollDistance = height - originalHeight;
+
+      document.body.style.minHeight = 0;
+
+      var bodyScrollHeight = document.body.scrollHeight;
+      var bodyClientHeight = document.body.clientHeight;
+      var heightToIncrease = scrollDistance - (bodyScrollHeight - bodyClientHeight);
+      if (heightToIncrease > 0) {
+        document.body.style.minHeight = bodyScrollHeight + heightToIncrease + 'px';
+      }
+
+      document.body.scrollTop = document.documentElement.scrollTop = scrollDistance;
+    }());
+
+    yt.setConfig('CHANNEL_TAB', 'feed');
+  yt.setAjaxToken('c4_feed_ajax', "Q4N-2S7krTWsj9Ixfqik1Hl21ot8MTM5NDY2NDc0NUAxMzk0NTc4MzQ1");
+    yt.setMsg({
+    'UNBLOCK_USER': "Are you sure you want to unblock this user?",
+    'BLOCK_USER': "Are you sure you want to block this user?"
+  });
+  yt.setConfig('BLOCK_USER_AJAX_XSRF', 'session_token=HPpM2o0ptJY9rmpdsViAirh-64x8MTM5NDY2NDc0NUAxMzk0NTc4MzQ1');
+
+
+
+      yt.setAjaxToken('feed_change_ajax', "BFmfe_4TdEWnxF22A_DC06yScYN8MTM5NDY2NDc0NUAxMzk0NTc4MzQ1");
+
+    yt.setConfig('CHANNEL_ID', "UC60DUrOsOzmOIkpl1OZc8KQ");
+    yt.setAjaxToken('c4_force_migration_ajax', "2RgpVnPFZ91mlOW3i4YnwXMmZT98MTM5NDY2NDc0NUAxMzk0NTc4MzQ1");
+    yt.setAjaxToken('c4_profile_ajax', "XbmNGfXAPWX5bjEyA8tNWJ-PwEt8MTM5NDY2NDc0NUAxMzk0NTc4MzQ1");
+    yt.setAjaxToken('creator_suggestions_ajax', "TxEEI_4QHxEwh0wYEs7X7_wCZIN8MTM5NDY2NDc0NUAxMzk0NTc4MzQ1");
+    yt.setConfig('JS_PAGE_MODULES', {
+      "\/\/s.ytimg.com\/yts\/jsbin\/www-en_US-vflcBbItZ\/channels.js": [
+      ]
+    });
+    yt.setConfig('CHANNEL_EDITABLE', false);
+
+
+      yt.setConfig({
+        'GUIDE_SELECTED_ITEM': "0qDduQEaEhhVQzYwRFVyT3NPem1PSWtwbDFPWmM4S1E%3D"
+      });
+
+      yt.setConfig({
+    'GUIDED_HELP_LOCALE': "en_US",
+    'GUIDED_HELP_ENVIRONMENT': "prod"
+  });
+
+  </script> 
+  <script>yt.setConfig({'EVENT_ID': "qZMfU4GYEoWQ-gPbwIHQCQ",'PAGE_NAME': "channel",'LOGGED_IN': false,'SESSION_INDEX': null,'DELEGATED_SESSION_ID': null,'GAPI_HOST': "https:\/\/apis.google.com",'GAPI_HINT_PARAMS': "m;\/_\/scs\/abc-static\/_\/js\/k=gapi.gapi.en.tj_0ZMtt37Y.O\/m=__features__\/rt=j\/d=1\/rs=AItRSTNq9BUbpcVyrrQw8r5GUHIc2HQyDQ",'GAPI_LOCALE': "en_US",'UNIVERSAL_HOVERCARDS': true,'GOOGLEPLUS_HOST': "https:\/\/plus.google.com",'PAGEFRAME_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-pageframe-vflsSSCoY.js",'JS_COMMON_MODULE': "\/\/s.ytimg.com\/yts\/jsbin\/www-en_US-vflcBbItZ\/common.js",'PAGE_FRAME_DELAYLOADED_CSS': "\/\/s.ytimg.com\/yts\/cssbin\/www-pageframedelayloaded-vflVYBiFz.css",'PREFETCH_CSS_RESOURCES' : ["\/\/s.ytimg.com\/yts\/cssbin\/www-player-vflVQDo8U.css",''         ],'PREFETCH_JS_RESOURCES': ["\/\/s.ytimg.com\/yts\/jsbin\/html5player-ima-en_US-vflYhChiG.js",''         ],'SAFETY_MODE_PENDING': false,'LOCAL_DATE_TIME_CONFIG': {"formatWeekdayShortTime": "EE h:mm a", "shortWeekdays": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"], "amPms": ["AM", "PM"], "formatShortDate": "MMM d, yyyy", "formatLongDate": "MMMM d, yyyy h:mm a", "weekdays": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"], "formatLongDateOnly": "MMMM d, yyyy", "shortMonths": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"], "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]},'PAGE_CL': 62916821,'PAGE_BUILD_TIMESTAMP': "Tue Mar 11 00:17:58 2014 (1394522278)",'PLAYER_PERSISTENCE_REFACTOR': true,'FEEDBACK_BUCKET_ID': "Channels 4",'FEEDBACK_LOCALE_LANGUAGE': "en",'FEEDBACK_LOCALE_EXTRAS': {"experiments": "935624,930811,916624,936106,902547,909555,937417,932002,937902,921905,937801,937805,930006,940905,929152,937003,919811,931943,921410,936702,922804,932804,911507,913434,944702,906955,924422,901812,932262,919389,934003,934004,938617,938626,938639,936910,930812,936913,945009,902907,934022,909553,939201,929237,931952,939934,921080,906001,902022,913825", "is_partner": "", "is_branded": "", "guide_subs": "NA", "logged_in": false, "accept_language": null}});yt.setConfig('SPF_SEARCH_BOX', true);yt.setMsg({'ADDTO_WATCH_LATER': "Watch Later",'ADDTO_WATCH_LATER_ADDED': "Added",'ADDTO_WATCH_LATER_ERROR': "Error",'ADDTO_WATCH_QUEUE': "Watch Queue",'ADDTO_WATCH_QUEUE_ADDED': "Added",'ADDTO_WATCH_QUEUE_ERROR': "Error",'ADDTO_TV_QUEUE': "TV Queue"});yt.setAjaxToken('addto_ajax_logged_out', "VCBFEf3KVtrGja6LlDJLo0jgwHl8MTM5NDY2NDc0NUAxMzk0NTc4MzQ1");yt.setAjaxToken('watch_fragments_ajax', "ij0Bu6vtN5h5iGVsEarNg6XYxft8MTM5NDY2NDc0NUAxMzk0NTc4MzQ1");  yt.setConfig('FEED_PRIVACY_CSS_URL', "\/\/s.ytimg.com\/yts\/cssbin\/www-feedprivacydialog-vfl56CSOX.css");
+  yt.setAjaxToken('feed_privacy_ajax', "eoWjv7cb8rRtW3sM2UoW-kELHXF8MTM5NDY2NDc0NUAxMzk0NTc4MzQ1");
+  yt.setConfig('FEED_PRIVACY_LIGHTBOX_ENABLED', true);
+yt.setConfig({'SBOX_JS_URL': "\/\/s.ytimg.com\/yts\/jsbin\/www-searchbox-vflvRCdJL.js",'SBOX_SETTINGS': {"SESSION_INDEX": null, "PSUGGEST_TOKEN": null, "DROPDOWN_POSITION": "fixed", "REQUEST_LANGUAGE": "en", "HAS_ON_SCREEN_KEYBOARD": false, "REQUEST_DOMAIN": "us", "EXPERIMENT_ID": -1, "USE_HTTPS": false},'SBOX_LABELS': {"SUGGESTION_DISMISSED_LABEL": "Suggestion dismissed", "WATCH_NOW_LABEL": "Watch now", "VIEW_CHANNEL_LABEL": "View channel", "SUGGESTION_DISMISS_LABEL": "Dismiss"}});  yt.setConfig({
+    'YPC_LOADER_ENABLED': true,
+    'YPC_LOADER_CONFIGS': "\/ypc_config_ajax",
+    'YPC_LOADER_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-ypc-vflZW6iGd.js",
+    'YPC_LOADER_CSS': "\/\/s.ytimg.com\/yts\/cssbin\/www-ypc-vflCS1CTd.css",
+    'YPC_LOADER_CALLBACKS': ['yt.www.ypc.checkout.init', 'yt.www.ypc.subscription.init']
+  });
+  yt.setConfig('GOOGLE_HELP_CONTEXT', "default");
+ytcsi.span('st', 176);yt.setConfig({'TIMING_ACTION': "channels4",'TIMING_INFO': {"ei": "qZMfU4GYEoWQ-gPbwIHQCQ", "e": "935624,930811,916624,936106,902547,937417,913434,936910,936913,902907,934022", "yt_lt": "cold", "yt_spf": 0, "yt_li": 0}});  yt.setConfig({
+    'XSRF_TOKEN': "mPB2wXGSzsYH1hTtdSRvyOOFltF8MTM5NDY2NDc0NUAxMzk0NTc4MzQ1",
+    'XSRF_REDIRECT_TOKEN': "ZJ4qhaeEQ5TCzqIwl-eyE5ZOleV8MTM5NDY2NDc0NUAxMzk0NTc4MzQ1",
+    'XSRF_FIELD_NAME': "session_token"
+  });
+  yt.setConfig('THUMB_DELAY_LOAD_BUFFER', 0);
+if (window.ytcsi) {window.ytcsi.tick("jl", null, '');}</script> 
+ </body>
+</html>

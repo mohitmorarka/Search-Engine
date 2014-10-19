@@ -1,0 +1,1163 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>UCR Research</title> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+  <!--[if IE]><![endif]--> 
+  <meta http-equiv="last-modified" content="2012-08-08" /> 
+  <meta name="version" content="2.64 2.146 " /> 
+  <!-- 03/09/14 23:23:37 03/09/14 23:54:54 --> 
+  <!--link rel="stylesheet" type="text/css" href="/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/narrow6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/sifr.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="/min/g=6bis-bluea-narrow" media="all" /> 
+  <!--link rel="stylesheet" type="text/css" href="/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="/min/f=css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/research/css/local.css" media="all" /> 
+  <link href="//fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css" /> 
+  <script type="text/javascript" src="/min/g=js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="/css/ie6-narrow6.css" media="all" />
+<script defer type="text/javascript" src="/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/about/css/ie7.css" media="all" />
+<script type="text/javascript" src="/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+  <link rel="alternate" type="application/rss+xml" title="Subscribe to UCR Today via RSS" href="http://ucrtoday.ucr.edu/feed" /> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://www.ucr.edu/research/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr /> 
+  </div> 
+  <div id="masthead_home" style="background-image:url(/images/design6/mastheads/masthead03.jpg);"> 
+   <h1><a href="//www.ucr.edu/"><span class="printonly">UC Riverside</span></a></h1> 
+   <div class="pagewrapper"> 
+    <div id="search"> 
+     <div id="nav_utility"> 
+      <ul> 
+       <li><a href="//www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+       <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+       <li><a href="//www.ucr.edu/find_people.php">Find People</a></li> 
+      </ul> 
+     </div> 
+     <form id="searchbox" action="//www.ucr.edu/search.php">
+      <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+     </form> 
+     <script type="text/javascript" src="//www.ucr.edu/js/watermark.js"></script> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="nav_main"> 
+   <h2 class="accessibility">Campuswide Navigation</h2> 
+   <ul>
+    <li><a id="nav_main_home" href="http://www.ucr.edu/"><span>UCR Home</span></a></li>
+    <li><a id="nav_main_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+    <li><a id="nav_main_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+    <li><a id="nav_main_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+    <li><a id="nav_main_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+    <li><a class="active" id="nav_main_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+    <li><a id="nav_main_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+    <li><a id="nav_main_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+   </ul> 
+  </div> 
+  <div id="nav_audience"> 
+   <h2 class="accessibility">Audience Navigation</h2> 
+   <ul>
+    <li><a id="nav_audience_future" href="http://www.ucr.edu/future/" title="For Prospective Students"><span>Prospective Students</span></a></li>
+    <li><a id="nav_audience_students" href="http://www.ucr.edu/students/" title="For Current Students"><span>Current Students</span></a></li>
+    <li><a id="nav_audience_parents" href="http://www.ucr.edu/parents/" title="For Parents"><span>Parents</span></a></li>
+    <li><a id="nav_audience_faculty" href="http://www.ucr.edu/faculty/" title="For Faculty"><span>Faculty</span></a></li>
+    <li><a id="nav_audience_staff" href="http://www.ucr.edu/staff/" title="For Staff"><span>Staff</span></a></li>
+    <li><a id="nav_audience_alumni" href="http://www.ucr.edu/alumni/" title="For Alumni"><span>Alumni</span></a></li>
+    <li><a id="nav_audience_friends" href="http://www.ucr.edu/friends/" title="For Friends"><span>Friends</span></a></li>
+    <li><a id="nav_audience_industry" href="http://www.ucr.edu/industry/" title="For Industry"><span>Industry</span></a></li>
+    <li><a id="nav_audience_media" href="http://www.ucr.edu/media/" title="For Media"><span>Media</span></a></li>
+   </ul> 
+  </div> 
+  <hr /> 
+  <!--[if lte IE 6]>
+<div class="pagewrapper">
+	<div style="margin-bottom: 1.5em;">
+		<h5 style="color: #b00; margin: .5em 15em 0">You appear to be using an outdated version of Internet Explorer. We are sorry, but your browser is no longer
+			supported. Please upgrade to a modern browser:</h5>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://getfirefox.com" class="external" title="external site: Mozilla Foundation">Firefox</a></li>
+				<li><a href="http://www.opera.com/browser/" class="external" title="external site: Opera Software">Opera</a></li>
+			</ul>
+		</div>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://www.microsoft.com/windows/internet-explorer/" class="external" title="external site: Microsoft">Internet Explorer 8</a></li>
+				<li><a href="http://www.apple.com/safari/" class="external" title="external site: Apple Inc.">Safari</a></li>
+			</ul>
+		</div>
+		<div class="column49R">
+			<ul class="tight">
+				<li><a href="http://www.google.com/chrome" class="external" title="external site: Google">Google Chrome</a></li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<![endif]--> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="//www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li class="lastitem">UCR Research</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <hr /> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2 class="long">UCR Research</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li class="currentpage"><h3><dfn>Current page is: </dfn>Research Home</h3></li>
+       <li class="nav_inline_last"><h3>People</h3>
+        <ul>
+         <li><a href="/research/undergrads.html" title="Undergraduates">Undergraduates</a></li>
+         <li>&nbsp;| <a href="/research/grads.html" title="Graduates">Graduates</a></li>
+         <li>&nbsp;| <a href="/research/faculty.html" title="Faculty">Faculty</a></li>
+        </ul></li>
+       <li><a href="/research/leaders/" title="Research Spotlight">Research Spotlight<br /><span>What we're doing</span></a></li>
+       <li><a href="/research/licensing.html" title="Technology Commercialization">Technology Commercialization<br /><span>Contributing to the community</span></a></li>
+       <li><a href="/research/centers/" title="Centers and Institutes for Research">Centers and Institutes for Research<br /><span>The epicenters of research</span></a></li>
+       <li><a href="/research/groups/" title="Groups &amp; Projects">Groups &amp; Projects<br /><span>What we're doing</span></a></li> 
+      </ul> 
+     </div> 
+     <p><a class="img_link" href="http://or.ucr.edu/"><img alt="" height="93" src="/research/images/research_sidebar.jpg" width="229" /><span class="accessibility">Office of Research and Economic Development</span></a></p> 
+     <p><a class="img_link" id="research_button" href="/research.html"> <span class="accessibility">Research A to Z: A list of resources</span></a></p> 
+    </div> 
+    <hr /> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <div class="glider" id="my-glider"> 
+      <div class="scroller"> 
+       <div class="content"> 
+        <div class="slide" id="slide1"> 
+         <img src="/research/images/home_gallery/gallery_image_01.jpg" alt="Student and Teacher Researching" width="464" height="232" /> 
+         <h3>Our Research Makes a Difference Tomorrow </h3> 
+         <p> Associate Professor David Cocker and graduate student researcher Li Qi investigate the physical and chemical processes that lead to aerosol formation, in the Smog Chamber within Bourns College of Engineering Center for Environmental Research and Technology (CE-CERT). </p> 
+        </div> 
+        <div class="slide" id="slide2"> 
+         <img src="/research/images/home_gallery/gallery_image_02.jpg" alt="People Researching and Doing Work" width="464" height="232" /> 
+         <h3>Our Research Is For Everyone</h3> 
+         <p> At UC Riverside, undergraduate and graduate students work side-by-side with faculty and researchers like CE-CERT's Bill Welch (right). </p> 
+        </div> 
+        <div class="slide" id="slide3"> 
+         <img src="/research/images/home_gallery/gallery_image_03.jpg" alt="Lab Worker using a Pipet" width="464" height="232" /> 
+         <h3>Our Research Sets Us Apart</h3> 
+         <p> Whether it is researching the world-wide epidemic of vitamin D deficiency, the potential for carbon nanotubes to help generate bone tissue, or how to grow better barley, UC Riverside's <a href="http://www.cmdb.ucr.edu/">Cell, Molecular and Developmental Biology Program</a> is always on the cutting edge. </p> 
+        </div> 
+        <div class="slide" id="slide4"> 
+         <img src="/research/images/home_gallery/gallery_image_04.jpg" alt="Scientist operating machinery" width="464" height="232" /> 
+         <h3>Our Research Makes a Difference</h3> 
+         <p> As gas prices skyrocket and resources are depleted, the search for alternative fuels becomes increasingly important. In the CE-CERT Hydrogasification Laboratory, researchers are investigating ways to create high yields of ethanol from agricultural and forestry residues, municipal solid waste, and low cost grasses and wood. </p> 
+        </div> 
+        <div class="slide" id="slide5"> 
+         <img src="/research/images/home_gallery/gallery_image_05.jpg" alt="Scientist working under lab ventilator" width="464" height="232" /> 
+         <h3>Our Researchers Have the Tools They Need</h3> 
+         <p> Having great people is only part of the equation. UC Riverside's researchers have access to state of the art equipment and technology, which allows them to always be on the cutting edge of exploration. </p> 
+        </div> 
+       </div> 
+      </div> 
+      <a class="previous" title="Previous" onclick="my_glider.previous();return false;" href="#">Previous</a> 
+      <ul class="controls"> 
+       <li><a class="active" title="Smog Chamber research" href="#slide1"><img src="/research/images/home_gallery/gallery_thumb_01.jpg" alt="Carillon Tower" width="68" height="48" /></a></li> 
+       <li><a title="CE-CERT research" href="#slide2"><img src="/research/images/home_gallery/gallery_thumb_02.jpg" alt="Arts Building" width="68" height="48" /></a></li> 
+       <li><a title="Student in Lab" href="#slide3"><img src="/research/images/home_gallery/gallery_thumb_03.jpg" alt="Student Recreation Center" width="68" height="48" /></a></li> 
+       <li><a title="Hydrogasification Lab" href="#slide4"><img src="/research/images/home_gallery/gallery_thumb_04.jpg" alt="Rivera Library" width="68" height="48" /></a></li> 
+       <li><a title="Student at fume hood" href="#slide5"><img src="/research/images/home_gallery/gallery_thumb_05.jpg" alt="Science Library" width="68" height="48" /></a></li> 
+      </ul> 
+      <a class="next" title="Next" onclick="my_glider.next();return false" href="#">Next</a> 
+     </div> 
+     <script type="text/javascript">// <![CDATA[
+var my_glider;
+
+$LAB.script("/min/f=js/glider.js").wait(function(){
+    my_glider = new Glider('my-glider', {duration:0.5});
+});
+// ]]></script> 
+     <h3>Cutting Edge Research that Reaches the World</h3> 
+     <p> Through <a href="http://or.ucr.edu/">Research and Economic Development</a> and the dedicated work of faculty and student researchers in the pursuit of new knowledge, UC Riverside is fulfilling its role as the research university of Inland Southern California. </p> 
+     <p> The university's research heritage, our resources and our location make it an ideal place for exploring air, water, energy, biodiversity, sustainability, land use, the habitat/agriculture interface and much more. </p> 
+     <p> What we do and study here makes a difference to people every day: Every orange, lemon, lime and tangerine found on your grocer’s shelf has a genetic connection to the trees at our Citrus Research Collection. Our scientists have earned worldwide recognition for their expertise and breakthrough findings in the areas of plant sciences, environmental and natural resources and pest management. </p> 
+     <p> Our recent research innovations include: </p> 
+     <ul> 
+      <li>Engine technology that allows cars to run on a mix of hydrogen and natural gas.</li> 
+      <li>New varieties of citrus and asparagus.</li> 
+      <li>An efficient and clean method of turning waste materials into a sulfur-free diesel fuel.</li> 
+     </ul> 
+     <div class="nota-bene"> 
+      <h3><em>We’re Making the World a Better Place, One Discovery at a Time.</em></h3> 
+      <ul> 
+       <li>In 1980, we released our first patented citrus variety, the Oroblanco grapefruit. Other citrus breeding program releases include the Melogold grapefruit and the Gold Nugget mandarin.</li> 
+       <li>Plant physiologist Charles Coggins registered gibberellic acid for use in California citrus groves to delay fruit maturation. The ultimate result of his work was the extension of the citrus-growing season in California from four months to nine. 
+        <div class="figure"> 
+         <img src="/research/images/main_images/research_citrus.jpg" alt="Picture of Citrus Fruit" width="413" height="134" /> 
+         <p>For over 100 years, UCR has been instrumental in the improvement of citrus production.</p> 
+        </div> </li> 
+       <li>In 1967, biochemist and molecular biologist Anthony Norman was one of two U.S. scientists working independently who isolated and described the chemical nature of a substance the public knew as vitamin D, but was, in fact, a steroid hormone. Several life-saving drug treatments were developed as a result of research by the Norman lab. </li> 
+       <li>William Frankenberger, professor of soil microbiology and biochemistry, developed patented technologies using fungi and other microbial agents that naturally detoxify water contaminated with selenium, perchlorate, and nitrate.</li> 
+       <li>Our high-energy physicists were part of an international effort that provided the world with evidence of the top quark — a fundamental particle which was first theorized about in the 1960s but never before observed.</li> 
+       <li>Chemist Guy Bertrand and his research team were the first to create a stable singlet diradical, a development announced worldwide. The unique compound could lead to a new generation of non-metallic magnetic devices for medical imaging or electronics.</li> 
+       <li>Plant pathologist Noel Keen and biochemist Fran Jurnak identified a previously unknown protein structure, the parallel beta-helix as part of Keen’s pioneering work in plant pathology. </li> 
+       <li>Plant geneticist Michael Clegg led a research group that was the first to recover and decode ancient plant DNA genetic material from a magnolia leaf 20 million years old. </li> 
+       <li>Geophysicist Harry Green II and graduate student Pamela Burnley provided the first explanation for “deep-focus earthquakes,” which occur 300 kilometers or more beneath the earth’s surface.</li> 
+      </ul> 
+     </div> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://library.ucr.edu/']);">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://campusstatus.ucr.edu/']);">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://campusstore.ucr.edu/']);">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://www.ucr.edu/employment.html']);">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://diversity.ucr.edu/']);">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://www.ucr.edu/about/directions.html']);">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://admissions.ucr.edu/VisitUCR']);">Visit UCR</a></li> 
+      </ul> 
+      <!-- Generated in 0.013956 seconds using 768 KiB of memory. --> 
+     </div> 
+     <div class="column49"> 
+      <h3>Additional Information</h3> 
+      <address><strong><a href="http://or.ucr.edu">Office of Research</a></strong><br /> <a href="http://campusmap.ucr.edu/campusMap.php?loc=UOB" title="Campus Map">University Office Building, Suite 200</a><br /><br /> Tel: (951) 827-5535<br /> Fax: (951) 827-4483<br /></address> 
+      <ul class="footer_links"> 
+       <li><a id="footer_link_facebook" class="footer_link_icon" href="http://www.facebook.com/UCRiverside" title="external site: Facebook">Visit UCR's Facebook page</a></li> 
+       <li><a id="footer_link_twitter" class="footer_link_icon" href="http://twitter.com/UCRiverside" title="external site: Twitter">Follow UCR on Twitter</a></li> 
+       <li><a id="footer_link_youtube" class="footer_link_icon" href="http://www.youtube.com/UCRiverside" title="external site: YouTube">Visit UCR's YouTube channel</a></li> 
+       <li><a id="footer_link_rss" class="footer_link_icon" href="http://ucrtoday.ucr.edu/feed">Subscribe to UCR Today via RSS</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://or.ucr.edu/OTC.aspx">Technology Commercialization</a></li> 
+       <li><a href="http://or.ucr.edu/SPA.aspx">Sponsored Program Administration</a></li> 
+       <li><a href="http://or.ucr.edu/ORI.aspx">Research Integrity</a></li> 
+       <li><a href="http://or.ucr.edu/ORD.aspx">Research Development</a></li> 
+       <li><a href="http://vet.ucr.edu/">Campus Veterinarian</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="//www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="//www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="//www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="//www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="//www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="//www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="//www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="//www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/research/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="//www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="//www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>&copy; 2012 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01189&amp;site=research&amp;path=%2Findex.html">Last modified: 2012-Aug-08</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.060318 seconds using 1.50 MiB of memory. -->   
+ </body>
+</html><!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>UCR Research</title> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+  <!--[if IE]><![endif]--> 
+  <meta http-equiv="last-modified" content="2012-08-08" /> 
+  <meta name="version" content="2.64 2.146 " /> 
+  <!-- 03/11/14 15:45:25 03/11/14 15:50:17 --> 
+  <!--link rel="stylesheet" type="text/css" href="/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/narrow6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/sifr.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="/min/g=6bis-bluea-narrow" media="all" /> 
+  <!--link rel="stylesheet" type="text/css" href="/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="/min/f=css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/research/css/local.css" media="all" /> 
+  <link href="//fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css" /> 
+  <script type="text/javascript" src="/min/g=js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="/css/ie6-narrow6.css" media="all" />
+<script defer type="text/javascript" src="/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/about/css/ie7.css" media="all" />
+<script type="text/javascript" src="/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+  <link rel="alternate" type="application/rss+xml" title="Subscribe to UCR Today via RSS" href="http://ucrtoday.ucr.edu/feed" /> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://www.ucr.edu/research/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr /> 
+  </div> 
+  <div id="masthead_home" style="background-image:url(/images/design6/mastheads/masthead02.jpg);"> 
+   <h1><a href="//www.ucr.edu/"><span class="printonly">UC Riverside</span></a></h1> 
+   <div class="pagewrapper"> 
+    <div id="search"> 
+     <div id="nav_utility"> 
+      <ul> 
+       <li><a href="//www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+       <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+       <li><a href="//www.ucr.edu/find_people.php">Find People</a></li> 
+      </ul> 
+     </div> 
+     <form id="searchbox" action="//www.ucr.edu/search.php">
+      <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+     </form> 
+     <script type="text/javascript" src="//www.ucr.edu/js/watermark.js"></script> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="nav_main"> 
+   <h2 class="accessibility">Campuswide Navigation</h2> 
+   <ul>
+    <li><a id="nav_main_home" href="http://www.ucr.edu/"><span>UCR Home</span></a></li>
+    <li><a id="nav_main_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+    <li><a id="nav_main_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+    <li><a id="nav_main_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+    <li><a id="nav_main_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+    <li><a class="active" id="nav_main_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+    <li><a id="nav_main_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+    <li><a id="nav_main_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+   </ul> 
+  </div> 
+  <div id="nav_audience"> 
+   <h2 class="accessibility">Audience Navigation</h2> 
+   <ul>
+    <li><a id="nav_audience_future" href="http://www.ucr.edu/future/" title="For Prospective Students"><span>Prospective Students</span></a></li>
+    <li><a id="nav_audience_students" href="http://www.ucr.edu/students/" title="For Current Students"><span>Current Students</span></a></li>
+    <li><a id="nav_audience_parents" href="http://www.ucr.edu/parents/" title="For Parents"><span>Parents</span></a></li>
+    <li><a id="nav_audience_faculty" href="http://www.ucr.edu/faculty/" title="For Faculty"><span>Faculty</span></a></li>
+    <li><a id="nav_audience_staff" href="http://www.ucr.edu/staff/" title="For Staff"><span>Staff</span></a></li>
+    <li><a id="nav_audience_alumni" href="http://www.ucr.edu/alumni/" title="For Alumni"><span>Alumni</span></a></li>
+    <li><a id="nav_audience_friends" href="http://www.ucr.edu/friends/" title="For Friends"><span>Friends</span></a></li>
+    <li><a id="nav_audience_industry" href="http://www.ucr.edu/industry/" title="For Industry"><span>Industry</span></a></li>
+    <li><a id="nav_audience_media" href="http://www.ucr.edu/media/" title="For Media"><span>Media</span></a></li>
+   </ul> 
+  </div> 
+  <hr /> 
+  <!--[if lte IE 6]>
+<div class="pagewrapper">
+	<div style="margin-bottom: 1.5em;">
+		<h5 style="color: #b00; margin: .5em 15em 0">You appear to be using an outdated version of Internet Explorer. We are sorry, but your browser is no longer
+			supported. Please upgrade to a modern browser:</h5>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://getfirefox.com" class="external" title="external site: Mozilla Foundation">Firefox</a></li>
+				<li><a href="http://www.opera.com/browser/" class="external" title="external site: Opera Software">Opera</a></li>
+			</ul>
+		</div>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://www.microsoft.com/windows/internet-explorer/" class="external" title="external site: Microsoft">Internet Explorer 8</a></li>
+				<li><a href="http://www.apple.com/safari/" class="external" title="external site: Apple Inc.">Safari</a></li>
+			</ul>
+		</div>
+		<div class="column49R">
+			<ul class="tight">
+				<li><a href="http://www.google.com/chrome" class="external" title="external site: Google">Google Chrome</a></li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<![endif]--> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="//www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li class="lastitem">UCR Research</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <hr /> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2 class="long">UCR Research</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li class="currentpage"><h3><dfn>Current page is: </dfn>Research Home</h3></li>
+       <li class="nav_inline_last"><h3>People</h3>
+        <ul>
+         <li><a href="/research/undergrads.html" title="Undergraduates">Undergraduates</a></li>
+         <li>&nbsp;| <a href="/research/grads.html" title="Graduates">Graduates</a></li>
+         <li>&nbsp;| <a href="/research/faculty.html" title="Faculty">Faculty</a></li>
+        </ul></li>
+       <li><a href="/research/leaders/" title="Research Spotlight">Research Spotlight<br /><span>What we're doing</span></a></li>
+       <li><a href="/research/licensing.html" title="Technology Commercialization">Technology Commercialization<br /><span>Contributing to the community</span></a></li>
+       <li><a href="/research/centers/" title="Centers and Institutes for Research">Centers and Institutes for Research<br /><span>The epicenters of research</span></a></li>
+       <li><a href="/research/groups/" title="Groups &amp; Projects">Groups &amp; Projects<br /><span>What we're doing</span></a></li> 
+      </ul> 
+     </div> 
+     <p><a class="img_link" href="http://or.ucr.edu/"><img alt="" height="93" src="/research/images/research_sidebar.jpg" width="229" /><span class="accessibility">Office of Research and Economic Development</span></a></p> 
+     <p><a class="img_link" id="research_button" href="/research.html"> <span class="accessibility">Research A to Z: A list of resources</span></a></p> 
+    </div> 
+    <hr /> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <div class="glider" id="my-glider"> 
+      <div class="scroller"> 
+       <div class="content"> 
+        <div class="slide" id="slide1"> 
+         <img src="/research/images/home_gallery/gallery_image_01.jpg" alt="Student and Teacher Researching" width="464" height="232" /> 
+         <h3>Our Research Makes a Difference Tomorrow </h3> 
+         <p> Associate Professor David Cocker and graduate student researcher Li Qi investigate the physical and chemical processes that lead to aerosol formation, in the Smog Chamber within Bourns College of Engineering Center for Environmental Research and Technology (CE-CERT). </p> 
+        </div> 
+        <div class="slide" id="slide2"> 
+         <img src="/research/images/home_gallery/gallery_image_02.jpg" alt="People Researching and Doing Work" width="464" height="232" /> 
+         <h3>Our Research Is For Everyone</h3> 
+         <p> At UC Riverside, undergraduate and graduate students work side-by-side with faculty and researchers like CE-CERT's Bill Welch (right). </p> 
+        </div> 
+        <div class="slide" id="slide3"> 
+         <img src="/research/images/home_gallery/gallery_image_03.jpg" alt="Lab Worker using a Pipet" width="464" height="232" /> 
+         <h3>Our Research Sets Us Apart</h3> 
+         <p> Whether it is researching the world-wide epidemic of vitamin D deficiency, the potential for carbon nanotubes to help generate bone tissue, or how to grow better barley, UC Riverside's <a href="http://www.cmdb.ucr.edu/">Cell, Molecular and Developmental Biology Program</a> is always on the cutting edge. </p> 
+        </div> 
+        <div class="slide" id="slide4"> 
+         <img src="/research/images/home_gallery/gallery_image_04.jpg" alt="Scientist operating machinery" width="464" height="232" /> 
+         <h3>Our Research Makes a Difference</h3> 
+         <p> As gas prices skyrocket and resources are depleted, the search for alternative fuels becomes increasingly important. In the CE-CERT Hydrogasification Laboratory, researchers are investigating ways to create high yields of ethanol from agricultural and forestry residues, municipal solid waste, and low cost grasses and wood. </p> 
+        </div> 
+        <div class="slide" id="slide5"> 
+         <img src="/research/images/home_gallery/gallery_image_05.jpg" alt="Scientist working under lab ventilator" width="464" height="232" /> 
+         <h3>Our Researchers Have the Tools They Need</h3> 
+         <p> Having great people is only part of the equation. UC Riverside's researchers have access to state of the art equipment and technology, which allows them to always be on the cutting edge of exploration. </p> 
+        </div> 
+       </div> 
+      </div> 
+      <a class="previous" title="Previous" onclick="my_glider.previous();return false;" href="#">Previous</a> 
+      <ul class="controls"> 
+       <li><a class="active" title="Smog Chamber research" href="#slide1"><img src="/research/images/home_gallery/gallery_thumb_01.jpg" alt="Carillon Tower" width="68" height="48" /></a></li> 
+       <li><a title="CE-CERT research" href="#slide2"><img src="/research/images/home_gallery/gallery_thumb_02.jpg" alt="Arts Building" width="68" height="48" /></a></li> 
+       <li><a title="Student in Lab" href="#slide3"><img src="/research/images/home_gallery/gallery_thumb_03.jpg" alt="Student Recreation Center" width="68" height="48" /></a></li> 
+       <li><a title="Hydrogasification Lab" href="#slide4"><img src="/research/images/home_gallery/gallery_thumb_04.jpg" alt="Rivera Library" width="68" height="48" /></a></li> 
+       <li><a title="Student at fume hood" href="#slide5"><img src="/research/images/home_gallery/gallery_thumb_05.jpg" alt="Science Library" width="68" height="48" /></a></li> 
+      </ul> 
+      <a class="next" title="Next" onclick="my_glider.next();return false" href="#">Next</a> 
+     </div> 
+     <script type="text/javascript">// <![CDATA[
+var my_glider;
+
+$LAB.script("/min/f=js/glider.js").wait(function(){
+    my_glider = new Glider('my-glider', {duration:0.5});
+});
+// ]]></script> 
+     <h3>Cutting Edge Research that Reaches the World</h3> 
+     <p> Through <a href="http://or.ucr.edu/">Research and Economic Development</a> and the dedicated work of faculty and student researchers in the pursuit of new knowledge, UC Riverside is fulfilling its role as the research university of Inland Southern California. </p> 
+     <p> The university's research heritage, our resources and our location make it an ideal place for exploring air, water, energy, biodiversity, sustainability, land use, the habitat/agriculture interface and much more. </p> 
+     <p> What we do and study here makes a difference to people every day: Every orange, lemon, lime and tangerine found on your grocer’s shelf has a genetic connection to the trees at our Citrus Research Collection. Our scientists have earned worldwide recognition for their expertise and breakthrough findings in the areas of plant sciences, environmental and natural resources and pest management. </p> 
+     <p> Our recent research innovations include: </p> 
+     <ul> 
+      <li>Engine technology that allows cars to run on a mix of hydrogen and natural gas.</li> 
+      <li>New varieties of citrus and asparagus.</li> 
+      <li>An efficient and clean method of turning waste materials into a sulfur-free diesel fuel.</li> 
+     </ul> 
+     <div class="nota-bene"> 
+      <h3><em>We’re Making the World a Better Place, One Discovery at a Time.</em></h3> 
+      <ul> 
+       <li>In 1980, we released our first patented citrus variety, the Oroblanco grapefruit. Other citrus breeding program releases include the Melogold grapefruit and the Gold Nugget mandarin.</li> 
+       <li>Plant physiologist Charles Coggins registered gibberellic acid for use in California citrus groves to delay fruit maturation. The ultimate result of his work was the extension of the citrus-growing season in California from four months to nine. 
+        <div class="figure"> 
+         <img src="/research/images/main_images/research_citrus.jpg" alt="Picture of Citrus Fruit" width="413" height="134" /> 
+         <p>For over 100 years, UCR has been instrumental in the improvement of citrus production.</p> 
+        </div> </li> 
+       <li>In 1967, biochemist and molecular biologist Anthony Norman was one of two U.S. scientists working independently who isolated and described the chemical nature of a substance the public knew as vitamin D, but was, in fact, a steroid hormone. Several life-saving drug treatments were developed as a result of research by the Norman lab. </li> 
+       <li>William Frankenberger, professor of soil microbiology and biochemistry, developed patented technologies using fungi and other microbial agents that naturally detoxify water contaminated with selenium, perchlorate, and nitrate.</li> 
+       <li>Our high-energy physicists were part of an international effort that provided the world with evidence of the top quark — a fundamental particle which was first theorized about in the 1960s but never before observed.</li> 
+       <li>Chemist Guy Bertrand and his research team were the first to create a stable singlet diradical, a development announced worldwide. The unique compound could lead to a new generation of non-metallic magnetic devices for medical imaging or electronics.</li> 
+       <li>Plant pathologist Noel Keen and biochemist Fran Jurnak identified a previously unknown protein structure, the parallel beta-helix as part of Keen’s pioneering work in plant pathology. </li> 
+       <li>Plant geneticist Michael Clegg led a research group that was the first to recover and decode ancient plant DNA genetic material from a magnolia leaf 20 million years old. </li> 
+       <li>Geophysicist Harry Green II and graduate student Pamela Burnley provided the first explanation for “deep-focus earthquakes,” which occur 300 kilometers or more beneath the earth’s surface.</li> 
+      </ul> 
+     </div> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://library.ucr.edu/']);">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://campusstatus.ucr.edu/']);">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://campusstore.ucr.edu/']);">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://www.ucr.edu/employment.html']);">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://diversity.ucr.edu/']);">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://www.ucr.edu/about/directions.html']);">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://admissions.ucr.edu/VisitUCR']);">Visit UCR</a></li> 
+      </ul> 
+      <!-- Generated in 0.021497 seconds using 768 KiB of memory. --> 
+     </div> 
+     <div class="column49"> 
+      <h3>Additional Information</h3> 
+      <address><strong><a href="http://or.ucr.edu">Office of Research</a></strong><br /> <a href="http://campusmap.ucr.edu/campusMap.php?loc=UOB" title="Campus Map">University Office Building, Suite 200</a><br /><br /> Tel: (951) 827-5535<br /> Fax: (951) 827-4483<br /></address> 
+      <ul class="footer_links"> 
+       <li><a id="footer_link_facebook" class="footer_link_icon" href="http://www.facebook.com/UCRiverside" title="external site: Facebook">Visit UCR's Facebook page</a></li> 
+       <li><a id="footer_link_twitter" class="footer_link_icon" href="http://twitter.com/UCRiverside" title="external site: Twitter">Follow UCR on Twitter</a></li> 
+       <li><a id="footer_link_youtube" class="footer_link_icon" href="http://www.youtube.com/UCRiverside" title="external site: YouTube">Visit UCR's YouTube channel</a></li> 
+       <li><a id="footer_link_rss" class="footer_link_icon" href="http://ucrtoday.ucr.edu/feed">Subscribe to UCR Today via RSS</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://or.ucr.edu/OTC.aspx">Technology Commercialization</a></li> 
+       <li><a href="http://or.ucr.edu/SPA.aspx">Sponsored Program Administration</a></li> 
+       <li><a href="http://or.ucr.edu/ORI.aspx">Research Integrity</a></li> 
+       <li><a href="http://or.ucr.edu/ORD.aspx">Research Development</a></li> 
+       <li><a href="http://vet.ucr.edu/">Campus Veterinarian</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="//www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="//www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="//www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="//www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="//www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="//www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="//www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="//www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/research/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="//www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="//www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>&copy; 2012 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01189&amp;site=research&amp;path=%2Findex.html">Last modified: 2012-Aug-08</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.029966 seconds using 1.50 MiB of memory. -->   
+ </body>
+</html><!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>UCR Current Students: Health, Fitness &amp; Well-Being</title> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+  <!--[if IE]><![endif]--> 
+  <meta http-equiv="last-modified" content="2011-07-20" /> 
+  <meta name="version" content="2.64 2.146 " /> 
+  <!-- 03/11/14 15:51:32 03/11/14 15:51:32 --> 
+  <!--link rel="stylesheet" type="text/css" href="/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/narrow6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/sifr.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="/min/g=6bis-bluea-narrow" media="all" /> 
+  <!--link rel="stylesheet" type="text/css" href="/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="/min/f=css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/students/css/local.css" media="all" /> 
+  <link href="//fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css" /> 
+  <script type="text/javascript" src="/min/g=js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="/css/ie6-narrow6.css" media="all" />
+<script defer type="text/javascript" src="/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/about/css/ie7.css" media="all" />
+<script type="text/javascript" src="/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+  <link rel="alternate" type="application/rss+xml" title="Subscribe to UCR Today via RSS" href="http://ucrtoday.ucr.edu/feed" /> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://www.ucr.edu/students/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr /> 
+  </div> 
+  <div id="masthead_home" style="background-image:url(/images/design6/mastheads/masthead01.jpg);"> 
+   <h1><a href="//www.ucr.edu/"><span class="printonly">UC Riverside</span></a></h1> 
+   <div class="pagewrapper"> 
+    <div id="search"> 
+     <div id="nav_utility"> 
+      <ul> 
+       <li><a href="//www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+       <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+       <li><a href="//www.ucr.edu/find_people.php">Find People</a></li> 
+      </ul> 
+     </div> 
+     <form id="searchbox" action="//www.ucr.edu/search.php">
+      <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+     </form> 
+     <script type="text/javascript" src="//www.ucr.edu/js/watermark.js"></script> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="nav_main"> 
+   <h2 class="accessibility">Campuswide Navigation</h2> 
+   <ul>
+    <li><a id="nav_main_home" href="http://www.ucr.edu/"><span>UCR Home</span></a></li>
+    <li><a id="nav_main_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+    <li><a id="nav_main_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+    <li><a id="nav_main_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+    <li><a id="nav_main_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+    <li><a id="nav_main_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+    <li><a id="nav_main_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+    <li><a id="nav_main_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+   </ul> 
+  </div> 
+  <div id="nav_audience"> 
+   <h2 class="accessibility">Audience Navigation</h2> 
+   <style type="text/css">body { background-color: #f4f7fa; } ul.big_links, h3.section, h4.section { background-image: url(/images/design6/horizontal_ruler_gradient_whitebar.gif);}</style> 
+   <ul>
+    <li><a id="nav_audience_future" href="http://www.ucr.edu/future/" title="For Prospective Students"><span>Prospective Students</span></a></li>
+    <li><a class="active" id="nav_audience_students" href="http://www.ucr.edu/students/" title="For Current Students"><span>Current Students</span></a></li>
+    <li><a id="nav_audience_parents" href="http://www.ucr.edu/parents/" title="For Parents"><span>Parents</span></a></li>
+    <li><a id="nav_audience_faculty" href="http://www.ucr.edu/faculty/" title="For Faculty"><span>Faculty</span></a></li>
+    <li><a id="nav_audience_staff" href="http://www.ucr.edu/staff/" title="For Staff"><span>Staff</span></a></li>
+    <li><a id="nav_audience_alumni" href="http://www.ucr.edu/alumni/" title="For Alumni"><span>Alumni</span></a></li>
+    <li><a id="nav_audience_friends" href="http://www.ucr.edu/friends/" title="For Friends"><span>Friends</span></a></li>
+    <li><a id="nav_audience_industry" href="http://www.ucr.edu/industry/" title="For Industry"><span>Industry</span></a></li>
+    <li><a id="nav_audience_media" href="http://www.ucr.edu/media/" title="For Media"><span>Media</span></a></li>
+   </ul> 
+  </div> 
+  <hr /> 
+  <!--[if lte IE 6]>
+<div class="pagewrapper">
+	<div style="margin-bottom: 1.5em;">
+		<h5 style="color: #b00; margin: .5em 15em 0">You appear to be using an outdated version of Internet Explorer. We are sorry, but your browser is no longer
+			supported. Please upgrade to a modern browser:</h5>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://getfirefox.com" class="external" title="external site: Mozilla Foundation">Firefox</a></li>
+				<li><a href="http://www.opera.com/browser/" class="external" title="external site: Opera Software">Opera</a></li>
+			</ul>
+		</div>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://www.microsoft.com/windows/internet-explorer/" class="external" title="external site: Microsoft">Internet Explorer 8</a></li>
+				<li><a href="http://www.apple.com/safari/" class="external" title="external site: Apple Inc.">Safari</a></li>
+			</ul>
+		</div>
+		<div class="column49R">
+			<ul class="tight">
+				<li><a href="http://www.google.com/chrome" class="external" title="external site: Google">Google Chrome</a></li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<![endif]--> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="//www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://www.ucr.edu/students/">UCR Current Students</a> &gt;</li> 
+    <li class="lastitem">Health, Fitness &amp; Well-Being</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <hr /> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2 class="long">Health, Fitness &amp; Well-Being</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li><a href="/students/" title="Students Home">Students Home<br /><span>Putting the U in UCR</span></a></li>
+       <li><a href="/students/campus.html" title="Campus Life, Recreation &amp; Activities">Campus Life, Recreation &amp; Activities<br /><span>Experience life at UCR</span></a></li>
+       <li><a href="/students/academic.html" title="Academic Resources &amp; Opportunities">Academic Resources &amp; Opportunities<br /><span>Helping you fulfill your potential</span></a></li>
+       <li><a href="/students/services.html" title="Frequently Used Resources &amp; Services">Frequently Used Resources &amp; Services<br /><span>Going beyond the classroom</span></a>
+        <ul>
+         <li><a href="/students/campussafety.html" title="Campus Safety">Campus Safety</a></li>
+         <li class="currentpage"><h3><dfn>Current page is: </dfn>Health, Fitness &amp; Well-Being</h3></li>
+         <li><a href="/students/ethnic_gender.html" title="Ethnic &amp; Gender Program Offices">Ethnic &amp; Gender Program Offices</a></li>
+        </ul></li>
+       <li><a href="/students/computer.html" title="Computer &amp; Technology Resources">Computer &amp; Technology Resources<br /><span>Getting connected</span></a></li>
+       <li><a href="/students/administration.html" title="Administration">Administration<br /><span>Departments &amp; people here to help you</span></a></li>
+       <li><a href="/students/transportation.html" title="Transportation">Transportation<br /><span>Getting around the campus &amp; community</span></a></li> 
+      </ul> 
+     </div> 
+     <p> <a class="img_link" id="blue_gold_button" href="http://www.universityofcalifornia.edu/blueandgold/welcome.html"><span class="accessibility">Blue and Gold Opportunity Fund</span></a> </p>
+     <p class="look_here"><strong>UC's new Blue and Gold Opportunity Plan </strong>will cover your systemwide fees if you are a California resident whose family earns less than $70,000 a year and you qualify for financial aid. </p> 
+     <p><a class="img_link" id="student_portal_button" href="http://rweb.ucr.edu/"> <span class="accessibility">R'Web: Your Personal Web Portal. Log onto R'Web and access Growl, iLearn, Webmail and Facebook all in one place!</span></a></p> 
+    </div> 
+    <hr /> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy.css" cssmenu="" width="790" --> 
+     <!-- com.omniupdate.div label="title" group="Everyone" button="734" -->
+     <!-- com.omniupdate.editor toolbar="TITLE" csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="484" -->
+     <!-- /com.omniupdate.div --> 
+     <!-- com.omniupdate.div label="home-image" group="Everyone" button="727" -->
+     <!-- com.omniupdate.editor toolbar="IMG_ONLY" csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="484" -->
+     <p><img src="/students/images/health_main.jpg" alt="Health &amp; Well-Being" width="484" height="180" /></p>
+     <!-- /com.omniupdate.div --> 
+     <!-- com.omniupdate.div label="maincontent" group="Everyone" button="707" -->
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="484" -->
+     <h3>Partnerships Promoting Student Wellness</h3> 
+     <p>UCR is an environment for students, staff and faculty that promotes a vibrant, healthy and balanced lifestyle. We have several integrated wellness programs that foster a culture of health and wellness and promote the importance of maintaining an optimal quality of life.</p>
+     <!-- /com.omniupdate.div --> 
+     <div class="boxB"> 
+      <!-- com.omniupdate.div label="maincontent2" group="Everyone" button="707" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="484" -->
+      <h4><a class="standout2" href="http://campushealth.ucr.edu/Services">Campus Health Center</a></h4> 
+      <p><img class="img_L" src="/students/images/healthcenter_thumb.jpg" alt="Campus Health Center" width="93" height="46" />UCR’s Campus Health Center provides convenient, affordable and easily accessible medical care to students. All registered students are eligible to use the center. Students with the UC Student Health Insurance Plan have no out-of-pocket expenses for doctor’s visits. Students with private insurance will have a $20 fee for doctor’s visits. Lab work, X-rays, procedures and pharmaceuticals carry a range of fees. For appointments, call (951) 827-3031.</p> 
+      <p><strong>Services include:</strong></p>
+      <!-- /com.omniupdate.div --> 
+      <div class="column2"> 
+       <!-- com.omniupdate.div label="maincontent3" group="Everyone" button="707" -->
+       <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="214" -->
+       <ul class="tight"> 
+        <li>Emergency </li> 
+        <li>After-Hours Care </li> 
+        <li>Primary Care </li> 
+        <li>Walk-in Clinic </li> 
+        <li>Women’s Health </li> 
+        <li>Travel Clinic </li> 
+        <li>Allergy Clinic </li> 
+       </ul>
+       <!-- /com.omniupdate.div --> 
+      </div> 
+      <div class="column2R"> 
+       <!-- com.omniupdate.div label="maincontent4" group="Everyone" button="707" -->
+       <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="214" -->
+       <ul class="tight"> 
+        <li>Full-service Pharmacy </li> 
+        <li>On-site Laboratory </li> 
+        <li>Dental Clinic </li> 
+        <li>Health &amp; Wellness Services </li> 
+        <li>Health Education </li> 
+        <li>Insurance </li> 
+       </ul>
+       <!-- /com.omniupdate.div --> 
+      </div> 
+      <div class="clear"> 
+      </div> 
+      <!-- com.omniupdate.div label="maincontent5" group="Everyone" button="707" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="484" -->
+      <h5>Walk-in Clinic Hours</h5> 
+      <p>8 a.m.–4:30 p.m. Monday, Tuesday, Wednesday, Friday<br />9 a.m.–4:30 p.m. Thursday</p>
+      <!-- /com.omniupdate.div --> 
+      <!-- com.omniupdate.div label="maincontent6" group="Everyone" button="707" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="484" -->
+      <h4 class="section"><a class="standout2" href="http://counseling.ucr.edu/">Counseling Center</a></h4> 
+      <p><img class="img_L" src="/students/images/counseling_thumb.jpg" alt="Counseling Center" width="93" height="46" />The <a href="http://counseling.ucr.edu/">Counseling Center</a> provides counseling services to currently enrolled undergraduate and graduate students, in addition to consultation and programming services to the broader university community. </p> 
+      <p>Counselors are available by phone 24 hours, seven-days-a-week, at (951) 827-5531.</p> 
+      <h4 class="section"><a class="standout2" href="http://www.recreation.ucr.edu/">Student Recreation Programs</a></h4> 
+      <p><img class="img_L" src="/students/images/recreation_thumb.jpg" alt="Student Recreation Program" width="93" height="46" />The UCR Student Recreation Center is home to intramural and club sports, recreational clubs and classes, as well as Outdoor Excursions. It features weight and cardio facilities, racquetball, volleyball and basketball, while the outdoor complex includes tennis courts, a ropes course, a roller hockey rink, two sand volleyball courts and two basketball courts. </p> 
+      <p>The facilities are free to UCR students with a current ID. Non-students may purchase quarterly memberships or day passes.</p> 
+      <h4 class="section"><a class="standout2" href="http://well.ucr.edu/">The WELL</a></h4> 
+      <p><img class="img_L" src="/students/images/well_thumbnail.jpg" alt="The Well" /><a href="http://well.ucr.edu/">The WELL</a> is the center for UCR’s wellness programs that support holistic student health and well-being and is part of the campus and UC system-wide Mental Health/Healthier Campus Climate Initiative. Located in the Highlander Union Building (HUB 248), it features peer educators, mentors and professionals who provide students with resources and support in physical, social, emotional, cultural and spiritual wellness. For more information, call (951) 827-9355 (WELL) .</p>
+      <!-- /com.omniupdate.div --> 
+     </div> 
+     <!-- com.omniupdate.efp -->
+     <!-- /com.omniupdate.efp --> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://library.ucr.edu/']);">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://campusstatus.ucr.edu/']);">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://campusstore.ucr.edu/']);">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://www.ucr.edu/employment.html']);">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://diversity.ucr.edu/']);">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://www.ucr.edu/about/directions.html']);">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://admissions.ucr.edu/VisitUCR']);">Visit UCR</a></li> 
+      </ul> 
+      <!-- Generated in 0.021497 seconds using 768 KiB of memory. --> 
+     </div> 
+     <div class="column49"> 
+      <h3>Additional Information</h3> 
+      <address><strong><a href="http://registrar.ucr.edu/">Undergraduate Recruitment</a></strong><br /> <a href="http://www.campusmap.ucr.edu/campusMap.php?loc=SSB" title="Campus Map">3249 Student Services Building</a> <br /> Riverside, CA 92521<br /><br /> Tel: (951) 827-4531<br /> Fax: (951) 827-4532<br /> E-mail: <a href="mailto:discover@ucr.edu">discover@ucr.edu</a></address> 
+      <ul class="footer_links"> 
+       <li><a id="footer_link_facebook" class="footer_link_icon" href="http://www.facebook.com/UCRiverside" title="external site: Facebook">Visit UCR's Facebook page</a></li> 
+       <li><a id="footer_link_twitter" class="footer_link_icon" href="http://twitter.com/UCRiverside" title="external site: Twitter">Follow UCR on Twitter</a></li> 
+       <li><a id="footer_link_youtube" class="footer_link_icon" href="http://www.youtube.com/UCRiverside" title="external site: YouTube">Visit UCR's YouTube channel</a></li> 
+       <li><a id="footer_link_rss" class="footer_link_icon" href="http://ucrtoday.ucr.edu/feed">Subscribe to UCR Today via RSS</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="/about/rankingsandfacts.html">UCR Rankings</a></li> 
+       <li><a href="http://finaid.ucr.edu/">Financial Aid</a></li> 
+       <li><a href="http://housing.ucr.edu/">Housing</a></li> 
+       <li><a href="http://registrar.ucr.edu/">Registrar's Office</a></li> 
+       <li><a href="http://classes.ucr.edu/">Schedule of Classes</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="//www.ucr.edu/"><span>UCR Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="//www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="//www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="//www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="//www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="//www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="//www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="//www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/students/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="//www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="//www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>&copy; 2011 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01189&amp;site=students&amp;path=%2Fhealth.html">Last modified: 2011-Jul-20</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.52911 seconds using 1.50 MiB of memory. -->   
+ </body>
+</html><!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>School of Medicine: For Prospective Medical Students</title> 
+  <meta http-equiv="last-modified" content="2012-10-03" /> 
+  <meta name="version" content="2.62 2.134 " /> 
+  <!-- 03/11/14 15:20:41 03/11/14 15:51:35 --> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/g=6bis-bluea-wide" media="all" /> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/f=css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all" /> 
+  <link href="https://fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css" /> 
+  <script type="text/javascript" src="http://www.ucr.edu/min/g=js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+  <link rel="alternate" type="application/rss+xml" title="Subscribe to SoM news via RSS" href="http://ucrtoday.ucr.edu/tag/school-of-medicine/feed" /> 
+  <style type="text/css">.l_contentwrapper { background-image: url(/images/bkgrnd/audience.jpg) }</style> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://medschool.ucr.edu/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr /> 
+   <div id="brandingbar"> 
+    <h1><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="University of California, Riverside" title="UCR Home page" /></a></h1> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/images/masthead.jpg);"> 
+   <div id="l_search_wrapper"> 
+    <div id="search"> 
+     <div id="nav_utility"> 
+      <ul> 
+       <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+       <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+       <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+      </ul> 
+     </div> 
+     <form id="searchbox" action="http://www.ucr.edu/search.php">
+      <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" size="18" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+     </form> 
+     <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+    </div> 
+   </div> 
+   <h1><a href="http://medschool.ucr.edu/"><span class="printonly">School of Medicine</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr /> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://medschool.ucr.edu/">School of Medicine</a> &gt;</li> 
+    <li class="lastitem">For Prospective Medical Students</li> 
+   </ul> 
+  </div> 
+  <div class="l_contentwrapper">
+   <div class="pagewrapper"> 
+    <hr /> 
+    <!-- Start Content (Navigation and Content columns) --> 
+    <div id="content"> 
+     <h2>For Prospective Medical Students</h2> 
+     <!-- Start Sidebar --> 
+     <div id="sidebar"> 
+      <div class="nav"> 
+       <h3 class="accessibility">Main Navigation</h3> 
+       <ul> 
+        <li><a href="/" title="Home">Home</a></li>
+        <li class="nav_inline2_last"><h3>For</h3>
+         <ul>
+          <li><a href="/current_students.html" title="Current Medical Students">Current Medical Students</a></li>
+          <li class="currentpage"><h3><dfn>Current page is: </dfn>Future Medical Students</h3></li>
+          <li><a href="/future_graduate.html" title="Future Graduate Students">Future Graduate Students</a></li>
+          <li><a href="/faculty.html" title="Faculty">Faculty</a></li>
+         </ul></li>
+        <li><a href="/about/" title="About the School of Medicine">About the School of Medicine</a></li>
+        <li><a href="/admissions/" title="Admissions">Admissions</a></li>
+        <li><a href="/mep/" title="Medical Education Program">Medical Education Program</a></li>
+        <li><a href="/pipeline_programs.html" title="Student Pipeline Programs">Student Pipeline Programs</a></li>
+        <li><a href="/graduate/" title="Ph.D. Program in Biomedical Sciences">Ph.D. Program in Biomedical Sciences</a></li>
+        <li><a href="/gme/" title="Graduate Medical Education">Graduate Medical Education</a></li>
+        <li><a href="/faculty_research/" title="Our Faculty">Our Faculty</a></li>
+        <li><a href="/giving/" title="Giving to the School of Medicine">Giving to the School of Medicine</a></li>
+        <li><a href="/employment/" title="Employment and Other Interest">Employment and Other Interest</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <hr /> 
+     <!-- End Sidebar --> 
+     <!-- Start Content Area --> 
+     <div id="main"> 
+      <div class="l_upper_section"> 
+       <img src="/images/main/future_students.jpg" alt=" " width="700" height="174" /> 
+       <h3>Mission of the UCR Medical School</h3> 
+       <p>The mission of the UCR School of Medicine is to improve the health of the people of California and, especially, to serve Inland Southern California by training a diverse workforce of physicians and by developing innovative research and health care delivery programs that will improve the health of the medically underserved in the region and become models to be emulated throughout the state and nation.</p> 
+      </div> 
+      <div class="l_lower_section"> 
+       <h3 class="section">Message to Prospective Students</h3> 
+       <p>We are proud to introduce California’s newest medical school, which recently received preliminary accreditation from the Liaison Committee on Medical Education and will enroll its inaugural class of M.D. students in August 2013. Building on a long partnership in medical education with the David Geffen School of Medicine at UCLA, the UCR School of Medicine is committed to expanding and diversifying the physician workforce in Inland Southern California and improving the health of people living in the region.</p> 
+       <p>The foundation for this new medical school is an excellent integrated two-year medical curriculum which was developed in concert with UCLA as part of the UCR/UCLA Thomas Haider Program in Biomedical Sciences. This program provided the first two years of M.D. education at UCR for over 30 years; students then completed their M.D. training at UCLA. More than 700 practicing physicians have graduated from this joint program. The new UCR School of Medicine will continue the tradition of providing a unique portal into medical school for UCR students, with up to 24 of the 50 seats filled by students who attend UCR for at least six consecutive quarters and complete their bachelor’s degree at UCR.</p> 
+       <p><strong>We invite you to explore our website and learn more about the UCR School of Medicine.</strong></p> 
+       <div class="column2"> 
+        <p>Neal L. Schiller, Ph.D.<br /> Senior Associate Dean for Student Affairs<br /> Professor of Biomedical Sciences</p> 
+       </div> 
+       <div class="column2R"> 
+        <p>Christian Lytle<br /> Chair, Admissions Committee<br /> Associate Professor of Biomedical Sciences</p>
+       </div>
+       <div class="clear"></div> 
+       <h3 class="section">A New Medical School for Inland Southern California</h3> 
+       <p><img class="img_L" src="/images/future_students_newmedical.jpg" alt=" " width="199" height="161" />If you aspire to be a patient-centered physician, if your passion is serving those in your community who are less fortunate, the UCR School of Medicine may be the pathway to achieving your dream.</p> 
+       <p>The inaugural class of medical students entering in August 2013 will become the sixth medical school in the world renowned University of California. This medical school is distinctive in its focus on serving the needs of the Inland Southern California region —&nbsp;a rapidly growing and ethnically diverse region that is home to 4.2 million people.</p> 
+       <p>With an initial class size of 50, UCR medical students will benefit from an intimate educational experience that features:</p> 
+       <ul> 
+        <li>A organ-based, integrated approach to the science of human biology and disease,</li> 
+        <li>Instruction in clinical skills from the very beginning,</li> 
+        <li>A distinctive, longitudinal clinical experience that begins in Year 2, and</li> 
+        <li>Mentorship from a team of student-centered biomedical science faculty and community-based&nbsp;clinical faculty.</li> 
+       </ul> 
+       <p>The UCR School of Medicine is now accepting applications for its inaugural class.</p> 
+       <ul class="l_hilite_list"> 
+        <li><a href="/admissions/">Learn about the admission to the UCR School of Medicine</a></li> 
+        <li><a href="/mep/">Learn about the Educational Program</a></li> 
+        <li><a href="/about/">Learn more about the new UCR School of Medicine</a></li> 
+        <li><a href="http://www.ucr.edu/about/">Learn more about UC Riverside</a></li> 
+       </ul> 
+      </div> 
+      <!-- End Content Area --> 
+      <div class="clear"></div> 
+     </div> 
+     <!-- End Content --> 
+    </div>
+   </div> 
+   <div class="clear"></div> 
+   <div class="footerwrapper"> 
+    <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+    <div class="pagewrapper"> 
+     <div class="prefooter alt-1-1-3"> 
+      <div class="column3"> 
+       <h3>General Campus Information</h3> 
+       <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+       <ul class="footer_links"> 
+        <li><a href="http://library.ucr.edu/">UCR Libraries</a></li> 
+        <li><a href="http://campusstatus.ucr.edu/">Campus Status</a></li> 
+        <li><a href="http://campusstore.ucr.edu/">Campus Store</a></li> 
+        <li><a href="http://www.ucr.edu/employment.html">Career Opportunities</a></li> 
+        <li><a href="http://diversity.ucr.edu/">Diversity</a></li> 
+        <li><a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></li> 
+        <li><a href="http://my.ucr.edu/visit/Pages/default.aspx">Visit UCR</a></li> 
+       </ul> 
+      </div> 
+      <div class="column3"> 
+       <h3>School Information</h3> 
+       <address><strong>School of Medicine</strong><br /> <a href="http://campusmap.ucr.edu/campusMap.php?loc=STAT" title="Campus Map">2608 School of Medicine Education Building</a><br /> <br /> Admissions Inquiries: (951) 827-4333<br /> General Inquiries: (951) 827-4568<br /> Fax: (951) 827-7688<br /> E-mail: <a href="mailto:medschool@ucr.edu?subject=Website%20Inquiry">medschool@ucr.edu</a></address> 
+       <ul class="footer_links"> 
+        <li><a id="footer_link_facebook" class="footer_link_icon" href="http://www.facebook.com/UCRiverside" title="external site: Facebook">Visit UCR’s Facebook page</a></li> 
+        <li><a id="footer_link_twitter" class="footer_link_icon" href="http://twitter.com/UCRiverside" title="external site: Twitter">Follow UCR on Twitter</a></li> 
+        <li><a id="footer_link_youtube" class="footer_link_icon" href="http://www.youtube.com/UCRiverside" title="external site: YouTube">Visit UCR’s YouTube channel</a></li> 
+        <li><a id="footer_link_rss" class="footer_link_icon" href="http://ucrtoday.ucr.edu/tag/school-of-medicine/feed">Subscribe to SoM news via RSS</a></li> 
+       </ul> 
+      </div> 
+      <div class="column23R"> 
+       <h3>Related Links</h3> 
+       <ul> 
+        <li><a href="http://biomed.ucr.edu/">UCR/UCLA Thomas Haider Program in Biomedical Sciences</a></li> 
+        <li><a href="http://hpac.ucr.edu/">Health Professions Advising Center</a></li> 
+        <li><a href="http://cgni.ucr.edu/">Center for Glial-Neuronal Interactions</a></li> 
+        <li><a href="http://gme.ucr.edu/">Graduate Medical Education</a></li> 
+       </ul> 
+       <p class="footer_info"> <img src="/images/ucr_footer.jpg" alt="" width="120" height="103" /> <strong>The University of California, Riverside</strong> (<a href="http://www.ucr.edu/">www.ucr.edu</a>) is a doctoral research university, a living laboratory for groundbreaking exploration of issues critical to Inland Southern California, the state and communities around the world. Reflecting California's diverse culture, UCR’s enrollment has exceeded 21,000 students. The campus opened a medical school in 2013 and has reached the heart of the Coachella Valley by way of the UCR Palm Desert Graduate Center. The campus has an annual statewide economic impact of more than $1 billion. </p> 
+      </div> 
+      <div class="clear"></div> 
+     </div> 
+     <div class="clear"></div> 
+     <div id="nav_footer"> 
+      <h3 class="accessibility">Campuswide Navigation</h3> 
+      <ul>
+       <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+       <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+       <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+       <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+       <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+       <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+       <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+       <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+      </ul> 
+     </div> 
+     <h3 class="accessibility">Footer</h3> 
+     <div id="footer"> 
+      <ul> 
+       <li><a href="http://medschool.ucr.edu/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+       <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+       <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+       <li>&copy; 2012 Regents of the University of California</li> 
+       <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D02000&amp;site=medschool&amp;path=%2Ffuture_students.html">Last modified: 2012-Oct-03</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <!-- Generated in 0.03177 seconds using 2.00 MiB of memory. -->   
+  </div>
+ </body>
+</html>

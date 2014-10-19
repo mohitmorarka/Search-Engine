@@ -1,0 +1,2232 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>Support Services</title> 
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" /> 
+  <link rel="stylesheet" href="/Content/css/plugins/bxSlider.css" /> 
+  <link rel="stylesheet" href="/Content/css/plugins/colorbox.css" /> 
+  <link href="/Content/css/960Framwork/reset.min.css?3e9f37" rel="stylesheet" /> 
+  <link href="/Content/css/960Framwork/typographyBluePrint.min.css?3e9f37" rel="stylesheet" /> 
+  <link href="/Content/css/960Framwork/960.min.css?3e9f37" rel="stylesheet" /> 
+  <link href="/Content/css/nav.min.css?3e9f37" rel="stylesheet" /> 
+  <link href="/Content/css/local.min.css?3e9f37" rel="stylesheet" /> 
+  <link href="/Content/css/genericBody.min.css?3e9f37" rel="stylesheet" /> 
+  <link href="/Content/css/iconSections.min.css?3e9f37" rel="stylesheet" /> 
+  <link href="/Content/css/footer.min.css?3e9f37" rel="stylesheet" /> 
+  <!--[if lte IE 8]>
+        <link rel="stylesheet" href="/Content/css/ie7_8.css" />
+    <![endif]--> 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script> 
+  <!-- Below is used to link to reserouces in external JS files --> 
+  <script type="text/javascript">
+        var baseURL = "/";
+    </script> 
+  <script src="/Scripts/app.min.js?3f3d91" type="text/javascript"></script> 
+  <script src="/Scripts/Custom_New/jquery.bxSlider.min.js" type="text/javascript"></script> 
+  <script src="/Scripts/Custom_New/selectiveLoad_plugins.js" type="text/javascript"></script> 
+  <script src="/Scripts/Custom_New/functionCalls.js" type="text/javascript"></script> 
+  <!--Google Analytics Tracking Code --> 
+  <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-503078-52']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script> 
+  <style type="text/css">
+        #translateContainer {
+            border:none;            
+            text-align:center;            
+        }
+            #translateContainer h3 {
+                line-height:30px;
+                background-color:#2d6cc0;
+                color:#fff;
+                font-family: Verdana,Arial,Helvetica,sans-serif;
+                font-size:15px;
+            }
+    </style> 
+  <!-- Google Translate Customization Code --> 
+  <meta name="google-translate-customization" content="40b506c3c9978d85-07cd07d0d7fc1236-gd88b6ab26a0907c6-12" /> 
+ </head> 
+ <body> 
+  <div id="headerWrapper"> 
+   <div class="container_16"> 
+    <div id="masthead" class="clearfix"> 
+     <div class="grid_16"> 
+      <img alt="UCRMonogram" class="UCRMonogram" src="/Images/ucrSealOverlay.png" width="346" height="145" /> 
+      <div id="mastHeadTop"> 
+       <h1> <a href="/" class="h1Link"> <img alt="UCR Logo" src="/Images/ucrSeal.png" /> <span class="hideText">University of California - UC Riverside</span><br /> <span class="spanHeaderUA">Undergraduate Admissions</span> </a> </h1> 
+      </div> 
+      <div id="mastHeadBottom"> 
+       <div id="button"> 
+        <img alt="th" class="menu_class" src="/Images/quicklinks.png" /> 
+        <ul class="the_menu" style="display: none;"> 
+         <li><a href="http://vcsaweb.ucr.edu/MyUCR/CreateAccount.aspx">MyUCR</a></li> 
+         <li><a href="/Admissions/pathsAdmissions">Paths to Admission</a> </li> 
+         <li><a href="/Admissions/meetCounselor">Find a Counselor</a></li> 
+         <li><a href="/PayingForCollege/financialAidScholarships">Financial Aid &amp; Scholarships</a></li> 
+         <li><a href="/Academics/collegesSchoolsMajors">Colleges, Schools &amp; Majors</a></li> 
+         <li><a href="/CampusLife/housing">Housing</a></li> 
+         <li><a href="/VisitUCR/tourOptions">Tour Options</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="grid_16 clearfix"> 
+      <div id="search"> 
+       <div class="breadcrumbs"> 
+        <a href="/">Home</a> &gt; 
+        <a href="/Academics">Academics</a> &gt; Support Services 
+       </div> 
+       <div id="nav_utility"> 
+        <ul> 
+         <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+         <li><a href="http://www.campusmap.ucr.edu/">Campus Map</a></li> 
+         <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+        </ul> 
+       </div> 
+       <form action="http://www.ucr.edu/search.php" id="searchbox"> 
+        <p> <label accesskey="4" for="SearchText" style="visibility: hidden;"> Search for:</label> <input type="text" value="" name="q" id="SearchText" maxlength="255" size="19" style="border: 1px solid rgb(126, 157, 185);
+                                padding: 2px; background: url(http://www.ucr.edu/images/design6/search_watermark.gif) no-repeat scroll left center rgb(255, 255, 255);" /> <input type="submit" value="Go" name="sa" id="go" /> </p> 
+       </form> 
+       <script src="http://www.ucr.edu/js/watermark.js" type="text/javascript"></script> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <!-- end Header Wrapper --> 
+  </div> 
+  <!-- end Header Wrapper --> 
+  <div id="mainContent"> 
+   <div id="box"> 
+    <a href="http://vcsaweb.ucr.edu/MyUCR/">MyUCR</a> 
+    <a href="/Home/FAQ"> FAQs</a> 
+    <a href="https://www.facebook.com/ucradmissions?bcode=q099X" class="facebook"> Facebook</a> 
+    <a href="http://twitter.com/ucradmissions" class="twitter">Twitter</a> 
+    <a href="http://lifeatucr.tumblr.com/" class="tumblr">Tumblr</a> 
+    <a href="http://instagram.com/lifeatucr" class="instagram">Instagram</a> 
+   </div> 
+   <!-- Floating box stops here --> 
+   <div class="container_16 clearfix"> 
+    <div class="grid_4 alpha"> 
+     <div id="navigation" class="clearfix"> 
+      <div id="sidebar"> 
+       <div class="nav"> 
+        <ul> 
+         <li class="home"><a href="/">Home</a></li> 
+        </ul> 
+        <ul class="audienceNav"> 
+         <li>Who Are You?</li> 
+         <li><a href="/Home/freshmen">Freshmen</a></li> 
+         <li><a href="/Home/transfer">Transfers</a></li> 
+         <li><a href="http://international.ucr.edu">International</a></li> 
+         <li><a href="/Home/military">Military/Veterans</a></li> 
+         <li><a href="/Home/parents">Parents</a></li> 
+         <li><a href="/Home/counselors">Counselors</a></li> 
+        </ul> 
+        <ul> 
+         <li><a href="/WhyUCR">Why UC Riverside?</a> 
+          <ul> 
+           <li><a href="/WhyUCR/ourStudents">Our Students</a></li> 
+           <li><a href="/WhyUCR/ourRankings">Our Rankings</a></li> 
+           <li><a href="/WhyUCR/ourResearch">Our Research</a></li> 
+           <li><a href="/WhyUCR/ourGuarantee">Our Guarantee</a></li> 
+          </ul> </li> 
+         <li><a href="/Academics">Academics</a> 
+          <ul> 
+           <li><a href="/Academics/collegesSchoolsMajors">Colleges, Schools &amp; Majors</a></li> 
+           <li><a href="/Academics/honorsPrograms">Honors Programs</a></li> 
+           <li><a href="/Academics/faculty">Faculty</a></li> 
+           <li><a class="current" href="/Academics/supportServices">Support Services</a></li> 
+           <li><a href="/Academics/studyAwayHome">Study Away from Home</a></li> 
+           <li><a href="/Academics/transferprep">Special Transfer Programs</a></li> 
+          </ul> </li> 
+         <li><a href="/CampusLife">Campus Life</a> 
+          <ul> 
+           <li><a href="/CampusLife/housing">Housing</a></li> 
+           <li><a href="/CampusLife/gettingInvolved">Getting Involved</a></li> 
+           <li><a href="/CampusLife/artsEvents">Arts &amp; Events</a></li> 
+           <li><a href="/CampusLife/athleticsRecreation">Athletics &amp; Recreation</a></li> 
+           <li><a href="/CampusLife/safetyWellness">Safety &amp; Wellness</a></li> 
+          </ul> </li> 
+         <li><a href="/Admissions">Admission</a> 
+          <ul> 
+           <li><a href="/Admissions/datesDeadlines">Dates &amp; Deadlines</a></li> 
+           <li><a href="/Admissions/pathsAdmissions">Freshman/Transfer Admission</a></li> 
+           <li><a href="/Admissions/meetCounselor">Meet Your Counselor</a></li> 
+          </ul> </li> 
+         <li><a href="/PayingForCollege">Paying for College</a> 
+          <ul> 
+           <li><a href="/PayingForCollege/financialAidScholarships">Financial Aid &amp; Scholarships</a></li> 
+           <li><a href="/PayingForCollege/costEstimator">Cost Estimator</a></li> 
+          </ul> </li> 
+         <li><a href="/VisitUCR">Visit UCR</a> 
+          <ul> 
+           <li><a href="/VisitUCR/tourOptions">Tour Options</a> 
+            <ul> 
+             <li><a href="/VisitUCR/virtualTours">Virtual Tours</a></li> 
+             <li><a href="/VisitUCR/selfGuided">Self-Guided</a></li> 
+            </ul> </li> 
+           <li><a href="/VisitUCR/planVisit">Plan Your Visit</a> 
+            <ul> 
+             <li><a href="/VisitUCR/hotelsDining">Hotels &amp; Dining</a></li> 
+             <li><a href="/VisitUCR/attractions">Attractions</a></li> 
+             <li><a href="/VisitUCR/gettingHere">Getting Here</a></li> 
+            </ul> </li> 
+           <li><a href="/VisitUCR/faq">Tour FAQs</a></li> 
+           <li><a href="/VisitUCR/aboutUs">About Us</a></li> 
+           <li><a href="/VisitUCR/campusTourGuide">Be a Campus Tour Guide</a></li> 
+          </ul> </li> 
+         <li><a href="/Apply">Apply Now</a></li> 
+         <li><a href="/Home/FAQ">FAQs</a></li> 
+         <li><a href="/Admissions/meetCounselor">Contact Us</a></li> 
+        </ul> 
+        <ul class="audienceNav" style="margin-top: 20px;"> 
+         <li>MyUCR Account</li> 
+         <li><a href="http://vcsaweb.ucr.edu/MyUCR/CreateAccount.aspx">Open a New Account</a></li> 
+         <li><a href="http://vcsaweb.ucr.edu/MyUCR/">Log in Now</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <!-- Begin Google Translate --> 
+      <div id="translateContainer"> 
+       <h3> Translate&nbsp; <img alt="Translate" src="/Images/icons/flagChinese_18.png" /> <img alt="Translate" src="/Images/icons/flagKorea_18.png" /> <img alt="Translate" src="/Images/icons/flagHindu_18.png" /> <img alt="Translate" src="/Images/icons/flagArab_18.png" /> </h3> 
+       <div id="google_translate_element"></div> 
+       <script type="text/javascript">
+                            function googleTranslateElementInit() {
+                                new google.translate.TranslateElement({ pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE }, 'google_translate_element');
+                            }
+                        </script> 
+       <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> 
+      </div> 
+      <!-- End Google Translate --> 
+     </div> 
+     <div> 
+      <a style="margin-top: 35px; display: block; color: #362F2D; font-weight: 700; text-align: center;
+                        width: 200px;" href="http://itunes.apple.com/nz/app/myucr-mobile/id417130774?mt=8&amp;ls=1"> <img alt="Get the MyUCR Mobile Application" src="/Images/myUCRMobilIcon.png" style="margin-bottom: 10px;" /><br /> Download MyUCR Mobile to your iPhone or iPod Touch!</a> 
+     </div> 
+     <script type="text/javascript" src="https://www.intelliworkschat.com/a/Hello?ti=0ef230ec-7b18-4dc1-9d65-e9fb13ca9e9c;cid=d6a605ab-c97a-4a87-a2c7-e3f8a0be192f;v=2"></script> 
+    </div> 
+    <div class="grid_12 omega"> 
+     <div class="innerPagebxsliderWrapper clearfix"> 
+      <div class="bxsliderMarkerLeft checkbox"> 
+       <p class="verd"> Admissions<br /> <span>Check Box</span> </p> 
+      </div> 
+      <div class="demo-wrap" id="innerPagebxslider"> 
+       <ul id="slider1" class="multiple"> 
+        <li><a href="http://instagram.com/lifeatucr"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/instagram.png" width="63" height="52" /> <strong>Follow us on Instagram</strong> <span>You'll love what you see.</span></a> </li> 
+        <li><a href="http://highlanderday.ucr.edu/"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/dec_feb_highlander.png" width="63" height="52" /> <strong>Highlander Day</strong> <span>Interested in UCR? Come visit on April 12.</span></a> </li> 
+        <li><a href="http://student08.ucr.edu/em/visitUCR/default.aspx"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/S-O_2TAT.png" width="63" height="52" /> <strong>Take a Tour</strong><span> Visit UCR, see housing and explore the campus.</span> </a></li> 
+        <li><a href="http://vcsaweb.ucr.edu/MyUCR/"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/N30_MyUCR.png" width="63" height="52" /> <strong>Create a MyUCR Account</strong> <span>Sign up and track your admission status.</span> </a></li> 
+        <li><a href="/WhyUCR"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/N30_8FR.png" width="63" height="52" /> <strong>Why UC Riverside?</strong> <span>See 50 good reasons to choose us.</span> </a> </li> 
+        <li><a href="http://www.facebook.com/ucradmissions"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/N30_4F.png" width="63" height="52" /> <strong>Like us on Facebook</strong> <span>Stay connected to UCR.</span></a></li> 
+        <li><a href="http://twitter.com/UCRiverside"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/N30_5T.png" width="63" height="52" /> <strong>Follow us on Twitter</strong> <span>Don’t miss a single update.</span></a></li> 
+        <li><a href="http://lifeatucr.tumblr.com/"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/N30_6T.png" width="63" height="52" /> <strong>Follow us on Tumblr</strong> <span>See what’s happening at UCR right now.</span></a> </li> 
+       </ul> 
+      </div> 
+      <div class="bxsliderMarkerRight">
+        &nbsp; 
+      </div> 
+     </div> 
+     <h2 class="intro"> Strength to Succeed</h2> 
+     <h3 class="verd intro"> Whether you’re a veteran, a transfer student, or a student with a <br /> unique need, you have total support at UCR.</h3> 
+     <div class="genericBody version3"> 
+      <div class="clearfix" style="margin-bottom: 30px;"> 
+       <div class="grid_4 alpha"> 
+        <img alt="Two female students, back-to-back" width="219" height="317" src="/Images/women_support_services.jpg" /> 
+       </div> 
+       <div class="grid_8 omega"> 
+        <br /> 
+        <h3> Choose the Right Path </h3> 
+        <h4><a href="http://firstyear.ucr.edu/learning.html">First Year Learning Communities</a><a href="#"> </a> </h4> 
+        <p> Meet fellow freshman taking similar coursework, form study groups and support one another’s success. Learn more about First Year Learning Communities: </p> 
+        <ul> 
+         <li><a href="http://firstyear.ucr.edu/bourns.html">First Year: Bourns College of Engineering</a> </li> 
+         <li><a href="http://firstyear.ucr.edu/chass.html">First Year: College of Humanities, Arts, and Social Sciences</a> </li> 
+         <li><a href="http://firstyear.ucr.edu/cnas.html">First Year: College of Natural and Agricultural Sciences</a> </li> 
+         <li><a href="http://firstyear.ucr.edu/honorsprogram.html">First Year: University Honors Program</a> </li> 
+         <li><a href="http://firstyear.ucr.edu/academic.html">First Year: Medical Scholars</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="clearfix" style="margin-bottom: 30px;"> 
+       <div class="grid_4 alpha"> 
+        <h3> Access Everything</h3> 
+        <h4> <a href="http://www.specialservices.ucr.edu/disabilities/Pages/default.aspx">Services for Students with Disabilities</a></h4> 
+        <p style="line-height: 150%"> Fully participate in all aspects of campus life and enjoy equal access to educational, cultural and social programs.<br /> </p> 
+       </div> 
+       <div class="grid_4"> 
+        <h3> Maximize Benefits</h3> 
+        <h4> <a href="http://www.specialservices.ucr.edu/veterans/Pages/default.aspx">Services for Veterans and their Families</a></h4> 
+        <p style="line-height: 150%"> Obtain the&nbsp;educational benefits you’ve proudly earned for yourself and eligible family members.<br /> </p> 
+       </div> 
+       <div class="grid_4 omega"> 
+        <h3> Raise Your Grades</h3> 
+        <h4> <a href="http://arc.ucr.edu/">The Academic Resource Center</a> </h4> 
+        <p style="line-height: 150%"> Benefit from free tutoring provided by educators and advanced students who believe in your ability to succeed.</p> 
+       </div> 
+      </div> 
+      <div class="clearfix" style="margin-bottom: 30px;"> 
+       <div class="grid_8 alpha"> 
+        <h3>Connect and Lead </h3> 
+        <h4> <a href="https://www.ucr.edu/students/ethnic_gender.html">Ethnic and Gender Programs</a><a href="#"></a></h4> 
+        <p> Access support services, find community, participate in cultural events and hone leadership skills with UCR’s Ethnic and Gender programs. </p> 
+        <ul> 
+         <li><a href="http://asp.ucr.edu/Pages/default.aspx">African Student Programs</a> </li> 
+         <li><a href="http://apsp.ucr.edu/Pages/default.aspx">Asian Pacific Student Programs</a> </li> 
+         <li><a href="http://csp.ucr.edu/Pages/default.aspx">Chicano Student Programs</a> </li> 
+         <li><a href="http://out.ucr.edu/Pages/default.aspx">Lesbian Gay Bisexual Transgender Resource Center</a> </li> 
+         <li><a href="http://nasp.ucr.edu/Pages/default.aspx">Native American Student Programs</a></li> 
+         <li><a href="http://wrc.ucr.edu/Pages/default.aspx">Women’s Resource Center</a></li> 
+        </ul> 
+       </div> 
+       <div class="grid_4 omega"> 
+        <img alt="Two male students, hand on shoulder" width="221" height="318" src="/Images/men_support_services.jpg" /> 
+       </div> 
+      </div> 
+      <div class="grid_8 omega"> 
+       <h3> Improve Your Wellbeing</h3> 
+       <h4> <a href="http://well.ucr.edu/About/Pages/WellPartnerInformation.aspx">The Student Wellness Partners</a><a href="#"></a></h4> 
+       <p> Soothe stress, get fit, and feel well inside and out with campus resources that serve your healthy mind and body. </p> 
+       <ul style="margin-top: -12px;"> 
+        <li><a href="http://campushealth.ucr.edu/Pages/default.aspx">Campus Health Center&nbsp;</a></li> 
+        <li><a href="http://counseling.ucr.edu/">Counseling Center</a></li> 
+        <li><a href="http://deanofstudents.ucr.edu/">Dean of Students</a></li> 
+        <li><a href="http://housing.ucr.edu">Housing, Dining &amp; Residential Services</a></li> 
+        <li><a href="http://internationalcenter.ucr.edu/Pages/default.aspx">International Student Resource Center</a></li> 
+        <li><a href="http://www.recreation.ucr.edu/Pages/default.aspx">Student Recreation Center&nbsp;</a></li> 
+        <li><a href="http://well.ucr.edu/Pages/default.aspx">The Well</a></li> 
+       </ul> 
+      </div> 
+      <div class="clearfix"> 
+       <div class="grid_4 alpha"> 
+        <h3> Always Feel Safe</h3> 
+        <p> Cross campus safely after-hours with our award-winning <a href="http://wrc.ucr.edu/escortservices/Pages/default.aspx"> Campus Safety Escort Service</a>.</p> 
+        <br /> 
+        <h3> Transfer and Thrive</h3> 
+        <p> Take advantage of special programs <a href="/Academics/transferprep">just for transfer students.</a> </p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="footerwrapper"> 
+   <div class="container_16"> 
+    <div class="prefooter alt-1-1-3 clearfix"> 
+     <div class="grid_5"> 
+      <h3> General Campus Information</h3> 
+      <address> <span class="vcard"><strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"><span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code"> 92521</span><br /> </span>Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR">Visit UCR</a></li> 
+      </ul> 
+     </div> 
+     <div class="grid_5"> 
+      <h3> Department Information</h3> 
+      <address> <strong>UCR Admissions</strong><br /> <a href="http://campusmap.ucr.edu/campusMap.php?loc=SSB" title="Campus Map">3106 Student Services Building</a><br /> <br /> Tel: (951) 827-3411<br /> Fax: (951) 827-6344<br /> E-mail: <a href="mailto:admissions@ucr.edu?subject=Website%20Inquiry">admissions@ucr.edu</a></address> 
+      <ul class="footer_links"> 
+       <li><a id="footer_link_facebook" class="footer_link_icon" href="https://www.facebook.com/ucradmissions?bcode=q099X" title="external site: Facebook">Visit UCR Admissions Facebook page</a></li> 
+       <li><a id="footer_link_twitter" class="footer_link_icon" href="http://twitter.com/ucradmissions" title="external site: Twitter">Follow UCR Admissions on Twitter</a></li> 
+       <li><a id="footer_link_tumblr" class="footer_link_icon" href="http://lifeatucr.tumblr.com"> Read about UCR Student Life on Tumblr</a></li> 
+       <li><a id="footer_link_instagram" class="footer_link_icon" href="http://instagram.com/lifeatucr">Follow UCR Admissions on Instagram</a></li> 
+      </ul> 
+     </div> 
+     <div class="grid_6"> 
+      <h3> Related Links</h3> 
+      <ul class="relatedLinks"> 
+       <li><a href="http://www.universityofcalifornia.edu/admissions/how-to-apply/apply-online/index.html"> Apply to UC Riverside </a></li> 
+       <li><a href="http://vcsaweb.ucr.edu/MyUCR/CreateAccount.aspx">Create a MyUCR Account</a></li> 
+       <li><a href="http://international.ucr.edu">International Admissions</a></li> 
+       <li><a href="http://finaid.ucr.edu/Pages/default.aspx">Financial Aid </a></li> 
+       <li><a href="http://promise.ucr.edu/">Living the Promise </a></li> 
+       <li><a href="http://rside.ucr.edu/">R'Side </a></li> 
+       <li><a href="http://tartansoul.ucr.edu/">Tartan Soul</a></li> 
+       <li><a href="http://gohighlanders.com/splash.aspx?id=splash_226">Go Highlanders</a></li> 
+       <li><a href="http://rdream.ucr.edu">R'Dream</a></li> 
+      </ul> 
+      <p class="footer_info"> <img src="/Images/footer.jpg" alt="" width="120" height="103" /> <strong>UCR Undergraduate Admissions</strong> is committed to providing you with the highest level of service. We serve prospective students, their families, and educators, and enroll a highly diverse and academically accomplished student body. </p> 
+     </div> 
+    </div> 
+    <div id="nav_footer" class="clearfix"> 
+     <ul> 
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li> <a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li> <a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li> <a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li> <a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li> <a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li> <a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li> <a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="/#sliderTriggerAnchor" class="footerFeedbackLink" accesskey="9" title="Send Feedback E-mail"> Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions"> Terms and Conditions</a></li> 
+      <li>@ 2014 Regents of the University of California</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div>   
+ </body>
+</html><!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
+ <!--SYSTEM_VERSION:1393445195-->
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" /> 
+  <meta http-equiv="content-language" content="en" /> 
+  <meta http-equiv="pragma" content="no-cache" /> 
+  <meta http-equiv="imagetoolbar" content="no" /> 
+  <meta property="twitter:theellenshow" content="15846407" /> 
+  <title>Coming Up On Ellen | EllenTV.com</title> 
+  <meta name="keywords" content="" /> 
+  <meta name="description" content="" /> 
+  <meta name="robots" content="index,follow" /> 
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" /> 
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" /> 
+  <link rel="apple-touch-icon" sizes="57x57" href="http://cdn-assets.ellentv.com/www.ellentv.com/main/default/cacheimg/apple-touch-icon-57x57.v2013_10_01_102639.png" /> 
+  <link rel="apple-touch-icon" sizes="72x72" href="http://cdn-assets.ellentv.com/www.ellentv.com/main/default/cacheimg/apple-touch-icon-72x72.v2013_10_01_102639.png" /> 
+  <link rel="apple-touch-icon" sizes="76x76" href="http://cdn-assets.ellentv.com/www.ellentv.com/main/default/cacheimg/apple-touch-icon-76x76.v2013_10_01_102639.png" /> 
+  <link rel="apple-touch-icon" sizes="114x114" href="http://cdn-assets.ellentv.com/www.ellentv.com/main/default/cacheimg/apple-touch-icon-114x114.v2013_10_01_102639.png" /> 
+  <link rel="apple-touch-icon" sizes="120x120" href="http://cdn-assets.ellentv.com/www.ellentv.com/main/default/cacheimg/apple-touch-icon-120x120.v2013_10_01_102639.png" /> 
+  <link rel="apple-touch-icon" sizes="144x144" href="http://cdn-assets.ellentv.com/www.ellentv.com/main/default/cacheimg/apple-touch-icon-144x144.v2013_10_01_102639.png" /> 
+  <link rel="apple-touch-icon" sizes="152x152" href="http://cdn-assets.ellentv.com/www.ellentv.com/main/default/cacheimg/apple-touch-icon-152x152.v2013_10_01_102639.png" /> 
+  <link rel="alternate" type="application/atom+xml" title="Ellen Atom" href="http://www.ellentv.com/feeds/atom.xml" /> 
+  <link rel="canonical" href="http://www.ellentv.com/episodes/" /> 
+  <meta property="og:url" content="http://www.ellentv.com/episodes/" /> 
+  <meta property="fb:app_id" content="404495986265867" /> 
+  <meta property="fb:admins" content="100002995737000,647375482,2530924,100001117828817,3303196,589633129,8504611,657579851,1677133812,503634181,1593057267,506883452,1227491192,557869693,700468359,1286192110" /> 
+  <meta property="og:site_name" content="EllenTV" /> 
+  <link rel="stylesheet" type="text/css" media="screen" href="http://cdn-assets.ellentv.com/www.ellentv.com/main/default/cache/e227dc0f1a45dd02d04549163611f103.v2014_03_05_182636.css" /> 
+  <!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="http://cdn-assets.ellentv.com/www.ellentv.com/main/default/cache/ie7.ce1d94c419a939931b5b690139070eba.v2014_02_19_232804.css" />
+<![endif]--> 
+  <!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="http://cdn-assets.ellentv.com/www.ellentv.com/main/default/cache/ie8.e40f2554e7f3f72ad3af6d0c74a77519.v2013_08_20_204542.css" />
+<![endif]--> 
+  <script language="JavaScript" type="text/javascript" src="http://cdn-assets.ellentv.com/www.ellentv.com/main/default/cache/ee9918a1a95896d127c4d50dd93500da.v2014_03_05_182636.js"></script> 
+  <script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-25112850-2']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+})();
+</script> 
+  <script type="text/javascript">
+tpixAdConfig.init("ellen", "episodes"); // siteId, adZone, debug (debug is optional, defaults to false)
+tpixAdConfig.setEnabled(true);
+tpixAdConfig.setQuantcast(true);
+tpixAdConfig.setAudienceScience(true);
+</script> 
+  <!-- No promotions for slot [global-htmlhead-slot] at this time, called from container [HtmlHead] with AllowedWidgets [raw-contents,static-block,template-call] --> 
+  <script type="text/javascript">
+document.write('<scr'+'ipt type="text/javascript" src="http://cdnapi.kaltura.com/p/594251/sp/59425100/embedIframeJs/uiconf_id/6019851/partner_id/594251"></sc'+'ript>');
+</script> 
+  <!-- No promotions for slot [episodes-htmlhead-slot] at this time, called from container [HtmlHead] with AllowedWidgets [raw-contents,static-block,template-call] --> 
+ </head> 
+ <body id="body-episodes" class="body-two-column body-episodes"> 
+  <!--googleoff: index--> 
+  <!--googleoff: snippet--> 
+  <div id="yahoo-shine-header"> 
+   <div class="page-wrap"> 
+    <div class="shine-logo">
+     <a href="http://shine.yahoo.com/" target="_blank">Yahoo! Shine</a>
+    </div> 
+    <div class="shine-header-links">
+     <span>Additional Yahoo! Sites You May Like:</span> 
+     <a href="http://yahoo.com" target="_blank">Yahoo.com</a> 
+     <a href="https://mail.yahoo.com" target="_blank">Mail</a> 
+     <a href="http://movies.yahoo.com/" target="_blank">Movies</a> 
+     <a href="http://shopping.yahoo.com/" target="_blank">Shopping</a> 
+     <a href="http://omg.yahoo.com/" target="_blank">omg!</a> 
+     <a href="http://www.flickr.com/" target="_blank">Flickr</a> 
+     <a href="http://tv.yahoo.com/" target="_blank">Music</a> 
+     <a target="_blank" class="last" href="http://shine.yahoo.com/">Shine from Yahoo!</a> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="header-ad"> 
+   <div class="ad-wrap ad-728x90 ad-728x90-pos-1"> 
+    <div class="ad"> 
+     <script type="text/javascript">
+            // width, height, tile, refresh_time, altheight, altwidth
+            var ad = new tpixAd(728, 90, 1, false, 66, 970);
+            ad.write();
+        </script> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="header"> 
+   <div class="page-wrap clearfix"> 
+    <div id="logo">
+     <a href="http://www.ellentv.com/" title="Ellen">Ellen</a>
+    </div> 
+    <div id="util-nav-wrap"> 
+     <div id="top-social-nav"> 
+      <ul id="social-nav"> 
+       <li class="youtube" title="youtube">
+        <div class="g-ytsubscribe" data-channel="theellenshow" data-layout="default"></div></li>
+       <!--
+                    -->
+       <li class="facebook" title="Facebook">
+        <div class="addthis_toolbox addthis_default_style" addthis:url="https://www.facebook.com/ellentv/" addthis:title="ellentv" style="display:inline;">
+         <a class="addthis_button_facebook_like" fb:like:layout="button_count" fb:like:show_faces="false" fb:like:send="false" fb:like:font="verdana"></a>
+        </div></li>
+       <!--
+                    -->
+       <li class="twitter" title="Twitter">
+        <div class="addthis_toolbox addthis_default_style" style="display:inline;">
+         <a href="http://twitter.com/TheEllenShow/" class="addthis_button_twitter_follow_native" tw:screen_name="TheEllenShow" tf:show-count="false" tf:show-screen-name="false"></a>
+        </div></li>
+       <!--
+                    -->
+       <li class="instagram" title="Instagram"><a href="http://instagram.com/theellenshow?ref=badge" target="_blank" class="ig-b- ig-b-24"><img src="//badges.instagram.com/static/images/ig-badge-24.png" alt="Instagram" /></a></li> 
+      </ul> 
+     </div> 
+     <div id="search-top-wrap"> 
+      <form id="search-form-top" method="get" action="http://www.ellentv.com/search/all/"> 
+       <div class="input"> 
+        <input type="text" name="q" id="qtop" value="" maxlength="30" autocomplete="off" placeholder="Search EllenTV.com" /> 
+       </div> 
+       <input type="submit" class="search-btn" id="search-btn-top" value="Search" /> 
+      </form> 
+     </div> 
+     <script type="text/javascript">
+                ellen.searchBox.init();
+            </script> 
+     <div id="util-nav" class="clearfix"> 
+      <div id="presence-indicator-wrap" class="clearfix"> 
+       <ul id="presence-indicator"> 
+        <li class="first"><a href="http://www.ellentv.com/signup/">Create an Account</a></li>
+        <!--
+    -->
+        <li class="last"><a href="http://www.ellentv.com/signin/">Sign In</a></li> 
+       </ul> 
+       <script type="text/javascript">
+
+    ellen.userLoggedIn = false;
+    $("html").addClass("user-not-logged-in");
+
+</script> 
+      </div> 
+      <div id="heads-up"> 
+       <a target="_blank" href="https://itunes.apple.com/us/app/heads-up!/id623592465?referral_id=ELHOME">Download Heads Up!</a> 
+      </div> 
+      <div id="ellen-shop" class="clearfix"> 
+       <a href="http://www.ellenshop.com/?referral_id=ELHOME" target="_blank">Ellen Shop</a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="page-wrap header-nav-wrap clearfix"> 
+    <div id="primary-nav-wrap"> 
+     <ul id="primary-nav"> 
+      <li class="first home"><a href="http://www.ellentv.com/"><span>Home</span></a></li>
+      <!--
+        -->
+      <li rel="show-info" class="show-info"><a href="http://www.ellentv.com/show-info/"><span>Show Info</span></a></li>
+      <!--
+        -->
+      <li rel="episodes" class="episodes current"><a href="http://www.ellentv.com/episodes/"><span>Episodes</span></a></li>
+      <!--
+        -->
+      <li rel="lol" class="lol"><a href="http://www.ellentv.com/lol/"><span>LOL</span></a></li>
+      <!--
+        -->
+      <li rel="celebs" class="celebs"><a href="http://www.ellentv.com/celebs/"><span>Celebs</span></a></li>
+      <!--
+        -->
+      <li rel="music" class="music"><a href="http://www.ellentv.com/music/"><span>Music</span></a></li>
+      <!--
+        -->
+      <li rel="kids" class="kids"><a href="http://www.ellentv.com/kids/"><span>Kids</span></a></li>
+      <!--
+        -->
+      <li rel="pets" class="pets"><a href="http://www.ellentv.com/pets/"><span>Pets</span></a></li>
+      <!--
+        -->
+      <li rel="inspiring" class="inspiring"><a href="http://www.ellentv.com/inspiring/"><span>Inspiring</span></a></li>
+      <!--
+        -->
+      <li rel="ellens-picks" class="last ellens-picks"><a href="http://www.ellentv.com/ellens-picks/"><span>Ellen's Picks</span></a></li> 
+     </ul>
+     <div class="primary-nav-content"> 
+      <div class="show-info content-wrap"></div> 
+      <div class="episodes content-wrap"></div> 
+      <div class="lol content-wrap"></div> 
+      <div class="celebs content-wrap"></div> 
+      <div class="music content-wrap"></div> 
+      <div class="kids content-wrap"></div> 
+      <div class="pets content-wrap"></div> 
+      <div class="inspiring content-wrap"></div> 
+      <div class="ellens-picks content-wrap"></div> 
+     </div> 
+    </div> 
+    <script type="text/javascript">
+ellen.primaryNav.init("http://www.ellentv.com");
+</script> 
+   </div> 
+  </div> 
+  <div id="content"> 
+   <div class="page-wrap content-main-wrap clearfix"> 
+    <div id="content-main" class="clearfix"> 
+     <h1>Coming Up On Ellen</h1> 
+     <div id="episode-list" class="post-list-wrap post-list-default-wrap clearfix"> 
+      <div class="items"> 
+       <div class="episode item item1 emphasis-small first clearfix"> 
+        <div class="title">
+         <h2><a href="http://www.ellentv.com/episodes/ricky-gervais-joe-manganiello/">Ricky Gervais, Joe Manganiello</a></h2>
+        </div> 
+        <div class="publish-info"> 
+         <span class="publish-date">Tuesday, 03.11.14</span> 
+         <span class="middot">&middot;</span> 
+         <span class="comment-count"><a href="http://www.ellentv.com/episodes/ricky-gervais-joe-manganiello/#comments">(4) Comments</a></span> 
+         <span class="rdquo">”</span> 
+        </div> 
+        <div class="sharing sharing-list-top clearfix"> 
+         <div class="addthis_toolbox addthis_default_style" addthis:url="http://www.ellentv.com/episodes/ricky-gervais-joe-manganiello/" addthis:title="Ricky Gervais, Joe Manganiello" style="display:inline;"> 
+          <a class="addthis_button_facebook_like" fb:like:layout="button_count" fb:like:show_faces="false" fb:like:send="true" fb:like:font="arial"></a> 
+         </div> 
+        </div> 
+        <div class="contents clearfix"> 
+         <div class="image"> 
+          <a href="http://www.ellentv.com/episodes/ricky-gervais-joe-manganiello/" title="Ricky Gervais, Joe Manganiello"><img src="http://cdn-media.ellentv.com/2014/03/05/ricky-gervais-blog-212x117.jpg" width="212" alt="Ricky Gervais, Joe Manganiello" /></a> 
+          <div class="icon icon-video">
+           <span><a href="http://www.ellentv.com/episodes/ricky-gervais-joe-manganiello/">&nbsp;</a></span>
+          </div> 
+         </div> 
+         <div class="text"> 
+          <div class="excerpt">
+           With the release of his new movie, &quot;Muppets Most Wanted,&quot; RICKY GERVAIS is running scared, and right into Ellen's hot seat! The lively comedian has previously gotten together with the Sesame Street gang, he's spent a tumultuous &quot;Night at the Museum,&quot; and…
+          </div> 
+          <div class="readmore">
+           <a href="http://www.ellentv.com/episodes/ricky-gervais-joe-manganiello/">Continue reading…</a>
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="episode item item2 emphasis-small clearfix"> 
+        <div class="title">
+         <h2><a href="http://www.ellentv.com/episodes/randy-jackson-maria-menounos/">Randy Jackson, Maria Menounos</a></h2>
+        </div> 
+        <div class="publish-info"> 
+         <span class="publish-date">Wednesday, 03.12.14</span> 
+         <span class="middot">&middot;</span> 
+         <span class="comment-count"><a href="http://www.ellentv.com/episodes/randy-jackson-maria-menounos/#comments">(2) Comments</a></span> 
+         <span class="rdquo">”</span> 
+        </div> 
+        <div class="sharing sharing-list-top clearfix"> 
+         <div class="addthis_toolbox addthis_default_style" addthis:url="http://www.ellentv.com/episodes/randy-jackson-maria-menounos/" addthis:title="Randy Jackson, Maria Menounos" style="display:inline;"> 
+          <a class="addthis_button_facebook_like" fb:like:layout="button_count" fb:like:show_faces="false" fb:like:send="true" fb:like:font="arial"></a> 
+         </div> 
+        </div> 
+        <div class="contents clearfix"> 
+         <div class="image"> 
+          <a href="http://www.ellentv.com/episodes/randy-jackson-maria-menounos/" title="Randy Jackson, Maria Menounos"><img src="http://cdn-media.ellentv.com/2014/03/06/randy-jackson-billboard-blog-212x117.jpg" width="212" alt="Randy Jackson, Maria Menounos" /></a> 
+          <div class="icon icon-video">
+           <span><a href="http://www.ellentv.com/episodes/randy-jackson-maria-menounos/">&nbsp;</a></span>
+          </div> 
+         </div> 
+         <div class="text"> 
+          <div class="excerpt">
+           The Dogfather of &quot;American Idol,&quot; RANDY JACKSON is here! The longtime show judge and music producer has been with the competition series since its inception, and this year he returned as a mentor. Ellen has already grilled the new panel of judges on…
+          </div> 
+          <div class="readmore">
+           <a href="http://www.ellentv.com/episodes/randy-jackson-maria-menounos/">Continue reading…</a>
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="episode item item3 emphasis-small clearfix"> 
+        <div class="title">
+         <h2><a href="http://www.ellentv.com/episodes/george-lopez-jesse-metcalfe/">George Lopez, Jesse Metcalfe</a></h2>
+        </div> 
+        <div class="publish-info"> 
+         <span class="publish-date">Thursday, 03.13.14</span> 
+         <span class="middot">&middot;</span> 
+         <span class="comment-count"><a href="http://www.ellentv.com/episodes/george-lopez-jesse-metcalfe/#add-comment">Add Comment</a></span> 
+         <span class="rdquo">”</span> 
+        </div> 
+        <div class="sharing sharing-list-top clearfix"> 
+         <div class="addthis_toolbox addthis_default_style" addthis:url="http://www.ellentv.com/episodes/george-lopez-jesse-metcalfe/" addthis:title="George Lopez, Jesse Metcalfe" style="display:inline;"> 
+          <a class="addthis_button_facebook_like" fb:like:layout="button_count" fb:like:show_faces="false" fb:like:send="true" fb:like:font="arial"></a> 
+         </div> 
+        </div> 
+        <div class="contents clearfix"> 
+         <div class="image"> 
+          <a href="http://www.ellentv.com/episodes/george-lopez-jesse-metcalfe/" title="George Lopez, Jesse Metcalfe"><img src="http://cdn-media.ellentv.com/2014/03/06/george-lopez-blog-212x117.jpg" width="212" alt="George Lopez, Jesse Metcalfe" /></a> 
+          <div class="icon icon-video">
+           <span><a href="http://www.ellentv.com/episodes/george-lopez-jesse-metcalfe/">&nbsp;</a></span>
+          </div> 
+         </div> 
+         <div class="text"> 
+          <div class="excerpt">
+           He's &quot;Tall, Dark &amp; Chicano,&quot; and one of the funniest men in show business. GEORGE LOPEZ is here! The energetic comedian has been making people laugh for years by lampooning his cultural roots. From the stage to the written page, George speaks his…
+          </div> 
+          <div class="readmore">
+           <a href="http://www.ellentv.com/episodes/george-lopez-jesse-metcalfe/">Continue reading…</a>
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="episode item item4 emphasis-small clearfix"> 
+        <div class="title">
+         <h2><a href="http://www.ellentv.com/episodes/wanda-sykes-jordana-brewster/">Wanda Sykes, Jordana Brewster</a></h2>
+        </div> 
+        <div class="publish-info"> 
+         <span class="publish-date">Friday, 03.14.14</span> 
+         <span class="middot">&middot;</span> 
+         <span class="comment-count"><a href="http://www.ellentv.com/episodes/wanda-sykes-jordana-brewster/#comments">(3) Comments</a></span> 
+         <span class="rdquo">”</span> 
+        </div> 
+        <div class="sharing sharing-list-top clearfix"> 
+         <div class="addthis_toolbox addthis_default_style" addthis:url="http://www.ellentv.com/episodes/wanda-sykes-jordana-brewster/" addthis:title="Wanda Sykes, Jordana Brewster" style="display:inline;"> 
+          <a class="addthis_button_facebook_like" fb:like:layout="button_count" fb:like:show_faces="false" fb:like:send="true" fb:like:font="arial"></a> 
+         </div> 
+        </div> 
+        <div class="contents clearfix"> 
+         <div class="image"> 
+          <a href="http://www.ellentv.com/episodes/wanda-sykes-jordana-brewster/" title="Wanda Sykes, Jordana Brewster"><img src="http://cdn-media.ellentv.com/2014/03/06/wanda-sykes-episode-212x117.jpg" width="212" alt="Wanda Sykes, Jordana Brewster" /></a> 
+          <div class="icon icon-video">
+           <span><a href="http://www.ellentv.com/episodes/wanda-sykes-jordana-brewster/">&nbsp;</a></span>
+          </div> 
+         </div> 
+         <div class="text"> 
+          <div class="excerpt">
+           If anyone can make Ellen laugh, it's WANDA SYKES! The standup comedian returns to tell our host more hilarious stories of life on the road. When they’re together, Ellen and Wanda can get into almost any subject, from the kinks of getting older (and…
+          </div> 
+          <div class="readmore">
+           <a href="http://www.ellentv.com/episodes/wanda-sykes-jordana-brewster/">Continue reading…</a>
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="episode item item5 emphasis-small last clearfix"> 
+        <div class="title">
+         <h2><a href="http://www.ellentv.com/episodes/howie-mandel-meryl-davis-and-charlie-white/">Howie Mandel, Meryl Davis &amp; Charlie White</a></h2>
+        </div> 
+        <div class="publish-info"> 
+         <span class="publish-date">Monday, 03.17.14</span> 
+         <span class="middot">&middot;</span> 
+         <span class="comment-count"><a href="http://www.ellentv.com/episodes/howie-mandel-meryl-davis-and-charlie-white/#comments">(1) Comments</a></span> 
+         <span class="rdquo">”</span> 
+        </div> 
+        <div class="sharing sharing-list-top clearfix"> 
+         <div class="addthis_toolbox addthis_default_style" addthis:url="http://www.ellentv.com/episodes/howie-mandel-meryl-davis-and-charlie-white/" addthis:title="Howie Mandel, Meryl Davis &amp; Charlie White" style="display:inline;"> 
+          <a class="addthis_button_facebook_like" fb:like:layout="button_count" fb:like:show_faces="false" fb:like:send="true" fb:like:font="arial"></a> 
+         </div> 
+        </div> 
+        <div class="contents clearfix"> 
+         <div class="image"> 
+          <a href="http://www.ellentv.com/episodes/howie-mandel-meryl-davis-and-charlie-white/" title="Howie Mandel, Meryl Davis &amp; Charlie White"><img src="http://cdn-media.ellentv.com/2014/03/11/howie-mandel-episode-212x117.jpg" width="212" alt="Howie Mandel, Meryl Davis &amp; Charlie White" /></a> 
+          <div class="icon icon-video">
+           <span><a href="http://www.ellentv.com/episodes/howie-mandel-meryl-davis-and-charlie-white/">&nbsp;</a></span>
+          </div> 
+         </div> 
+         <div class="text"> 
+          <div class="excerpt">
+           He can make a deal, uncover hidden talents, and play games with the slickest of sorts, HOWIE MANDEL returns! The comedian and game show host is here right as season two of his prank series &quot;Deal With It&quot; premieres on TBS, and there's no telling what's…
+          </div> 
+          <div class="readmore">
+           <a href="http://www.ellentv.com/episodes/howie-mandel-meryl-davis-and-charlie-white/">Continue reading…</a>
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <p class="view-all"><a href="http://www.ellentv.com/episodes/2014/03/">View All Past Episodes &raquo;</a></p> 
+    </div>
+    <!-- end: content-main -->
+    <!--
+        -->
+    <div id="sidebar"> 
+     <!-- No promotions for slot [episodes-sidebar-slot-1] at this time, called from container [sidebar] with AllowedWidgets [] --> 
+     <div class="ad-wrap ad-300x250 ad-300x250-pos-3"> 
+      <div class="ad"> 
+       <script type="text/javascript">
+            // width, height, tile, refresh_time, altheight, altwidth
+            var ad = new tpixAd(300, 250, 3, false, 600, 300);
+            ad.write();
+        </script> 
+      </div> 
+     </div> 
+     <!-- No promotions for slot [episodes-sidebar-slot-2] at this time, called from container [sidebar] with AllowedWidgets [] --> 
+     <div id="this-week-" class="widget widget-small-thumbs this-week this-week-small-thumbs static-block clearfix"> 
+      <div class="sb-header">
+       <span>Coming Up On Ellen</span>
+      </div> 
+      <div class="sb-content"> 
+       <ul> 
+        <li class="episode first"> 
+         <div class="image"> 
+          <a href="http://www.ellentv.com/episodes/ricky-gervais-joe-manganiello/" title="Ricky Gervais, Joe Manganiello"><img src="http://cdn-media.ellentv.com/2014/03/05/ricky-gervais-blog-88x49.jpg" width="88" alt="Ricky Gervais, Joe Manganiello" /></a> 
+          <div class="icon icon-day">
+           <span><a href="http://www.ellentv.com/episodes/ricky-gervais-joe-manganiello/">Tue</a></span>
+          </div> 
+         </div> 
+         <div class="text"> 
+          <div class="title">
+           <a href="http://www.ellentv.com/episodes/ricky-gervais-joe-manganiello/">Ricky Gervais, Joe Manganiello</a>
+          </div> 
+         </div> </li> 
+        <li class="episode"> 
+         <div class="image"> 
+          <a href="http://www.ellentv.com/episodes/randy-jackson-maria-menounos/" title="Randy Jackson, Maria Menounos"><img src="http://cdn-media.ellentv.com/2014/03/06/randy-jackson-billboard-blog-88x49.jpg" width="88" alt="Randy Jackson, Maria Menounos" /></a> 
+          <div class="icon icon-day">
+           <span><a href="http://www.ellentv.com/episodes/randy-jackson-maria-menounos/">Wed</a></span>
+          </div> 
+         </div> 
+         <div class="text"> 
+          <div class="title">
+           <a href="http://www.ellentv.com/episodes/randy-jackson-maria-menounos/">Randy Jackson, Maria Menounos</a>
+          </div> 
+         </div> </li> 
+        <li class="episode"> 
+         <div class="image"> 
+          <a href="http://www.ellentv.com/episodes/george-lopez-jesse-metcalfe/" title="George Lopez, Jesse Metcalfe"><img src="http://cdn-media.ellentv.com/2014/03/06/george-lopez-blog-88x49.jpg" width="88" alt="George Lopez, Jesse Metcalfe" /></a> 
+          <div class="icon icon-day">
+           <span><a href="http://www.ellentv.com/episodes/george-lopez-jesse-metcalfe/">Thu</a></span>
+          </div> 
+         </div> 
+         <div class="text"> 
+          <div class="title">
+           <a href="http://www.ellentv.com/episodes/george-lopez-jesse-metcalfe/">George Lopez, Jesse Metcalfe</a>
+          </div> 
+         </div> </li> 
+        <li class="episode"> 
+         <div class="image"> 
+          <a href="http://www.ellentv.com/episodes/wanda-sykes-jordana-brewster/" title="Wanda Sykes, Jordana Brewster"><img src="http://cdn-media.ellentv.com/2014/03/06/wanda-sykes-episode-88x49.jpg" width="88" alt="Wanda Sykes, Jordana Brewster" /></a> 
+          <div class="icon icon-day">
+           <span><a href="http://www.ellentv.com/episodes/wanda-sykes-jordana-brewster/">Fri</a></span>
+          </div> 
+         </div> 
+         <div class="text"> 
+          <div class="title">
+           <a href="http://www.ellentv.com/episodes/wanda-sykes-jordana-brewster/">Wanda Sykes, Jordana Brewster</a>
+          </div> 
+         </div> </li> 
+        <li class="episode last"> 
+         <div class="image"> 
+          <a href="http://www.ellentv.com/episodes/howie-mandel-meryl-davis-and-charlie-white/" title="Howie Mandel, Meryl Davis &amp; Charlie White"><img src="http://cdn-media.ellentv.com/2014/03/11/howie-mandel-episode-88x49.jpg" width="88" alt="Howie Mandel, Meryl Davis &amp; Charlie White" /></a> 
+          <div class="icon icon-day">
+           <span><a href="http://www.ellentv.com/episodes/howie-mandel-meryl-davis-and-charlie-white/">Mon</a></span>
+          </div> 
+         </div> 
+         <div class="text"> 
+          <div class="title">
+           <a href="http://www.ellentv.com/episodes/howie-mandel-meryl-davis-and-charlie-white/">Howie Mandel, Meryl Davis &amp; Charlie White</a>
+          </div> 
+         </div> </li> 
+       </ul> 
+       <div class="view-all ">
+        <a href="http://www.ellentv.com/episodes/"><span>View Full Listings</span></a>
+       </div> 
+      </div> 
+      <!-- end: sb-content --> 
+     </div> 
+     <!-- No promotions for slot [episodes-sidebar-slot-3] at this time, called from container [sidebar] with AllowedWidgets [] --> 
+     <div class="ad-wrap ad-300x70 ad-300x70-pos-7"> 
+      <div class="ad"> 
+       <script type="text/javascript">
+            // width, height, tile, refresh_time, altheight, altwidth
+            var ad = new tpixAd(300, 70, 7, false, false, 300);
+            ad.write();
+        </script> 
+      </div> 
+     </div> 
+     <!-- start: top-teasers-insignia-ad-siderail --> 
+     <div id="top-teasers-insignia-ad-siderail" class="widget widget-giant-thumbs top-teasers top-teasers-giant-thumbs static-block clearfix "> 
+      <div class="sb-content"> 
+       <ul>
+        <li class="generic-teaser first last"> 
+         <div class="image"> 
+          <a href="http://www.bestbuy.com/insignia" title="Insignia™ is the Official Home Theater partner of the Ellen DeGeneres Show!" target="blank"><img src="http://cdn-media.ellentv.com/2013/09/05/090313-insignia-aso-274x204-274x204.jpg" width="274" alt="Insignia™ is the Official Home Theater partner of the Ellen DeGeneres Show!" /></a> 
+         </div> 
+         <div class="text"> 
+          <div class="title">
+           <a href="http://www.bestbuy.com/insignia" target="blank">Insignia™ is the Official Home Theater partner of the Ellen DeGeneres Show!</a>
+          </div> 
+          <div class="readmore">
+           <a href="http://www.bestbuy.com/insignia" target="blank">Find Out &raquo;</a>
+          </div> 
+         </div> </li> 
+       </ul> 
+      </div> 
+      <!-- end: sb-content --> 
+     </div> 
+     <!-- end: top-teasers-insignia-ad-siderail --> 
+     <!-- start: top-teasers-survey-ad-siderail --> 
+     <div id="top-teasers-survey-ad-siderail" class="widget widget-giant-thumbs top-teasers top-teasers-giant-thumbs static-block clearfix "> 
+      <div class="sb-content"> 
+       <ul>
+        <li class="generic-teaser first last"> 
+         <div class="image"> 
+          <a href="http://www.ellentv.com/page/2013/09/16/survey" title="We want to hear from you!" target="blank"><img src="http://cdn-media.ellentv.com/2013/09/24/ellen-folgers-270x204-v2-274x204.jpg" width="274" alt="We want to hear from you!" /></a> 
+         </div> 
+         <div class="text"> 
+          <div class="title">
+           <a href="http://www.ellentv.com/page/2013/09/16/survey" target="blank">We want to hear from you!</a>
+          </div> 
+          <div class="readmore">
+           <a href="http://www.ellentv.com/page/2013/09/16/survey" target="blank">Find Out &raquo;</a>
+          </div> 
+         </div> </li> 
+       </ul> 
+      </div> 
+      <!-- end: sb-content --> 
+     </div> 
+     <!-- end: top-teasers-survey-ad-siderail --> 
+    </div>
+    <!-- end: sidebar --> 
+   </div>
+   <!-- end: content-main-wrap --> 
+   <div class="page-wrap featured-wrap featured-bot-wrap clearfix"> 
+    <!-- start: slot-tabs-FeaturedBot-footer-tabs --> 
+    <div id="slot-tabs-FeaturedBot-footer-tabs" class="slot-tabs widget widget-tabs static-block clearfix "> 
+     <ul class="tabs clearfix">
+      <li rel="footer-tab-photos-slot" class="current first"><a href="http://photos.ellen.warnerbros.com/"><span>Photos</span></a></li>
+      <li rel="footer-tab-pets-slot" class=""><a href="/pets/"><span>Pets</span></a></li>
+      <li rel="footer-tab-kids-slot" class=""><a href="/kids/"><span>Kids</span></a></li>
+      <li rel="footer-tab-backstage-blog-slot" class=""><a href="/categories/backstage-at-ellen/"><span>Backstage Blog</span></a></li>
+      <li rel="footer-tab-web-videos-slot" class=""><a href="/videos/"><span>Web Videos</span></a></li>
+      <li rel="footer-tab-music-slot" class=""><a href="/music/"><span>Music</span></a></li>
+      <li rel="footer-tab-bots-slot" class=" last"><a href="/be-on-the-show/"><span>Be On The Show</span></a></li>
+     </ul> 
+     <div class="tabs-content">
+      <div class="footer-tab-photos-slot tab-content current" data-loaded="true"> 
+       <!-- start: top-teasers-FeaturedBot-photo-galleries-1x4 --> 
+       <div id="top-teasers-FeaturedBot-photo-galleries-1x4" class="gslider widget widget-gslider widget-gslider-200 top-teasers top-teasers-gslider top-teasers-gslider-200 static-block clearfix "> 
+        <div class="sb-content"> 
+         <div class="viewport"> 
+          <div class="slides">
+           <ul class="slide">
+            <li class="slide-row clearfix">
+             <div class="slide-cell first"> 
+              <div class="image image-with-icon-text"> 
+               <a href="http://photos.ellen.warnerbros.com/galleries/funny_signs_from_around_the_world" title="Funny Signs"><img src="http://cdn-media.ellentv.com/2014/02/26/funny-signs-200x155.jpg" width="200" alt="Funny Signs" /></a> 
+               <div class="icon icon-photo">
+                <span><a href="http://photos.ellen.warnerbros.com/galleries/funny_signs_from_around_the_world">View Gallery</a></span>
+               </div> 
+              </div> 
+              <div class="text"> 
+               <div class="title">
+                <a href="http://photos.ellen.warnerbros.com/galleries/funny_signs_from_around_the_world">Funny Signs</a>
+               </div> 
+              </div>
+             </div>
+             <!-- end: slide-cell -->
+             <div class="slide-cell"> 
+              <div class="image image-with-icon-text"> 
+               <a href="http://photos.ellen.warnerbros.com/galleries/cutest_kids" title="Cutest Kids"><img src="http://cdn-media.ellentv.com/2014/02/26/cutest-kids-200x155.jpg" width="200" alt="Cutest Kids" /></a> 
+               <div class="icon icon-photo">
+                <span><a href="http://photos.ellen.warnerbros.com/galleries/cutest_kids">View Gallery</a></span>
+               </div> 
+              </div> 
+              <div class="text"> 
+               <div class="title">
+                <a href="http://photos.ellen.warnerbros.com/galleries/cutest_kids">Cutest Kids</a>
+               </div> 
+              </div>
+             </div>
+             <!-- end: slide-cell -->
+             <div class="slide-cell"> 
+              <div class="image image-with-icon-text"> 
+               <a href="http://photos.ellen.warnerbros.com/galleries/oh_puhlice_funny_police_reports" title="Oh Puh-lice!: Funny Police Reports"><img src="http://cdn-media.ellentv.com/2014/02/26/oh-puh-lice-200x155.jpg" width="200" alt="Oh Puh-lice!: Funny Police Reports" /></a> 
+               <div class="icon icon-photo">
+                <span><a href="http://photos.ellen.warnerbros.com/galleries/oh_puhlice_funny_police_reports">View Gallery</a></span>
+               </div> 
+              </div> 
+              <div class="text"> 
+               <div class="title">
+                <a href="http://photos.ellen.warnerbros.com/galleries/oh_puhlice_funny_police_reports">Oh Puh-lice!: Funny Police Reports</a>
+               </div> 
+              </div>
+             </div>
+             <!-- end: slide-cell -->
+             <div class="slide-cell last"> 
+              <div class="image image-with-icon-text"> 
+               <a href="http://photos.ellen.warnerbros.com/galleries/some_kitty_is_watching_you" title="Some Kitty's Watching You"><img src="http://cdn-media.ellentv.com/2014/02/28/kitty-watching-you-200x155.jpg" width="200" alt="Some Kitty's Watching You" /></a> 
+               <div class="icon icon-photo">
+                <span><a href="http://photos.ellen.warnerbros.com/galleries/some_kitty_is_watching_you">View Gallery</a></span>
+               </div> 
+              </div> 
+              <div class="text"> 
+               <div class="title">
+                <a href="http://photos.ellen.warnerbros.com/galleries/some_kitty_is_watching_you">Some Kitty's Watching You</a>
+               </div> 
+              </div>
+             </div>
+             <!-- end: slide-cell --></li>
+            <!-- end: slide-row -->
+           </ul>
+           <!-- end: slide -->
+           <ul class="slide">
+            <li class="slide-row clearfix">
+             <div class="slide-cell first"> 
+              <div class="image image-with-icon-text"> 
+               <a href="http://photos.ellen.warnerbros.com/galleries/bad_prom_photos" title="Bad Prom Photos"><img src="http://cdn-media.ellentv.com/2014/03/04/bad-prom-photos-200x155.jpg" width="200" alt="Bad Prom Photos" /></a> 
+               <div class="icon icon-photo">
+                <span><a href="http://photos.ellen.warnerbros.com/galleries/bad_prom_photos">View Gallery</a></span>
+               </div> 
+              </div> 
+              <div class="text"> 
+               <div class="title">
+                <a href="http://photos.ellen.warnerbros.com/galleries/bad_prom_photos">Bad Prom Photos</a>
+               </div> 
+              </div>
+             </div>
+             <!-- end: slide-cell -->
+             <div class="slide-cell"> 
+              <div class="image image-with-icon-text"> 
+               <a href="http://photos.ellen.warnerbros.com/galleries/whatcha_lookin_at" title="Whatcha Lookin' At?"><img src="http://cdn-media.ellentv.com/2014/02/11/whatcha-looing-at-2.png" width="200" alt="Whatcha Lookin' At?" /></a> 
+               <div class="icon icon-photo">
+                <span><a href="http://photos.ellen.warnerbros.com/galleries/whatcha_lookin_at">View Gallery</a></span>
+               </div> 
+              </div> 
+              <div class="text"> 
+               <div class="title">
+                <a href="http://photos.ellen.warnerbros.com/galleries/whatcha_lookin_at">Whatcha Lookin' At?</a>
+               </div> 
+              </div>
+             </div>
+             <!-- end: slide-cell -->
+             <div class="slide-cell"> 
+              <div class="image image-with-icon-text"> 
+               <a href="http://photos.ellen.warnerbros.com/galleries/cats_that_think_theyre_hiding" title="Cats That Think They're Hiding"><img src="http://cdn-media.ellentv.com/2014/01/24/hiding-cats-200x155.jpg" width="200" alt="Cats That Think They're Hiding" /></a> 
+               <div class="icon icon-photo">
+                <span><a href="http://photos.ellen.warnerbros.com/galleries/cats_that_think_theyre_hiding">View Gallery</a></span>
+               </div> 
+              </div> 
+              <div class="text"> 
+               <div class="title">
+                <a href="http://photos.ellen.warnerbros.com/galleries/cats_that_think_theyre_hiding">Cats That Think They're Hiding</a>
+               </div> 
+              </div>
+             </div>
+             <!-- end: slide-cell -->
+             <div class="slide-cell last"> 
+              <div class="image image-with-icon-text"> 
+               <a href="http://photos.ellen.warnerbros.com/galleries/ellen_fan_art" title="Ellen Fan Art"><img src="http://cdn-media.ellentv.com/2014/02/04/ellen-fan-art-200x155.jpg" width="200" alt="Ellen Fan Art" /></a> 
+               <div class="icon icon-photo">
+                <span><a href="http://photos.ellen.warnerbros.com/galleries/ellen_fan_art">View Gallery</a></span>
+               </div> 
+              </div> 
+              <div class="text"> 
+               <div class="title">
+                <a href="http://photos.ellen.warnerbros.com/galleries/ellen_fan_art">Ellen Fan Art</a>
+               </div> 
+              </div>
+             </div>
+             <!-- end: slide-cell --></li>
+            <!-- end: slide-row -->
+           </ul>
+           <!-- end: slide -->
+           <ul class="slide">
+            <li class="slide-row clearfix">
+             <div class="slide-cell first"> 
+              <div class="image image-with-icon-text"> 
+               <a href="http://photos.ellen.warnerbros.com/galleries/bad_school_photos" title="Bad School Photos"><img src="http://cdn-media.ellentv.com/2014/01/24/bad-paid-school-200x155.jpg" width="200" alt="Bad School Photos" /></a> 
+               <div class="icon icon-photo">
+                <span><a href="http://photos.ellen.warnerbros.com/galleries/bad_school_photos">View Gallery</a></span>
+               </div> 
+              </div> 
+              <div class="text"> 
+               <div class="title">
+                <a href="http://photos.ellen.warnerbros.com/galleries/bad_school_photos">Bad School Photos</a>
+               </div> 
+              </div>
+             </div>
+             <!-- end: slide-cell -->
+             <div class="slide-cell"> 
+              <div class="image image-with-icon-text"> 
+               <a href="http://photos.ellen.warnerbros.com/galleries/bad_paid_for_tattoos" title="Ink About It"><img src="http://cdn-media.ellentv.com/2014/01/06/ink-about-it-200x155.jpg" width="200" alt="Ink About It" /></a> 
+               <div class="icon icon-photo">
+                <span><a href="http://photos.ellen.warnerbros.com/galleries/bad_paid_for_tattoos">View Gallery</a></span>
+               </div> 
+              </div> 
+              <div class="text"> 
+               <div class="title">
+                <a href="http://photos.ellen.warnerbros.com/galleries/bad_paid_for_tattoos">Ink About It</a>
+               </div> 
+              </div>
+             </div>
+             <!-- end: slide-cell -->
+             <div class="slide-cell"> 
+              <div class="image image-with-icon-text"> 
+               <a href="http://photos.ellen.warnerbros.com/galleries/cats_and_dogs" title="Cats and Dogs "><img src="http://cdn-media.ellentv.com/2014/01/06/cats-dogs-png-1-200x155.jpg" width="200" alt="Cats and Dogs " /></a> 
+               <div class="icon icon-photo">
+                <span><a href="http://photos.ellen.warnerbros.com/galleries/cats_and_dogs">View Gallery</a></span>
+               </div> 
+              </div> 
+              <div class="text"> 
+               <div class="title">
+                <a href="http://photos.ellen.warnerbros.com/galleries/cats_and_dogs">Cats and Dogs </a>
+               </div> 
+              </div>
+             </div>
+             <!-- end: slide-cell -->
+             <div class="slide-cell last"> 
+              <div class="image image-with-icon-text"> 
+               <a href="http://photos.ellen.warnerbros.com/galleries/unlikely_pairs" title="Unlikely Pairs"><img src="http://cdn-media.ellentv.com/2013/11/25/unlikely-pairs-200x155.jpg" width="200" alt="Unlikely Pairs" /></a> 
+               <div class="icon icon-photo">
+                <span><a href="http://photos.ellen.warnerbros.com/galleries/unlikely_pairs">View Gallery</a></span>
+               </div> 
+              </div> 
+              <div class="text"> 
+               <div class="title">
+                <a href="http://photos.ellen.warnerbros.com/galleries/unlikely_pairs">Unlikely Pairs</a>
+               </div> 
+              </div>
+             </div>
+             <!-- end: last slide-cell --></li>
+            <!-- end: last slide-row -->
+           </ul>
+           <!-- end: last slide -->
+          </div>
+          <!-- end: slides --> 
+         </div>
+         <!-- end: viewport --> 
+         <div class="controls-wrap clearfix"> 
+          <div class="view-all ">
+           <a href="http://photos.ellen.warnerbros.com/"><span>View All</span></a>
+          </div> 
+          <div class="controls"> 
+           <div class="pages">
+            <span class="range">1-4</span> of 
+            <span class="total">12</span>
+           </div> 
+           <div class="prev inactive">
+            <span>Prev</span>
+           </div> 
+           <div class="next">
+            <span>Next</span>
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <!-- end: sb-content --> 
+       </div> 
+       <script type="text/javascript">
+(function($){
+    //$(document).ready(function(){
+        $("#top-teasers-FeaturedBot-photo-galleries-1x4").gslider({
+            easing: "easeOutQuad",
+            animateEnabled: !(idevice),
+            rows: 1,
+            cols: 4,
+            totalItems: 12,
+            setViewPort: false
+        });
+    //});
+})( jQuery );
+</script> 
+       <!-- end: top-teasers-FeaturedBot-photo-galleries-1x4 --> 
+      </div>
+      <div class="footer-tab-pets-slot tab-content hidden" data-loaded="false"></div>
+      <div class="footer-tab-kids-slot tab-content hidden" data-loaded="false"></div>
+      <div class="footer-tab-backstage-blog-slot tab-content hidden" data-loaded="false"></div>
+      <div class="footer-tab-web-videos-slot tab-content hidden" data-loaded="false"></div>
+      <div class="footer-tab-music-slot tab-content hidden" data-loaded="false"></div>
+      <div class="footer-tab-bots-slot tab-content hidden" data-loaded="false"></div> 
+     </div> 
+    </div> 
+    <script type="text/javascript">
+(function($){
+    //$(document).ready(function(){
+        $("#slot-tabs-FeaturedBot-footer-tabs").slotTabs({
+            container: "FeaturedBot",
+            allowedDomain: "http://www.ellentv.com"
+        });
+    //});
+})( jQuery );
+</script> 
+    <!-- end: slot-tabs-FeaturedBot-footer-tabs --> 
+   </div>
+   <!-- end: featured-bot-wrap --> 
+  </div>
+  <!-- end: content --> 
+  <div id="footer-links" class="footer"> 
+   <div class="page-wrap clearfix"> 
+    <div class="col1"> 
+     <h2>Browse the Site</h2> 
+     <ul> 
+      <li><a href="http://www.ellentv.com/">Home</a></li> 
+      <li><a href="http://www.ellentv.com/be-on-the-show/">Be a Part of the Show</a></li> 
+      <li><a href="http://www.ellentv.com/show-info/">Show Info</a></li> 
+      <li><a href="http://www.ellentv.com/episodes/">Listings</a></li> 
+      <li><a href="http://www.ellentv.com/categories/giveaways/">Giveaways</a></li> 
+      <li><a href="http://photos.ellen.warnerbros.com/">Photos</a></li> 
+      <li><a href="http://www.ellentv.com/videos/">Videos</a></li> 
+      <li><a href="http://www.ellenshop.com/?referral_id=ELHOME" target="_blank">Shop</a></li> 
+      <li><a href="http://www.ellentv.com/newsletter/">Newsletter</a></li> 
+      <li><a href="http://www.ellentv.com/ellens-picks/">Ellen's Picks</a></li> 
+      <li><a href="http://www.ellentv.com/tickets/">Tickets</a></li> 
+     </ul> 
+    </div> 
+    <div class="col2"> 
+     <h2>Favorites</h2> 
+     <ul> 
+      <li><a href="http://photos.ellen.warnerbros.com/galleries/unlikely_pairs">Unlikely Pairs</a></li> 
+      <li><a href="http://www.ellentv.com/categories/hidden-camera-pranks/">Hidden Camera Pranks</a></li> 
+      <li><a href="http://www.ellentv.com/categories/celebrity-scares/">Celebrity Scares</a></li> 
+      <li><a href="http://www.ellentv.com/categories/talented-kids/">Talented Kids</a></li> 
+      <li><a href="http://www.ellentv.com/categories/hidden-audience-talents/">Hidden Audience Talents</a></li> 
+      <li><a href="http://www.ellentv.com/categories/naughty-audience-dancing/">Naughty Audience Dancing</a></li> 
+      <li><a href="http://www.ellentv.com/categories/web-exclusives/">Web Exclusives</a></li> 
+      <li><a href="http://www.ellentv.com/categories/twits-and-ask/">Twits and Ask</a></li> 
+      <li><a href="http://www.ellentv.com/recipes/">Recipes</a></li> 
+      <li><a href="http://www.ellentv.com/categories/ellens-monologue/videos/">Monologues</a></li> 
+     </ul> 
+    </div> 
+    <div class="col3"> 
+     <h2>Related Sites</h2> 
+     <ul> 
+      <li><a href="http://www.bethenny.com/?adid=ellenfooterlink" target="_blank">Bethenny</a></li> 
+      <li><a href="http://www.extratv.com/?adid=ellenfooterlink" target="_blank">Extra</a></li> 
+      <li><a href="http://www.letsaskamerica.tv/?adid=ellenfooterlink" target="_blank">Let's Ask America</a></li> 
+      <li><a href="http://judgemathistv.warnerbros.com/?adid=ellenfooterlink" target="_blank">Judge Mathis</a></li> 
+      <li><a href="http://peoplescourt.warnerbros.com/?adid=ellenfooterlink" target="_blank">The People's Court</a></li> 
+      <li><a href="http://therealtalkshow.com/?adid=ellenfooterlink" target="_blank">The Real</a></li> 
+      <li><a href="http://www.thewb.com/?adid=ellenfooterlink" target="_blank">The WB</a></li> 
+     </ul> 
+    </div> 
+    <div class="col4"> 
+     <h2>Connect</h2> 
+     <ul> 
+      <li><a href="http://www.facebook.com/ellentv/" target="_blank">Facebook</a></li> 
+      <li><a href="http://twitter.com/TheEllenShow/" target="_blank">Twitter</a></li> 
+      <li><a href="http://www.youtube.com/ellen/" target="_blank">YouTube</a></li> 
+      <li><a href="http://scrapbook.ellentv.com/" target="_blank">Tumblr</a></li> 
+      <li><a href="http://foursquare.com/theellenshow" target="_blank">Foursquare</a></li> 
+      <li><a href="http://getglue.com/tv_shows/ellen_degeneres_show" target="_blank">GetGlue</a></li> 
+      <li><a href="http://instagram.com/theellenshow" target="_blank">Instagram</a></li> 
+      <li><a href="http://www.ellentv.com/widgets/">Widgets</a></li> 
+      <li><a href="http://www.ellentv.com/feeds/rss.xml">RSS</a></li> 
+      <li><a href="http://www.ellentv.com/be-on-the-show/10/">Email Ellen</a></li> 
+     </ul> 
+    </div> 
+    <div class="col5"> 
+     <h2>Help</h2> 
+     <ul> 
+      <li><a href="http://www.ellentv.com/faq/">FAQ</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer-connect" class="footer"> 
+   <div class="page-wrap clearfix"> 
+    <div class="left"> 
+     <div id="newsletter-signup-wrap" class="newsletter-signup"> 
+      <h2>Sign up for the Ellen newsletter</h2> 
+      <form action="http://www.nl.telepixtv.com/subscribev2.php" method="post"> 
+       <fieldset> 
+        <div class="notice notice-error" style="display: none;"></div> 
+        <ul> 
+         <li class="input-full-width field required"> <label for="newsletterName">Name*</label> 
+          <div>
+           <input type="text" id="newsletterName" name="first_name" value="" placeholder="Name*" maxlength="50" />
+          </div> </li> 
+        </ul> 
+        <ul> 
+         <li class="input-full-width field"> <label for="newsletterEmail">Email*</label> 
+          <div>
+           <input type="text" id="newsletterEmail" name="email" value="" placeholder="Email*" maxlength="50" />
+          </div> </li> 
+        </ul> 
+        <ul> 
+         <li class="input-full-width field"> <label for="newsletterZip">Zip/Postal Code</label> 
+          <div>
+           <input type="text" id="newsletterZip" name="postal_code" value="" placeholder="Zip/Postal Code" maxlength="10" />
+          </div> </li> 
+        </ul> 
+        <ul> 
+         <li class="input-full-width buttons"> <input type="submit" value="Sign Up" class="primary-button button-sign-up" /> </li> 
+        </ul> 
+        <input type="hidden" name="skin" value="ellen" /> 
+        <input type="hidden" name="source" value="ellen_footer_signup" /> 
+        <input type="hidden" name="groups[]" value="16" /> 
+        <input type="hidden" name="return_url" value="http://www.ellentv.com/newsletter/thanks/" /> 
+       </fieldset> 
+      </form> 
+     </div> 
+     <script type="text/javascript">
+(function($){
+    var idPrefix = "#newsletter";
+    var emailPattern = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+    var formSubmitted = false;
+
+    function validateForm() {
+        if (formSubmitted)
+            return false;
+
+        var hasError = false;
+        var errors = "";
+
+        $(idPrefix + '-signup-wrap .notice').html('').hide();
+
+        var name  = $.trim($(idPrefix + "Name").val());
+        var email = $.trim($(idPrefix + "Email").val());
+        //var zip = $.trim($(idPrefix + "Zip").val());
+
+        if (name == "") {
+            hasError = true;
+            errors += "<li>Name is required.</li>";
+        }
+
+        if (email == '' || !emailPattern.test(email)) {
+            hasError = true;
+            errors += "<li>Email address is not valid.</li>";
+        }
+
+        if (!hasError) {
+            formSubmitted = true;
+            return true;
+        }
+
+        $(idPrefix + '-signup-wrap .notice').html('<ul>' + errors + '</ul>').show();
+        return false;
+    }
+
+    $(idPrefix + "-signup-wrap form").submit(function(){
+            return validateForm();
+        });
+})( jQuery );
+</script> 
+    </div> 
+    <div class="right"> 
+     <h2>Ellen's Gone Mobile</h2> 
+     <div> 
+      <div class="image"> 
+       <img src="http://cdn-assets.ellentv.com/www.ellentv.com/main/default/cacheimg/connect-mobile-v2.v2013_11_21_173758.png" border="0" /> 
+      </div> 
+      <div class="text"> 
+       <h3><a href="http://itunes.apple.com/us/app/ellen/id349051443?mt=8" target="_blank">Ellen iPhone App</a></h3> 
+       <p>Access the latest videos, view hundreds of photos, enter contests and watch exclusive backstage clips -- wherever you use your phone!</p> 
+       <h3><a href="http://itunes.apple.com/us/app/ellens-know-or-go/id419688397?mt=8&amp;adid=ellentogo_knoworgo_app" target="_blank">Know or Go Game on iPhone &amp; iPad</a></h3> 
+       <p>Put your knowledge to the test with the hilarious trivia game on your iPhone or iPad - and impress Ellen with your brilliance!</p> 
+       <h3><a href="https://itunes.apple.com/us/app/heads-up!/id623592465" target="_blank">Heads Up!</a></h3> 
+       <p>Game Nighters, your app is here! Play Ellen's #1 app “Heads Up!” with your friends and family, and turn any game night, road trip, or wait in line into a fun party! Download it for your Apple or Android device.</p> 
+      </div> 
+     </div> 
+     <h2>Connect with Ellen</h2> 
+     <ul id="social-footer-nav"> 
+      <li class="social-nav-facebook" title="Facebook"><a href="http://www.facebook.com/ellentv/" target="_blank">Facebook</a></li>
+      <!--
+                -->
+      <li class="social-nav-twitter" title="Twitter"><a href="http://twitter.com/TheEllenShow/" target="_blank">Twitter</a></li>
+      <!--
+                -->
+      <li class="social-nav-youtube" title="YouTube"><a href="http://www.youtube.com/ellen/" target="_blank">YouTube</a></li>
+      <!--
+                -->
+      <li class="social-nav-foursquare" title="Foursquare"><a href="http://foursquare.com/theellenshow" target="_blank">Foursquare</a></li>
+      <!--
+                -->
+      <li class="social-nav-pinterest" title="Pinterest"><a href="http://pinterest.com/ellentv/" target="_blank">Pinterest</a></li>
+      <!--
+                -->
+      <li class="social-nav-ipad" title="iPad"><a href="http://www.ellentv.com/widgets/">iPad</a></li>
+      <!--
+                -->
+      <li class="social-nav-getglue" title="GetGlue"><a href="http://getglue.com/tv_shows/ellen_degeneres_show" target="_blank">GetGlue</a></li>
+      <!--
+                -->
+      <li class="social-nav-tumblr" title="Tumblr"><a href="http://scrapbook.ellentv.com/" target="_blank">Tumblr</a></li>
+      <!--
+                -->
+      <li class="social-nav-instagram" title="Instagram"><a href="http://instagram.com/theellenshow" target="_blank">Instagram</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer-legal-links" class="footer"> 
+   <div class="page-wrap clearfix"> 
+    <p class="legal-links"> <a href="http://www.warnerbros.com/privacy/terms.html" target="_blank">Terms of Use</a> | <a href="http://www.warnerbros.com/privacy/policy.html#p5" target="_blank">Privacy Policy</a> | <a href="http://www.warnerbroscareers.com/" target="_blank">Job Opportunities</a> | <a href="http://www.ellentv.com/advertise/" target="_blank">Advertise with Us</a> | <a href="http://www.warnerbros.com/privacy/policy.html#p5" target="_blank">Ad Choices</a> </p> 
+    <p class="copyright">&copy; 2014 Telepictures Productions Inc. | In partnership with <a href="http://www.warnerbros.com/" class="wb" target="_blank">Warner Bros. Entertainment</a></p> 
+   </div> 
+  </div> 
+  <div class="ad-wrap ad-728x90 ad-728x90-pos-4"> 
+   <div class="ad"> 
+    <script type="text/javascript">
+            // width, height, tile, refresh_time, altheight, altwidth
+            var ad = new tpixAd(728, 90, 4, false, false, 728);
+            ad.write();
+        </script> 
+   </div> 
+  </div> 
+  <div id="yahoo-shine-footer"> 
+   <div class="page-wrap"> 
+    <div class="shine-footer-columns"> 
+     <div class="shine-column left"> 
+      <div class="shine-column-header"> 
+       <span class="title">More on Shine</span> from Yahoo! 
+       <span class="shine-share-links">follow Shine on <a target="_blank" class="shine-facebook" href="http://www.facebook.com/yahooshine">f</a><a target="_blank" class="shine-twitter" href="http://twitter.com/#!/YahooShine">t</a></span> 
+      </div> 
+      <div class="shine-links"> 
+       <div class="left"> 
+        <a target="_blank" href="http://shine.yahoo.com/channel/food">Food</a> 
+        <a target="_blank" href="http://shine.yahoo.com/channel/parenting">Parenting</a> 
+        <a target="_blank" href="http://shine.yahoo.com/channel/health">Healthy Living</a> 
+        <a target="_blank" href="http://shine.yahoo.com/channel/beauty">Fashion + Beauty</a> 
+        <a target="_blank" href="http://shine.yahoo.com/channel/sex">Love &amp; Sex</a> 
+       </div> 
+       <div class="right"> 
+        <a target="_blank" href="http://shine.yahoo.com/the-thread/">The Thread</a> 
+        <a target="_blank" href="http://shine.yahoo.com/event/momentsofmotherhood/">Moments of Motherhood</a> 
+        <a target="_blank" href="http://shine.yahoo.com/event/vitality/">Vitality</a> 
+        <a target="_blank" href="http://shine.yahoo.com/event/poweryourfuture/">Power Your Future</a> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="shine-column right"> 
+      <div class="shine-column-header"> 
+       <span class="title">More on Yahoo!</span> 
+      </div> 
+      <div class="shine-links"> 
+       <div class="left"> 
+        <a target="_blank" href="http://omg.yahoo.com/">OMG from Yahoo!</a> 
+        <a target="_blank" href="http://movies.yahoo.com/">Yahoo! Movies</a> 
+        <a target="_blank" href="http://tv.yahoo.com/">Yahoo! TV</a> 
+        <a target="_blank" href="http://new.music.yahoo.com/">Yahoo! Music</a> 
+        <a target="_blank" href="http://shopping.yahoo.com/">Yahoo! Shopping</a> 
+       </div> 
+       <div class="right"> 
+        <a target="_blank" href="http://news.yahoo.com/">Yahoo! News</a> 
+        <a target="_blank" href="http://games.yahoo.com/">Yahoo! Games</a> 
+        <a target="_blank" href="http://deals.yahoo.com/">Yahoo! Deals</a> 
+        <a target="_blank" href="http://forgood.yahoo.com/">Yahoo! For Good</a> 
+        <a target="_blank" href="http://www.flickr.com/">Flickr from Yahoo!</a> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="shine-footer-bottom"> 
+      <div class="shine-logo">
+       <a target="_blank" href="http://shine.yahoo.com/">Yahoo! Shine</a>
+      </div> 
+      <div class="shine-footer-links"> 
+       <a href="http://info.yahoo.com/privacy/us/yahoo/shine/" target="_blank">Privacy Policy</a> 
+       <a href="http://info.yahoo.com/privacy/us/yahoo/relevantads.html" target="_blank">About Our Ads</a> 
+       <a href="http://safely.yahoo.com/" target="_blank">Safety</a> 
+       <a href="http://info.yahoo.com/legal/us/yahoo/utos/utos-173.html" target="_blank">Terms of Service</a> 
+       <a target="_blank" class="last" href="http://info.yahoo.com/copyright/us/details.html">Copyright/IP Policy</a> 
+      </div> 
+      <div class="shine-footer-text">
+       &copy; Copyright 2014 Yahoo! Inc. All Rights Reserved. | Yahoo! Lifestyles Network
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="fb-root"></div> 
+  <script type="text/javascript">
+window.fbAsyncInit = function(){
+    FB.init({appId: '404495986265867',
+        channelUrl: '//www.ellentv.com/wb-facebook/channel.html',
+        status: true, cookie: true, xfbml: true, oauth: true});
+
+    if (typeof jQuery != 'undefined') {
+        jQuery(document).trigger("FB_READY", FB);
+    }
+};
+(function(d){
+    var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+    js = d.createElement('script'); js.id = id; js.async = true;
+    js.src = "//connect.facebook.net/en_US/all.js";
+    d.getElementsByTagName('head')[0].appendChild(js);
+}(document));
+</script> 
+  <script type="text/javascript">
+(function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script> 
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> 
+  <script type="text/javascript" src="http://objects.tremormedia.com/embed/js/banners.js"></script> 
+  <script language="JavaScript" type="text/javascript" src="http://cdn-assets.ellentv.com/www.ellentv.com/main/default/cache/tremor.df11f345a25abd2f682f1e6530f82ed3.v2013_08_20_204542.js"></script> 
+  <script type="text/javascript">
+var addthis_config = {"data_track_clickback": true, "services_exclude": "twitter"};
+</script> 
+  <script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=ellentv"></script> 
+  <!-- SiteCatalyst code version: H.24.3.
+Copyright 1996-2012 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com --> 
+  <script type="text/javascript" src="http://cdn-assets.ellentv.com/www.ellentv.com/main/default/cachejs/s_code_ellen.v2014_01_07_114923.js"></script> 
+  <script language="JavaScript" type="text/javascript"><!--
+s.pageName="Coming Up On Ellen"
+s.channel="Video"
+s.prop1="Ellen.us"
+s.prop2="Video"
+s.prop3="this-week-on-the-show"
+s.prop4=""
+s.prop5=""
+s.prop6=""
+s.prop7=""
+s.prop8=""
+s.prop17=""
+s.prop25=""
+s.events=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+/*What you see below is for the production site use. You will need to use a different DO NOT ALTER for the development site. See the Dynamic Values page for the alternate code*/
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script> 
+  <script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script>
+  <noscript>
+   <img src="http://warnerbros.112.2o7.net/b/ss/wbrosellen/1/H.24.3--NS/0?pageName=Coming+Up+On+Ellen" height="1" width="1" border="0" alt="" />
+  </noscript>
+  <!--/DO NOT REMOVE/--> 
+  <!-- End SiteCatalyst code version: H.24.3. --> 
+  <!-- Begin comScore Tag --> 
+  <script type="text/javascript">
+var _comscore = _comscore || [];
+_comscore.push({c1: "2", c2: "3000013"});
+(function(){
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+    s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+})();
+</script> 
+  <noscript> 
+   <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=3000013&amp;cv=2.0&amp;cj=1" /> 
+  </noscript> 
+  <!-- End comScore Tag --> 
+  <!-- START Nielsen Online SiteCensus V6.0 --> 
+  <!-- COPYRIGHT 2011 Nielsen Online --> 
+  <script type="text/javascript">
+(function () {
+var d = new Image(1, 1);
+d.onerror = d.onload = function () {
+d.onerror = d.onload = null;
+};
+d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-404979h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+})();
+</script> 
+  <noscript> 
+   <div> 
+    <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-404979h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="" /> 
+   </div> 
+  </noscript> 
+  <!-- END Nielsen Online SiteCensus V6.0 --> 
+  <script type="text/javascript">
+    tpixAdConfig.embedQuantCastMeasurementTag(); // if quantcast is not enabled, this does nothing
+    tpixAdConfig.embedAudienceSciencePixelTag(); // if audiencescience is not enabled, this does nothing
+</script> 
+  <script type="text/javascript">
+var switchTo5x = true;
+(function(){
+    var src = ('https:' == document.location.protocol ? 'https://ws' : 'http://w') + '.sharethis.com/button/buttons.js';
+    document.write("<script src='" + src + "'; type='text/javascript'></"+"script>");
+})();
+</script> 
+  <script type="text/javascript">
+stLight.options({publisher: "d3660239-b873-4988-a3cf-a0ec853f65a3", doNotHash: true, doNotCopy: true, hashAddressBar: false});
+</script> 
+  <!-- No promotions for slot [global-pageend-slot] at this time, called from container [PageEnd] with AllowedWidgets [raw-contents,static-block,template-call] -->  
+ </body>
+</html><!DOCTYPE html>
+<!--[if lt IE 9]><html class="lte-ie8 no-js"  lang="en"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en" class="no-js" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+ <!--<![endif]-->
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <meta charset="utf-8" /> 
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" /> 
+  <meta content="" name="description" /> 
+  <meta content="" name="author" /> 
+  <title>Information Technology Services | UCOP</title> 
+  <!-- Le HTML5 shim, for IE6-8 support of HTML elements --> 
+  <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]--> 
+  <!-- Le styles --> 
+  <!-- main.css - see /_common/files/css/main.less non-minified sources --> 
+  <link href="/_common/files/css/main.css?v=1.1" media="screen" rel="stylesheet" /> 
+  <link href="/_common/files/css/print.css" media="print" rel="stylesheet" /> 
+  <!-- Le fav and touch icons --> 
+  <link href="/_common/files/img/ico/favicon.ico" rel="shortcut icon" /> 
+  <!-- <link href="/files/img/ico/apple-touch-icon.png" rel="apple-touch-icon"/>
+<link href="/files/img/ico/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+<link href="/files/img/ico/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/> --> 
+  <!-- Custom styles --> 
+  <!--[if gt IE 8]><!-->
+  <link href="/_common/files/css/ff-old.css" rel="stylesheet" />
+  <!--<![endif]--> 
+  <script src="/_common/files/js/protection.js"></script> 
+ </head> 
+ <body>
+  <a class="skip-link" href="#content" title="skip to content">skip to content</a> 
+  <div id="bg-left"></div> 
+  <div id="bg-right"></div> 
+  <div id="wrapper"> 
+   <div class="container"> 
+    <!-- Pills
+    ================================================== --> 
+    <div class="row mast"> 
+     <div class="span8 main-nav offset4"> 
+      <div class="navbar"> 
+       <div class="navbar-inner"> 
+        <a class="btn btn-navbar" data-target=".nav-collapse" data-toggle="collapse"> Main Menu <b class="caret">&nbsp;</b> </a> 
+        <div aria-labelledby="ariatopnav" class="nav-collapse" role="navigation"> 
+         <ul class="nav pull-right" id="ariatopnav"> 
+          <li class=""><a href="/">Home</a></li> 
+          <li class=""><a href="/mission">Mission</a></li> 
+          <li class="dropdown active"> <a class="dropdown-toggle" data-toggle="dropdown" href="/organization"> Organization <b class="caret">&nbsp;</b></a> 
+           <div class="dropdown-menu"> 
+            <!-- links --> 
+            <ul> 
+             <li><strong><a href="/academic-affairs">Academic Affairs</a></strong></li> 
+             <li><a href="/academic-personnel">Academic Personnel</a></li> 
+             <li><a href="/academic-planning-programs-coordination">Academic Planning, <br /> Programs &amp; Coordination </a></li> 
+             <li><a href="http://ucanr.edu">Agriculture &amp; <br /> Natural Resources</a></li> 
+             <li><a href="/education-partnerships">Education Partnerships</a></li> 
+             <li><a href="/institutional-research">Institutional Research</a></li> 
+             <li><a href="/research-graduate-studies">Research &amp; <br /> Graduate Studies </a></li> 
+             <li><a href="/student-affairs">Student Affairs</a></li> 
+            </ul> 
+            <ul> 
+             <li><strong><a href="/business-operations">Business Operations</a></strong></li> 
+             <li><a href="/budget-capital-resources">Budget &amp; Capital <br /> Resources</a></li> 
+             <li><a href="/human-resources">Human Resources</a></li> 
+             <li><a href="/information-technology-services">Information Technology Services</a></li> 
+            </ul> 
+            <ul> 
+             <li><strong><a href="/external-relations">External Relations</a></strong></li> 
+             <li><a href="/alumni-constituent-affairs">Alumni &amp; Constituent <br /> Affairs</a></li> 
+             <li><a href="/communications">Communications</a></li> 
+             <li><a href="/federal-governmental-relations">Federal Governmental <br /> Relations</a></li> 
+             <li><a href="/institutional-advancement">Institutional Advancement</a></li> 
+             <li><a href="/impac">Issues Management Policy Analysis &amp; Coordination</a></li> 
+             <li><a href="/state-governmental-relations">State Governmental <br /> Relations</a></li> 
+            </ul> 
+            <ul> 
+             <li><strong><a href="/finance-office">Finance Office</a></strong></li> 
+             <li><a href="/capital-markets-finance">Capital Markets Finance</a></li> 
+             <li><a href="/financial-accounting">Financial Accounting</a></li> 
+             <li><a href="/financial-services-controls">Financial Services &amp; <br /> Controls</a></li> 
+             <li><a href="/procurement-services">Procurement Services</a></li> 
+             <li><a href="/risk-services">Risk Services</a></li> 
+            </ul> 
+            <ul> 
+             <li><strong><a href="/investment-office">Chief Investment Officer</a></strong></li> 
+             <li><strong><a href="/ethics-compliance-audit-services">Ethics, Compliance &amp; <br /> Audit Services</a></strong></li> 
+             <li><strong><a href="/general-counsel">General Counsel</a></strong></li> 
+             <li><strong><a href="/health-sciences-services">Health Sciences &amp; <br /> Services</a></strong></li> 
+             <li><strong><a href="/laboratory-management">Laboratory Management</a></strong><br /></li> 
+             <li><strong><a href="http://www.universityofcalifornia.edu/senate/">Academic Senate</a></strong></li> 
+             <li><strong><a href="http://regents.universityofcalifornia.edu">Board of Regents</a></strong></li> 
+             <li><strong><a href="/president">President Napolitano</a></strong></li> 
+            </ul> 
+           </div> </li> 
+          <li class=""><a href="/initiatives">Initiatives</a></li> 
+         </ul> 
+         <ul class="nav pull-right" id="topmenu"> 
+          <li><a href="http://jobs.universityofcalifornia.edu">Jobs</a></li> 
+          <li><a href="/directory-search/index.php" title="Search the UCOP directory">People</a></li> 
+          <li> 
+           <form action="/search" class="navbar-search" id="search-form" method="get"> 
+            <!--
+The search form's submit event is being handled
+by an inline script further down the page
+--> 
+            <label class="skip-link" for="query-field">search</label> 
+            <input class="search-query" id="query-field" name="q" placeholder="Search" type="text" /> 
+           </form> </li> 
+         </ul> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="span4 logo"> 
+      <div id="logo">
+       <a href="http://www.ucop.edu/index.html"><img alt="University of California" height="64" src="/_common/files/img/logo.png" width="200" /></a> 
+       <div class="wordmark-op">
+        <a href="http://www.ucop.edu/index.html">Office of&nbsp;the President</a>
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="row"> 
+     <div class="span12"> 
+      <ul class="breadcrumb"> 
+       <li> <a href="http://www.ucop.edu/index.html">UCOP</a> <span class="divider">&gt;</span> </li> 
+       <li> <a href="/business-operations/index.html">Business Operations</a> <span class="divider">&gt;</span> </li> 
+       <li> <a href="index.html">ITS</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="list-land" id="content"> 
+     <!-- Main hero unit for a primary marketing message or call to action --> 
+     <div class="row"> 
+      <div class="span12"> 
+       <h1 class="page-header">Information Technology Services</h1> 
+      </div> 
+      <div class="span12"> 
+       <ul class="nav nav-tabs sub-nav tab5"> 
+        <li class="active"><a class="" href="index.html">Overview</a></li> 
+        <li class=""><a class="" href="units/index.html">Units</a></li> 
+        <li class=""><a class="" href="services/index.html">Services</a></li> 
+        <li class=""><a class="" href="initiatives/index.html">Initiatives</a></li> 
+        <li class=""><a class="" href="policies/index.html">Policies</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <!-- Example row of columns --> 
+     <div class="row-fluid"> 
+      <div class="span4 hero-unit"> 
+       <p>We provide information technology services for the UC system, including campuses and UCOP.</p> 
+      </div> 
+      <div class="span4">
+       <p>The work of ITS touches many aspects of university life. Prospective students use <a href="http://www.universityofcalifornia.edu/admissions/how-to-apply/apply-online/index.html">applyUC</a> to apply online for undergraduate admissions. Faculty and staff use&nbsp; <a href="https://atyourserviceonline.ucop.edu/ayso/">At Your Service Online</a> to access their benefits and retirement plans. </p> 
+       <p>Read the <a href="_files/2014-guiding-statement-and-objectives.pdf">ITS guiding statement</a>, along with our five-point strategy and objectives.</p>
+      </div> 
+      <div class="span4"> 
+       <div class="row-fluid dotted-bottom"> 
+        <div class="span8"> 
+         <p class="blue"> <a href="units/immediate-office/bio-tom-andriola.html">Tom Andriola</a> </p> 
+         <p>Vice President and Chief Information Officer</p> 
+        </div> 
+       </div> 
+       <div class="row-fluid"> 
+        <div class="span6"> 
+         <a class="icon org" href="_files/its-orgchart.pdf">Org Chart</a>
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="row"> 
+      <div class="span4 blustripe"> 
+       <h2 class="allCaps"> UCOP </h2> 
+       <ul class="dotted-list"> 
+        <li> <a href="https://ucop.service-now.com/">IT Service Hub</a> </li> 
+        <li> <a href="services/index.html">Services</a> </li> 
+        <li> <a href="policies/ucop-it-policies-and-guidelines/index.html">Policies</a> </li> 
+        <li> <a href="units/immediate-office/records-management-services.html">Records Management</a> </li> 
+       </ul> 
+      </div> 
+      <div class="span4 blustripe"> 
+       <h2 class="allCaps"> SYSTEMWIDE </h2> 
+       <ul class="dotted-list"> 
+        <li> <a href="initiatives/information-technology-leadership-council.html">IT Leadership Council </a> </li> 
+        <li> <a href="services/system-wide-it-services/index.html">Services</a> </li> 
+        <li> <a href="policies/index.html">Policies</a> </li> 
+        <li> <a href="initiatives/uc-information-security/index.html">UC IT Security</a> </li> 
+       </ul> 
+      </div> 
+      <div class="span4 blustripe"> 
+       <h2 class="allCaps"> Announcements </h2> 
+       <ul class="dotted-list"> 
+        <li> <a href="services/announcement/opnet-upgrade-030114.html">OPnet Upgrade on March 1 for Secure Wireless Access (3/26/14</a> </li> 
+        <li> <a href="services/announcement/email-phishing-attempt-2-13-14.html">Email Phishing Attempt (2/13/14)</a> </li> 
+        <li> <a href="services/announcement/backup-your-data.html">Back Up Your Data! (2/5/14)</a> </li> 
+        <li> <a href="services/announcement/index.html">More Announcements</a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="row less3 novrflw"> 
+      <div class="span4 grybx"> 
+       <h4>Contact us</h4> Information Technology Services
+       <br /> University of California
+       <br /> Office of the President
+       <br /> 1111 Franklin Street, 7th Floor
+       <br /> Oakland, CA 94607-5201 
+      </div> 
+      <div class="span4 grybx"> 
+       <h4>Cascade help</h4> 
+       <p>For people who manage department, division, unit or program sites on ucop.edu.</p> 
+       <p><a href="/cascade-help/index.html">Cascade Help</a>.</p> 
+      </div> 
+      <div class="span4 grybx"> 
+       <h4>We Want your Feedback!</h4> 
+       <p>How can we better serve you? Submit comments, questions and ideas for the new website to our web team.</p> 
+       <a href="mailto:infohelp@ucop.edu">Feedback </a> 
+      </div> 
+     </div> 
+    </div> 
+    <!-- /content --> 
+   </div> 
+   <!-- /container --> 
+  </div> 
+  <!-- /wrapper --> 
+  <footer>
+   <div class="row footfirst"> 
+    <div class="span12 footfirst-inner"> 
+     <h2>UCOP Divisions &amp; Departments</h2> 
+     <div class="row-fluid"> 
+      <div class="span2"> 
+       <p><strong><a href="/academic-affairs/index.html">Academic Affairs</a></strong></p> 
+       <ul> 
+        <li><a href="/academic-personnel/index.html">Academic Personnel</a></li> 
+        <li><a href="/academic-planning-programs-coordination/index.html">Academic Planning, Programs &amp; Coordination</a></li> 
+        <li><a href="http://ucanr.edu/">Agriculture &amp; Natural Resources</a></li> 
+        <li><a href="/education-partnerships/index.html">Education Partnerships</a></li> 
+        <li><a href="/institutional-research/index.html">Institutional Research</a></li> 
+        <li><a href="/research-graduate-studies/index.html">Research &amp; Graduate Studies</a></li> 
+        <li><a href="/student-affairs/index.html">Student Affairs</a></li> 
+       </ul> 
+      </div> 
+      <div class="span2"> 
+       <p><strong><a href="/business-operations/index.html">Business Operations</a></strong></p> 
+       <ul> 
+        <li><a href="/budget-capital-resources/index.html">Budget &amp; Capital Resources</a></li> 
+        <li><a href="/human-resources/index.html">Human Resources</a></li> 
+        <li><a href="index.html">Information Technology Services</a></li> 
+       </ul> 
+      </div> 
+      <div class="span2"> 
+       <p><strong><a href="/external-relations/index.html">External Relations</a></strong></p> 
+       <ul> 
+        <li><a href="/alumni-constituent-affairs/index.html">Alumni &amp; Constituent Affairs</a></li> 
+        <li><a href="/communications/index.html">Communications</a></li> 
+        <li><a href="/federal-governmental-relations/index.html">Federal Governmental Relations</a></li> 
+        <li><a href="/institutional-advancement/index.html">Institutional Advancement</a></li> 
+        <li><a href="/impac/index.html">Issues Management, Policy Analysis &amp; Coordination</a></li> 
+        <li><a href="/state-governmental-relations/index.html">State Governmental Relations</a></li> 
+       </ul> 
+      </div> 
+      <div class="span2"> 
+       <p><strong><a href="/finance-office/index.html">Finance Office</a></strong></p> 
+       <ul> 
+        <li><a href="/capital-markets-finance/index.html">Capital Markets Finance</a></li> 
+        <li><a href="/financial-accounting/index.html">Financial Accounting</a></li> 
+        <li><a href="/financial-services-controls/index.html">Financial Services &amp; Controls</a></li> 
+        <li><a href="/procurement-services/index.html">Procurement Services</a></li> 
+        <li><a href="/risk-services/index.html">Risk Services</a></li> 
+       </ul> 
+      </div> 
+      <div class="span2"> 
+       <p><strong><a href="/investment-office/index.html">Chief Investment Officer</a></strong></p> 
+       <p><strong><a href="/ethics-compliance-audit-services/index.html">Ethics, Compliance &amp; Audit Services</a></strong></p> 
+       <p><strong><a href="/general-counsel/index.html">General Counsel</a></strong></p> 
+       <p><strong><a href="/health-sciences-services/index.html">Health Sciences &amp; Services</a></strong></p> 
+       <p><strong><a href="/laboratory-management/index.html">Laboratory Management</a></strong></p> 
+       <p><strong><a href="/president/index.html">President Napolitano</a></strong></p> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="row footsec"> 
+    <div class="span12 footsec-inner"> 
+     <div class="row-fluid"> 
+      <div class="span2"> 
+       <ul> 
+        <li> <strong><a href="http://www.universityofcalifornia.edu/" target="_blank">University of California</a></strong> </li> 
+        <li><strong><a href="http://www.universityofcalifornia.edu/senate/" target="_blank">Academic Senate</a></strong></li> 
+        <li><strong><a href="http://www.universityofcalifornia.edu/regents/" target="_blank">Board of Regents</a></strong></li> 
+        <li><strong><a href="http://ucnet.universityofcalifornia.edu" target="_blank">UCnet</a></strong></li> 
+       </ul> 
+      </div> 
+      <div class="span2"> 
+       <ul> 
+        <!--
+<li>
+<h3><a href="#">UC Net</a></h3>
+</li>
+--> 
+        <li>&nbsp;</li> 
+       </ul> 
+      </div> 
+      <div class="span2">
+       &nbsp;
+      </div> 
+      <div class="span2">
+       &nbsp;
+      </div> 
+      <div class="span2"> 
+       <ul class="pull-right"> 
+        <li><a href="http://www.facebook.com/universityofcalifornia" target="_blank"><img alt="UC on Facebook" height="25" src="/_common/files/img/icon_fb_yel_blu.gif" width="25" /></a><a href="https://twitter.com/UC_Newsroom" target="_blank"><img alt="UC on Twitter" height="25" src="/_common/files/img/icon_twtr_yel_blu.gif" width="25" /></a> 
+         <!--<a href="#"><img src="/files/img/icon_rss_yel_blu.gif" width="25" height="25" alt="RSS Feed" /></a>--></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <p><br />&copy; 2014 Regents of the University of California&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.ucop.edu/terms/index.html">Terms of use</a></p> 
+    </div> 
+   </div>
+  </footer> 
+  <!-- Le javascript ================================================== --> 
+  <!-- jQuery & Bootstrap via CDN, fallback to local copy if CDN fails/blocked --> 
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script> 
+  <script>/*<![CDATA[*/window.jQuery || document.write('<script src="/_common/files/js/jquery.1.7.1.min.js"><\/script>')/* ]]>*/</script> 
+  <script src="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.0.4/js/bootstrap.min.js"></script> 
+  <script>/*<![CDATA[*/$.fn.modal || document.write('<script src="/_common/files/js/bootstrap.2.0.4.min.js"><\/script>')/* ]]>*/</script> 
+  <!--[if gt IE 8]><!-->
+  <script src="/_common/files/js/modernizr.js"></script>
+  <!--<![endif]--> 
+  <!--[if lt IE 9]><script src="/files/js/selectivizr-min.js"></script><![endif]--> 
+  <script src="/_common/files/js/plugins.js"></script> 
+  <script src="/_common/files/js/main.js"></script> 
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18163990-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>  
+ </body>
+</html><!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>Inside UCR:   Green Leadership Summit Details Sustainability Efforts, Draws Influential Crowd</title> 
+  <meta http-equiv="last-modified" content="2014-03-06" /> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+  <meta property="og:site_name" content="UCR Today" /> 
+  <meta property="og:title" content="  Green Leadership Summit Details Sustainability Efforts, Draws Influential Crowd" /> 
+  <meta property="og:type" content="article" /> 
+  <meta property="og:url" content="http://ucrtoday.ucr.edu/20875" /> 
+  <meta property="og:image" content="http://ucrtoday.ucr.edu/wp-content/uploads/2014/03/Wilcox-and-Mayor-Bailey-at-Green-Summit-130x78.jpg" /> 
+  <meta property="section" content="Inside UCR" /> 
+  <meta name="description" content="March 6, 2014: City, university and utility provider sign agreement to seal partnership for future and sustainability." /> 
+  <meta property="og:description" content="March 6, 2014: City, university and utility provider sign agreement to seal partnership for future and sustainability." /> 
+  <link rel="profile" href="http://gmpg.org/xfn/11" /> 
+  <link rel="stylesheet" type="text/css" media="all" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.20/style.css" /> 
+  <link rel="pingback" href="http://ucrtoday.ucr.edu/xmlrpc.php" /> 
+  <link rel="alternate" type="application/rss+xml" title="UCR Today &raquo; Feed" href="http://ucrtoday.ucr.edu/feed" /> 
+  <script type="text/javascript">//<![CDATA[
+            // Google Analytics for WordPress by Yoast v4.3.5 | http://yoast.com/wordpress/google-analytics/
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-3051875-1']);
+				            _gaq.push(['_setDomainName','.ucr.edu'],['_setAllowHash',false],['_setCustomVar',1,'author','konrad-nagy',3],['_setCustomVar',2,'tags','ce-cert chancellor-kim-a-wilcox city-of-riverside green gree',3],['_setCustomVar',3,'year','2014',3],['_setCustomVar',4,'categories','inside-ucr',3],['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+            //]]></script> 
+  <link rel="stylesheet" id="tn3-css" href="http://www.ucr.edu/js/jlib/skins/tn3/tn3.css?ver=3.8.1" type="text/css" media="all" /> 
+  <script type="text/javascript" src="https://platform.twitter.com/anywhere.js?id=pM8hgGenShE3535u4xgxeg&amp;v=1"></script> 
+  <script type="text/javascript" src="http://ucrtoday.ucr.edu/wp-includes/js/jquery/jquery.js?ver=1.10.2"></script> 
+  <script type="text/javascript" src="http://ucrtoday.ucr.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script> 
+  <link rel="prev" title="Gladys Eaton Dies at 92" href="http://ucrtoday.ucr.edu/20889" /> 
+  <link rel="next" title="UCR to Host Inaugural BlaqOUT Conference on April 18-19, 2014" href="http://ucrtoday.ucr.edu/20897" /> 
+  <link rel="canonical" href="http://ucrtoday.ucr.edu/20875" /> 
+  <link rel="shortlink" href="http://atu.cr/1n0pdbJ" /> 
+  <link rel="stylesheet" type="text/css" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.20/print6.css" media="print" /> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.20/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <!--[if lte IE 8]>
+<link rel="stylesheet" type="text/css" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.20/ie8.css" media="all" />
+<![endif]--> 
+  <!--[if lte IE 10]>
+<link rel="stylesheet" type="text/css" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.20/ie10.css" media="all" />
+<![endif]--> 
+ </head> 
+ <body class="single single-post postid-20875 single-format-standard singular"> 
+  <div id="brandingbar_wrapper" class="inside-ucr"> 
+   <div class="pagewrapper"> 
+    <ul id="accessibility_links"> 
+     <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+     <li class="skip"><a tabindex="2" href="http://ucrtoday.ucr.edu/" accesskey="1" rel="home" title="Home Page">Home Page</a></li> 
+    </ul> 
+    <hr /> 
+    <div id="brandingbar"> 
+     <h1><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_name_white.png" width="216" height="45" alt="" /><span class="accessibility">University of California, Riverside</span></a></h1> 
+     <div id="branding_overlay"> 
+      <!-- Last Updated on Mar 11 2014, 2:58 pm PDT from March AFB/Riverside, CA --> 
+      <p id="l_weather" title="A Few Clouds, 76.0 &deg;F (24.3 &deg;C), winds Southeast at 4.6 MPH (4 KT), 18% relative humidity."><img alt="A Few Clouds" src="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.20/images/weather/few.png" height="64" width="100" /> <strong>76&deg;</strong> on campus</p> 
+      <p>Follow Us:&nbsp;</p> 
+      <ul class="social_links">
+       <li><a id="footer_link_facebook" href="http://www.facebook.com/UCRiverside" title="Visit UCR’s Facebook page (external site: Facebook)"><span class="accessibility">Visit UCR’s Facebook page</span></a></li>
+       <li><a id="footer_link_twitter" href="http://twitter.com/UCRiverside" title="Follow UCR on Twitter (external site: Twitter)"><span class="accessibility">Follow UCR on Twitter</span></a></li>
+       <li><a id="footer_link_youtube" href="http://www.youtube.com/UCRiverside" title="Visit UCR’s YouTube channel (external site: YouTube)"><span class="accessibility">Visit UCR’s YouTube channel</span></a></li>
+       <li><a id="footer_link_rss" href="/feed" title="Subscribe to UCR Today via RSS"><span class="accessibility">Subscribe to UCR Today via RSS</span></a></li>
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr /> 
+  <div class="pagewrapper"> 
+   <div id="masthead" class="inside-ucr" style="background-image: url(http://ucrtoday.ucr.edu/wp-content/uploads/2012/11/masthead_bg_poppies.jpg)"> 
+    <h1><a href="http://ucrtoday.ucr.edu/inside-ucr"><img alt="" src="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.20/images/design6/masthead_inside_ucr.png" /><span class="accessibility">Inside UCR</span></a></h1> 
+    <div id="search"> 
+     <form method="get" id="searchform-x139457836978c4b" action="http://ucrtoday.ucr.edu/"> 
+      <label for="s-x139457836978c4b">Search:</label> 
+      <input type="text" class="s field" name="s" id="s-x139457836978c4b" /> 
+      <input type="submit" class="search submit" name="submit" value="Search" /> 
+     </form> 
+    </div> 
+    <div id="iu_tagline">
+     <p>News for Faculty and Staff of the<br />University of California, Riverside</p>
+    </div> 
+   </div> 
+   <ul id="cat_nav" class="inside-ucr">
+    <li><a href="/inside-ucr" id="cat_nav_first">Home</a></li>
+    <li><a href="/category/inside-ucr">News</a></li>
+    <li><a href="/category/inside-ucr-getting-personal">Getting Personal</a></li>
+    <li><a href="/category/inside-ucr-did-you-know">Did You Know?</a></li>
+    <li><a href="/category/inside-ucr-who-says">Who Says?</a></li>
+    <li><a href="/category/inside-ucr-awards-honors">Awards &amp; Honors</a></li>
+    <li><a href="/category/inside-ucr-research-scholarship" id="cat_nav_last">Research &amp; Scholarship</a></li>
+    <li id="cat_nav_ucr_today"><a href="/"><span class="accessibility">UCR Today</span></a></li>
+   </ul> 
+   <!-- Start Content --> 
+   <div id="content"> 
+    <a name="main"></a> 
+    <div class="inside-ucr page"> 
+     <div class="column23"> 
+      <div class="content" role="main"> 
+       <h2>Green Leadership Summit Details Sustainability Efforts, Draws Influential Crowd</h2> 
+       <p class="deck">City, university and utility provider sign agreement to seal partnership for future and sustainability</p> 
+       <p class="byline">By <a href="http://ucrtoday.ucr.edu/author/knagy001" title="View all posts by Konrad Nagy" rel="author">Konrad Nagy</a> on <em>March 6, 2014</em></p> 
+       <div class="share"> 
+        <p>Share this article: </p> 
+        <ul class="share_links"> 
+         <li><a rel="nofollow" href="mailto:?body=Thought%20you%20might%20be%20interested%20in%20this%20article%20on%20UCR%20Today%3A%0A%0AGreen%20Leadership%20Summit%20Details%20Sustainability%20Efforts%2C%20Draws%20Influential%20Crowd%0A%0ACity%2C%20university%20and%20utility%20provider%20sign%20agreement%20to%20seal%20partnership%20for%20future%20and%20sustainability%0A%0Ahttp%3A%2F%2Fatu.cr%2F1n0pdbJ&amp;subject=UCR%20Today%3A%20Green%20Leadership%20Summit%20Details%20Sustainability%20Efforts%2C%20Draws%20Influential%20Crowd" title="E-mail this page to a friend" onclick="javascript:_gaq.push(['_trackEvent','Share','E-mail','20875: Green Leadership Summit Details Sustainability Efforts, Draws Influential Crowd']);"><img src="http://www.ucr.edu/images/icons/mail.png" height="16" width="16" alt="E-mail this page to a friend" /></a></li> 
+         <li><a rel="nofollow" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fatu.cr%2F1n0pdbJ&amp;t=UCR%20Today%3A%20Green%20Leadership%20Summit%20Details%20Sustainability%20Efforts%2C%20Draws%20Influential%20Crowd" title="Share this page on Facebook!" onclick="javascript:_gaq.push(['_trackEvent','Share','Facebook','20875: Green Leadership Summit Details Sustainability Efforts, Draws Influential Crowd']);" target="_blank"><img src="http://www.ucr.edu/images/icons/facebook.png" height="16" width="16" alt="Share this page on Facebook!" /></a></li> 
+         <li><a rel="nofollow" href="https://plusone.google.com/_/+1/confirm?hl=en&amp;url=http%3A%2F%2Fatu.cr%2F1n0pdbJ&amp;title=UCR%20Today%3A%20Green%20Leadership%20Summit%20Details%20Sustainability%20Efforts%2C%20Draws%20Influential%20Crowd" title="Publicly recommend on Google!" onclick="javascript:_gaq.push(['_trackEvent','Share','Google +1','20875: Green Leadership Summit Details Sustainability Efforts, Draws Influential Crowd']);" target="_blank"><img src="http://www.ucr.edu/images/icons/google-plus.png" height="16" width="16" alt="Publicly recommend on Google!" /></a></li> 
+         <li><a rel="nofollow" href="http://www.linkedin.com/shareArticle?mini=true&amp;source=UC%20Riverside&amp;url=http%3A%2F%2Fatu.cr%2F1n0pdbJ&amp;title=UCR%20Today%3A%20Green%20Leadership%20Summit%20Details%20Sustainability%20Efforts%2C%20Draws%20Influential%20Crowd" title="Add this page to LinkedIn!" onclick="javascript:_gaq.push(['_trackEvent','Share','LinkedIn','20875: Green Leadership Summit Details Sustainability Efforts, Draws Influential Crowd']);" target="_blank"><img src="http://www.ucr.edu/images/icons/linkedin.png" height="16" width="16" alt="Add this page to LinkedIn!" /></a></li> 
+         <li><a rel="nofollow" href="http://twitter.com/home?status=%23UCRiverside%3A%20Green%20Leadership%20Summit%20Details%20Sustainability%20Efforts%2C%20Draws%20Influential%20Crowd%20http%3A%2F%2Fatu.cr%2F1n0pdbJ" title="Share on Twitter!" onclick="javascript:_gaq.push(['_trackEvent','Share','Twitter','20875: Green Leadership Summit Details Sustainability Efforts, Draws Influential Crowd']);" target="_blank"><img src="http://www.ucr.edu/images/icons/twitter.png" height="16" width="16" alt="Share on Twitter!" /></a></li> 
+         <li><a rel="nofollow" href="javascript:window.print()" title="Print this page" onclick="javascript:_gaq.push(['_trackEvent','Share','Print','20875: Green Leadership Summit Details Sustainability Efforts, Draws Influential Crowd']);"><img src="http://www.ucr.edu/images/icons/printer.png" height="16" width="16" alt="Print this page" /></a></li> 
+        </ul> 
+       </div>
+       <div class="figure_main"> 
+        <a href="http://ucrtoday.ucr.edu/20875/wilcox-and-mayor-bailey-at-green-summit"><img width="603" height="360" src="http://ucrtoday.ucr.edu/wp-content/uploads/2014/03/Wilcox-and-Mayor-Bailey-at-Green-Summit-603x360.jpg" class="attachment-feature" alt="Chancellor Kim A. Wilcox and Mayor Rusty Bailey, after signing the collaborative agreement at the Green Leadership Summit." /></a>
+        <p>Chancellor Kim A. Wilcox and Mayor Rusty Bailey, after signing the collaborative agreement at the Green Leadership Summit.</p> 
+       </div> 
+       <p>RIVERSIDE, Calif. – A vision of a greener future was on display at the UC Riverside Alumni and Visitor Center last week as the university, the City of Riverside and Riverside Public Utilities (RPU) partnered to host the second Green Leadership Summit on Feb. 26, 2014.</p> 
+       <p>The more than 80 guests in attendance saw presentations and displays of Riverside’s current sustainability practices, methods of motivating recent UCR students to stay and work locally following graduation, current sustainability successes at UCR and RPU, and ways to improve green practices throughout the region. In attendance were representatives from UCR, RPU, the city of Riverside, and local businesses and non-profits. Dignitaries included UCR Chancellor Kim Wilcox, Riverside Mayor Rusty Bailey, RPU Assistant General Manager Michael Bacich, former mayor and current UCR professor Ron Loveridge, UCR Director of Sustainability John Cook and UCR Director of CE-CERT Matt Barth.</p> 
+       <p>Speakers from UCR discussed the university’s commitment to sustainability. Wilcox discussed future goals for the campus, which included the reduction of use of potable (drinking-quality) water for campus operations, increased application of UCR research in areas of global warming, air quality, agriculture, plant biology, solar energy and transportation and the achievement of climate neutrality, where the campus would have no net-climate-impact from carbon or other greenhouse gases, by 2025.</p> 
+       <p>At the event’s conclusion, Wilcox and Bailey signed a collaborative agreement to work together to ensure sustainability for the current and future residents of Riverside. The agreement provides for two-to-four paid internships for UCR undergraduate and graduate students to assist the city on sustainability projects. These internships will aid the city in further advancing sustainability while providing encouragement for students to stay in Riverside after graduation.</p> 
+       <p>“As a member of the UCR community, it’s hard not to feel proud of all that we have accomplished as a university and as a community. But, it’s also very humbling to think of the work that still needs to be done,” Wilcox said.</p> 
+       <p>Mayor Rusty Bailey showed support for efforts to date and promised support for sustainability projects moving forward.&nbsp;“We’re continuing the momentum of previous generations and mayors with the mission of sustainability. I’m proud to carry the torch and take a step forward to continue our work.&nbsp;We’re in growth mode and we need to do things the right way.”</p> 
+       <p>The signed agreement drew significant praise from attendees.</p> 
+       <p>“If the saying is true, that it takes a village to raise a child, then it is also true that it takes a university to allow that child to flourish,” Cook said. “This partnership allows UCR to utilize its research to better help the community. That’s the beauty of partnership and it is a situation very unique to UCR. No other UC has this kind of relationship with their city.”</p> 
+       <p>Echoing Cook’s hopefulness, Barth said he hopes that the collaboration will allow UCR to become an even greater asset to the city and the community.</p> 
+       <p>Bailey also mentioned the <a href="http://coolclimate.berkeley.edu/challenge" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://coolclimate.berkeley.edu/challenge']);">CoolCalifornia City Challenge</a> as a resource for individuals who want to make a difference in sustainability now. The challenge, whose sponsors include Energy Upgrade California and the University of California Renewable and Appropriate Energy Laboratory, encourages residents to reduce their carbon footprints, and earn prize money to help support sustainability program development.</p> 
+       <p>For more information about the city’s green initiatives, visit <a title="Green Riverside" href="http://www.greenriverside.com.">greenriverside.com.</a></p> 
+       <div class="clear"></div> 
+       <div class="contact_box">
+        <div class="cb_wrapper"> 
+         <div class="left"> 
+          <h3>Media Contact</h3> 
+          <p><strong><a href="http://ucrtoday.ucr.edu/author/knagy001" rel="author">Konrad Nagy</a></strong><br /> Tel: (951) 827-6049<br /> E-mail: <a href="mailto:konrad.nagy@ucr.edu">konrad.nagy@ucr.edu</a> </p> 
+         </div> 
+         <div class="right"> 
+          <h3>Related Links</h3> 
+          <ul> 
+           <li><a href="http://www.riversideca.gov/" onclick="javascript:_gaq.push(['_trackEvent','outbound-related-link','http://www.riversideca.gov/']);">City of Riverside</a></li>
+           <li><a href="http://www.riversidepublicutilities.com/" onclick="javascript:_gaq.push(['_trackEvent','outbound-related-link','http://www.riversidepublicutilities.com/']);">Riverside Public Utilities</a></li>
+           <li><a href="http://www.greenriverside.com/" onclick="javascript:_gaq.push(['_trackEvent','outbound-related-link','http://www.greenriverside.com/']);">Green Riverside</a></li>
+           <li><a href="http://coolclimate.berkeley.edu/challenge/index.php?type=login" onclick="javascript:_gaq.push(['_trackEvent','outbound-related-link','http://coolclimate.berkeley.edu/challenge/index.php?type=login']);">CoolCalifornia City Challenge</a></li>
+           <li><a href="http://www.cert.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','outbound-related-link','http://www.cert.ucr.edu/']);">UCR Center for Environmental Research and Technology</a></li> 
+          </ul> 
+         </div> 
+         <div class="clear"></div> 
+        </div>
+       </div> 
+       <p class="archived"><em>Archived under:</em> <a href="http://ucrtoday.ucr.edu/category/inside-ucr" title="View all posts in Inside UCR" rel="category tag">Inside UCR</a>, <a href="http://ucrtoday.ucr.edu/tag/ce-cert" rel="tag">CE-CERT</a>, <a href="http://ucrtoday.ucr.edu/tag/chancellor-kim-a-wilcox" rel="tag">Chancellor Kim A. Wilcox</a>, <a href="http://ucrtoday.ucr.edu/tag/city-of-riverside" rel="tag">city of riverside</a>, <a href="http://ucrtoday.ucr.edu/tag/green" rel="tag">green</a>, <a href="http://ucrtoday.ucr.edu/tag/green-riverside" rel="tag">Green Riverside</a>, <a href="http://ucrtoday.ucr.edu/tag/john-cook" rel="tag">John Cook</a>, <a href="http://ucrtoday.ucr.edu/tag/matthew-barth" rel="tag">Matthew Barth</a>, <a href="http://ucrtoday.ucr.edu/tag/riverside-public-utilities" rel="tag">Riverside Public Utilities</a>, <a href="http://ucrtoday.ucr.edu/tag/ron-loveridge" rel="tag">Ron Loveridge</a>, <a href="http://ucrtoday.ucr.edu/tag/rusty-bailey" rel="tag">rusty bailey</a>, <a href="http://ucrtoday.ucr.edu/tag/sustainability-2" rel="tag">sustainability</a></p> 
+       <p class="top_page"><a href="#main">Top of Page</a></p> 
+      </div> 
+     </div> 
+     <div class="column3R"> 
+      <div id="yarpp_widget-3" class="boxed widget widget_yarpp_widget">
+       <div class="yarpp-related-widget"> 
+        <h3>Related News</h3> 
+        <ol> 
+         <li><a href="http://ucrtoday.ucr.edu/13825" rel="bookmark" title="UCR to Celebrate Earth Week 2013 with Full Slate of Events"> <img src="http://ucrtoday.ucr.edu/wp-content/uploads/2013/04/C5sUCcPH4zE-130x78.jpg" alt="UCR to Celebrate Earth Week 2013 with Full Slate of Events" class="Thumbnail thumbnail" />UCR to Celebrate Earth Week 2013 with Full Slate of Events<br /><strong>[Apr 19, 2013]</strong></a></li> 
+         <li><a href="http://ucrtoday.ucr.edu/13721" rel="bookmark" title="UCR Once Again Named to Princeton Review Green Colleges List"> <img src="http://ucrtoday.ucr.edu/wp-content/uploads/2013/04/bookcover_large-e1366156919535-130x78.jpg" alt="UCR Once Again Named to Princeton Review Green Colleges List" class="Thumbnail thumbnail" />UCR Once Again Named to Princeton Review Green Colleges List<br /><strong>[Apr 16, 2013]</strong></a></li> 
+         <li><a href="http://ucrtoday.ucr.edu/10985" rel="bookmark" title="“Boomerang Boxes” to Reduce Campus Cardboard Waste"> <img src="http://ucrtoday.ucr.edu/wp-content/uploads/2013/01/boomerangboxes-130x78.jpg" alt="boxes on hand cart" class="Thumbnail thumbnail" />“Boomerang Boxes” to Reduce Campus Cardboard Waste<br /><strong>[Jan 4, 2013]</strong></a></li> 
+         <li><a href="http://ucrtoday.ucr.edu/10171" rel="bookmark" title="UCR to Participate in EPA’s Food Recovery Challenge"> <img src="http://ucrtoday.ucr.edu/wp-content/uploads/2012/11/compost-recycle-e1353001217296-130x78.jpg" alt="A compost bin and a recycle bin." class="Thumbnail thumbnail" />UCR to Participate in EPA’s Food Recovery Challenge<br /><strong>[Nov 15, 2012]</strong></a></li> 
+         <li><a href="http://ucrtoday.ucr.edu/8658" rel="bookmark" title="Building a Greener and More Sustainable Office"> <img src="http://ucrtoday.ucr.edu/wp-content/uploads/2012/09/groupshot1-e1346892683105-130x78.jpg" alt="Group shot" class="Thumbnail thumbnail" />Building a Greener and More Sustainable Office<br /><strong>[Sep 5, 2012]</strong></a></li> 
+        </ol> 
+       </div> 
+      </div> 
+      <div id="popular-widget-7" class="boxed widget popular-widget"> 
+       <ul id="pop_widget_tabs_7" class="pop_widget_tabs">
+        <li><a href="#latest" rel="nofollow">Latest</a></li>
+        <li><a href="#viewed" rel="nofollow"><span>Most</span> Viewed</a></li>
+       </ul> 
+       <div class="pop_inside_7 pop_inside"> 
+        <ul id="pop_widget_latest_7" class="pop_widget_links">
+         <li><a href="http://ucrtoday.ucr.edu/20966">Brain Awareness Day to Cover Sheep Brains, Cow Hearts, Scorpions and Zombie Cockroaches <strong>[Mar&nbsp;11,&nbsp;2014]</strong></a>
+          <div class="clear"></div></li> 
+         <li><a href="http://ucrtoday.ucr.edu/20960">Susan Straight is a Southern California Original <strong>[Mar&nbsp;10,&nbsp;2014]</strong></a>
+          <div class="clear"></div></li> 
+         <li><a href="http://ucrtoday.ucr.edu/20897">UCR to Host Inaugural BlaqOUT Conference on April 18-19, 2014 <strong>[Mar&nbsp;7,&nbsp;2014]</strong></a>
+          <div class="clear"></div></li> 
+         <li><a href="http://ucrtoday.ucr.edu/20875">Green Leadership Summit Details Sustainability Efforts, Draws Influential Crowd <strong>[Mar&nbsp;6,&nbsp;2014]</strong></a>
+          <div class="clear"></div></li> 
+         <li><a href="http://ucrtoday.ucr.edu/20889">Gladys Eaton Dies at 92 <strong>[Mar&nbsp;4,&nbsp;2014]</strong></a>
+          <div class="clear"></div></li> 
+         <li><a href="http://ucrtoday.ucr.edu/20879">Combining Forces to Stop Hackers <strong>[Mar&nbsp;4,&nbsp;2014]</strong></a>
+          <div class="clear"></div></li> 
+        </ul> 
+        <ul id="pop_widget_viewed_7" class="pop_widget_links">
+         <li><a href="http://ucrtoday.ucr.edu/20511">Better Batters Result from Brain-training Research <strong>[Feb&nbsp;17,&nbsp;2014]</strong></a>
+          <div class="clear"></div></li> 
+         <li><a href="http://ucrtoday.ucr.edu/20613">Using Holograms to Improve Electronic Devices <strong>[Feb&nbsp;19,&nbsp;2014]</strong></a>
+          <div class="clear"></div></li> 
+         <li><a href="http://ucrtoday.ucr.edu/20502">Looking Back 60 Years: Commemorating the First Day of Classes at UC Riverside <strong>[Feb&nbsp;14,&nbsp;2014]</strong></a>
+          <div class="clear"></div></li> 
+         <li><a href="http://ucrtoday.ucr.edu/20102">Six to Be Recognized at Sixth Annual Women Students Celebration Event <strong>[Feb&nbsp;21,&nbsp;2014]</strong></a>
+          <div class="clear"></div></li> 
+         <li><a href="http://ucrtoday.ucr.edu/20540">Science Olympiad to Cover Everything from Anatomy to Food Science <strong>[Feb&nbsp;13,&nbsp;2014]</strong></a>
+          <div class="clear"></div></li> 
+         <li><a href="http://ucrtoday.ucr.edu/20507">UC Riverside’s First Family Endows New Chancellor’s Research Fellowship to Support Undergraduate Research <strong>[Feb&nbsp;13,&nbsp;2014]</strong></a>
+          <div class="clear"></div></li> 
+        </ul> 
+        <div class="clear"></div> 
+       </div> 
+      </div> 
+      <div id="text-14" class="boxed widget widget_text"> 
+       <div class="textwidget">
+        <h3>UCR Magazine <span>Online</span></h3> 
+        <p><img class="alignright size-full" alt="" src=" /wp-content/uploads/2014/03/mag-v9n1.png" width="107" height="110" />Winter 2014 issue of UCR Magazine is available. Read about <em>Realizing a Dream: Native American programs at UCR go beyond research</em>.</p> 
+        <div class="clear"></div> 
+        <p class="archive_link"><a href="http://magazine.ucr.edu/">Read it now!</a></p>
+       </div> 
+      </div> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+   </div>
+   <!-- #content --> 
+  </div>
+  <!-- #pagewrapper --> 
+  <div class="btf_wrapper"> 
+   <div class="pagewrapper"> 
+    <div id="btf"> 
+     <h2 id="btf_title"><span class="accessibility">Below the Fold</span><img alt="" src="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.20/images/ttl_below_the_fold.png" height="16" width="222" /></h2> 
+     <div class="column23"> 
+      <div id="widget_ucrnewsroom_faculty_profile-27" class="widget widget_faculty_profile">
+       <h3>Faculty Profile | <strong>Health</strong></h3> 
+       <div class="figure_fac_profile"> 
+        <img src="http://ucrtoday.ucr.edu/wp-content/uploads/2012/08/profile-Howard-Friedman.jpg" alt="Howard S. Friedman" /> 
+        <p><a href="http://promise.ucr.edu/profile-health-friedman.html" onclick="javascript:_gaq.push(['_trackEvent','outbound-profile','Howard S. Friedman']);"><strong>Howard S. Friedman</strong><br />Distinguished Professor of Psychology</a></p> 
+       </div> 
+      </div>
+      <div id="widget_ucrnewsroom_happenings-3" class="widget widget_happenings">
+       <h3>Events and Happenings</h3> 
+       <p class="archive_link"><a href="http://www.ucr.edu/happenings/" onclick="javascript:_gaq.push(['_trackEvent','outbound-happening','All Events &amp; Happenings']);">All Events &amp; Happenings</a></p> 
+       <ul> 
+        <li><a href="http://events.ucr.edu/cgi-bin/display.cgi?event_id=41035" onclick="javascript:_gaq.push(['_trackEvent','outbound-happening','Music as Medicine Concert Series']);"> <img src="http://www.ucr.edu/images/happening/2349.jpg" width="124" height="57" alt="" /> <strong>Music as Medicine Concert Series</strong> <span class="date">Thursday, April 3<br />Noon–1 p.m.</span> <span class="location">School of Medicine Education Bldg On the Patio</span> Choral Society and Blue Grass Ensemble</a></li> 
+        <li><a href="http://palmdesert.ucr.edu/programs/Boyd13.html" onclick="javascript:_gaq.push(['_trackEvent','outbound-happening','Animal Oceanographers']);"> <img src="http://www.ucr.edu/images/happening/2324.jpg" width="124" height="57" alt="" /> <strong>Animal Oceanographers</strong> <span class="date">March 13<br />6 p.m.</span> <span class="location">UCR Palm Desert auditorium (RSVP Today!)</span> Using Animals to Tell Us About Their Environment</a></li> 
+        <li><a href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=41358:20140329100000&amp;unit=15" onclick="javascript:_gaq.push(['_trackEvent','outbound-happening','Men's Track &amp; Field: UC Riverside Spring Track Classic']);"> <img src="http://www.ucr.edu/images/happening/2352.jpg" width="124" height="57" alt="" /> <strong>Men's Track &amp; Field: UC Riverside Spring Track Classic</strong> <span class="date">Saturday, March 29<br />10 a.m.–6 p.m.</span> <span class="location">UC Riverside Track Facility</span> </a></li> 
+        <li><a href="http://events.ucr.edu/cgi-bin/display.cgi?event_id=41072" onclick="javascript:_gaq.push(['_trackEvent','outbound-happening','Botanic Gardens Spring Plant Sale']);"> <img src="http://www.ucr.edu/images/happening/2342.jpg" width="124" height="57" alt="" /> <strong>Botanic Gardens Spring Plant Sale</strong> <span class="date">Saturday, April 5–Sunday, April 6<br />Sat: 11 a.m.–4 p.m.; Sun: 9 a.m.–3 p.m.</span> <span class="location">Botanic Gardens Information Center</span> </a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="column3R"> 
+      <div id="widget_ucrnewsroom_related_links-2" class="widget widget_links">
+       <h3>Related Sites</h3> 
+       <ul class="xoxo blogroll"> 
+        <li><a href="http://www.ucop.edu/sciencetoday/" title="external site: UCOP Science Today" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://www.ucop.edu/sciencetoday/']);">Science Today</a></li> 
+        <li><a href="http://espanol.ucanr.org/" title="external site: UC Ag and Natural Resources news (in Spanish)" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://espanol.ucanr.org/']);">Servicio de Informaci&oacute;n en Espa&ntilde;ol</a></li> 
+        <li><a href="http://news.ucanr.org/" title="external site: UC Ag and Natural Resources news" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://news.ucanr.org/']);">UC Agricultural and Natural Resources news</a></li> 
+        <li><a href="http://www.universityofcalifornia.edu/news/spanish/" title="external site: UC Newsroom (in Spanish)" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://www.universityofcalifornia.edu/news/spanish/']);">UC en Espa&ntilde;ol</a></li> 
+        <li><a href="http://www.universityofcalifornia.edu/news/" title="external site: UC Newsroom" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://www.universityofcalifornia.edu/news/']);">UC Newsroom</a></li> 
+       </ul> 
+      </div>
+      <div id="simpletags-4" class="widget widget-simpletags">
+       <h3>Tag cloud</h3> 
+       <!-- Generated by Simple Tags 2.3.2 - http://wordpress.org/extend/plugins/simple-tags --> 
+       <ul class="st-tag-cloud"> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/g-richard-olds" id="tag-link-451" class="st-tags t1" title="19 topics" rel="tag" style="font-size:0.83em; ">G. Richard Olds</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/cnas-2" id="tag-link-113" class="st-tags t5" title="59 topics" rel="tag" style="font-size:1.39em; ">CNAS</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/karthick-ramakrishnan" id="tag-link-136" class="st-tags t1" title="16 topics" rel="tag" style="font-size:0.83em; ">Karthick Ramakrishnan</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/school-of-business-administration" id="tag-link-120" class="st-tags t3" title="39 topics" rel="tag" style="font-size:1.11em; ">School of Business Administration</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/living-the-promise" id="tag-link-391" class="st-tags t1" title="21 topics" rel="tag" style="font-size:0.83em; ">living the promise</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/college-of-humanities-arts-social-sciences" id="tag-link-831" class="st-tags t3" title="42 topics" rel="tag" style="font-size:1.11em; ">College of Humanities Arts &amp; Social Sciences</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/gift" id="tag-link-2068" class="st-tags t1" title="18 topics" rel="tag" style="font-size:0.83em; ">gift</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/john-cook" id="tag-link-664" class="st-tags t1" title="19 topics" rel="tag" style="font-size:0.83em; ">John Cook</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/music" id="tag-link-539" class="st-tags t1" title="22 topics" rel="tag" style="font-size:0.83em; ">music</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/culver-center" id="tag-link-650" class="st-tags t1" title="18 topics" rel="tag" style="font-size:0.83em; ">Culver Center</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/sustainability-2" id="tag-link-151" class="st-tags t3" title="37 topics" rel="tag" style="font-size:1.11em; ">sustainability</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/artsblock" id="tag-link-954" class="st-tags t1" title="21 topics" rel="tag" style="font-size:0.83em; ">ARTSblock</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/jane-close-conoley" id="tag-link-2387" class="st-tags t1" title="23 topics" rel="tag" style="font-size:0.83em; ">Jane Close Conoley</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/school-of-medicine" id="tag-link-447" class="st-tags t3" title="41 topics" rel="tag" style="font-size:1.11em; ">School of Medicine</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/soba-2" id="tag-link-119" class="st-tags t1" title="20 topics" rel="tag" style="font-size:0.83em; ">SoBA</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/botanic-gardens" id="tag-link-1963" class="st-tags t1" title="18 topics" rel="tag" style="font-size:0.83em; ">botanic gardens</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/research-2" id="tag-link-395" class="st-tags t2" title="29 topics" rel="tag" style="font-size:0.97em; ">research</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/art" id="tag-link-950" class="st-tags t1" title="19 topics" rel="tag" style="font-size:0.83em; ">art</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/chass-2" id="tag-link-830" class="st-tags t4" title="48 topics" rel="tag" style="font-size:1.25em; ">CHASS</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/department-of-earth-sciences" id="tag-link-153" class="st-tags t2" title="30 topics" rel="tag" style="font-size:0.97em; ">Department of Earth Sciences</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/philosophy" id="tag-link-443" class="st-tags t1" title="17 topics" rel="tag" style="font-size:0.83em; ">philosophy</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/department-of-physics-and-astronomy" id="tag-link-1184" class="st-tags t1" title="22 topics" rel="tag" style="font-size:0.83em; ">Department of Physics and Astronomy</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/education" id="tag-link-433" class="st-tags t2" title="28 topics" rel="tag" style="font-size:0.97em; ">education</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/chancellor" id="tag-link-2034" class="st-tags t5" title="58 topics" rel="tag" style="font-size:1.39em; ">chancellor</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/bcoe-2" id="tag-link-70" class="st-tags t4" title="48 topics" rel="tag" style="font-size:1.25em; ">BCOE</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/public-policy" id="tag-link-774" class="st-tags t1" title="17 topics" rel="tag" style="font-size:0.83em; ">public policy</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/bourns-college-of-engineering" id="tag-link-69" class="st-tags t10" title="103 topics" rel="tag" style="font-size:2.08em; ">Bourns College of Engineering</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/climate-change" id="tag-link-148" class="st-tags t1" title="17 topics" rel="tag" style="font-size:0.83em; ">climate change</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/timothy-p-white" id="tag-link-2208" class="st-tags t3" title="38 topics" rel="tag" style="font-size:1.11em; ">Timothy P. White</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/inside-ucr" id="tag-link-1" class="st-tags t2" title="31 topics" rel="tag" style="font-size:0.97em; ">Inside UCR</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/ce-cert" id="tag-link-66" class="st-tags t1" title="22 topics" rel="tag" style="font-size:0.83em; ">CE-CERT</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/graduate-school-of-education" id="tag-link-971" class="st-tags t1" title="17 topics" rel="tag" style="font-size:0.83em; ">Graduate School of Education</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/health-2" id="tag-link-486" class="st-tags t1" title="24 topics" rel="tag" style="font-size:0.83em; ">health</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/college-of-natural-and-agricultural-sciences" id="tag-link-114" class="st-tags t5" title="63 topics" rel="tag" style="font-size:1.39em; ">College of Natural and Agricultural Sciences</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/psychology" id="tag-link-416" class="st-tags t1" title="23 topics" rel="tag" style="font-size:0.83em; ">psychology</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/center-for-environmental-research-technology" id="tag-link-237" class="st-tags t1" title="18 topics" rel="tag" style="font-size:0.83em; ">Center for Environmental Research &amp; Technology</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/department-of-entomology" id="tag-link-1133" class="st-tags t3" title="37 topics" rel="tag" style="font-size:1.11em; ">Department of Entomology</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/video" id="tag-link-409" class="st-tags t6" title="73 topics" rel="tag" style="font-size:1.53em; ">video</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/political-science" id="tag-link-643" class="st-tags t2" title="26 topics" rel="tag" style="font-size:0.97em; ">Political Science</a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/tag/department-of-botany-and-plant-sciences" id="tag-link-184" class="st-tags t2" title="26 topics" rel="tag" style="font-size:0.97em; ">Department of Botany and Plant Sciences</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="pagewrapper"> 
+   <h3 class="accessibility">Footer</h3> 
+   <div id="colophon">
+     The University of California, Riverside (
+    <a href="http://www.ucr.edu/">www.ucr.edu</a>) is a doctoral research university, a living laboratory for groundbreaking exploration of issues critical to Inland Southern California, the state and communities around the world. Reflecting California's diverse culture, UCR's enrollment has exceeded 21,000 students. The campus opened a medical school in 2013 and has reached the heart of the Coachella Valley by way of the UCR Palm Desert Center. The campus has an annual statewide economic impact of more than $1 billion. A broadcast studio with fiber cable to the AT&amp;T Hollywood hub is available for live or taped interviews. UCR also has ISDN for radio interviews. To learn more, call (951) UCR-NEWS. 
+   </div> 
+   <div id="footer"> 
+    <ul> 
+     <li><a href="/feedback" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+     <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+     <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+     <li>&copy; 2014 Regents of the University of California</li> 
+     <li>Last modified: 2014-Mar-06</li> 
+    </ul> 
+   </div> 
+  </div> 
+  <script type="text/javascript" src="http://ucrtoday.ucr.edu/wp-content/plugins/popular-widget2/_js/pop-widget.js?ver=1.1.0-rab6"></script>   
+ </body>
+</html>

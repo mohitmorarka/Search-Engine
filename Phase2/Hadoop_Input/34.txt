@@ -1,0 +1,1575 @@
+<!DOCTYPE html>
+<html lang="en-US">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <meta charset="utf-8" /> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /> 
+  <meta name="medium" content="mult" /> 
+  <meta name="title" content="UC Cooperative Extension | Agricultural Experiment Station - Agriculture and Natural Resources - University of California" /> 
+  <meta name="description" content="Agriculture and Natural Resources - University of California - UC Cooperative Extension | Agricultural Experiment Station" /> 
+  <meta property="og:title" content="UC Cooperative Extension | Agricultural Experiment Station" /> 
+  <meta property="og:type" content="Website" /> 
+  <meta property="og:description" content="UC Cooperative Extension | Agricultural Experiment Station - Agriculture and Natural Resources - University of California" /> 
+  <meta name="author" content="University of California, Division of Agriculture and Natural Resources" /> 
+  <meta name="copyright" content="&copy; 2014 Regents of the University of California" /> 
+  <link href="http://ucanr.edu" rel="canonical" /> 
+  <meta property="og:url" content="http://ucanr.edu" /> 
+  <link href="http://ucanr.edu/sb3/display/resources/css/bootstrap.css" rel="stylesheet" /> 
+  <link href="http://ucanr.edu/sb3/display/resources/css/bootstrap-responsive.css" rel="stylesheet" /> 
+  <link rel="stylesheet" href="http://ucanr.edu/sb3/display/resources/FontAwesome/css/font-awesome.min.css" type="text/css" /> 
+  <!--[if IE 7]>
+<link rel="stylesheet" href="http://ucanr.edu/sb3/display/resources/FontAwesome/css/font-awesome-ie7.min.css" type="text/css" />
+<![endif]--> 
+  <!--[if IE]>
+<link href="http://ucanr.edu/sb3/display/resources/css/styles_ie.css" rel="stylesheet" type="text/css" lang="en-US">
+<![endif]--> 
+  <!--[if IE 6]>
+<link rel="stylesheet" href="http://ucanr.edu/sb3/display/resources/css/print.css" type="text/css" />
+<![endif]--> 
+  <link href="http://ucanr.edu/sb3/display/resources/css/styles_sitewide.css" rel="stylesheet" type="text/css" lang="en-US" media="screen" /> 
+  <link href="http://ucanr.edu/sb3/display/resources/css/styles_sharing.css" rel="stylesheet" type="text/css" lang="en-US" /> 
+  <link href="http://ucanr.edu/sb3/display/resources/css/styles_phone_menu.css" rel="stylesheet" type="text/css" lang="en-US" /> 
+  <link href="http://ucanr.edu/sb3/display/resources/css/styles_grid_control_group.css" rel="stylesheet" type="text/css" lang="en-US" /> 
+  <link href="http://ucanr.edu/sb3/display/resources/css/print.css" rel="stylesheet" type="text/css" media="print" /> 
+  <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css" /> 
+  <!-- HTML5 shim, for IE6-8 support of HTML5 elements --> 
+  <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]--> 
+  <script type="text/javascript" src="http://ucanr.edu/universal/javascript/jquery-1.7.1.min.js"></script> 
+  <script type="text/javascript" src="http://ucanr.edu/universal/jquery/js/jquery-ui-1.8.16.custom.min.js"></script> 
+  <link type="text/css" href="http://ucanr.edu/universal/jquery/css/core/smoothness/jquery-ui-1.8.16.custom.css" rel="Stylesheet" /> 
+  <script type="text/javascript" src="http://ucanr.edu/universal/jquery/js/jQuery-ui-WAT.js"></script> 
+  <script type="text/javascript" src="/universal/bootstrap/js/bootstrap.js"></script> 
+  <script type="text/javascript" src="/universal/bootstrap/js/bootstrap-tooltip.js"></script> 
+  <link rel="stylesheet" href="http://ucanr.edu/universal/prettyPhoto/css/prettyPhoto.css" type="text/css" media="screen" title="prettyPhoto main stylesheet" charset="utf-8" /> 
+  <script src="http://ucanr.edu/universal/prettyPhoto/js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script> 
+  <link rel="stylesheet" href="http://ucanr.edu/universal/javascript/jquery.flexslider/flexslider.css" type="text/css" /> 
+  <script src="http://ucanr.edu/universal/javascript/jquery.flexslider/jquery.flexslider.js"></script> 
+  <script type="text/javascript" src="http://ucanr.edu/sb3/display/resources/js/sharing.js"></script> 
+  <script type="text/javascript" src="http://ucanr.edu/sb3/display/resources/js/phone-menu.js"></script> 
+  <script type="text/javascript" src="http://ucanr.edu/sb3/display/resources/js/twitter.js"></script> 
+  <script type="text/javascript">
+    $(document).ready(function(){
+        
+        
+        $('iframe').each(function() {
+            var url = $(this).attr("src");
+            if (url.toLowerCase().indexOf("youtube") != -1) {
+                if ($(this).attr("src").indexOf("?") > 0) {
+                    $(this).attr({
+                    "src" : url + "&wmode=transparent",
+                    "wmode" : "Opaque"});
+                }
+                else {
+                    $(this).attr({
+                    "src" : url + "?wmode=transparent",
+                    "wmode" : "Opaque"});
+                }
+            } 
+        });
+
+        $("a[rel^='lightbox']").prettyPhoto({
+            overlay_gallery: false,
+            slideshow: 5000,
+            show_title:false				
+        });
+		$(function() {
+			$('div.special_full').each(function(){
+				$('h1').addClass('special_full_h1');
+			});
+		});
+    });		
+    
+    
+    var this_site_url='http://ucanr.edu';
+</script> 
+  <script type="text/javascript">
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-27780401-1']);
+          
+          _gaq.push(['_setAllowLinker', true]);
+          _gaq.push(['_trackPageview']);
+        
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+        </script> 
+  <script type="text/javascript">
+            // Takes the full URL and reduces to only path, and file name sans extension.
+            function cleanHREF(href, extension){
+              // Found RE on StackOverflow:
+              // http://stackoverflow.com/questions/27745/getting-parts-of-a-url-regex)
+              var uri_regex = /^((http[s]?|ftp):\/)?\/?([^:\/\s]+)(:([^\/]*))?((\/\w+)*\/)([\w\-\.]+[^#?\s]+)(\?([^#]*))?(#(.*))?$/;
+              var clean_href = href.toString();
+              //Regex returns array with indexes as follows:
+              var SCHEMA = 2, DOMAIN = 3, PORT = 5, PATH = 6,
+              FILE = 8, QUERYSTRING = 9, HASH = 12;
+              var match_container = clean_href.match(uri_regex)
+            
+              return match_container[PATH] + match_container[FILE].replace(extension, '');
+            }
+            
+            function stripHTTP(href){
+                return href.replace('https?://','');
+            }
+    
+        	
+            $(document).ready(function() {
+                $('[href$=".xls"],[href$=".pdf"],[href$=".doc"],[href$=".ppt"],[href$=".mp4"],[href$=".flv"],[href$=".png"],[href$=".swf"],.googleDocLink,.GoogleAnalytics_Trackable').click(function(){
+                    _gat._getTracker('UA-27780401-1')._trackPageview(escape(stripHTTP($(this).attr('href'))));
+                });
+            });	
+        </script> 
+  <link rel="icon" type="image/png" href="https://ucanr.edu/sb3/display/favicon.png" />
+  <link href="http://ucanr.edu/sb3/display/resources/css/styles_top_navigation.css" rel="stylesheet" type="text/css" lang="en-US" media="screen" />
+  <script language="JavaScript" type="text/javascript">
+    var help
+    function helpwin(url) {
+    var loc="http://ucce.ucdavis.edu/seeker/anrdirectoryinfo.cfm?index="+url
+    if(help && !help.closed) {
+    help.close()}
+    help= window.open(loc,"Help","height=700,width=650,menubar,resizable,scrollbars");
+    }
+    </script> 
+  <link href="http://ucanr.edu/sb3/display/resources/css/styles_footer.css" rel="stylesheet" />
+  <title>UC Cooperative Extension | Agricultural Experiment Station - Agriculture and Natural Resources - University of California</title>
+  <link href="http://ucanr.edu/sb3/display/styles_blogroll.css" rel="stylesheet" type="text/css" media="screen" />
+  <link href="http://ucanr.edu/sb3/display/styles_blogroll.css" rel="stylesheet" type="text/css" media="screen" />
+  <link href="http://ucanr.edu/sb3/display/styles_blogroll.css" rel="stylesheet" type="text/css" media="screen" /> 
+  <style type="text/css">
+    
+	
+		.smallucseal {
+	
+		padding:1em .25em .75em .25em; 
+		margin: 0 auto; 
+		width: 100%; 
+		text-align:center
+		}
+	
+		.smallucseal .DonateButton {
+        text-transform: capitalize;
+        font-weight:bold;
+        text-decoration:none !important;		        
+		font-family:Arial, Helvetica, sans-serif;
+		width:100%;
+        max-width:300px;
+		line-height:90%;
+		text-align:left;
+        display:inline-block;
+    }
+    
+    .smallucseal .DonateButton .DonateButtonMain {
+        color: #911D17;
+        font-size:130%;
+        padding: 1em .35em 1em 3em;
+        background-image:url(http://ucanr.edu/sb3/display/images/funds/button_ucseal.png);
+		background-repeate:no-repeat;
+		background-position: -65px;
+        border-radius:12px;
+        border:4px solid #fff;
+        box-shadow: 0 0 5px rgba(0,0,0,0.5), inset 0 -1px 1px rgba(0,0,0,0.1);
+        text-shadow:0 1px #fff;
+        text-decoration:none;	
+		text-transform: uppercase;	
+    }
+	
+	.smallucseal .DonateButton:hover .DonateButtonMain {
+		color:#B99122;
+	}
+    
+    
+    .smallucseal .DonateButton .DonateButtonCaption {
+        text-align:center;
+        background:#1e5c90;
+		text-shadow: 1px 1px 3px #000;
+        color:#fff;
+        font-weight:bold;
+        box-shadow:inset 0 1px 3px rgba(0,0,0,0.4);
+        border-radius:8px;
+        border-top-left-radius:0;
+        border-top-right-radius:0;	
+        margin: 0 10px;
+        font-size:100%;
+		line-height:normal;
+        padding:.5em .7em;
+		text-transform:none;
+
+    }
+    
+	
+	.smallucseal .DonateButton .DonateButtonMain {
+			padding: 1em .35em 1em 2.6em;
+		}
+	
+	@media (max-width: 979px) {
+		
+		.smallucseal .DonateButton .DonateButtonMain {
+			font-size:110%;
+			padding: .7em .25em .7em 3em;
+			background-position: -70px;
+		}
+		
+		
+		.smallucseal .DonateButton .DonateButtonCaption {
+			font-size:90%;
+			line-height:normal;
+			padding:.5em .7em;
+			text-transform:none;
+		}
+			
+		
+		
+	}
+	
+	
+    
+    </style> 
+ </head> 
+ <body id="style1"> 
+  <div class="pagelength"> 
+   <a href="#content" id="SkipToContent" class="skip_link">Skip to Content</a> 
+   <div class="navbar visible-phone"> 
+    <div class="navbar-inner"> 
+     <div class="container"> 
+      <a class="btn btn-menu"> <span>Menu</span> </a> 
+      <a class="brand" href="#">Division of Agriculture and Natural Resources</a> 
+      <div class="phone-nav-menu" style="display:none; clear:both;"> 
+       <div class="topbar topbar-phone visible-phone"> 
+        <div class="topitems topitems-phone"> 
+         <a class="btn topitem topbutton-share" href="?sharebar=share"> <i class="icon-thumbs-up icon-white"></i> <span>Share</span> </a> 
+         <a class="btn topitem topbutton-email" href="?sharebar=email"> <i class="icon-envelope icon-white"></i> <span>Email</span> </a> 
+         <a class="topitem btn" href="#" onclick="window.print();"> <i class="icon-print icon-white"></i> <span>Print</span> </a> 
+         <a href="?sitemap=yes" class="topitem btn sitemaplink"> <i class="icon-list icon-white"></i> <span>Site Map</span> </a> 
+        </div> 
+        <div class="topdrops"> 
+         <div class="topdrop topdrop-phone topdrop-email" style="display:none"> 
+          <div class="well"> 
+           <form name="emailpage" action="?sharebar=emailaction" method="post" class="sharing-email-form"> 
+            <div class="control-group"> 
+             <label class="control-label" for="sendermail">Sender:</label> 
+             <div class="controls"> 
+              <input class="text" type="text" name="sendermail" id="sendermail" value="" /> 
+             </div> 
+            </div> 
+            <div class="control-group"> 
+             <label class="control-label" for="recipientmail">Recipient:</label> 
+             <div class="controls"> 
+              <input class="text" type="text" id="recipientmail" name="recipientmail" value="" required="" /> 
+             </div> 
+            </div> 
+            <div class="control-group"> 
+             <label class="control-label" for="messagemail">Message:</label> 
+             <div class="controls"> 
+              <textarea class="text" rows="10" id="messagemail" readonly="">Hi,
+I thought you might be interested in this page from Agriculture and Natural Resources - University of California.
+
+Here's the link: http://ucanr.edu/</textarea> 
+              <span style="display:none" title="This input is to deter SPAM. Please leave blank."> <label for="sendername" title="This input is to deter SPAM. Please leave blank.">Name:</label> <input type="text" id="sendername" name="sendername" value="" title="This input is to deter SPAM. Please leave blank." /> </span> 
+             </div> 
+            </div> 
+            <div class="help-block">
+             Security Code: EOHMGS 
+            </div> 
+            <div class="control-group"> 
+             <label class="control-label" for="code">Enter Code:</label> 
+             <div class="controls"> 
+              <input name="captcha" id="code" type="text" required="" /> 
+              <input name="capcha" type="hidden" /> 
+              <input name="authcode" value=" MzQyNDkyNjk6MzY3ODU4NTksNTkyODI3MjM2LDAzLzExLzIwMTQgMTU6NTE6NDMsYWJiYWJhYmFiYWJhYmE=" type="hidden" /> 
+             </div> 
+            </div> 
+            <div class="control-group"> 
+             <div class="controls"> 
+              <input type="submit" name="submitmail" value="Send Email" class="btn" /> 
+             </div> 
+            </div> 
+           </form> 
+          </div> 
+         </div> 
+         <div class="topdrop topdrop-phone topdrop-share" style="display:none"> 
+          <ul class="share"> 
+           <li> <a href="?shareWith=facebook&amp;newurlfinal=http%3A%2F%2Fucanr%2Eedu%2F%3F&amp;newdescfinal=UC%20Cooperative%20Extension%20%7C%20Agricultural%20Experiment%20Station%20%2D%20Agriculture%20and%20Natural%20Resources%20%2D%20University%20of%20California" target="_blank"> <img src="http://ucanr.edu/sb3/display/images/facebook.gif" height="16" width="16" alt="Facebook Icon" /> Facebook </a> </li> 
+           <li> <a href="?shareWith=twitter&amp;newurlfinal=http%3A%2F%2Fucanr%2Eedu%2F%3F&amp;newdescfinal=UC%20Cooperative%20Extension%20%7C%20Agricultural%20Experiment%20Station%20%2D%20Agriculture%20and%20Natural%20Resources%20%2D%20University%20of%20California" target="_blank"> <img src="http://ucanr.edu/sb3/display/images/twitter.gif" height="16" width="16" alt="Twitter Icon" /> Twitter</a> </li> 
+           <li> <a href="?shareWith=google&amp;newurlfinal=http%3A%2F%2Fucanr%2Eedu%2F%3F&amp;newdescfinal=UC%20Cooperative%20Extension%20%7C%20Agricultural%20Experiment%20Station%20%2D%20Agriculture%20and%20Natural%20Resources%20%2D%20University%20of%20California" target="_blank"> <img src="http://ucanr.edu/sb3/display/images/googleplus.gif" height="16" width="16" alt="Google Icon" /> Google Plus</a> </li> 
+           <li> <a href="?shareWith=reddit&amp;newurlfinal=http%3A%2F%2Fucanr%2Eedu%2F%3F&amp;newdescfinal=UC%20Cooperative%20Extension%20%7C%20Agricultural%20Experiment%20Station%20%2D%20Agriculture%20and%20Natural%20Resources%20%2D%20University%20of%20California" target="_blank"> <img src="http://ucanr.edu/sb3/display/images/reddit.gif" height="16" width="16" alt="Reddit Icon" /> Reddit</a> </li> 
+           <li> <a href="?shareWith=delicious&amp;newurlfinal=http%3A%2F%2Fucanr%2Eedu%2F%3F&amp;newdescfinal=UC%20Cooperative%20Extension%20%7C%20Agricultural%20Experiment%20Station%20%2D%20Agriculture%20and%20Natural%20Resources%20%2D%20University%20of%20California" target="_blank"> <img src="http://ucanr.edu/sb3/display/images/delicious.gif" height="16" width="16" alt="Delicious Icon" /> Delicious</a> </li> 
+           <li> <a href="?shareWith=linkedin&amp;newurlfinal=http%3A%2F%2Fucanr%2Eedu%2F%3F&amp;newdescfinal=UC%20Cooperative%20Extension%20%7C%20Agricultural%20Experiment%20Station%20%2D%20Agriculture%20and%20Natural%20Resources%20%2D%20University%20of%20California" target="_blank"> <img src="http://ucanr.edu/sb3/display/images/linkedin.gif" height="16" width="16" alt="LinkedIn Icon" /> LinkedIn</a> </li> 
+           <li> <a href="?shareWith=stumbleupon&amp;newurlfinal=http%3A%2F%2Fucanr%2Eedu%2F%3F&amp;newdescfinal=UC%20Cooperative%20Extension%20%7C%20Agricultural%20Experiment%20Station%20%2D%20Agriculture%20and%20Natural%20Resources%20%2D%20University%20of%20California" target="_blank"> <img src="http://ucanr.edu/sb3/display/images/stumbleupon.gif" height="16" width="16" alt="StumbleUpon Icon" /> StumbleUpon</a> </li> 
+          </ul> 
+         </div> 
+        </div> 
+        <form method="post" action="?search=yes" name="myform" class="form-inline searchform searchform-phone"> 
+         <label style="display:inline;"><span style="display:none">Enter Search Terms</span> <input type="text" name="searchterm" placeholder="Enter Search Terms" class="search" value="" /> </label> 
+         <button type="submit" name="submit" class="btn btn-small" style="margin-top:0;">Search</button> 
+        </form> 
+       </div> 
+       <ul class="level1"> 
+        <li class="submenu" style="border-left:0"><a href="http://ucanr.edu">Home</a> </li> 
+        <li class="submenu"><a href="http://ucanr.edu/About_ANR">About us</a> 
+         <ul class="level2"> 
+          <li><a href="http://ucanr.edu/About_ANR/What_is_ANR">What is ANR?</a></li> 
+          <li><a href="http://ucanr.edu/About_ANR/Strategic_Vision">Strategic Vision</a></li> 
+          <li><a href="http://ucanr.edu/Diversity_Matters">Diversity Matters</a></li> 
+          <li><a href="http://ucanr.edu/Development_services/Development_services_396">Giving to ANR</a></li> 
+          <li><a href="http://ucanr.edu/Development_services/Retiree_relations">Retiree relations</a></li> 
+          <li><a href="http://ucanr.edu/sites/anrstaff">For ANR Employees</a></li> 
+          <li><a href="http://ucanr.edu/Social_Networking">Social networking</a></li> 
+          <li><a href="http://ucanr.edu/Comments_and_questions">Comments and questions</a></li> 
+         </ul> </li> 
+        <li class="submenu"><a href="http://ucanr.edu/Publications_524">Publications</a> 
+         <ul class="level2"> 
+          <li><a href="http://anrcatalog.ucdavis.edu/">ANR Catalog</a></li> 
+          <li><a href="https://ucanr.edu/freepubs/">Free ANR Publications</a></li> 
+          <li><a href="http://californiaagriculture.ucanr.edu/">California Agriculture Journal</a></li> 
+          <li><a href="http://ucanr.edu/anr-report/">ANR Report</a></li> 
+         </ul> </li> 
+        <li class="submenu"><a href="http://ucanr.edu/ANR_Offices">Offices</a> 
+         <ul class="level2"> 
+          <li><a href="http://ucanr.edu/County_Offices">County offices</a></li> 
+          <li><a href="http://ucanr.edu/ANR_Offices/Administration">Administration</a></li> 
+          <li><a href="http://ucanr.edu/ANR_Offices/Statewide_Programs_228">Statewide programs</a></li> 
+          <li><a href="http://danrrec.ucdavis.edu">Research and Extension Centers</a></li> 
+          <li><a href="http://ucanr.edu/News">News</a></li> 
+          <li><a href="http://ucanr.edu/ANR_Offices/Campus_Resources_144">Campus Resources</a></li> 
+          <li><a href="http://www.cnr.berkeley.edu/site/index.php">UC Berkeley College of Natural Resources</a></li> 
+          <li><a href="http://caes.ucdavis.edu">UC Davis College of Agricultural &amp; Environmental Sciences</a></li> 
+          <li><a href="http://www.vetmed.ucdavis.edu/">UC Davis School of Veterinary Medicine</a></li> 
+          <li><a href="http://cnas.ucr.edu/">UC Riverside College of Natural &amp; Agricultural Sciences</a></li> 
+          <li><a href="http://universityofcalifornia.edu/">UC system</a></li> 
+         </ul> </li> 
+        <li class="submenu"><a href="http://ucanr.edu/4-H">4-H</a> 
+         <ul class="level2"> 
+          <li><a href="http://www.ca4h.org/">California 4-H Youth Development Program</a></li> 
+          <li><a href="http://www.ca4h.org/Administration/Policies/">4-H policy handbook</a></li> 
+         </ul> </li> 
+        <li class="submenu"><a href="http://ucanr.edu/Food_-_nutrition">Food</a> 
+         <ul class="level2"> 
+          <li><a href="http://ccr.ucdavis.edu/">Center for Consumer Research</a></li> 
+          <li><a href="http://www.cnr.berkeley.edu/cwh/">Center for Weight and Health</a></li> 
+          <li><a href="http://foodsafe.ucdavis.edu/">FoodSafe Program</a></li> 
+          <li><a href="http://food2025.ucanr.edu/">Global Food Systems Forum</a></li> 
+          <li><a href="http://nutrition.ucdavis.edu/perspectives/">Nutrition Perspectives Newsletter</a></li> 
+          <li><a href="http://nutrition.ucdavis.edu/briefs/">Maternal and Infant Nutrition</a></li> 
+          <li><a href="http://seafood.ucdavis.edu/">Seafood Network Information Center</a></li> 
+          <li><a href="http://ucanr.edu/blogs/food/">UC Food Blog</a></li> 
+         </ul> </li> 
+        <li class="submenu"><a href="http://ucanr.edu/Farming">Farm</a> 
+         <ul class="level2"> 
+          <li><a href="http://aic.ucdavis.edu/">Agricultural Issues Center</a></li> 
+          <li><a href="http://agric.ucdavis.edu/">Agronomy Research and Information Center</a></li> 
+          <li><a href="http://fpms.ucdavis.edu/">Foundation Plant Services</a></li> 
+          <li><a href="http://fruitsandnuts.ucdavis.edu/">Fruit and Nut Research and Information Center</a></li> 
+          <li><a href="http://kare.ucanr.edu">Kearney Agricultural Research and Extension Center</a></li> 
+          <li><a href="http://postharvest.ucdavis.edu/">Postharvest Technology Research and Information Center</a></li> 
+          <li><a href="http://sbc.ucdavis.edu/">Seed Biotechnology Center</a></li> 
+          <li><a href="http://sfp.ucdavis.edu/">Small farm program</a></li> 
+          <li><a href="http://www.ipm.ucdavis.edu/PMG/crops-agriculture.html">Statewide IPM Project pest management guidelines</a></li> 
+          <li><a href="http://www.sarep.ucdavis.edu/">Sustainable Agriculture Research and Education Program</a></li> 
+          <li><a href="http://vric.ucdavis.edu/">Vegetable Research and Information Center</a></li> 
+         </ul> </li> 
+        <li class="submenu"><a href="http://ucanr.edu/Gardening">Garden</a> 
+         <ul class="level2"> 
+          <li><a href="http://anrcatalog.ucdavis.edu/LawnGarden/">ANR Gardening Publications</a></li> 
+          <li><a href="http://homeorchard.ucdavis.edu/">California Backyard Orchard</a></li> 
+          <li><a href="http://cagardenweb.ucdavis.edu/">California Gardening</a></li> 
+          <li><a href="http://camastergardeners.ucdavis.edu/">California Master Gardeners</a></li> 
+          <li><a href="http://fruitsandnuts.ucdavis.edu/">Fruits and Nuts Research and Information Center</a></li> 
+          <li><a href="http://ohric.ucdavis.edu/">Ornamental Horticulture Research and Information Center</a></li> 
+          <li><a href="http://www.ipm.ucdavis.edu/PMG/selectnewpest.home.html">Pest Notes</a></li> 
+         </ul> </li> 
+        <li class="submenu"><a href="http://ucanr.edu/Family">Family</a> 
+         <ul class="level2"> 
+          <li><a href="http://ucanr.edu/sites/YFC/">Youth, Family and Communities Statewide Program</a></li> 
+          <li><a href="http://www.moneytalks4teens.org/">Money Talks</a></li> 
+          <li><a href="http://www.danrpeoplelinks.ucr.edu/nb3/nb3.html">Lifeskills newsletter</a></li> 
+          <li><a href="http://www.danrpeoplelinks.ucr.edu/">ANR 'PeopleLinks'</a></li> 
+         </ul> </li> 
+        <li class="submenu"><a href="http://ucanr.edu/Environment">Environment</a> 
+         <ul class="level2"> 
+          <li><a href="http://ciwr.ucanr.edu/">California Institute for Water Resources</a></li> 
+          <li><a href="http://californiarangeland.ucdavis.edu">California Rangeland Research and Information Center</a></li> 
+          <li><a href="http://forestry.berkeley.edu/">Center for Forestry</a></li> 
+          <li><a href="http://ucanr.edu/sites/hopland">Hopland Research and Extension Center</a></li> 
+          <li><a href="http://ucanr.edu/sites/rrea">Renewable Resources Extension Act</a></li> 
+          <li><a href="http://ucanr.edu/sites/sfrec">Sierra Foothill Research and Extension Center</a></li> 
+          <li><a href="http://www.suddenoakdeath.org/">Sudden Oak Death</a></li> 
+          <li><a href="http://ucanr.edu/blogs/Green/">UC Green Blog</a></li> 
+         </ul> </li> 
+        <li class="submenu"><a href="http://ucanr.edu/Find_People">People</a> 
+         <ul class="level2"> 
+          <li><a href="http://ucanr.edu/Find_People/Academic_Directory">Academic Directory</a></li> 
+          <li><a href="http://ucanr.edu/Find_People/People_Search">People Search</a></li> 
+         </ul> </li> 
+        <li class="submenu"><a href="http://ucanr.edu/jobs">Jobs</a> </li> 
+        <li class="submenu"><a href="http://ucanr.edu/sites/Spanish/">Espa&ntilde;ol</a> </li> 
+        <li class="submenu" style="border-right:0"><a href="http://ucanr.edu/sites/100years/">Centennial</a> </li> 
+       </ul> 
+       <div style="clear:left"></div> 
+      </div>
+      <!--/.nav-collapse --> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="container"> 
+    <div class="hidden-phone"> 
+     <div id="header1"> 
+      <div class="topbar topbar-nonphone"> 
+       <div class="topitems topitems-nonphone"> 
+        <a class="btn topitem topbutton-share" href="?sharebar=share"> <i class="icon-thumbs-up icon-white"></i> <span>Share</span> </a> 
+        <a class="btn topitem topbutton-email" href="?sharebar=email"> <i class="icon-envelope icon-white"></i> <span>Email</span> </a> 
+        <a class="topitem btn" href="#" onclick="window.print();"> <i class="icon-print icon-white"></i> <span>Print</span> </a> 
+        <a href="?sitemap=yes" class="topitem btn sitemaplink"> <i class="icon-list icon-white"></i> <span>Site Map</span> </a> 
+        <form method="post" action="?search=yes" name="myform" class="form-inline searchform searchform-nonphone topitem"> 
+         <label style="display:inline;"><span style="display:none">Enter Search Terms</span> <input type="text" name="searchterm" placeholder="Enter Search Terms" class="search" value="" /> </label> 
+         <input type="image" name="submit" value="Go" src="http://ucanr.edu/sb3/display/images/searchreversed2.png" style="margin-top:0px; margin-left: 1px" alt="Search" title="Search" /> 
+        </form> 
+       </div>
+       <!-- /.topitems --> 
+       <div class="topdrops"> 
+        <div class="topdrop topdrop-nonphone topdrop-email" style="display:none"> 
+         <div class="topdropclose">
+          <a href="?">x</a>
+         </div> 
+         <form name="emailpage" action="?sharebar=emailaction" method="post" class="sharing-email-form"> 
+          <div class="control-group"> 
+           <label class="control-label" for="sendermail">Sender:</label> 
+           <div class="controls"> 
+            <input class="text" type="text" name="sendermail" id="sendermail" value="" /> 
+           </div> 
+          </div> 
+          <div class="control-group"> 
+           <label class="control-label" for="recipientmail">Recipient:</label> 
+           <div class="controls"> 
+            <input class="text" type="text" id="recipientmail" name="recipientmail" value="" required="" /> 
+           </div> 
+          </div> 
+          <div class="control-group"> 
+           <label class="control-label" for="messagemail">Message:</label> 
+           <div class="controls"> 
+            <textarea class="text" rows="10" id="messagemail" readonly="">Hi,
+I thought you might be interested in this page from Agriculture and Natural Resources - University of California.
+
+Here's the link: http://ucanr.edu/</textarea> 
+            <span style="display:none" title="This input is to deter SPAM. Please leave blank."> <label for="sendername" title="This input is to deter SPAM. Please leave blank.">Name:</label> <input type="text" id="sendername" name="sendername" value="" title="This input is to deter SPAM. Please leave blank." /> </span> 
+           </div> 
+          </div> 
+          <div class="help-block">
+           Security Code: CJFFZY 
+          </div> 
+          <div class="control-group"> 
+           <label class="control-label" for="code">Enter Code:</label> 
+           <div class="controls"> 
+            <input name="captcha" id="code" type="text" required="" /> 
+            <input name="capcha" type="hidden" /> 
+            <input name="authcode" value=" MzQyNDkyNjk6MzY3ODU4NTksNDQ4OTc5NDUyLDAzLzExLzIwMTQgMTU6NTE6NDMsYWJiYWJhYmFiYWJhYmE=" type="hidden" /> 
+           </div> 
+          </div> 
+          <div class="control-group"> 
+           <div class="controls"> 
+            <input type="submit" name="submitmail" value="Send Email" class="btn" /> 
+           </div> 
+          </div> 
+         </form> 
+        </div> 
+        <div class="topdrop topdrop-nonphone topdrop-share" style="display:none"> 
+         <div class="topdropclose">
+          <a href="?">x</a>
+         </div> 
+         <ul class="share"> 
+          <li> <a href="?shareWith=facebook&amp;newurlfinal=http%3A%2F%2Fucanr%2Eedu%2F%3F&amp;newdescfinal=UC%20Cooperative%20Extension%20%7C%20Agricultural%20Experiment%20Station%20%2D%20Agriculture%20and%20Natural%20Resources%20%2D%20University%20of%20California" target="_blank"> <img src="http://ucanr.edu/sb3/display/images/facebook.gif" height="16" width="16" alt="Facebook Icon" /> Facebook </a> </li> 
+          <li> <a href="?shareWith=twitter&amp;newurlfinal=http%3A%2F%2Fucanr%2Eedu%2F%3F&amp;newdescfinal=UC%20Cooperative%20Extension%20%7C%20Agricultural%20Experiment%20Station%20%2D%20Agriculture%20and%20Natural%20Resources%20%2D%20University%20of%20California" target="_blank"> <img src="http://ucanr.edu/sb3/display/images/twitter.gif" height="16" width="16" alt="Twitter Icon" /> Twitter</a> </li> 
+          <li> <a href="?shareWith=google&amp;newurlfinal=http%3A%2F%2Fucanr%2Eedu%2F%3F&amp;newdescfinal=UC%20Cooperative%20Extension%20%7C%20Agricultural%20Experiment%20Station%20%2D%20Agriculture%20and%20Natural%20Resources%20%2D%20University%20of%20California" target="_blank"> <img src="http://ucanr.edu/sb3/display/images/googleplus.gif" height="16" width="16" alt="Google Icon" /> Google Plus</a> </li> 
+          <li> <a href="?shareWith=reddit&amp;newurlfinal=http%3A%2F%2Fucanr%2Eedu%2F%3F&amp;newdescfinal=UC%20Cooperative%20Extension%20%7C%20Agricultural%20Experiment%20Station%20%2D%20Agriculture%20and%20Natural%20Resources%20%2D%20University%20of%20California" target="_blank"> <img src="http://ucanr.edu/sb3/display/images/reddit.gif" height="16" width="16" alt="Reddit Icon" /> Reddit</a> </li> 
+          <li> <a href="?shareWith=delicious&amp;newurlfinal=http%3A%2F%2Fucanr%2Eedu%2F%3F&amp;newdescfinal=UC%20Cooperative%20Extension%20%7C%20Agricultural%20Experiment%20Station%20%2D%20Agriculture%20and%20Natural%20Resources%20%2D%20University%20of%20California" target="_blank"> <img src="http://ucanr.edu/sb3/display/images/delicious.gif" height="16" width="16" alt="Delicious Icon" /> Delicious</a> </li> 
+          <li> <a href="?shareWith=linkedin&amp;newurlfinal=http%3A%2F%2Fucanr%2Eedu%2F%3F&amp;newdescfinal=UC%20Cooperative%20Extension%20%7C%20Agricultural%20Experiment%20Station%20%2D%20Agriculture%20and%20Natural%20Resources%20%2D%20University%20of%20California" target="_blank"> <img src="http://ucanr.edu/sb3/display/images/linkedin.gif" height="16" width="16" alt="LinkedIn Icon" /> LinkedIn</a> </li> 
+          <li> <a href="?shareWith=stumbleupon&amp;newurlfinal=http%3A%2F%2Fucanr%2Eedu%2F%3F&amp;newdescfinal=UC%20Cooperative%20Extension%20%7C%20Agricultural%20Experiment%20Station%20%2D%20Agriculture%20and%20Natural%20Resources%20%2D%20University%20of%20California" target="_blank"> <img src="http://ucanr.edu/sb3/display/images/stumbleupon.gif" height="16" width="16" alt="StumbleUpon Icon" /> StumbleUpon</a> </li> 
+         </ul> 
+        </div> 
+       </div>
+       <!-- /.topdrops --> 
+      </div> 
+      <div class="ucseal_big">
+       <img src="http://ucanr.edu/sb3/display/images/seal_straight.png" />
+      </div> 
+      <div class="headtext"> 
+       <a href="http://ucanr.edu" title="Return to Home Page"> 
+        <div class="headtext2"> 
+         <div class="visible-desktop">
+          University 
+          <span>of</span> California
+         </div> 
+         <div class="hidden-desktop">
+          University
+          <span> of</span> California
+         </div> 
+        </div> 
+        <div class="headtext1">
+         Division of Agriculture and Natural Resources
+        </div> </a> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="headerpic"> 
+     <img src="http://ucanr.edu/sb3/display/photos/45.jpg" alt="Division of Agriculture and Natural Resources" /> 
+     <div class="centennial_3" onclick="window.location = 'http://ucanr.edu/sites/100years';" style="cursor:pointer" title="Visit Centennial Website"></div> 
+    </div> 
+    <div id="navigation_top" class="hidden-phone"> 
+     <ul class="level1"> 
+      <li class="submenu" style="border-left:0"><a href="http://ucanr.edu">Home</a> </li> 
+      <li class="submenu"><a href="http://ucanr.edu/About_ANR">About us</a> 
+       <ul class="level2"> 
+        <li><a href="http://ucanr.edu/About_ANR/What_is_ANR">What is ANR?</a></li> 
+        <li><a href="http://ucanr.edu/About_ANR/Strategic_Vision">Strategic Vision</a></li> 
+        <li><a href="http://ucanr.edu/Diversity_Matters">Diversity Matters</a></li> 
+        <li><a href="http://ucanr.edu/Development_services/Development_services_396">Giving to ANR</a></li> 
+        <li><a href="http://ucanr.edu/Development_services/Retiree_relations">Retiree relations</a></li> 
+        <li><a href="http://ucanr.edu/sites/anrstaff">For ANR Employees</a></li> 
+        <li><a href="http://ucanr.edu/Social_Networking">Social networking</a></li> 
+        <li><a href="http://ucanr.edu/Comments_and_questions">Comments and questions</a></li> 
+       </ul> </li> 
+      <li class="submenu"><a href="http://ucanr.edu/Publications_524">Publications</a> 
+       <ul class="level2"> 
+        <li><a href="http://anrcatalog.ucdavis.edu/">ANR Catalog</a></li> 
+        <li><a href="https://ucanr.edu/freepubs/">Free ANR Publications</a></li> 
+        <li><a href="http://californiaagriculture.ucanr.edu/">California Agriculture Journal</a></li> 
+        <li><a href="http://ucanr.edu/anr-report/">ANR Report</a></li> 
+       </ul> </li> 
+      <li class="submenu"><a href="http://ucanr.edu/ANR_Offices">Offices</a> 
+       <ul class="level2"> 
+        <li><a href="http://ucanr.edu/County_Offices">County offices</a></li> 
+        <li><a href="http://ucanr.edu/ANR_Offices/Administration">Administration</a></li> 
+        <li><a href="http://ucanr.edu/ANR_Offices/Statewide_Programs_228">Statewide programs</a></li> 
+        <li><a href="http://danrrec.ucdavis.edu">Research and Extension Centers</a></li> 
+        <li><a href="http://ucanr.edu/News">News</a></li> 
+        <li><a href="http://ucanr.edu/ANR_Offices/Campus_Resources_144">Campus Resources</a></li> 
+        <li><a href="http://www.cnr.berkeley.edu/site/index.php">UC Berkeley College of Natural Resources</a></li> 
+        <li><a href="http://caes.ucdavis.edu">UC Davis College of Agricultural &amp; Environmental Sciences</a></li> 
+        <li><a href="http://www.vetmed.ucdavis.edu/">UC Davis School of Veterinary Medicine</a></li> 
+        <li><a href="http://cnas.ucr.edu/">UC Riverside College of Natural &amp; Agricultural Sciences</a></li> 
+        <li><a href="http://universityofcalifornia.edu/">UC system</a></li> 
+       </ul> </li> 
+      <li class="submenu"><a href="http://ucanr.edu/4-H">4-H</a> 
+       <ul class="level2"> 
+        <li><a href="http://www.ca4h.org/">California 4-H Youth Development Program</a></li> 
+        <li><a href="http://www.ca4h.org/Administration/Policies/">4-H policy handbook</a></li> 
+       </ul> </li> 
+      <li class="submenu"><a href="http://ucanr.edu/Food_-_nutrition">Food</a> 
+       <ul class="level2"> 
+        <li><a href="http://ccr.ucdavis.edu/">Center for Consumer Research</a></li> 
+        <li><a href="http://www.cnr.berkeley.edu/cwh/">Center for Weight and Health</a></li> 
+        <li><a href="http://foodsafe.ucdavis.edu/">FoodSafe Program</a></li> 
+        <li><a href="http://food2025.ucanr.edu/">Global Food Systems Forum</a></li> 
+        <li><a href="http://nutrition.ucdavis.edu/perspectives/">Nutrition Perspectives Newsletter</a></li> 
+        <li><a href="http://nutrition.ucdavis.edu/briefs/">Maternal and Infant Nutrition</a></li> 
+        <li><a href="http://seafood.ucdavis.edu/">Seafood Network Information Center</a></li> 
+        <li><a href="http://ucanr.edu/blogs/food/">UC Food Blog</a></li> 
+       </ul> </li> 
+      <li class="submenu"><a href="http://ucanr.edu/Farming">Farm</a> 
+       <ul class="level2"> 
+        <li><a href="http://aic.ucdavis.edu/">Agricultural Issues Center</a></li> 
+        <li><a href="http://agric.ucdavis.edu/">Agronomy Research and Information Center</a></li> 
+        <li><a href="http://fpms.ucdavis.edu/">Foundation Plant Services</a></li> 
+        <li><a href="http://fruitsandnuts.ucdavis.edu/">Fruit and Nut Research and Information Center</a></li> 
+        <li><a href="http://kare.ucanr.edu">Kearney Agricultural Research and Extension Center</a></li> 
+        <li><a href="http://postharvest.ucdavis.edu/">Postharvest Technology Research and Information Center</a></li> 
+        <li><a href="http://sbc.ucdavis.edu/">Seed Biotechnology Center</a></li> 
+        <li><a href="http://sfp.ucdavis.edu/">Small farm program</a></li> 
+        <li><a href="http://www.ipm.ucdavis.edu/PMG/crops-agriculture.html">Statewide IPM Project pest management guidelines</a></li> 
+        <li><a href="http://www.sarep.ucdavis.edu/">Sustainable Agriculture Research and Education Program</a></li> 
+        <li><a href="http://vric.ucdavis.edu/">Vegetable Research and Information Center</a></li> 
+       </ul> </li> 
+      <li class="submenu"><a href="http://ucanr.edu/Gardening">Garden</a> 
+       <ul class="level2"> 
+        <li><a href="http://anrcatalog.ucdavis.edu/LawnGarden/">ANR Gardening Publications</a></li> 
+        <li><a href="http://homeorchard.ucdavis.edu/">California Backyard Orchard</a></li> 
+        <li><a href="http://cagardenweb.ucdavis.edu/">California Gardening</a></li> 
+        <li><a href="http://camastergardeners.ucdavis.edu/">California Master Gardeners</a></li> 
+        <li><a href="http://fruitsandnuts.ucdavis.edu/">Fruits and Nuts Research and Information Center</a></li> 
+        <li><a href="http://ohric.ucdavis.edu/">Ornamental Horticulture Research and Information Center</a></li> 
+        <li><a href="http://www.ipm.ucdavis.edu/PMG/selectnewpest.home.html">Pest Notes</a></li> 
+       </ul> </li> 
+      <li class="submenu"><a href="http://ucanr.edu/Family">Family</a> 
+       <ul class="level2"> 
+        <li><a href="http://ucanr.edu/sites/YFC/">Youth, Family and Communities Statewide Program</a></li> 
+        <li><a href="http://www.moneytalks4teens.org/">Money Talks</a></li> 
+        <li><a href="http://www.danrpeoplelinks.ucr.edu/nb3/nb3.html">Lifeskills newsletter</a></li> 
+        <li><a href="http://www.danrpeoplelinks.ucr.edu/">ANR 'PeopleLinks'</a></li> 
+       </ul> </li> 
+      <li class="submenu"><a href="http://ucanr.edu/Environment">Environment</a> 
+       <ul class="level2"> 
+        <li><a href="http://ciwr.ucanr.edu/">California Institute for Water Resources</a></li> 
+        <li><a href="http://californiarangeland.ucdavis.edu">California Rangeland Research and Information Center</a></li> 
+        <li><a href="http://forestry.berkeley.edu/">Center for Forestry</a></li> 
+        <li><a href="http://ucanr.edu/sites/hopland">Hopland Research and Extension Center</a></li> 
+        <li><a href="http://ucanr.edu/sites/rrea">Renewable Resources Extension Act</a></li> 
+        <li><a href="http://ucanr.edu/sites/sfrec">Sierra Foothill Research and Extension Center</a></li> 
+        <li><a href="http://www.suddenoakdeath.org/">Sudden Oak Death</a></li> 
+        <li><a href="http://ucanr.edu/blogs/Green/">UC Green Blog</a></li> 
+       </ul> </li> 
+      <li class="submenu"><a href="http://ucanr.edu/Find_People">People</a> 
+       <ul class="level2"> 
+        <li><a href="http://ucanr.edu/Find_People/Academic_Directory">Academic Directory</a></li> 
+        <li><a href="http://ucanr.edu/Find_People/People_Search">People Search</a></li> 
+       </ul> </li> 
+      <li class="submenu"><a href="http://ucanr.edu/jobs">Jobs</a> </li> 
+      <li class="submenu"><a href="http://ucanr.edu/sites/Spanish/">Espa&ntilde;ol</a> </li> 
+      <li class="submenu" style="border-right:0"><a href="http://ucanr.edu/sites/100years/">Centennial</a> </li> 
+     </ul> 
+     <div style="clear:left"></div> 
+    </div> 
+    <div id="siteinfo"> 
+     <div style="width:95%;padding: 10px;margin:10px;border: thin solid gainsboro;"> 
+      <div>
+       <strong>University of California</strong>
+      </div> 
+      <div>
+       <strong>Division of Agriculture and Natural Resources</strong>
+      </div> 
+     </div> 
+    </div> 
+    <div class="main"> 
+     <div class="row-fluid"> 
+      <div class="span12 content-block"> 
+       <a id="content"></a> 
+       <h1 class="h1-full">UC Cooperative Extension | Agricultural Experiment Station</h1> 
+       <div id="pagecontent" class="row-fluid"> 
+        <div class="pagefull span12"> 
+         <div> 
+          <div class="sbwell-full sbwell-blue"> 
+           <div style="background: url('http://ucanr.edu/sites/testsb3/files/184103.png') left center no-repeat; margin: -15px 0 -15px 0; padding: 15px 15px 15px 65px;">
+            <strong>The California drought: Information from around UC -&nbsp;</strong>
+            <a href="http://ciwr.ucanr.edu/California_Drought_Expertise/">California Institute for Water Resources</a>
+           </div> 
+          </div> 
+          <div style="clear:both"></div> 
+         </div> 
+        </div> 
+        <div class="pageleft span9"> 
+         <div id="blogroll"> 
+          <div class="blogroll_block" style="margin-left:8.5px"> 
+           <a href="?blogpost=13097&amp;blogasset=60503"> <img src="http://ucanr.edu/blogs/ANRnewsreleases/blogfiles/21050_blogroll.jpg" class="blog_photo" alt="Barbara Allen-Diaz, left, and Janet Napolitano. for ANR news releases Blog" title="Barbara Allen-Diaz, left, and Janet Napolitano. for ANR news releases Blog" /> </a> 
+           <div class="blogroll_posttitle" style="padding-top:5px;font-size:10px;line-height:130%">
+            <a href="?blogpost=13097&amp;blogasset=60503" style="text-decoration:none">UC president announces change in agriculture division</a>
+           </div> 
+           <div class="blogroll_blogtitle">
+            <a href="?blogpost=13097&amp;blogasset=60503" style="text-decoration:none">March 11, 2014</a>
+           </div> 
+           <br /> 
+          </div> 
+          <div class="blogroll_block" style="margin-left:8.5px"> 
+           <a href="?blogpost=13043&amp;blogasset=60503"> <img src="http://ucanr.edu/blogs/ANRnewsreleases/blogfiles/20936_blogroll.jpg" class="blog_photo" alt="After rain fall, turn off your automatic sprinklers to conserve water. for ANR news releases Blog" title="After rain fall, turn off your automatic sprinklers to conserve water. for ANR news releases Blog" /> </a> 
+           <div class="blogroll_posttitle" style="padding-top:5px;font-size:10px;line-height:130%">
+            <a href="?blogpost=13043&amp;blogasset=60503" style="text-decoration:none">Conserve water with proven landscape irrigation strategies</a>
+           </div> 
+           <div class="blogroll_blogtitle">
+            <a href="?blogpost=13043&amp;blogasset=60503" style="text-decoration:none">March 6, 2014</a>
+           </div> 
+           <br /> 
+          </div> 
+          <div class="blogroll_block" style="margin-left:8.5px"> 
+           <a href="?blogpost=13048&amp;blogasset=60503"> <img src="http://ucanr.edu/blogs/ANRnewsreleases/blogfiles/20969_blogroll.jpg" class="blog_photo" alt="Turn sprinklers off after rainfall. for ANR news releases Blog" title="Turn sprinklers off after rainfall. for ANR news releases Blog" /> </a> 
+           <div class="blogroll_posttitle" style="padding-top:5px;font-size:10px;line-height:130%">
+            <a href="?blogpost=13048&amp;blogasset=60503" style="text-decoration:none">Rain means no need to water outdoors for weeks</a>
+           </div> 
+           <div class="blogroll_blogtitle">
+            <a href="?blogpost=13048&amp;blogasset=60503" style="text-decoration:none">March 6, 2014</a>
+           </div> 
+           <br /> 
+          </div> 
+          <div style="clear:left;"></div> 
+         </div> 
+         <div class="blogbox"> 
+          <a href="?blogasset=60503&amp;start=4">Show More</a> 
+         </div> 
+         <div id="blogroll"> 
+          <div class="blogroll_block" style="margin-left:8.5px"> 
+           <a href="?blogpost=13087&amp;blogasset=52096"> <img src="http://ucanr.edu/blogs/food/blogfiles/21036_blogroll.jpg" class="blog_photo" alt="Hilgard Hall at UC Berkeley was the first UC experiment station. for Food Blog Blog" title="Hilgard Hall at UC Berkeley was the first UC experiment station. for Food Blog Blog" /> </a> 
+           <div class="blogroll_posttitle" style="padding-top:5px;font-size:10px;line-height:130%">
+            <a href="?blogpost=13087&amp;blogasset=52096" style="text-decoration:none">Hail to Hilgard</a>
+           </div> 
+           <div class="blogroll_blogtitle">
+            <a href="?blogpost=13087&amp;blogasset=52096" style="text-decoration:none">Food Blog</a>
+           </div> 
+           <br /> 
+          </div> 
+          <div class="blogroll_block" style="margin-left:8.5px"> 
+           <a href="http://ucanr.edu/blogs/blogcore/postdetail.cfm?postnum=13076"> <img src="http://ucanr.edu/blogs/Alfalfa/blogfiles/21016_blogroll.jpg" class="blog_photo" alt="MikePhoto1 for Alfalfa &amp; Forage News Blog" title="MikePhoto1 for Alfalfa &amp; Forage News Blog" /> </a> 
+           <div class="blogroll_posttitle" style="padding-top:5px;font-size:10px;line-height:130%">
+            <a href="http://ucanr.edu/blogs/blogcore/postdetail.cfm?postnum=13076" style="text-decoration:none">Yellowing of alfalfa leaves in the springtime - Do you know what this is?</a>
+           </div> 
+           <div class="blogroll_blogtitle">
+            <a href="http://ucanr.edu/blogs/blogcore/postdetail.cfm?postnum=13076" style="text-decoration:none">Alfalfa &amp; Forage News</a>
+           </div> 
+           <br /> 
+          </div> 
+          <div class="blogroll_block" style="margin-left:8.5px"> 
+           <a href="http://ucanr.edu/blogs/blogcore/postdetail.cfm?postnum=13083"> <img src="http://ucanr.edu/blogs/Alfalfa/blogfiles/21021_blogroll.jpg" class="blog_photo" alt="Alfalfa stem infested with Blue Alfalfa Aphid for Alfalfa &amp; Forage News Blog" title="Alfalfa stem infested with Blue Alfalfa Aphid for Alfalfa &amp; Forage News Blog" /> </a> 
+           <div class="blogroll_posttitle" style="padding-top:5px;font-size:10px;line-height:130%">
+            <a href="http://ucanr.edu/blogs/blogcore/postdetail.cfm?postnum=13083" style="text-decoration:none">Blue Alfalfa Aphid Update – March 2014</a>
+           </div> 
+           <div class="blogroll_blogtitle">
+            <a href="http://ucanr.edu/blogs/blogcore/postdetail.cfm?postnum=13083" style="text-decoration:none">Alfalfa &amp; Forage News</a>
+           </div> 
+           <br /> 
+          </div> 
+          <div style="clear:left;"></div> 
+         </div> 
+         <div class="blogbox"> 
+          <a href="?blogasset=52096&amp;start=4">Show More</a> 
+         </div> 
+         <h2> UC DELIVERS </h2> 
+         <div class="spotlightstory"> 
+          <div class="spotpic" style="width:175px"> 
+           <img src="/CFFileServlet/_cf_image/_cfimg4077829881250532102.PNG" alt="4-H Bloco Drum and Dance: An after-school program for teens" class="none" /> 
+          </div> 
+          <div class="spottext">
+            California studies show that many teens are overweight due to poor eating habits and too little exercise. California also faces the additional challenge of having a very high number of juveniles in custody, constituting 25 percent of the national total. Building a program that enables teens to interact in a positive environment can make a difference in their health and lives. 
+           <p><a href="?impact=712&amp;a=52104">Read about: 4-H Bloco Drum and Dance: An after-school program for teens</a> | <a href="http://ucanr.edu/delivers">View Other Stories</a></p> 
+          </div> 
+          <div class="clearspot"></div> 
+         </div> 
+         <h2>ESPA&Ntilde;OL</h2> 
+         <div id="blogroll"> 
+          <div class="blogroll_block" style="margin-left:8.5px"> 
+           <a href="?blogpost=13025&amp;blogasset=52102"> <img src="http://ucanr.edu/blogs/alimentos/blogfiles/20906_blogroll.jpg" class="blog_photo" alt="La frase “sin sal agregada” en la etiqueta de los productos es una buena se&ntilde;al. for Blog de Alimentos Blog" title="La frase “sin sal agregada” en la etiqueta de los productos es una buena se&ntilde;al. for Blog de Alimentos Blog" /> </a> 
+           <div class="blogroll_posttitle" style="padding-top:5px;font-size:10px;line-height:130%">
+            <a href="?blogpost=13025&amp;blogasset=52102" style="text-decoration:none">&iquest;Esta listo para el Mes Nacional de la Nutrici&oacute;n?</a>
+           </div> 
+           <div class="blogroll_blogtitle">
+            <a href="?blogpost=13025&amp;blogasset=52102" style="text-decoration:none">March 4, 2014</a>
+           </div> 
+           <br /> 
+          </div> 
+          <div class="blogroll_block" style="margin-left:8.5px"> 
+           <a href="?blogpost=12942&amp;blogasset=52102"> <img src="http://ucanr.edu/blogs/alimentos/blogfiles/20726_blogroll.jpg" class="blog_photo" alt="Una visitante pedalea la bicicleta de batidos del programa 4-H. for Blog de Alimentos Blog" title="Una visitante pedalea la bicicleta de batidos del programa 4-H. for Blog de Alimentos Blog" /> </a> 
+           <div class="blogroll_posttitle" style="padding-top:5px;font-size:10px;line-height:130%">
+            <a href="?blogpost=12942&amp;blogasset=52102" style="text-decoration:none">!Pedalee y haga un batido a la vez para tener una vida saludable!</a>
+           </div> 
+           <div class="blogroll_blogtitle">
+            <a href="?blogpost=12942&amp;blogasset=52102" style="text-decoration:none">February 21, 2014</a>
+           </div> 
+           <br /> 
+          </div> 
+          <div class="blogroll_block" style="margin-left:8.5px"> 
+           <a href="?blogpost=12822&amp;blogasset=52102"> <img src="http://ucanr.edu/blogs/alimentos/blogfiles/20507_blogroll.jpg" class="blog_photo" alt="Un hermoso huerto comestible. for Blog de Alimentos Blog" title="Un hermoso huerto comestible. for Blog de Alimentos Blog" /> </a> 
+           <div class="blogroll_posttitle" style="padding-top:5px;font-size:10px;line-height:130%">
+            <a href="?blogpost=12822&amp;blogasset=52102" style="text-decoration:none">Tres actividades de invierno para una buena cosecha en el verano</a>
+           </div> 
+           <div class="blogroll_blogtitle">
+            <a href="?blogpost=12822&amp;blogasset=52102" style="text-decoration:none">February 6, 2014</a>
+           </div> 
+           <br /> 
+          </div> 
+          <div style="clear:left;"></div> 
+         </div> 
+         <div class="blogbox"> 
+          <a href="?blogasset=52102&amp;start=3">Show More</a> 
+         </div> 
+        </div> 
+        <div class="pageright span3"> 
+         <div> 
+          <h2>UCCE Centennial</h2> 
+          <p></p>
+          <div class="fr fr-200">
+           <a href="http://ucanr.edu/sites/100years/"><img src="http://ucanr.edu/files/183153display.png" border="0" alt="service button" title="service button" /></a>
+          </div>
+          <a href="http://ucanr.edu/sites/100years/">Learn to be a citizen scientist</a>
+          <p></p> 
+          <p></p>
+          <div style="max-width:220px; max-height:100px; padding-bottom: 25px;">
+           <div class="videoWrapper" style="padding-bottom:45.4545454545%;">
+            <iframe src="//www.youtube.com/embed/2ixybxceaNA?rel=0&amp;controls=0" width="220" height="100" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+           </div>
+          </div>
+          <p></p> 
+          <div style="clear:both"></div> 
+         </div> 
+         <div class="smallucseal"> 
+          <a href="http://donate.ucanr.edu" class="DonateButton"> 
+           <div class="DonateButtonMain">
+             Make a Gift 
+           </div> 
+           <div class="DonateButtonCaption">
+            UCANR
+           </div> </a> 
+         </div> 
+         <div class="row-fluid row-header"> 
+          <div class="span7">
+           Event Name
+          </div> 
+          <div class="span5" style="text-align:right">
+           Date
+          </div> 
+         </div> 
+         <div class="row-fluid row-data"> 
+          <div class="span7">
+           <a href="?calitem=225645&amp;g=52107" class="caltitle">Library Talk (Moraga): Seasonal Vegetable Gardening Using a Bio-Intensive Approach</a>
+          </div> 
+          <div class="span5" style="text-align:right">
+           3/11/2014
+          </div> 
+         </div> 
+         <div class="row-fluid row-data"> 
+          <div class="span7">
+           <a href="?calitem=223311&amp;g=52107" class="caltitle">Green Gardener Training for Landscape Professionals</a>
+          </div> 
+          <div class="span5" style="text-align:right">
+           3/11/2014
+          </div> 
+         </div> 
+         <div class="row-fluid row-data"> 
+          <div class="span7">
+           <a href="?calitem=226459&amp;g=52107" class="caltitle">IPM Pesticide Safety Training: Train the Trainer</a>
+          </div> 
+          <div class="span5" style="text-align:right">
+           3/12/2014
+          </div> 
+         </div> 
+         <div class="row-fluid row-data"> 
+          <div class="span7">
+           <a href="?calitem=230856&amp;g=52107" class="caltitle">Grazing Ecology and Management Workshop</a>
+          </div> 
+          <div class="span5" style="text-align:right">
+           3/12/2014
+          </div> 
+         </div> 
+         <div class="row-fluid row-data"> 
+          <div class="span7">
+           <a href="?calitem=226523&amp;g=52107" class="caltitle">Backyard Chickens</a>
+          </div> 
+          <div class="span5" style="text-align:right">
+           3/12/2014
+          </div> 
+         </div> 
+         <div style="margin:5px 0 10px 0; text-align:right">
+          <a href="?calendar=yes">View More</a>
+         </div> 
+         <div> 
+          <h2>SOCIAL NETWORKING</h2> 
+          <div class="pull-left">
+           <div class="fr fr-100 fr-left">
+            <a href="http://twitter.com/ucanr"><img src="http://ucanr.edu/files/767display.png" border="0" alt="Follow us on Twitter" title="Follow us on Twitter" /></a>
+           </div>
+           <br />
+           <strong>Twitter</strong>
+          </div> 
+          <div class="pull-right">
+           <div class="fr fr-100 fr-left">
+            <a href="http://facebook.com/ucanr"><img src="http://ucanr.edu/files/766display.png" border="0" alt="Follow us on Facebook" title="Follow us on Facebook" /></a>
+           </div>
+           <br />
+           <strong>Facebook</strong>
+          </div> 
+          <div style="clear: both; text-align: center;">
+           <a href="http://ucanr.edu/Social_Networking/">See more links to UC ANR social networking sites.</a>
+          </div> 
+          <div style="clear:both"></div> 
+         </div> 
+        </div> 
+        <div class="clear"></div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div style="clear:both"></div> 
+   </div> 
+  </div> 
+  <div id="footer2"> 
+   <div class="footertext">
+    <div class="container">
+     <p style="text-align: center;"><span style="font-size: 110%;"><strong><a href="http://ucanr.edu/sites/tobaccofree/" target="_blank">UC ANR is Smoke &amp; Tobacco-Free as of January 1, 2014</a>&nbsp;</strong></span></p>
+    </div>
+   </div> 
+   <div class="container"> 
+    <div class="footer_uc"> 
+     <div class="footer_ucop">
+      University
+      <br />of
+      <br />California
+     </div> 
+     <div class="footer_ucanr">
+      <a href="http://ucanr.edu">Division of Agriculture<br />and<br />Natural Resources</a>
+     </div> 
+     <div style="clear:both"></div> 
+    </div> 
+    <div class="footerlinks"> 
+     <div class="footerlinks-left"> 
+      <a href="http://ucanr.edu/?showSiteInfo=true" class="footerlinks-bold">Site Information</a> 
+      <span class="visible-desktop"> <a href="http://get.adobe.com/reader/" title="Get PDF Reader (New Window)" target="_blank">Get PDF Reader</a> <a href="http://get.adobe.com/flashplayer/" title="Get Flash Player (New Window)" target="_blank" style="border-right:0;">Get Flash Player</a> </span> 
+     </div> 
+     <div class="footerlinks-right"> 
+      <a href="http://ucanr.edu/Copyright/">&copy; 2014 Regents of the University of California</a> 
+      <a href="http://ucanr.edu/sites/anrstaff/Diversity/Affirmative_Action/Resources/Policy-related_downloads/">Nondiscrimination Statement</a> 
+      <a href="http://ucanr.edu/Accessibility/" style="border-right:0;">Accessibility</a> 
+     </div> 
+     <div style="clear:both"></div> 
+    </div> 
+    <div style="clear:both"></div> 
+   </div> 
+  </div> 
+  <div class="hiddenmaster"> 
+   <div>
+    Webmaster Email: jewarnert@ucanr.edu
+   </div> 
+  </div>   
+ </body>
+</html><!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>Campus Emergency Status: Home</title> 
+  <meta http-equiv="last-modified" content="2010-05-27" /> 
+  <meta name="version" content="2.62 2.123 " /> 
+  <!-- 03/11/14 15:52:06 03/11/14 15:52:06 --> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/g=6bis-bluea-narrow" media="all" /> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/f=css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all" /> 
+  <link href="https://fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css" /> 
+  <script type="text/javascript" src="http://www.ucr.edu/min/g=js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-narrow6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://campusstatus.ucr.edu/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr /> 
+   <div id="brandingbar"> 
+    <h1><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="" /><span class="accessibility">University of California, Riverside</span></a></h1> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/images/masthead.gif);"> 
+   <h1><a href="http://campusstatus.ucr.edu/"><span class="printonly">Campus Emergency Status</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr /> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://ehs.ucr.edu/">Environmental Health &amp; Safety</a> &gt;</li> 
+    <li><a href="http://campusstatus.ucr.edu/">Campus Emergency Status</a> &gt;</li> 
+    <li class="lastitem">Home</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox" action="http://www.ucr.edu/search.php">
+     <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" size="18" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+    </form> 
+    <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+   </div> 
+   <hr /> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>Home</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li><a href="/" title="Home">Home</a></li>
+       <li class="nav_inline"><h3>Get information about...</h3>
+        <ul>
+         <li><a href="airquality.html" title="Air Quality">Air Quality</a></li>
+         <li>&nbsp;| <a href="earthquake.html" title="Earthquakes">Earthquakes</a></li>
+         <li>&nbsp;| <a href="fires.html" title="Fires">Fires</a></li>
+         <li>&nbsp;| <a href="campustraffic.html" title="Traffic">Traffic</a></li>
+         <li>&nbsp;| <a href="power_util_loss.html" title="Power &amp; Utility Loss">Power &amp; Utility Loss</a></li>
+         <li>&nbsp;| <a href="terrorism.html" title="Terrorism">Terrorism</a></li>
+         <li>&nbsp;| <a href="severeweather.html" title="Weather">Weather</a></li>
+        </ul></li>
+       <li class="nav_inline_last"><h3>Take Action</h3>
+        <ul>
+         <li><a href="http://www.ehs.ucr.edu/emergency/siren.html" title="Siren">Siren</a></li>
+         <li>&nbsp;| <a href="http://cnc.ucr.edu/ens/" title="Text messages">Text messages</a></li>
+         <li>&nbsp;| <a href="" title="(888) UCR-WARN">(888) UCR-WARN</a></li>
+         <li>&nbsp;| <a href="http://www.rspace.ucr.edu" title="R'Space">R'Space</a></li>
+         <li>&nbsp;| <a href="http://www.rweb.ucr.edu" title="R'Web">R'Web</a></li>
+         <li>&nbsp;| <a href="http://www.ehs.ucr.edu/emergency/procedures" title="Emergency Procedures">Emergency Procedures</a></li>
+         <li>&nbsp;| <a href="http://campusstatus.ucr.edu/voicemail.html" title="Voicemail">Voicemail</a></li>
+        </ul></li>
+       <li><a href="resources.html" title="Resources">Resources</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <hr /> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy.css" cssmenu="" width="790" --> 
+     <div class="header"> 
+      <!-- com.omniupdate.div label="title" group="Everyone" button="734" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="484" -->
+      <!-- /com.omniupdate.div -->
+     </div> 
+     <div id="omnicontent"> 
+      <p> </p> 
+      <!-- com.omniupdate.div label="maincontent" group="Everyone" button="657" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="484" -->
+      <h3>Voicemail (broadcast system)</h3> 
+      <p>Authorized individuals may send an emergency message to any campus phone. When the emergency message is active you may see a light indicating that a voicemail message is awaiting your response.</p> 
+      <p>Please note that during testing or large-scale use of the system:</p> 
+      <p style="padding-left: 30px;"><strong>Red light stays on</strong>. The red light may remain on, even after you have deleted the voicemail. Please disregard.</p> 
+      <p style="padding-left: 30px;"><strong>Delay</strong>. You may experience a delay in accessing the system if there many people are trying to access the system at the same time. Please hang up, wait a few moments, and then try again.</p> 
+      <p>These issues are temporary, and plans are in place for a resolution in the near future.</p>
+      <!-- /com.omniupdate.div -->
+     </div> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></li> 
+       <li><a href="http://my.ucr.edu/visit/Pages/default.aspx">Visit UCR</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <address><strong>Environmental Health &amp; Safety</strong><br /> <a href="http://campusmap.ucr.edu/campusMap.php?loc=ENVHS" title="Campus Map">Environmental Health &amp; Safety Building</a><br /> <br /> Tel: (951) 827-5528<br /> Fax: (951) 827-5122<br /> E-mail: <a href="mailto:ehswebmaster@ucr.edu">ehswebmaster@ucr.edu</a></address> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://ehs.ucr.edu/">Environmental Health &amp; Safety</a></li> 
+       <li><a href="http://ehs.ucr.edu/services/emergency.html">Emergency Procedures</a></li> 
+       <li><a href="http://police.ucr.edu">University of California Police Dept.</a></li> 
+       <li><a href="http://newsroom.ucr.edu">UCR Newsroom</a></li> 
+      </ul> 
+      <ul class="footer_links"> 
+       <li><a id="footer_link_facebook" class="footer_link_icon" href="http://www.facebook.com/UCRiverside" title="external site: Facebook">Visit UCR’s Facebook page</a></li> 
+       <li><a id="footer_link_twitter" class="footer_link_icon" href="http://twitter.com/UCRiverside" title="external site: Twitter">Follow UCR on Twitter</a></li> 
+       <li><a id="footer_link_youtube" class="footer_link_icon" href="http://www.youtube.com/UCRiverside" title="external site: YouTube">Visit UCR’s YouTube channel</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://campusstatus.ucr.edu/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>&copy; 2010 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=ehs&amp;site=emergency&amp;path=%2Fvoicemail.html">Last modified: 2010-May-27</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.323897 seconds using 2.00 MiB of memory. -->   
+ </body>
+</html><!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>About UCR: Tours</title> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+  <!--[if IE]><![endif]--> 
+  <meta http-equiv="last-modified" content="2013-06-05" /> 
+  <meta name="version" content="2.64 2.146 " /> 
+  <!-- 03/11/14 15:03:14 03/11/14 15:52:06 --> 
+  <!--link rel="stylesheet" type="text/css" href="/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/narrow6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/sifr.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="/min/g=6bis-bluea-narrow" media="all" /> 
+  <!--link rel="stylesheet" type="text/css" href="/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="/min/f=css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/about/css/local.css" media="all" /> 
+  <link href="//fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css" /> 
+  <script type="text/javascript" src="/min/g=js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="/css/ie6-narrow6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/about/css/ie6.css" media="all" />
+<script defer type="text/javascript" src="/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/css/ie7.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/about/css/ie7.css" media="all" />
+<script type="text/javascript" src="/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+  <link rel="alternate" type="application/rss+xml" title="Subscribe to UCR Today via RSS" href="http://ucrtoday.ucr.edu/feed" /> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://www.ucr.edu/about/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr /> 
+  </div> 
+  <div id="masthead_home" style="background-image:url(/images/design6/mastheads/masthead03.jpg);"> 
+   <h1><a href="//www.ucr.edu/"><span class="printonly">UC Riverside</span></a></h1> 
+   <div class="pagewrapper"> 
+    <div id="search"> 
+     <div id="nav_utility"> 
+      <ul> 
+       <li><a href="//www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+       <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+       <li><a href="//www.ucr.edu/find_people.php">Find People</a></li> 
+      </ul> 
+     </div> 
+     <form id="searchbox" action="//www.ucr.edu/search.php">
+      <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+     </form> 
+     <script type="text/javascript" src="//www.ucr.edu/js/watermark.js"></script> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="nav_main"> 
+   <h2 class="accessibility">Campuswide Navigation</h2> 
+   <ul>
+    <li><a id="nav_main_home" href="http://www.ucr.edu/"><span>UCR Home</span></a></li>
+    <li><a class="active" id="nav_main_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+    <li><a id="nav_main_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+    <li><a id="nav_main_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+    <li><a id="nav_main_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+    <li><a id="nav_main_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+    <li><a id="nav_main_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+    <li><a id="nav_main_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+   </ul> 
+  </div> 
+  <div id="nav_audience"> 
+   <h2 class="accessibility">Audience Navigation</h2> 
+   <ul>
+    <li><a id="nav_audience_future" href="http://www.ucr.edu/future/" title="For Prospective Students"><span>Prospective Students</span></a></li>
+    <li><a id="nav_audience_students" href="http://www.ucr.edu/students/" title="For Current Students"><span>Current Students</span></a></li>
+    <li><a id="nav_audience_parents" href="http://www.ucr.edu/parents/" title="For Parents"><span>Parents</span></a></li>
+    <li><a id="nav_audience_faculty" href="http://www.ucr.edu/faculty/" title="For Faculty"><span>Faculty</span></a></li>
+    <li><a id="nav_audience_staff" href="http://www.ucr.edu/staff/" title="For Staff"><span>Staff</span></a></li>
+    <li><a id="nav_audience_alumni" href="http://www.ucr.edu/alumni/" title="For Alumni"><span>Alumni</span></a></li>
+    <li><a id="nav_audience_friends" href="http://www.ucr.edu/friends/" title="For Friends"><span>Friends</span></a></li>
+    <li><a id="nav_audience_industry" href="http://www.ucr.edu/industry/" title="For Industry"><span>Industry</span></a></li>
+    <li><a id="nav_audience_media" href="http://www.ucr.edu/media/" title="For Media"><span>Media</span></a></li>
+   </ul> 
+  </div> 
+  <hr /> 
+  <!--[if lte IE 6]>
+<div class="pagewrapper">
+	<div style="margin-bottom: 1.5em;">
+		<h5 style="color: #b00; margin: .5em 15em 0">You appear to be using an outdated version of Internet Explorer. We are sorry, but your browser is no longer
+			supported. Please upgrade to a modern browser:</h5>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://getfirefox.com" class="external" title="external site: Mozilla Foundation">Firefox</a></li>
+				<li><a href="http://www.opera.com/browser/" class="external" title="external site: Opera Software">Opera</a></li>
+			</ul>
+		</div>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://www.microsoft.com/windows/internet-explorer/" class="external" title="external site: Microsoft">Internet Explorer 8</a></li>
+				<li><a href="http://www.apple.com/safari/" class="external" title="external site: Apple Inc.">Safari</a></li>
+			</ul>
+		</div>
+		<div class="column49R">
+			<ul class="tight">
+				<li><a href="http://www.google.com/chrome" class="external" title="external site: Google">Google Chrome</a></li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<![endif]--> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="//www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://www.ucr.edu/about/">About UCR</a> &gt;</li> 
+    <li class="lastitem">Tours</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <hr /> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2 class="long">Tours</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li><a href="/about/" title="About UCR Home">About UCR Home<br /><span>A university of distinction and diversity</span></a></li>
+       <li><a href="/about/administration.html" title="Administration">Administration<br /><span>Meet the leaders of UCR</span></a></li>
+       <li><a href="/about/rankingsandfacts.html" title="Rankings and Quick Facts">Rankings and Quick Facts<br /><span>Who we are, how we rate</span></a></li>
+       <li><a href="/about/uc_system.html" title="UC System">UC System<br /><span>Learn about the UC System</span></a></li>
+       <li><a href="/about/history.html" title="History">History<br /><span>Where we've come from</span></a></li>
+       <li><a href="/about/visitors.html" title="UCR Visitor's Information">UCR Visitor's Information<br /><span>Coming to our campus and community</span></a>
+        <ul>
+         <li><a href="/about/directions.html" title="Maps, Directions and Visitor Resources">Maps, Directions and Visitor Resources</a></li>
+         <li class="currentpage"><h3><dfn>Current page is: </dfn>Tours</h3></li>
+         <li><a href="/about/region.html" title="About the Region">About the Region</a></li>
+         <li><a href="/about/places_of_note.html" title="Things to Do">Things to Do</a></li>
+        </ul></li>
+       <li><a href="/about/promise/" title="Living the Promise">Living the Promise<br /><span>Stories of our people and research in action</span></a></li> 
+      </ul> 
+     </div> 
+     <p><a id="ir_button" class="img_link" href="/international/"><span class="accessibility">International Resources.</span></a></p> 
+    </div> 
+    <hr /> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <p><img src="/about/images/tour.jpg" alt="Take a Tour" width="484" height="180" /></p> 
+     <h3>Take a Tour</h3> 
+     <p>There are several ways to get to know UCR better. The university offers a variety of tour options, including guided tours that can be scheduled in advance. The campus also is easily accessible for anyone planning to be in the Southern California area.</p> 
+     <h3>Walking Tours Available</h3> 
+     <p>Campus tours are available throughout the year from the <a href="http://admissions.ucr.edu/VisitUCR">Campus Tours Office</a>. The tours include up-close look at the campus and its facilities and are a great way to learn about UCR's and its history.</p> 
+     <p><a class="button" href="http://admissions.ucr.edu/VisitUCR/tourOptions">Schedule a Tour</a></p> 
+     <h3>Self-Guided Tours</h3> 
+     <p>Much of the campus is available for viewing at your leisure if you are in the Southern California area. The university's address is:</p> 
+     <address>900 University Avenue<br />Riverside, CA<br />92507</address> 
+     <p>From the freeway, exit Highway 60/Interstate 215 at University Avenue and turn left. The campus is immediately ahead of you.</p> 
+     <ul class="standout"> 
+      <li><a href="/about/directions.html">For directions to the university</a></li> 
+      <li><a href="http://www.campusmap.ucr.edu/map.pdf">For a printer-friendly version of a campus map</a></li> 
+     </ul> 
+     <h3>Virtual Tours</h3> 
+     <p>You can navigate around UC Riverside at your leisure by taking one of several <a href="http://admissions.ucr.edu/VisitUCR/virtualTours">virtual tours</a> available online. The virtual tours provide a unique perspective of our beautiful campus, vibrant student life, and high academic quality, and can be accessed from the comfort of your home.</p> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://library.ucr.edu/']);">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://campusstatus.ucr.edu/']);">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://campusstore.ucr.edu/']);">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://www.ucr.edu/employment.html']);">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://diversity.ucr.edu/']);">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://www.ucr.edu/about/directions.html']);">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://admissions.ucr.edu/VisitUCR']);">Visit UCR</a></li> 
+      </ul> 
+      <!-- Generated in 0.021497 seconds using 768 KiB of memory. --> 
+     </div> 
+     <div class="column49"> 
+      <h3>Additional Information</h3> 
+      <address><strong><a href="http://strategiccommunications.ucr.edu/">Office of Strategic Communications</a></strong><br /> <a href="http://campusmap.ucr.edu/campusMap.php?loc=HINHL" title="Campus Map">1156 Hinderaker Hall</a></address> 
+      <ul class="footer_links"> 
+       <li><a id="footer_link_facebook" class="footer_link_icon" href="http://www.facebook.com/UCRiverside" title="external site: Facebook">Visit UCR's Facebook page</a></li> 
+       <li><a id="footer_link_twitter" class="footer_link_icon" href="http://twitter.com/UCRiverside" title="external site: Twitter">Follow UCR on Twitter</a></li> 
+       <li><a id="footer_link_youtube" class="footer_link_icon" href="http://www.youtube.com/UCRiverside" title="external site: YouTube">Visit UCR's YouTube channel</a></li> 
+       <li><a id="footer_link_rss" class="footer_link_icon" href="http://ucrtoday.ucr.edu/feed">Subscribe to UCR Today via RSS</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://collegeportrait.ucr.edu/">UCR's College Portrait</a></li> 
+       <li><a class="external" title="external link: University of California" href="http://www.universityofcalifornia.edu/">University of California </a></li> 
+       <li><a class="external" title="external link: Office of the President" href="http://www.ucop.edu/">UC Office of the President</a></li> 
+       <li><a class="external" title="external link: UC Regents" href="http://www.universityofcalifornia.edu/regents/">UC Regents</a> </li> 
+       <li><a class="external" title="external link: City of Riverside" href="http://www.riversideca.gov">City of Riverside</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="//www.ucr.edu/"><span>UCR Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="//www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="//www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="//www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="//www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="//www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="//www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="//www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/about/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="//www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="//www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>&copy; 2013 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01189&amp;site=about&amp;path=%2Ftours.html">Last modified: 2013-Jun-05</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.070226 seconds using 1.50 MiB of memory. -->   
+ </body>
+</html><!DOCTYPE html>
+<html lang="en-US">
+ <head> 
+  <!--[if IE]>
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+        <meta http-equiv="Content-Language" content="en-us" />
+        <![endif]--> 
+  <meta charset="UTF-8" /> 
+  <meta name="google-site-verification" content="AWvkM5oaH52rN2i0ba38i7ONLcVSbyj5h0N-oOytVnM" /> 
+  <meta name="y_key" content="dee5420ecd7640c2" /> 
+  <meta name="msvalidate.01" content="EAD2F9E10C36DEDB88AAFA9C803D7465" /> 
+  <title>Home | CloudFlare | The web performance &amp; security company</title> 
+  <link rel="shortcut icon" type="image/icon" href="https://www.cloudflare.com/favicon.ico" /> 
+  <link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://www.cloudflare.com/apple-touch-icon-57x57-precomposed.png" /> 
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.cloudflare.com/apple-touch-icon-72x72-precomposed.png" /> 
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.cloudflare.com/apple-touch-icon-114x114-precomposed.png" /> 
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.cloudflare.com/apple-touch-icon-144x144-precomposed.png" /> 
+  <link rel="alternate" type="application/rss+xml" href="http://blog.cloudflare.com/rss.xml" /> 
+  <link rel="stylesheet" media="all" href="https://www.cloudflare.com/static/stylesheets/live/fp-f5192c2198876423f43ce65accb92e22/library/thirdparty.css?v=CB6-2013-08-01-1" /> 
+  <link rel="stylesheet" media="all" href="https://www.cloudflare.com/static/stylesheets/live/fp-47459e77255de195a4579fb97561eb6d/library/cloudflare.css?v=CB6-2013-08-01-1" /> 
+  <link rel="stylesheet" media="all" href="https://www.cloudflare.com/static/stylesheets/live/fp-a6d15c02cc3e69bef3fde66785fa3822/page/index.css?v=CB6-2013-08-01-1" /> 
+  <script type="text/javascript" src="https://www.cloudflare.com/static/javascripts/live/library/syncprerequisite.js"></script> 
+  <script data-cfasync="true" type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-10218544-2']);
+        _gaq.push(['_setDomainName', 'none']);
+        _gaq.push(['_trackPageview']);
+
+                            cf_track_js_errors = true;
+            cf_raven_sentry_endpoint = 'https://4110fe00842041d49317929b39dd78fc@undefined.cloudflare.com/5';
+                
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script> 
+ </head> 
+ <body> 
+  <div id="SiteContainer" class="structural"> 
+   <div class="background"></div> 
+   <div class="inner"> 
+    <div id="SuperHeader" class="structural fixedWidth"> 
+     <div class="inner"></div> 
+    </div> 
+    <div id="Header" class="structural fixedWidth"> 
+     <div class="inner"> 
+      <div id="Logo" tooltip="CloudFlare is an awesome service for your website!"> 
+       <a href="/" target="_self"><h1 class="ui-helper-hidden-accessible">CloudFlare</h1></a> 
+      </div> 
+      <ul id="SiteNavigation"> 
+       <li class="home"><a href="https://www.cloudflare.com/index" target="_self">Home</a></li> 
+       <li class="features"><a href="https://www.cloudflare.com/overview" target="_self">Features</a></li> 
+       <li class="help"><a href="https://support.cloudflare.com/" target="_self">Help</a></li> 
+       <li class="sign-up"><a href="https://www.cloudflare.com/sign-up" target="_self">Sign up</a></li> 
+       <li class="login"><a href="https://www.cloudflare.com/login" target="_self">Login</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div id="BodyContent" class="structural fixedWidth clear standard"> 
+     <div class="background"> 
+      <div class="middle"></div> 
+      <div class="top"></div> 
+      <div class="bottom"></div> 
+     </div> 
+     <div class="inner"> 
+      <div id="home"> 
+       <div id="home-splash"> 
+        <a href="#" id="home-splash-play"><span>Watch our video</span></a> 
+       </div> 
+       <div id="home-content"> 
+        <h2>Give us five minutes and we'll <strong>supercharge</strong> your website.</h2> 
+        <div class="hrDotted"></div> 
+        <div id="bigCallsToAction"> 
+         <span class="bigCallsToAction-item"><a class="callToAction callToAction-big-secondary" href="/plans">Compare plans<span></span></a></span> 
+         <span class="bigCallsToAction-item"><a class="callToAction callToAction-big" href="/sign-up">Sign up now!<span></span></a></span> 
+        </div> 
+       </div> 
+       <div id="home-features"> 
+        <ul class="home-features-column"> 
+         <li> <a href="/features-cdn" class="home-features-cdn"></a> <a href="/features-cdn"><h3>CloudFlare CDN</h3></a> <p>Distribute your content around the world so it’s closer to your visitors (speeding up your site).</p> </li> 
+         <li> <a href="/features-optimizer" class="home-features-optimizer"></a> <a href="/features-optimizer"><h3>CloudFlare optimizer</h3></a> <p>Web pages with ad servers and third party widgets load snappy on both mobile and computers.</p> </li> 
+         <li> <a href="/features-security" class="home-features-security"></a> <a href="/features-security"><h3>CloudFlare security</h3></a> <p>Protect your website from a range of online threats from spammers to SQL injection to DDOS.</p> </li> 
+         <li> <a href="/features-analytics" class="home-features-analytics"></a> <a href="/features-analytics"><h3>CloudFlare analytics</h3></a> <p>Get insight into all of your website’s traffic including threats and search engine crawlers.</p> </li> 
+         <li class="last"> <a href="/features-apps" class="home-features-apps"></a> <a href="/features-apps"><h3>CloudFlare apps</h3></a> <p>CloudFlare apps makes installing web apps on your site fast, safe and one-click simple.</p> </li> 
+        </ul> 
+        <div class="clear"></div> 
+       </div> 
+      </div> 
+      <div class="clear"></div> 
+     </div> 
+    </div> 
+    <div id="Footer" class="structural fixedWidth standard"> 
+     <div class="inner"> 
+      <div class="section"> 
+       <div id="PublicFooter" class="structural fixedWidth standard"> 
+        <div id="PublicFooter-upperright"> 
+         <div id="smt-lang-selector"> 
+         </div> 
+        </div> 
+        <div id="PublicFooter-lowerright"> 
+         <a id="LinkedInLink" href="http://www.linkedin.com/company/407222" target="_blank"> 
+          <div class="cf-icon service linkedin"> 
+          </div> </a> 
+         <a id="GooglePlusLink" href="https://plus.google.com/100611700350554803650/" rel="publisher" target="_blank"> 
+          <div class="cf-icon service googleplus"> 
+          </div> </a> 
+         <a id="TwitterLink" href="http://twitter.com/cloudflare" target="_blank"> 
+          <div class="cf-icon service twitter"> 
+          </div> </a> 
+         <a id="FacebookLink" href="http://www.facebook.com/CloudFlare?ref=ts" target="_blank"> 
+          <div class="cf-icon service facebook"> 
+          </div> </a> 
+         <div id="PublicFooter-copyright"> 
+          <span>&copy; CloudFlare, Inc.</span> 
+         </div> 
+        </div> 
+        <div id="PublicFooter-navigation"> 
+         <div class="PublicFooter-navigation-group"> 
+          <h5>What we do</h5> 
+          <ul> 
+           <li><a href="https://www.cloudflare.com/plans">Plans</a></li> 
+           <li><a href="https://www.cloudflare.com/overview">Overview</a></li> 
+           <li><a href="https://www.cloudflare.com/features-cdn">Features tour</a></li> 
+           <li><a href="https://www.cloudflare.com/network-map">CloudFlare's network</a></li> 
+           <li><a href="https://www.cloudflare.com/apps">CloudFlare apps</a></li> 
+          </ul> 
+         </div> 
+         <div class="PublicFooter-navigation-group"> 
+          <h5>Community</h5> 
+          <ul> 
+           <li><a href="https://www.cloudflare.com/case-studies">Case studies</a></li> 
+           <li><a href="http://blog.cloudflare.com">CloudFlare blog</a></li> 
+           <li><a href="https://www.cloudflare.com/web-badges">Web badges</a></li> 
+           <li><a href="https://www.cloudflare.com/hosting-partners">Hosting partners</a></li> 
+           <li><a href="http://developers.cloudflare.com">Developers</a></li> 
+          </ul> 
+         </div> 
+         <div class="PublicFooter-navigation-group"> 
+          <h5>Support</h5> 
+          <ul> 
+           <li><a href="https://support.cloudflare.com/">Help center</a></li> 
+           <li><a href="https://www.cloudflare.com/videos">Support videos</a></li> 
+           <li><a href="https://www.cloudflare.com/system-status">System status</a></li> 
+           <li><a href="https://www.cloudflare.com/resources-downloads">Downloads</a></li> 
+          </ul> 
+         </div> 
+         <div class="PublicFooter-navigation-group-last"> 
+          <h5>About us</h5> 
+          <ul> 
+           <li><a href="https://www.cloudflare.com/people">Our team</a></li> 
+           <li><a href="https://www.cloudflare.com/careers">Careers</a></li> 
+           <li><a href="https://www.cloudflare.com/press-center">Press center</a></li> 
+           <li><a href="https://www.cloudflare.com/terms">Terms of service</a></li> 
+           <li><a href="https://www.cloudflare.com/security-policy">Privacy &amp; security</a></li> 
+          </ul> 
+         </div> 
+        </div> 
+        <div class="clear"></div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="SubFooter" class="structural fixedWidth"> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="FixedContent" class="structural"> 
+   <ul id="Notifications"></ul> 
+  </div> 
+  <div id="HiddenContent" class="ui-helper-hidden ui-helper-hidden-accessible"> 
+  </div> 
+  <script type="text/javascript" src="https://www.cloudflare.com/static/javascripts/live/fp-f3ed101eb6518848c79a6649c24be80b/library/thirdparty.js?v=CB6-2013-08-01-1"></script> 
+  <script type="text/javascript" src="https://www.cloudflare.com/static/javascripts/live/fp-49e230f1518cd874015847d52f03d873/library/cloudflare.js?v=CB6-2013-08-01-1"></script> 
+  <script>$.cf.data = {"login":false};</script> 
+  <script type="text/javascript" src="https://www.cloudflare.com/static/javascripts/live/fp-c71f8d1e6cd0e89831d25176cca548d0/page/index.js?v=CB6-2013-08-01-1"></script> 
+  <script type="text/javascript">
+            $(function() {
+
+                $.cf.invalidateClient();
+                $('#SiteNavigation > li.home').addClass('active');
+                $('#SecondaryNavigation > li.index').addClass('active');
+                $('#SiteNavigation').markedNavigation({animated: false});
+                $('#SiteNavigation > li > a[tooltip]').tooltip();
+                $('#SubFooterContactLink').bind('click', function(event) { $.cf.loadModalDialog({type: 'feedback'}, {title: 'Send feedback'}); });
+
+            });
+        </script>   
+ </body>
+</html>

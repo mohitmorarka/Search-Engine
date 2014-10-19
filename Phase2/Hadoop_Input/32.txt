@@ -1,0 +1,2124 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>UCR Happenings: UCR Happenings</title> 
+  <!--link rel="stylesheet" type="text/css" href="/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/narrow6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/sifr.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="/min/g=6bis-bluea-narrow" media="all" /> 
+  <!--link rel="stylesheet" type="text/css" href="/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="/min/f=css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/happenings/css/local.css" media="all" /> 
+  <link href="https://fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css" /> 
+  <script type="text/javascript" src="/min/g=js"></script> 
+  <script type="text/javascript" src="/js/lib.js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="/css/ie6-narrow6.css" media="all" />
+<script defer type="text/javascript" src="/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/css/ie7.css" media="all" />
+<script type="text/javascript" src="/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <link rel="alternate" type="application/rss+xml" title="University of California, Riverside Campus News" href="http://ucrtoday.ucr.edu/feed" /> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip_main"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip_main"><a tabindex="2" href="/happenings/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr /> 
+  </div> 
+  <div id="masthead_home"> 
+   <script type="text/javascript">
+// <![CDATA[
+document.getElementById("masthead_home").style['backgroundImage'] = 'url(/images/design6/mastheadslt/masthead' + Math.floor(Math.random() * 5) + '.jpg)';
+// ]]>
+</script> 
+   <h1><a href="/"><span class="printonly">UC Riverside</span></a></h1> 
+   <div class="pagewrapper"> 
+    <div id="search"> 
+     <div id="nav_utility"> 
+      <ul> 
+       <li><a href="/alpha.html">A to Z Listing</a></li> 
+       <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+       <li><a href="/find_people.php">Find People</a></li> 
+      </ul> 
+     </div> 
+     <form id="searchbox" action="/search.php">
+      <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" size="28" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+     </form> 
+     <script type="text/javascript" src="/js/watermark.js"></script> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="nav_main"> 
+   <h2 class="accessibility">Campuswide Navigation</h2> 
+   <ul>
+    <li><a id="nav_main_home" href="/"><span>Home</span></a></li>
+    <li><a id="nav_main_about_ucr" href="/about/"><span>About UCR</span></a></li>
+    <li><a id="nav_main_academics" href="/academics/"><span>Academics</span></a></li>
+    <li><a id="nav_main_athletics" href="/athletics/"><span>Athletics</span></a></li>
+    <li><a class="active" id="nav_main_happenings" href="/happenings/"><span>Happenings</span></a></li>
+    <li><a id="nav_main_research" href="/research/"><span>Research</span></a></li>
+    <li><a id="nav_main_resources" href="/resources/"><span>Campus Resources</span></a></li>
+    <li><a id="nav_main_giving" href="/giving/"><span>Giving to UCR</span></a></li>
+   </ul> 
+  </div> 
+  <div id="nav_audience"> 
+   <h2 class="accessibility">Audience Navigation</h2> 
+   <ul>
+    <li><a id="nav_audience_future" href="/future/" title="For Prospective Students"><span>Prospective Students</span></a></li>
+    <li><a id="nav_audience_students" href="/students/" title="For Current Students"><span>Current Students</span></a></li>
+    <li><a id="nav_audience_parents" href="/parents/" title="For Parents"><span>Parents</span></a></li>
+    <li><a id="nav_audience_faculty" href="/faculty/" title="For Faculty"><span>Faculty</span></a></li>
+    <li><a id="nav_audience_staff" href="/staff/" title="For Staff"><span>Staff</span></a></li>
+    <li><a id="nav_audience_alumni" href="/alumni/" title="For Alumni"><span>Alumni</span></a></li>
+    <li><a id="nav_audience_friends" href="/friends/" title="For Friends"><span>Friends</span></a></li>
+    <li><a id="nav_audience_industry" href="/industry/" title="For Industry"><span>Industry</span></a></li>
+    <li><a id="nav_audience_media" href="/media/" title="For Media"><span>Media</span></a></li>
+   </ul> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr /> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li class="lastitem">UCR Happenings</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <hr /> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2 class="long">UCR Happenings</h2> 
+    <a name="main"></a> 
+    <ul class="bigtab-control"> 
+     <li><a href="#arts" id="arts-link"><span class="accessibility">Arts</span></a></li> 
+     <li><a href="#lectures" id="lectures-link"><span class="accessibility">Lectures</span></a></li> 
+     <li><a href="#sports" id="sports-link"><span class="accessibility">Sports</span></a></li> 
+     <li><a href="#other" id="other-link"><span class="accessibility">Other</span></a></li> 
+    </ul> 
+    <div id="arts"> 
+     <div class="bigtab-column"> 
+      <h3><img alt="" height="31" src="/happenings/images/spotlight_ttle_shadow.gif" width="738" /><span class="accessibility">Spotlight</span></h3> 
+      <a href="http://events.ucr.edu/cgi-bin/display.cgi?event_id=41035"> <img alt="Music as Medicine Concert Series" height="219" src="http://www.ucr.edu/images/happening/2349.jpg" width="478" /> 
+       <div class="spot"> 
+        <div> 
+         <h4>Music as Medicine Concert Series</h4> 
+         <h5>Choral Society and Blue Grass Ensemble</h5> 
+         <p>Thursday, April 3<br />Noon–1 p.m.</p> 
+         <p>School of Medicine Education Bldg On the Patio</p> 
+        </div> 
+       </div> </a> 
+     </div> 
+     <div class="subsection"> 
+      <div class="column2"> 
+       <p> <img alt="Search by Date" height="49" src="/happenings/images/cal_top.gif" width="218" /> </p> 
+       <table class="calendar" cellspacing="3" cellpadding="0"> 
+        <caption>
+         <a href="http://events.ucr.edu/cgi-bin/display.cgi?month=201402&amp;unit=0" title="prev" class="prev">&laquo;</a>&nbsp;
+         <span class="month">March</span>&nbsp;
+         <span class="year">2014</span>&nbsp;
+         <a href="http://events.ucr.edu/cgi-bin/display.cgi?month=201404&amp;unit=0" title="next" class="next">&raquo;</a>
+        </caption>
+        <tbody> 
+         <tr>
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td>1</td> 
+         </tr>
+         <tr> 
+          <td>2</td> 
+          <td>3</td> 
+          <td>4</td> 
+          <td>5</td> 
+          <td>6</td> 
+          <td>7</td> 
+          <td>8</td> 
+         </tr>
+         <tr> 
+          <td>9</td> 
+          <td>10</td> 
+          <td class="today" title="today">11</td> 
+          <td>12</td> 
+          <td>13</td> 
+          <td>14</td> 
+          <td>15</td> 
+         </tr>
+         <tr> 
+          <td>16</td> 
+          <td>17</td> 
+          <td>18</td> 
+          <td>19</td> 
+          <td>20</td> 
+          <td>21</td> 
+          <td>22</td> 
+         </tr>
+         <tr> 
+          <td>23</td> 
+          <td>24</td> 
+          <td>25</td> 
+          <td>26</td> 
+          <td>27</td> 
+          <td>28</td> 
+          <td>29</td> 
+         </tr>
+         <tr> 
+          <td>30</td> 
+          <td>31</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+         </tr>
+        </tbody>
+       </table> 
+       <img alt="." height="30" src="/happenings/images/cal_bottom.gif" width="218" /> 
+      </div> 
+      <div class="column2"> 
+       <h3><a href="http://culvercenter.ucr.edu/Performance/Mobius-Trio"><img alt="Read more" height="100" src="http://www.ucr.edu/images/happening/2343.jpg" width="218" />Mobius Trio at the Culver Center</a></h3> 
+       <h4>Wednesday, March 12<br />Concert: 8pm–9:30pm</h4> 
+       <p>Mobius Trio has made it its mission to fully integrate the classical guitar into the 21st century's nascent musical lexicon.<a class="read_more_link" href="http://culvercenter.ucr.edu/Performance/Mobius-Trio"><span class="accessibility">Read more</span></a> </p> 
+      </div> 
+      <div class="column2R"> 
+       <h3><a href="http://artsblock.ucr.edu/Exhibition/Quintessential"><img alt="Read more" height="100" src="http://www.ucr.edu/images/happening/2334.jpg" width="218" />Quintessential: Selections from the Permanent Collection</a></h3> 
+       <h4>Through March 22</h4> 
+       <p>A showcase of UCR ARTSblock Sweeney Art Gallery’s growing art collection<a class="read_more_link" href="http://artsblock.ucr.edu/Exhibition/Quintessential"><span class="accessibility">Read more</span></a> </p> 
+      </div> 
+      <div class="clear"> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="lectures"> 
+     <div class="bigtab-column"> 
+      <h3><img alt="" height="31" src="/happenings/images/spotlight_ttle_shadow.gif" width="738" /><span class="accessibility">Spotlight</span></h3> 
+      <a href="http://palmdesert.ucr.edu/programs/Boyd13.html"> <img alt="Animal Oceanographers" height="219" src="http://www.ucr.edu/images/happening/2324.jpg" width="478" /> 
+       <div class="spot"> 
+        <div> 
+         <h4>Animal Oceanographers</h4> 
+         <h5>Using Animals to Tell Us About Their Environment</h5> 
+         <p>March 13<br />6 p.m.</p> 
+         <p>UCR Palm Desert auditorium (RSVP Today!)</p> 
+        </div> 
+       </div> </a> 
+     </div> 
+     <div class="subsection"> 
+      <div class="column2"> 
+       <p> <img alt="Search by Date" height="49" src="/happenings/images/cal_top.gif" width="218" /> </p> 
+       <table class="calendar" cellspacing="3" cellpadding="0"> 
+        <caption>
+         <a href="http://events.ucr.edu/cgi-bin/display.cgi?month=201402&amp;unit=0" title="prev" class="prev">&laquo;</a>&nbsp;
+         <span class="month">March</span>&nbsp;
+         <span class="year">2014</span>&nbsp;
+         <a href="http://events.ucr.edu/cgi-bin/display.cgi?month=201404&amp;unit=0" title="next" class="next">&raquo;</a>
+        </caption>
+        <tbody> 
+         <tr>
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140301&amp;unit=0">1</a></td> 
+         </tr>
+         <tr> 
+          <td>2</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140303&amp;unit=0">3</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140304&amp;unit=0">4</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140305&amp;unit=0">5</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140306&amp;unit=0">6</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140307&amp;unit=0">7</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140308&amp;unit=0">8</a></td> 
+         </tr>
+         <tr> 
+          <td>9</td> 
+          <td>10</td> 
+          <td class="today" title="today">11</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140312&amp;unit=0">12</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140313&amp;unit=0">13</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140314&amp;unit=0">14</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140315&amp;unit=0">15</a></td> 
+         </tr>
+         <tr> 
+          <td>16</td> 
+          <td>17</td> 
+          <td>18</td> 
+          <td>19</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140320&amp;unit=0">20</a></td> 
+          <td>21</td> 
+          <td>22</td> 
+         </tr>
+         <tr> 
+          <td>23</td> 
+          <td>24</td> 
+          <td>25</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140326&amp;unit=0">26</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140327&amp;unit=0">27</a></td> 
+          <td>28</td> 
+          <td>29</td> 
+         </tr>
+         <tr> 
+          <td>30</td> 
+          <td>31</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+         </tr>
+        </tbody>
+       </table> 
+       <img alt="." height="30" src="/happenings/images/cal_bottom.gif" width="218" /> 
+      </div> 
+      <div class="column2"> 
+       <h3><a href="http://cnas.ucr.edu/sciencelectures/index.html"><img alt="Read more" height="100" src="http://www.ucr.edu/images/happening/2318.jpg" width="218" />What's for Dinner?</a></h3> 
+       <h4>Wednesday, April 2<br />5:30–6:30 p.m.</h4> 
+       <p>Molecular Signatures of Plants, Animals, and Water in Early Human Habitats. Public lecture by Kate Freeman.<a class="read_more_link" href="http://cnas.ucr.edu/sciencelectures/index.html"><span class="accessibility">Read more</span></a> </p> 
+      </div> 
+      <div class="column2R"> 
+       <h3><a href="https://events.r20.constantcontact.com/register/eventReg?oeidk=a07e8fv7d66b3a0f5ea&amp;oseq=&amp;c=&amp;ch="><img alt="Read more" height="100" src="http://www.ucr.edu/images/happening/2340.jpg" width="218" />Arts &amp; Letters: Teresa Rhyne</a></h3> 
+       <h4>Wednesday, April 2<br />6:30–8 p.m.</h4> 
+       <p>Shortly after adopting a dog, Teresa Rhyne learns he has less than a year to live and soon finds herself facing a cancer diagnosis of her own. <a class="read_more_link" href="https://events.r20.constantcontact.com/register/eventReg?oeidk=a07e8fv7d66b3a0f5ea&amp;oseq=&amp;c=&amp;ch="><span class="accessibility">Read more</span></a> </p> 
+      </div> 
+      <div class="clear"> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="sports"> 
+     <div class="bigtab-column"> 
+      <h3><img alt="" height="31" src="/happenings/images/spotlight_ttle_shadow.gif" width="738" /><span class="accessibility">Spotlight</span></h3> 
+      <a href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=41358:20140329100000&amp;unit=15"> <img alt="Men's Track &amp; Field: UC Riverside Spring Track Classic" height="219" src="http://www.ucr.edu/images/happening/2352.jpg" width="478" /> 
+       <div class="spot"> 
+        <div> 
+         <h4>Men's Track &amp; Field: UC Riverside Spring Track Classic</h4> 
+         <p>Saturday, March 29<br />10 a.m.–6 p.m.</p> 
+         <p>UC Riverside Track Facility</p> 
+        </div> 
+       </div> </a> 
+     </div> 
+     <div class="subsection"> 
+      <div class="column2"> 
+       <p> <img alt="Search by Date" height="49" src="/happenings/images/cal_top.gif" width="218" /> </p> 
+       <table class="calendar" cellspacing="3" cellpadding="0"> 
+        <caption>
+         <a href="http://events.ucr.edu/cgi-bin/display.cgi?month=201402&amp;unit=0" title="prev" class="prev">&laquo;</a>&nbsp;
+         <span class="month">March</span>&nbsp;
+         <span class="year">2014</span>&nbsp;
+         <a href="http://events.ucr.edu/cgi-bin/display.cgi?month=201404&amp;unit=0" title="next" class="next">&raquo;</a>
+        </caption>
+        <tbody> 
+         <tr>
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140301&amp;unit=0">1</a></td> 
+         </tr>
+         <tr> 
+          <td>2</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140303&amp;unit=0">3</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140304&amp;unit=0">4</a></td> 
+          <td>5</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140306&amp;unit=0">6</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140307&amp;unit=0">7</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140308&amp;unit=0">8</a></td> 
+         </tr>
+         <tr> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140309&amp;unit=0">9</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140310&amp;unit=0">10</a></td> 
+          <td class="today hlite" title="today"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140311&amp;unit=0">11</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140312&amp;unit=0">12</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140313&amp;unit=0">13</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140314&amp;unit=0">14</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140315&amp;unit=0">15</a></td> 
+         </tr>
+         <tr> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140316&amp;unit=0">16</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140317&amp;unit=0">17</a></td> 
+          <td>18</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140319&amp;unit=0">19</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140320&amp;unit=0">20</a></td> 
+          <td>21</td> 
+          <td>22</td> 
+         </tr>
+         <tr> 
+          <td>23</td> 
+          <td>24</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140325&amp;unit=0">25</a></td> 
+          <td>26</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140327&amp;unit=0">27</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140328&amp;unit=0">28</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140329&amp;unit=0">29</a></td> 
+         </tr>
+         <tr> 
+          <td>30</td> 
+          <td>31</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+         </tr>
+        </tbody>
+       </table> 
+       <img alt="." height="30" src="/happenings/images/cal_bottom.gif" width="218" /> 
+      </div> 
+      <div class="column2"> 
+       <h3><a href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=40158:20140308190000"><img alt="Read more" height="100" src="http://www.ucr.edu/images/happening/2353.jpg" width="218" />Baseball v. Stony Brook</a></h3> 
+       <h4>Friday, March 14-Sunday, March 16<br />Friday: 6–9 p.m.; Sunday: 1–4 p.m.</h4> 
+       <p><a class="read_more_link" href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=40158:20140308190000"><span class="accessibility">Read more</span></a> </p> 
+      </div> 
+      <div class="column2R"> 
+       <h3><a href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=41345:20140320150000&amp;unit=15"><img alt="Read more" height="100" src="http://www.ucr.edu/images/happening/2354.jpg" width="218" />Softball v. Dartmouth</a></h3> 
+       <h4>Thursday, March 20<br />3–5 p.m.</h4> 
+       <p><a class="read_more_link" href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=41345:20140320150000&amp;unit=15"><span class="accessibility">Read more</span></a> </p> 
+      </div> 
+      <div class="clear"> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="other"> 
+     <div class="bigtab-column"> 
+      <h3><img alt="" height="31" src="/happenings/images/spotlight_ttle_shadow.gif" width="738" /><span class="accessibility">Spotlight</span></h3> 
+      <a href="http://events.ucr.edu/cgi-bin/display.cgi?event_id=41072"> <img alt="Botanic Gardens Spring Plant Sale" height="219" src="http://www.ucr.edu/images/happening/2342.jpg" width="478" /> 
+       <div class="spot"> 
+        <div> 
+         <h4>Botanic Gardens Spring Plant Sale</h4> 
+         <p>Saturday, April 5–Sunday, April 6<br />Sat: 11 a.m.–4 p.m.; Sun: 9 a.m.–3 p.m.</p> 
+         <p>Botanic Gardens Information Center</p> 
+        </div> 
+       </div> </a> 
+     </div> 
+     <div class="subsection"> 
+      <div class="column2"> 
+       <p> <img alt="Search by Date" height="49" src="/happenings/images/cal_top.gif" width="218" /> </p> 
+       <table class="calendar" cellspacing="3" cellpadding="0"> 
+        <caption>
+         <a href="http://events.ucr.edu/cgi-bin/display.cgi?month=201402&amp;unit=0" title="prev" class="prev">&laquo;</a>&nbsp;
+         <span class="month">March</span>&nbsp;
+         <span class="year">2014</span>&nbsp;
+         <a href="http://events.ucr.edu/cgi-bin/display.cgi?month=201404&amp;unit=0" title="next" class="next">&raquo;</a>
+        </caption>
+        <tbody> 
+         <tr>
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140301&amp;unit=0">1</a></td> 
+         </tr>
+         <tr> 
+          <td>2</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140303&amp;unit=0">3</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140304&amp;unit=0">4</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140305&amp;unit=0">5</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140306&amp;unit=0">6</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140307&amp;unit=0">7</a></td> 
+          <td>8</td> 
+         </tr>
+         <tr> 
+          <td>9</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140310&amp;unit=0">10</a></td> 
+          <td class="today hlite" title="today"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140311&amp;unit=0">11</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140312&amp;unit=0">12</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140313&amp;unit=0">13</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140314&amp;unit=0">14</a></td> 
+          <td>15</td> 
+         </tr>
+         <tr> 
+          <td>16</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140317&amp;unit=0">17</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140318&amp;unit=0">18</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140319&amp;unit=0">19</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140320&amp;unit=0">20</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140321&amp;unit=0">21</a></td> 
+          <td>22</td> 
+         </tr>
+         <tr> 
+          <td>23</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140324&amp;unit=0">24</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140325&amp;unit=0">25</a></td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140326&amp;unit=0">26</a></td> 
+          <td>27</td> 
+          <td>28</td> 
+          <td>29</td> 
+         </tr>
+         <tr> 
+          <td>30</td> 
+          <td class="hlite"><a href="http://events.ucr.edu/cgi-bin/display.cgi?date=20140331&amp;unit=0">31</a></td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+          <td class="empty">&nbsp;</td> 
+         </tr>
+        </tbody>
+       </table> 
+       <img alt="." height="30" src="/happenings/images/cal_bottom.gif" width="218" /> 
+      </div> 
+      <div class="column2"> 
+       <h3><a href="http://artsblock.ucr.edu/Performance/The-Face-in-the-Reeds"><img alt="Read more" height="100" src="http://www.ucr.edu/images/happening/2347.jpg" width="218" />The Face in the Reeds</a></h3> 
+       <h4>Thu, Mar 20–Sat, Mar 22<br />8pm–10pm</h4> 
+       <p>When a family gathers to celebrate Passover dinner, a variety of conflicts emerge—about the value of faith, conversion, and the truth or falsity of religion<a class="read_more_link" href="http://artsblock.ucr.edu/Performance/The-Face-in-the-Reeds"><span class="accessibility">Read more</span></a> </p> 
+      </div> 
+      <div class="column2R"> 
+       <h3><a href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=40889:20140313150000&amp;unit=143"><img alt="Read more" height="100" src="http://www.ucr.edu/images/happening/2350.jpg" width="218" />Sunset Stroll to the &quot;C&quot;</a></h3> 
+       <h4>Thursday, March 13<br />3–6 p.m.</h4> 
+       <p>Lace up you’re hiking boots and put one foot in front of the other until you reach the “C”.<a class="read_more_link" href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=40889:20140313150000&amp;unit=143"><span class="accessibility">Read more</span></a> </p> 
+      </div> 
+      <div class="clear"> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <!-- End Content --> 
+  </div>
+  <!-- end pagewrapper --> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://library.ucr.edu/']);">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://campusstatus.ucr.edu/']);">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://campusstore.ucr.edu/']);">Campus Store</a></li> 
+       <li><a href="/employment.html" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','/employment.html']);">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://diversity.ucr.edu/']);">Diversity</a></li> 
+       <li><a href="/about/directions.html" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','/about/directions.html']);">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR" onclick="javascript:_gaq.push(['_trackEvent','Footer','Link','http://admissions.ucr.edu/VisitUCR']);">Visit UCR</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <address><strong><a href="http://strategiccommunications.ucr.edu/">Office of Strategic Communications</a></strong><br /> <a href="http://campusmap.ucr.edu/campusMap.php?loc=HINHL" title="Campus Map">1156 Hinderaker Hall</a><br /><br /> E-mail: <a href="mailto:virginia.odien@ucr.edu?subject=Happenings%20Website%20Inquiry">virginia.odien@ucr.edu</a></address> 
+      <ul class="footer_links"> 
+       <li><a id="footer_link_facebook" class="footer_link_icon" href="http://www.facebook.com/UCRiverside" title="external site: Facebook">Visit UCR's Facebook page</a></li> 
+       <li><a id="footer_link_twitter" class="footer_link_icon" href="http://twitter.com/UCRiverside" title="external site: Twitter">Follow UCR on Twitter</a></li> 
+       <li><a id="footer_link_youtube" class="footer_link_icon" href="http://www.youtube.com/UCRiverside" title="external site: YouTube">Visit UCR's YouTube channel</a></li> 
+       <li><a id="footer_link_rss" class="footer_link_icon" href="http://ucrtoday.ucr.edu/feed">Subscribe to UCR Today via RSS</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://events.ucr.edu/cgi-bin/display.cgi" onclick="javascript:_gaq.push(['_trackEvent','Related','Link','http://events.ucr.edu/cgi-bin/display.cgi']);">Events Calendar</a></li> 
+       <li><a href="http://culturalevents.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Related','Link','http://culturalevents.ucr.edu/']);">Cultural Events</a></li> 
+       <li><a href="http://performingarts.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Related','Link','http://performingarts.ucr.edu/']);">Performing Arts</a></li> 
+       <li><a href="http://fineartsticketoffice.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Related','Link','http://fineartsticketoffice.ucr.edu/']);">Fine Arts Ticket Office</a></li> 
+       <li><a href="http://sweeney.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Related','Link','http://sweeney.ucr.edu/']);">Sweeney Art Gallery</a></li> 
+       <li><a href="http://cmp.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Related','Link','http://cmp.ucr.edu/']);">California Museum of Photography</a></li> 
+       <li><a href="http://artsblock.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','Related','Link','http://artsblock.ucr.edu/']);">ARTSblock</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="/"><span>UCR Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="/privacy.html">Privacy Policy</a></li> 
+      <li><a href="/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>&copy; 2014 Regents of the University of California</li> 
+      <li>Last modified: 2014-Mar-11</li> 
+     </ul> 
+    </div> 
+    <!--[if lte IE 7]>
+      <div id="ie6_notice">
+         <p>You are using an outdated version of Internet Explorer. Please consider upgrading to any of the following browsers:</p>
+         <div class="column49">
+            <ul class="tight">
+               <li><a href="http://getfirefox.com" class="external" title="external site: Mozilla Foundation">Firefox</a></li>
+               <li><a href="http://www.opera.com/" class="external" title="external site: Opera Software">Opera</a></li>
+            </ul>
+         </div>
+         <div class="column49">
+            <ul class="tight">
+               <li><a href="http://www.microsoft.com/windows/products/winfamily/ie/" class="external" title="external site: Microsoft">Internet Explorer 8</a></li>
+               <li><a href="http://www.apple.com/safari/" class="external" title="external site: Apple Inc.">Safari</a></li>
+            </ul>
+         </div>
+         <div class="column49R">
+            <ul class="tight">
+               <li><a href="http://www.google.com/chrome" class="external" title="external site: Google">Chrome</a></li>
+            </ul>
+         </div>
+         <div class="clear"></div>
+      </div>
+      <![endif]--> 
+   </div> 
+  </div>  
+ </body>
+</html><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN">
+<html>
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>University of California - Science Today | index.php</title> 
+  <meta http-equiv="expires" content="Wed, 26 Feb 1997 08:21:57 PST" /> 
+  <meta http-equiv="Pragma" content="no-cache" /> 
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+  <meta name="description" content="Overview of the University of California system, including 10 campuses, 5 medical centers and 3 national labs." /> 
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.ucop.edu/sciencetoday/rss" /> 
+  <link rel="stylesheet" href="http://www.ucop.edu/sciencetoday/templates/styles/base/science.css" type="text/css" /> 
+  <link rel="stylesheet" href="http://www.ucop.edu/newsroom/science/addto/addto.css" type="text/css" /> 
+  <script type="text/javascript" src="http://www.ucop.edu/sciencetoday/templates/mediaplayer/flashobject.js"></script> 
+  <script type="text/javascript" src="http://www.ucop.edu/sciencetoday/templates/mediaplayer/swfobject.js"></script> 
+  <script language="javascript" type="text/javascript">
+<!--start pop-up script
+var bsu = 'http://www.ucop.edu/sciencetoday/';
+
+
+function popUp(URL) {
+day = new Date();
+id = day.getTime();
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=490');");
+}
+// end pup-up script-->
+
+function playNewMovie(url) {
+	var so = new SWFObject(bsu+'templates/mediaplayer/player.swf','mpl','320','260','9');
+   so.addParam('allowscriptaccess','always');
+   so.addParam('allowfullscreen','true');   
+   so.addParam('flashvars','&file='+url+'&backcolor=#ACCDE5&screencolor=#ACCDE5&autostart=true&stretching=none');
+   so.write('stvideo');
+
+	}
+function playMovie(url) {
+	var so = new FlashObject(bsu+'templates/mediaplayer/flvplayer.swf','fp1','320','260','7');
+   so.addParam("allowFlashAutoInstall", "true");
+   so.addParam("Flashvars", "file="+ url + "&amp;startvolume=100&amp;autoStart=false&amp;hasStaticImage=false");
+   so.addParam('allowscriptaccess','sameDomain');
+   so.addParam('movie',bsu+'templates/mediaplayer/flvplayer.swf'); 
+   so.addParam('quality','high');    
+   so.addParam('bgcolor','#ACCDE5');   
+   
+   so.write('stvideo');
+	}
+</script> 
+ </head> 
+ <body> 
+  <div id="skipnav">
+   <a href="#container">Skip navigation</a>
+  </div> 
+  <div id="header">
+   <!-- begin DIV for logotype and banner --> 
+   <div id="branding"> 
+    <img src="http://www.ucop.edu/newsroom/science/images/bannersm.jpg" border="0" alt=" " name="banner" title="UC Science Today" width="750" /> 
+   </div>
+   <!--end branding div --> 
+   <div class="topnav"> 
+    <!-- yellow navigation images --> 
+    <div id="secondarynav"> 
+     <a href="http://www.ucop.edu/sciencetoday/index.php">Home </a> 
+     <a href="http://www.ucop.edu/sciencetoday/archive">Archives </a> 
+     <a href="http://www.ucop.edu/sciencetoday/category/10">Video </a> 
+     <a href="http://www.ucop.edu/sciencetoday/category/12">Features </a> 
+     <a href="http://www.ucop.edu/sciencetoday/article/30">About </a> 
+     <a href="http://www.ucop.edu/sciencetoday/article/16666">Contact</a>
+     <!--<a href="#">Resources  </a>--> 
+     <a href="http://www.ucop.edu/sciencetoday/rss"><img src="http://www.ucop.edu/newsroom/science/images/rss.png" alt="RSS feed" border="0" /></a> 
+     <div id="searchform"> 
+      <form name="seek1" method="post" action="http://www.ucop.edu/sciencetoday/index.php"> 
+       <input type="hidden" value="search" name="action" /> 
+       <input type="text" name="querystring" size="18" maxlength="2033" value="Search ScienceToday" onclick="document.seek1.qt.value=''" class="search" style="font-size: 10px;" /> 
+       <input type="submit" name="seek1" value="&gt;" alt="Search" id="searchbutton" /> 
+      </form>
+     </div> 
+     <div id="picksubject"> 
+      <!--[if IE ]>
+<script type="text/javascript" src="http://www.ucop.edu/sciencetoday/templates/js/select-option-disabled-emulation.js"></script>
+<![endif]--> 
+      <form action="http://www.ucop.edu/sciencetoday/index.php?" method="post"> 
+       <select name="subject_id" class="subjectselect" id="quicklinktext"> <option value="0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Select subject ... </option> <option value="110">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Climate Change</option> <option value="109">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Genetics</option> <option value="108">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Veterinary Medicine</option> <option disabled="" value="6" class="dis">Health and Nutrition</option> <option value="37">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Disease</option> <option value="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;General Health and Nutrition</option> <option value="12">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cancer</option> <option value="13">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cardiovascular health</option> <option value="14">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aging</option> <option value="15">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Obesity</option> <option value="16">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Depression</option> <option disabled="" value="7" class="dis">Environment</option> <option value="17">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Energy</option> <option value="18">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Air quality</option> <option value="19">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Water quality and management</option> <option value="20">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Counter/Bio-Terrorism</option> <option value="21">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agriculture and food science</option> <option disabled="" value="8" class="dis">Physical and Earth Sciences</option> <option value="22">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Astronomy</option> <option value="23">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Physics</option> <option value="24">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oceanography</option> <option value="25">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geology</option> <option value="26">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anthropology/Palenontology</option> <option disabled="" value="9" class="dis">Engineering and Technology</option> <option value="27">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nanotechnology</option> <option value="28">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Internet and computer science</option> <option value="29">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Structural engineering and seismology</option> <option value="30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Medical engineering</option> <option value="31">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Civil engineering</option> <option disabled="" value="10" class="dis">Social Science</option> <option value="32">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Psychology</option> <option value="33">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gender studies</option> <option value="34">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sociology</option> <option value="35">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Education</option> </select> 
+       <input type="hidden" name="action" value="subject" /> 
+       <input type="submit" name="subj" value="&gt;" alt="Select Subject" id="subjectsubmit" /> 
+      </form>
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="container"> 
+   <div id="content_middle"> 
+    <table width="740" cellspacing="3" cellpadding="2" border="0" id="layout"> 
+     <!-- flash section --> 
+     <tbody>
+      <tr> 
+       <td rowspan="2"> <a name="maincontent"></a> 
+        <div class="currentstories"> 
+         <div class="sectiontitle">
+          on the air 
+         </div> 
+         <div class="textoraudioSummaryBlock"> 
+          <div class="textoraudioTitle">
+            New prevention strategy for HIV uses an old concept 
+          </div> 
+          <div class="textoraudio"> 
+           <a href="http://www.ucop.edu/sciencetoday/article/30685">Text and Audio</a> 
+          </div> 
+         </div>
+         <span class="lightGreySpacer">----------------------------------------<br /></span>
+         <div class="textoraudioSummaryBlock"> 
+          <div class="textoraudioTitle">
+            The role of emotion in intimate relationships 
+          </div> 
+          <div class="textoraudio"> 
+           <a href="http://www.ucop.edu/sciencetoday/article/30686">Text and Audio</a> 
+          </div> 
+         </div>
+         <span class="lightGreySpacer">----------------------------------------<br /></span>
+         <div class="textoraudioSummaryBlock"> 
+          <div class="textoraudioTitle">
+            National lab develops technique that?s popular with Library of Congress 
+          </div> 
+          <div class="textoraudio"> 
+           <a href="http://www.ucop.edu/sciencetoday/article/30687">Text and Audio</a> 
+          </div> 
+         </div>
+         <span class="lightGreySpacer">----------------------------------------<br /></span>
+         <div class="textoraudioSummaryBlock"> 
+          <div class="textoraudioTitle">
+            What bacteria and fungi living in conifers can tell us 
+          </div> 
+          <div class="textoraudio"> 
+           <a href="http://www.ucop.edu/sciencetoday/article/30688">Text and Audio</a> 
+          </div> 
+         </div>
+         <span class="lightGreySpacer">----------------------------------------<br /></span>
+         <div class="textoraudioSummaryBlock"> 
+          <div class="textoraudioTitle">
+            Eye on possible environmental links to breast cancer 
+          </div> 
+          <div class="textoraudio"> 
+           <a href="http://www.ucop.edu/sciencetoday/article/30689">Text and Audio</a> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="sciencetoday"> 
+         <br />
+         <p>Science Today is a daily radio feature produced by the <a href="http://www.universityofcalifornia.edu">University of California</a> for the CBS Radio Network. From breakthroughs in medicine, agriculture and the environment to insights into the world around us, Science Today covers it all.</p>
+         <br /> 
+        </div> </td> 
+       <td colspan="2"> 
+        <div class="mainfeature"> 
+         <div class="mainFeatureBlock"> 
+          <div id="stvideo"> 
+           <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="320" height="260" id="fp1" align="middle"> <param name="allwoFlashAutoInstall" value="true"></param> <param name="Flashvars" value="file=http://www.ucop.edu/sciencetoday/flash/cbcrp.flv&amp;startvolume=100&amp;autoStart=false&amp;hasStaticImage=false"></param> <param name="allowScriptAccess" value="sameDomain"></param> <param name="movie" value="http://www.ucop.edu/sciencetoday/flash/flvplayer.swf"></param> <param name="quality" value="high"></param> <param name="bgcolor" value="#ACCDE5"></param> <embed src="http://www.ucop.edu/sciencetoday/flash/flvplayer.swf" swliveconnect="true" flashvars="file=http://www.ucop.edu/sciencetoday/flash/cbcrp.flv&amp;startvolume=100&amp;autoStart=false&amp;hasStaticImage=false" quality="high" bgcolor="#ACCDE5" width="320" height="260" name="fp1" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" plugispage="http://www.macromedia.com/go/getflashplayer" /> </object> 
+          </div>
+          <!-- close stvideo div --> 
+          <div class="mainFeatureTitle"> 
+           <a href="http://www.ucop.edu/sciencetoday/index/action/article/op/display/article_id/29515"> Two decades of fighting breast cancer </a> 
+          </div> 
+          <div class="mainFeatureText">
+            For 20 years, UC's 
+           <a href="http://www.cbcrp.org/">California Breast Cancer Research Program</a> has fought to end the disease through innovative science and community participation and outreach. 
+          </div>
+          <div class="mainFeatureTranscript">
+           <a href="http://www.ucop.edu/sciencetoday/article/29515">Text and Video</a> 
+          </div> 
+         </div> 
+        </div> </td> 
+      </tr> 
+      <tr> 
+       <td rowspan="1"> 
+        <div class="weekfeature"> 
+         <div class="sectiontitle">
+          feature of the week 
+         </div> 
+         <div class="summaryBlock"> 
+          <div class="featureThumbnail"> 
+           <img src="http://www.ucop.edu/sciencetoday/img/24/24398788051d1be73b5277.png" alt="UC Davis Alzheimer's Disease Center researchers have idenitified a second amyloid protein in the brain that may play a role in Alzheimer's." /> 
+          </div>
+          <br /> 
+          <a href="http://www.ucop.edu/sciencetoday/article/29706" class="summaryTitle"> Second amyloid may play a role in Alzheimer's </a>
+          <br />
+          <br /> 
+          <span class="summaryText"> UC Davis Alzheimer's Disease Center researchers have idenitified a second amyloid protein in the brain that may play a role in Alzheimer's.&nbsp; </span> 
+         </div> 
+        </div></td> 
+       <td rowspan="1">
+        <div class="morefeatures"> 
+         <div class="sectiontitle">
+          more features
+         </div> 
+         <div id="more_storiesBlock">
+          <div class="more_storiesTitle">
+           <a href="http://undergrads.universityofcalifornia.edu/"><img src="http://www.ucop.edu/sciencetoday/jasmina_sm.jpg" alt="Undergraduate research" width="80" border="0" align="right" /></a>
+           <a href="http://undergrads.universityofcalifornia.edu/">UC undergrad research</a>
+           <br />
+          </div>
+          <br />
+          <div class="more_storiesSummary">
+           Research feeds undergrads' curiosity...
+          </div>
+          <br />
+          <br />
+          <div class="more_storiesTitle">
+           <a href="http://www.universityofcalifornia.edu/research" class="trans"><img src="http://www.ucop.edu/sciencetoday/UC Research.jpg" alt="UC systemwide research" width="80" border="0" align="right" /></a>
+           <a href="http://www.universityofcalifornia.edu/research">UC systemwide research</a>
+          </div>
+          <br />
+          <div class="more_storiesSummary">
+           Explore stories of discovery and innovation ...
+          </div>
+          <br />
+          <br />
+          <br />
+          <div class="more_storiesTitle">
+           <a href="http://www.facebook.com/ucsciencetoday" class="trans"><img src="http://www.ucop.edu/sciencetoday/Facebook_icon.jpg" alt="Facebook" width="80" border="0" align="right" /></a>
+           <a href="http://www.facebook.com/ucsciencetoday">Follow us on Facebook</a>
+           <br />
+          </div>
+          <br />
+          <div class="more_storiesSummary">
+           We're now on Facebook. Follow us ...
+          </div>
+          <br />
+         </div> 
+        </div></td> 
+      </tr> 
+      <tr> 
+       <td> </td> 
+      </tr> 
+      <tr> 
+       <td colspan="3"> 
+        <div class="ucscience"> 
+         <div class="sectiontitle">
+          uc science and research news 
+         </div> 
+         <div class="summaryBlock"> 
+          <span class="summaryDate">2014-01-28</span> 
+          <span class="summaryCampus">UC Santa Barbara</span>
+          <br /> 
+          <a href="http://www.universityofcalifornia.edu/news/article/30632" class="summaryTitle"> One-two punch of drought, global warming </a>
+          <br /> 
+          <span class="summaryText"> Low precipitation in a warming climate could have a severe impact on California's ecological systems, researchers say. </span> 
+          <div id="newsroom">
+           <a href="http://www.universityofcalifornia.edu/news/">&gt; For more stories, visit the UC Newsroom</a>
+          </div> 
+         </div> 
+        </div> </td> 
+      </tr> 
+     </tbody>
+    </table> 
+   </div> 
+   <div id="footer"> 
+    <div align="center"> 
+     <span class="smcopy">&copy; The Regents of the University of California <br /> 1995-2007</span> 
+    </div> 
+   </div> 
+  </div>  
+ </body>
+</html><!DOCTYPE html>
+<html lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>Tour Options</title> 
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" /> 
+  <link rel="stylesheet" href="/Content/css/plugins/bxSlider.css" /> 
+  <link rel="stylesheet" href="/Content/css/plugins/colorbox.css" /> 
+  <link href="/Content/css/960Framwork/reset.min.css?3e9f37" rel="stylesheet" /> 
+  <link href="/Content/css/960Framwork/typographyBluePrint.min.css?3e9f37" rel="stylesheet" /> 
+  <link href="/Content/css/960Framwork/960.min.css?3e9f37" rel="stylesheet" /> 
+  <link href="/Content/css/nav.min.css?3e9f37" rel="stylesheet" /> 
+  <link href="/Content/css/local.min.css?3e9f37" rel="stylesheet" /> 
+  <link href="/Content/css/genericBody.min.css?3e9f37" rel="stylesheet" /> 
+  <link href="/Content/css/iconSections.min.css?3e9f37" rel="stylesheet" /> 
+  <link href="/Content/css/footer.min.css?3e9f37" rel="stylesheet" /> 
+  <!--[if lte IE 8]>
+        <link rel="stylesheet" href="/Content/css/ie7_8.css" />
+    <![endif]--> 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script> 
+  <!-- Below is used to link to reserouces in external JS files --> 
+  <script type="text/javascript">
+        var baseURL = "/";
+    </script> 
+  <script src="/Scripts/app.min.js?3f3d91" type="text/javascript"></script> 
+  <script src="/Scripts/Custom_New/jquery.bxSlider.min.js" type="text/javascript"></script> 
+  <script src="/Scripts/Custom_New/selectiveLoad_plugins.js" type="text/javascript"></script> 
+  <script src="/Scripts/Custom_New/functionCalls.js" type="text/javascript"></script> 
+  <!--Google Analytics Tracking Code --> 
+  <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-503078-52']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script> 
+  <style type="text/css">
+        #translateContainer {
+            border:none;            
+            text-align:center;            
+        }
+            #translateContainer h3 {
+                line-height:30px;
+                background-color:#2d6cc0;
+                color:#fff;
+                font-family: Verdana,Arial,Helvetica,sans-serif;
+                font-size:15px;
+            }
+    </style> 
+  <!-- Google Translate Customization Code --> 
+  <meta name="google-translate-customization" content="40b506c3c9978d85-07cd07d0d7fc1236-gd88b6ab26a0907c6-12" /> 
+ </head> 
+ <body> 
+  <div id="headerWrapper"> 
+   <div class="container_16"> 
+    <div id="masthead" class="clearfix"> 
+     <div class="grid_16"> 
+      <img alt="UCRMonogram" class="UCRMonogram" src="/Images/ucrSealOverlay.png" width="346" height="145" /> 
+      <div id="mastHeadTop"> 
+       <h1> <a href="/" class="h1Link"> <img alt="UCR Logo" src="/Images/ucrSeal.png" /> <span class="hideText">University of California - UC Riverside</span><br /> <span class="spanHeaderUA">Undergraduate Admissions</span> </a> </h1> 
+      </div> 
+      <div id="mastHeadBottom"> 
+       <div id="button"> 
+        <img alt="th" class="menu_class" src="/Images/quicklinks.png" /> 
+        <ul class="the_menu" style="display: none;"> 
+         <li><a href="http://vcsaweb.ucr.edu/MyUCR/CreateAccount.aspx">MyUCR</a></li> 
+         <li><a href="/Admissions/pathsAdmissions">Paths to Admission</a> </li> 
+         <li><a href="/Admissions/meetCounselor">Find a Counselor</a></li> 
+         <li><a href="/PayingForCollege/financialAidScholarships">Financial Aid &amp; Scholarships</a></li> 
+         <li><a href="/Academics/collegesSchoolsMajors">Colleges, Schools &amp; Majors</a></li> 
+         <li><a href="/CampusLife/housing">Housing</a></li> 
+         <li><a href="/VisitUCR/tourOptions">Tour Options</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="grid_16 clearfix"> 
+      <div id="search"> 
+       <div class="breadcrumbs"> 
+        <a href="/">Home</a> &gt; 
+        <a href="/visitucr">Visit UCR</a> &gt; Tour Options 
+       </div> 
+       <div id="nav_utility"> 
+        <ul> 
+         <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+         <li><a href="http://www.campusmap.ucr.edu/">Campus Map</a></li> 
+         <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+        </ul> 
+       </div> 
+       <form action="http://www.ucr.edu/search.php" id="searchbox"> 
+        <p> <label accesskey="4" for="SearchText" style="visibility: hidden;"> Search for:</label> <input type="text" value="" name="q" id="SearchText" maxlength="255" size="19" style="border: 1px solid rgb(126, 157, 185);
+                                padding: 2px; background: url(http://www.ucr.edu/images/design6/search_watermark.gif) no-repeat scroll left center rgb(255, 255, 255);" /> <input type="submit" value="Go" name="sa" id="go" /> </p> 
+       </form> 
+       <script src="http://www.ucr.edu/js/watermark.js" type="text/javascript"></script> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <!-- end Header Wrapper --> 
+  </div> 
+  <!-- end Header Wrapper --> 
+  <div id="mainContent"> 
+   <div id="box"> 
+    <a href="http://vcsaweb.ucr.edu/MyUCR/">MyUCR</a> 
+    <a href="/Home/FAQ"> FAQs</a> 
+    <a href="https://www.facebook.com/ucradmissions?bcode=q099X" class="facebook"> Facebook</a> 
+    <a href="http://twitter.com/ucradmissions" class="twitter">Twitter</a> 
+    <a href="http://lifeatucr.tumblr.com/" class="tumblr">Tumblr</a> 
+    <a href="http://instagram.com/lifeatucr" class="instagram">Instagram</a> 
+   </div> 
+   <!-- Floating box stops here --> 
+   <div class="container_16 clearfix"> 
+    <div class="grid_4 alpha"> 
+     <div id="navigation" class="clearfix"> 
+      <div id="sidebar"> 
+       <div class="nav"> 
+        <ul> 
+         <li class="home"><a href="/">Home</a></li> 
+        </ul> 
+        <ul class="audienceNav"> 
+         <li>Who Are You?</li> 
+         <li><a href="/Home/freshmen">Freshmen</a></li> 
+         <li><a href="/Home/transfer">Transfers</a></li> 
+         <li><a href="http://international.ucr.edu">International</a></li> 
+         <li><a href="/Home/military">Military/Veterans</a></li> 
+         <li><a href="/Home/parents">Parents</a></li> 
+         <li><a href="/Home/counselors">Counselors</a></li> 
+        </ul> 
+        <ul> 
+         <li><a href="/WhyUCR">Why UC Riverside?</a> 
+          <ul> 
+           <li><a href="/WhyUCR/ourStudents">Our Students</a></li> 
+           <li><a href="/WhyUCR/ourRankings">Our Rankings</a></li> 
+           <li><a href="/WhyUCR/ourResearch">Our Research</a></li> 
+           <li><a href="/WhyUCR/ourGuarantee">Our Guarantee</a></li> 
+          </ul> </li> 
+         <li><a href="/Academics">Academics</a> 
+          <ul> 
+           <li><a href="/Academics/collegesSchoolsMajors">Colleges, Schools &amp; Majors</a></li> 
+           <li><a href="/Academics/honorsPrograms">Honors Programs</a></li> 
+           <li><a href="/Academics/faculty">Faculty</a></li> 
+           <li><a href="/Academics/supportServices">Support Services</a></li> 
+           <li><a href="/Academics/studyAwayHome">Study Away from Home</a></li> 
+           <li><a href="/Academics/transferprep">Special Transfer Programs</a></li> 
+          </ul> </li> 
+         <li><a href="/CampusLife">Campus Life</a> 
+          <ul> 
+           <li><a href="/CampusLife/housing">Housing</a></li> 
+           <li><a href="/CampusLife/gettingInvolved">Getting Involved</a></li> 
+           <li><a href="/CampusLife/artsEvents">Arts &amp; Events</a></li> 
+           <li><a href="/CampusLife/athleticsRecreation">Athletics &amp; Recreation</a></li> 
+           <li><a href="/CampusLife/safetyWellness">Safety &amp; Wellness</a></li> 
+          </ul> </li> 
+         <li><a href="/Admissions">Admission</a> 
+          <ul> 
+           <li><a href="/Admissions/datesDeadlines">Dates &amp; Deadlines</a></li> 
+           <li><a href="/Admissions/pathsAdmissions">Freshman/Transfer Admission</a></li> 
+           <li><a href="/Admissions/meetCounselor">Meet Your Counselor</a></li> 
+          </ul> </li> 
+         <li><a href="/PayingForCollege">Paying for College</a> 
+          <ul> 
+           <li><a href="/PayingForCollege/financialAidScholarships">Financial Aid &amp; Scholarships</a></li> 
+           <li><a href="/PayingForCollege/costEstimator">Cost Estimator</a></li> 
+          </ul> </li> 
+         <li><a href="/VisitUCR">Visit UCR</a> 
+          <ul> 
+           <li><a class="current" href="/VisitUCR/tourOptions">Tour Options</a> 
+            <ul> 
+             <li><a href="/VisitUCR/virtualTours">Virtual Tours</a></li> 
+             <li><a href="/VisitUCR/selfGuided">Self-Guided</a></li> 
+            </ul> </li> 
+           <li><a href="/VisitUCR/planVisit">Plan Your Visit</a> 
+            <ul> 
+             <li><a href="/VisitUCR/hotelsDining">Hotels &amp; Dining</a></li> 
+             <li><a href="/VisitUCR/attractions">Attractions</a></li> 
+             <li><a href="/VisitUCR/gettingHere">Getting Here</a></li> 
+            </ul> </li> 
+           <li><a href="/VisitUCR/faq">Tour FAQs</a></li> 
+           <li><a href="/VisitUCR/aboutUs">About Us</a></li> 
+           <li><a href="/VisitUCR/campusTourGuide">Be a Campus Tour Guide</a></li> 
+          </ul> </li> 
+         <li><a href="/Apply">Apply Now</a></li> 
+         <li><a href="/Home/FAQ">FAQs</a></li> 
+         <li><a href="/Admissions/meetCounselor">Contact Us</a></li> 
+        </ul> 
+        <ul class="audienceNav" style="margin-top: 20px;"> 
+         <li>MyUCR Account</li> 
+         <li><a href="http://vcsaweb.ucr.edu/MyUCR/CreateAccount.aspx">Open a New Account</a></li> 
+         <li><a href="http://vcsaweb.ucr.edu/MyUCR/">Log in Now</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <!-- Begin Google Translate --> 
+      <div id="translateContainer"> 
+       <h3> Translate&nbsp; <img alt="Translate" src="/Images/icons/flagChinese_18.png" /> <img alt="Translate" src="/Images/icons/flagKorea_18.png" /> <img alt="Translate" src="/Images/icons/flagHindu_18.png" /> <img alt="Translate" src="/Images/icons/flagArab_18.png" /> </h3> 
+       <div id="google_translate_element"></div> 
+       <script type="text/javascript">
+                            function googleTranslateElementInit() {
+                                new google.translate.TranslateElement({ pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE }, 'google_translate_element');
+                            }
+                        </script> 
+       <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> 
+      </div> 
+      <!-- End Google Translate --> 
+     </div> 
+     <div> 
+      <a style="margin-top: 35px; display: block; color: #362F2D; font-weight: 700; text-align: center;
+                        width: 200px;" href="http://itunes.apple.com/nz/app/myucr-mobile/id417130774?mt=8&amp;ls=1"> <img alt="Get the MyUCR Mobile Application" src="/Images/myUCRMobilIcon.png" style="margin-bottom: 10px;" /><br /> Download MyUCR Mobile to your iPhone or iPod Touch!</a> 
+     </div> 
+     <script type="text/javascript" src="https://www.intelliworkschat.com/a/Hello?ti=0ef230ec-7b18-4dc1-9d65-e9fb13ca9e9c;cid=d6a605ab-c97a-4a87-a2c7-e3f8a0be192f;v=2"></script> 
+    </div> 
+    <div class="grid_12 omega"> 
+     <div class="innerPagebxsliderWrapper clearfix"> 
+      <div class="bxsliderMarkerLeft checkbox"> 
+       <p class="verd"> Admissions<br /> <span>Check Box</span> </p> 
+      </div> 
+      <div class="demo-wrap" id="innerPagebxslider"> 
+       <ul id="slider1" class="multiple"> 
+        <li><a href="http://instagram.com/lifeatucr"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/instagram.png" width="63" height="52" /> <strong>Follow us on Instagram</strong> <span>You'll love what you see.</span></a> </li> 
+        <li><a href="http://highlanderday.ucr.edu/"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/dec_feb_highlander.png" width="63" height="52" /> <strong>Highlander Day</strong> <span>Interested in UCR? Come visit on April 12.</span></a> </li> 
+        <li><a href="http://student08.ucr.edu/em/visitUCR/default.aspx"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/S-O_2TAT.png" width="63" height="52" /> <strong>Take a Tour</strong><span> Visit UCR, see housing and explore the campus.</span> </a></li> 
+        <li><a href="http://vcsaweb.ucr.edu/MyUCR/"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/N30_MyUCR.png" width="63" height="52" /> <strong>Create a MyUCR Account</strong> <span>Sign up and track your admission status.</span> </a></li> 
+        <li><a href="/WhyUCR"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/N30_8FR.png" width="63" height="52" /> <strong>Why UC Riverside?</strong> <span>See 50 good reasons to choose us.</span> </a> </li> 
+        <li><a href="http://www.facebook.com/ucradmissions"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/N30_4F.png" width="63" height="52" /> <strong>Like us on Facebook</strong> <span>Stay connected to UCR.</span></a></li> 
+        <li><a href="http://twitter.com/UCRiverside"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/N30_5T.png" width="63" height="52" /> <strong>Follow us on Twitter</strong> <span>Don’t miss a single update.</span></a></li> 
+        <li><a href="http://lifeatucr.tumblr.com/"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/N30_6T.png" width="63" height="52" /> <strong>Follow us on Tumblr</strong> <span>See what’s happening at UCR right now.</span></a> </li> 
+       </ul> 
+      </div> 
+      <div class="bxsliderMarkerRight">
+        &nbsp; 
+      </div> 
+     </div> 
+     <script type="text/javascript">
+    $(document).ready(function () {
+        $('#selfGuidedTourTab').click(function () {            
+            window.location.href = '/VisitUCR/selfGuided';
+        });
+    }); 
+</script> 
+     <h2 class="intro">Choose a Campus Tour</h2> 
+     <h3 class="verd intro"> Walk a mile (give or take) in our shoes. Pick from a variety of fun and informative student-led tours.</h3> 
+     <img alt="A UCR student guide leads a tour." width="701" height="276" src="/Images/Tour/Tour_options.png" /> 
+     <div id="tabsOpenWrapper" class="clearfix noBorder" style="text-align:center; margin-top: 28px; margin-bottom: 0;"> 
+      <ul> 
+       <li><a href="#campusTour">Campus Tour</a></li> 
+       <li><a href="#groupTour">Group Tour</a></li> 
+       <li><a href="#residenceHallTour">Residence Hall Tour</a></li> 
+       <li><a href="#engineeringLabTour">Engineering Lab Tour</a></li> 
+       <!--[if !IE 7]>--> 
+      </ul> 
+      <ul> 
+       <!--<![endif]--> 
+       <li style="margin-left:50px;"><a href="#recreationCenter" style="border-left: 1px solid #bdbcbd;">Recreation Center</a></li> 
+       <li><a href="#botanicGardens">Botanic Gardens</a></li> 
+       <li><a href="#selfGuidedTour">Self-Guided Tour</a></li> 
+      </ul> 
+     </div> 
+     <div class="clearfix"> 
+      <div class="grid_8 alpha"> 
+       <div id="tabsOpenContent" class="version1 sub" style="min-height: 1000px;"> 
+        <div id="campusTour"> 
+         <p><strong>A Day in the Life of a UCR Student</strong></p> 
+         <p>There’s no better way to get a feel for what UC Riverside is all about than to take a campus walking tour with a UCR student as your guide. Experience the sights and sounds of UC Riverside’s bustling student life firsthand as you stroll through campus. You will visit a library, the Highlander Union Building (HUB), the Campus Store, popular student hangouts and more. The route follows a student's walking path to class so you’ll get an idea of what a typical day would be like.</p> 
+         <p>Prospective and newly admitted students and their families can reserve a 50-minute guided tour throughout the year. Reservations are required for all tours, as space is limited. </p> 
+         <p><a href="http://student08.ucr.edu/em/visitUCR/default.aspx">Schedule a campus tour now!</a><a href="http://student08.ucr.edu/em/visitUCR/default.aspx" class="rightArrowCTA"></a></p> 
+        </div> 
+        <div id="groupTour"> 
+         <div class="grid_8 alpha"> 
+          <p><strong>From 10 to 100, Your Group is Invited! </strong></p> 
+          <p>We’re excited that you’re interested in bringing your group for a visit. Group visits can include an information session facilitated by an admissions counselor, a guided campus tour, residence hall tour, Student Recreation Center tour, Botanic Garden tour and student panels.</p> 
+          <p>The information session will cover admission requirements, important deadlines and application information, as well as housing, financial aid and student life highlights.</p> 
+          <p>The 50-minute campus tour will showcase a library,the Highlander Union Building (HUB) and other great places at UCR. The other tour options listed above take about one hour.</p> 
+          <p>Our office can handle groups between 10 and 100 total per visit. Just complete your reservation and we’ll be in touch! </p> 
+          <p><strong>Elementary &amp; Middle School Groups</strong></p> 
+          <p>Younger groups are encouraged to participate in a campus tour and information session led by UCR students. Residence hall tours and engineering lab tours are <strong>not available </strong>for these age groups. <strong>February through June</strong>, elementary and middle school groups are accomodated for a <strong>campus tour only </strong>which is led by the UCR Junior Ambassador Program. Information sessions can be scheduled. </p> 
+          <p><a href="http://student08.ucr.edu/em/visitUCR/default.aspx">Schedule a group tour now!</a><a href="http://student08.ucr.edu/em/visitUCR/default.aspx" class="rightArrowCTA"></a></p> 
+         </div> 
+        </div> 
+        <div id="residenceHallTour"> 
+         <div class="grid_8 alpha"> 
+          <p><strong>Our Residence Hall Doors are Always Open </strong></p> 
+          <p>Our student-led residence hall tours last about 60 minutes and include a visit to a room in each of our two traditional residence halls, Aberdeen-Inverness and Lothian, and a room in our suite-style halls in Pentland Hills. </p> 
+          <p>Residence hall tours take place Monday through Friday (excluding holidays), starting at 10 a.m. and ending at 4 p.m. from the <a href="http://campusmap.ucr.edu/imap/index.html?loc=A&amp;I">Aberdeen-Inverness (A&amp;I) Residence Hall</a>. Please note that housing tours and campus tours are independent of each other. Allow approximately 10 minutes to walk uphill from the end of the campus tour outside the Student Services Building to Aberdeen-Inverness (A&amp;I). The all-day parking permit that you purchased for your campus tour is also valid in Lot 23, which is near the residence halls if you would like to drive instead.</p> 
+          <p><strong>Stay for the food!</strong></p> 
+          <p>In addition to the housing tour, you’re welcome to dine at one of our residential restaurants or in our Highlander Union Building (HUB) on campus, following your tour. This is a great way to experience campus life at UC Riverside and meet current students. </p> 
+          <p><a href="http://student08.ucr.edu/em/visitUCR/default.aspx">Schedule a residence hall tour now!</a><a href="http://student08.ucr.edu/em/visitUCR/default.aspx" class="rightArrowCTA"></a></p> 
+         </div> 
+        </div> 
+        <div id="engineeringLabTour"> 
+         <div class="grid_8 alpha"> 
+          <p><strong>Some Students are 'Bourn' for Engineering </strong></p> 
+          <p>Bourns College of Engineering offers customized engineering lab tours throughout the year for prospective students, parents and guests. These tours are provided by student ambassadors to give guests an up-close look at the state-of-the-art engineering facilities, departments and hands-on student labs. This tour also provide guests with a student's perspective on the academic experiences, social life and ways engineering students have fun and stay connected. Tours should be reserved at least two weeks in advance. </p> 
+          <p><a href="http://student08.ucr.edu/em/visitUCR/default.aspx">Schedule a Bourns College of Engineering tour now!</a><a href="http://student08.ucr.edu/em/visitUCR/default.aspx" class="rightArrowCTA"></a></p> 
+         </div> 
+        </div> 
+        <div id="recreationCenter"> 
+         <div class="grid_8 alpha"> 
+          <p><strong> Working Out on Campus Shouldn’t Be a Sweat  </strong></p> 
+          <p>Our 80,000+ square foot Student Recreation Center (SRC) features a 6,000 square-foot weight room, 3,000 square-foot cardio area, 30 kinds of classes, hardwood basketball, tennis, racquetball, outdoor hockey, beach and indoor volleyball, badminton, two outdoor tracks, an intense ropes course, rock climbing and an Outdoor Excursions Center. Guided walking tours are available through the Student Recreation Center, Monday through Friday from 9 a.m. to 4 pm. Reservations are only required for groups larger than 10. Student Recreation Center tours are not scheduled through our office. Instead, you should contact the SRC directly.</p> 
+          <p><a href="http://recreation.ucr.edu/ContactUs/Pages/landing.aspx">Contact the Student Recreation Center to schedule a tour now!</a><a href="http://recreation.ucr.edu/ContactUs/Pages/landing.aspx" class="rightArrowCTA"></a></p> 
+         </div> 
+        </div> 
+        <div id="botanicGardens"> 
+         <div class="grid_8 alpha"> 
+          <p><strong>Explore Our Gardens</strong></p> 
+          <p>The UCR Botanic Gardens is a living museum, classroom and laboratory. Any group from 10 to 60 persons (or two classes), third-grade to adult, may schedule a tour. Include one adult for every 10 students younger than 18. All groups of more than 10 must schedule their visit in advance. Guided tours are best scheduled at least one month in advance. For people with mobility limitations, ask about wheelchair pathway tours. </p> 
+          <p>Docent-guided tours include general information about the Gardens, desert adaptations of plants, uses of local plants by Native Americans, the state tree and flower and more.</p> 
+          <p>Tour groups are met at the Gardens entrance at the scheduled time. If you arrive early, use the opportunity to peruse pamphlets, get a drink of water and use the restrooms (the next restrooms are 20 to 30 minutes along the tour). Docents are available 9 a.m. to noon and 1 to 3 p.m. Tuesday through Friday. Tours last about an hour, depending on interest and questions. </p> 
+          <p>Most buses can turn around and drop off students near the entrance and park in the Gardens' free lot where they don't block traffic. Buses may also leave campus and return to pick up the students at an appointed time.</p> 
+          <p>There is a 15-minute leeway for arrival. <strong>If your group is 15 minutes late, the guided tour is cancelled.</strong> Allow plenty of time for loading and traffic. Some classes like to bring a sack lunch to eat on the lawn area after the tour. Tours are scheduled on a first-come, first-served basis. </p> 
+          <p><a href="http://gardens.ucr.edu/tours.html">Schedule a Botanic Gardens tour now!</a><a href="http://gardens.ucr.edu/tours.html" class="rightArrowCTA"></a></p> 
+         </div> 
+        </div> 
+        <div id="selfGuidedTour"> 
+         <div class="grid_8 alpha"> 
+          <div id="campusTour2"> 
+           <p><strong>Create Your Own Self-Guided Tour</strong></p> 
+           <p>Go rogue and explore UCR on your own! You can print four different self-guided tour maps ranging from &quot;Highlights and Hidden Treasures&quot; to college-specific routes. </p> 
+           <p><a <a="" class="rightArrowCTA" href="/VisitUCR/selfGuided?Length=8">Check out our fun, self-guided tour maps.</a></p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="grid_4 omega"> 
+       <div class="iconSections version2 sub4"> 
+        <h4> <span> <img alt="" width="47" height="47" src="/Images/icons/cancelIcon.png" /> </span> <a href="http://student08.ucr.edu/em/visitUCR/cancel.aspx">Cancel a Tour</a> </h4> 
+        <p> Plans change? Cancel or reschedule easily. </p> 
+        <h4> <span> <img alt="" width="45" height="45" src="/Images/icons/compassIcon.png" /> </span> <a href="http://campusmap.ucr.edu/imap/index.html">View a Campus Map</a></h4> 
+        <p>Find buildings and parking. Print and go. </p> 
+        <h4> <span> <img alt="" width="49" height="48" src="/Images/icons/busIcon.png" /></span> <a href="/Content/PDFs/group_directions_bus_parking.pdf">Group Directions / Bus Parking</a> </h4> 
+        <p>Print information specifically for groups.</p> 
+        <h4> <span> <img alt="" width="45" height="45" src="/Images/icons/cameraIcon.png" /> </span> <a href="/VisitUCR/virtualTours">Take a Virtual Tour</a> </h4> 
+        <p> Get a 3-D glimpse of UCR with video. </p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="footerwrapper"> 
+   <div class="container_16"> 
+    <div class="prefooter alt-1-1-3 clearfix"> 
+     <div class="grid_5"> 
+      <h3> General Campus Information</h3> 
+      <address> <span class="vcard"><strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"><span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code"> 92521</span><br /> </span>Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR">Visit UCR</a></li> 
+      </ul> 
+     </div> 
+     <div class="grid_5"> 
+      <h3> Department Information</h3> 
+      <address> <strong>UCR Admissions</strong><br /> <a href="http://campusmap.ucr.edu/campusMap.php?loc=SSB" title="Campus Map">3106 Student Services Building</a><br /> <br /> Tel: (951) 827-3411<br /> Fax: (951) 827-6344<br /> E-mail: <a href="mailto:admissions@ucr.edu?subject=Website%20Inquiry">admissions@ucr.edu</a></address> 
+      <ul class="footer_links"> 
+       <li><a id="footer_link_facebook" class="footer_link_icon" href="https://www.facebook.com/ucradmissions?bcode=q099X" title="external site: Facebook">Visit UCR Admissions Facebook page</a></li> 
+       <li><a id="footer_link_twitter" class="footer_link_icon" href="http://twitter.com/ucradmissions" title="external site: Twitter">Follow UCR Admissions on Twitter</a></li> 
+       <li><a id="footer_link_tumblr" class="footer_link_icon" href="http://lifeatucr.tumblr.com"> Read about UCR Student Life on Tumblr</a></li> 
+       <li><a id="footer_link_instagram" class="footer_link_icon" href="http://instagram.com/lifeatucr">Follow UCR Admissions on Instagram</a></li> 
+      </ul> 
+     </div> 
+     <div class="grid_6"> 
+      <h3> Related Links</h3> 
+      <ul class="relatedLinks"> 
+       <li><a href="http://www.universityofcalifornia.edu/admissions/how-to-apply/apply-online/index.html"> Apply to UC Riverside </a></li> 
+       <li><a href="http://vcsaweb.ucr.edu/MyUCR/CreateAccount.aspx">Create a MyUCR Account</a></li> 
+       <li><a href="http://international.ucr.edu">International Admissions</a></li> 
+       <li><a href="http://finaid.ucr.edu/Pages/default.aspx">Financial Aid </a></li> 
+       <li><a href="http://promise.ucr.edu/">Living the Promise </a></li> 
+       <li><a href="http://rside.ucr.edu/">R'Side </a></li> 
+       <li><a href="http://tartansoul.ucr.edu/">Tartan Soul</a></li> 
+       <li><a href="http://gohighlanders.com/splash.aspx?id=splash_226">Go Highlanders</a></li> 
+       <li><a href="http://rdream.ucr.edu">R'Dream</a></li> 
+      </ul> 
+      <p class="footer_info"> <img src="/Images/footer.jpg" alt="" width="120" height="103" /> <strong>UCR Undergraduate Admissions</strong> is committed to providing you with the highest level of service. We serve prospective students, their families, and educators, and enroll a highly diverse and academically accomplished student body. </p> 
+     </div> 
+    </div> 
+    <div id="nav_footer" class="clearfix"> 
+     <ul> 
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li> <a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li> <a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li> <a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li> <a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li> <a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li> <a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li> <a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="/#sliderTriggerAnchor" class="footerFeedbackLink" accesskey="9" title="Send Feedback E-mail"> Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions"> Terms and Conditions</a></li> 
+      <li>@ 2014 Regents of the University of California</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div>   
+ </body>
+</html><!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>UC Washington Academic Internship Program: Home</title> 
+  <meta http-equiv="last-modified" content="2014-02-26" /> 
+  <meta name="version" content="1.133 1.90 " /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/css/ucdc.css" media="all" /> 
+  <script type="text/javascript" src="http://www.ucr.edu/replacement.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/swfobject.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/striper.js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6.css" media="all" />
+<script defer type="text/javascript" src="//www.ucr.edu/pngfix.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+// ]]>
+</script> 
+  <script type="text/javascript">
+// <![CDATA[
+var pageTracker = _gat._getTracker("UA-3051875-1");
+pageTracker._setDomainName("ucr.edu");
+pageTracker._initData();
+pageTracker._trackPageview();
+// ]]>
+</script> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://ucdc.ucr.edu/" accesskey="1">Home Page</a></li> 
+    <!--li class="skip"><a href="/about/accessibility.asp" accesskey="0">Accessibility Statement</a></li--> 
+   </ul> 
+   <hr /> 
+   <div id="brandingbar"> 
+    <img class="overlay" src="/images/design6/overlay_home.png" alt="" /> 
+    <h2><a href="http://www.ucr.edu" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="UCR" title="UCR Home page" /></a></h2> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/images/design6/masthead.jpg);"> 
+   <h1><a href="http://ucdc.ucr.edu/"><span class="printonly">UC Washington Academic Internship Program</span></a></h1> 
+   <div class="pagewrapper"></div> 
+  </div> 
+  <div id="nav_main"> 
+   <h3 class="accessibility">Campuswide Navigation</h3> 
+   <ul>
+    <li><a id="nav_main_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+    <li><a id="nav_main_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+    <li><a id="nav_main_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+    <li><a id="nav_main_admissions" href="http://www.ucr.edu/admissions/"><span>Admissions</span></a></li>
+    <li><a id="nav_main_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+    <li><a id="nav_main_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+    <li><a id="nav_main_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+    <li><a id="nav_main_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+    <li><a id="nav_main_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+   </ul> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr /> 
+  <!-- Start Breadcrumbs --> 
+  <div class="breadcrumbs"> 
+   <h3 class="accessibility">Breadcrumbs</h3> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li class="lastitem">UC Washington Academic Internship Program</li> 
+   </ul> 
+  </div> 
+  <!-- End Breadcrumbs --> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://www.campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/help.html">Help</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox_005321787100146352868:ieiwpivzb0i" action="http://www.ucr.edu/search.php">
+     <p> <input type="hidden" name="cx" value="005321787100146352868:ieiwpivzb0i" /> <input type="hidden" name="cof" value="FORID:11" /> <label for="SearchText" accesskey="4">Search for:</label> <input type="text" size="19" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+    </form> 
+    <script type="text/javascript" src="http://google.com/coop/cse/brand?form=searchbox_005321787100146352868%3Aieiwpivzb0i"></script> 
+   </div> 
+   <hr /> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>Home</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li><a href=".." title="Home">Home<br /><span></span></a></li>
+       <li><a href="/about.html" title="About the Program">About the Program<br /><span>What You Need to Know!</span></a></li>
+       <li><a href="/internships.html" title="Internships">Internships<br /><span>Possible Sites</span></a></li>
+       <li><a href="/courses.html" title="Courses">Courses<br /><span>Studying at the UCDC Center</span></a></li>
+       <li><a href="/participants/13_14.html" title="Participants">Participants<br /><span>The People Involved</span></a></li>
+       <li><a href="/finance.html" title="How Much Does it Cost?">How Much Does it Cost?<br /><span>Examine the Budgets</span></a></li>
+       <li><a href="/apply.html" title="How to Apply">How to Apply<br /><span>Join the Program</span></a></li>
+       <li><a href="/faq.html" title="FAQ">FAQ<br /><span>Prospective Applicants and Current Participants</span></a></li>
+       <li><a href="/media.html" title="Media Gallery">Media Gallery<br /><span>Take A Look!</span></a></li>
+       <li><a href="/faculty.html" title="Teaching at the Center">Teaching at the Center<br /><span>Faculty Positions</span></a></li>
+       <li><a href="/contact.html" title="Contact Us">Contact Us<br /><span>Here To Guide You</span></a></li>
+       <li><a href="https://www.ucdc.edu/academic/ucdc-summer-program" title="Summer in Washington, DC">Summer in Washington, DC<br /><span>See What Summer Offers</span></a></li>
+       <li><a href="http://www.ucdc.edu" title="Learn More">Learn More<br /><span>UC Washington Center</span></a></li> 
+      </ul> 
+     </div> 
+     <img src="/images/splash_image.jpg" /> 
+    </div> 
+    <hr /> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy.css" cssmenu="" width="790" --> 
+     <div class="header"> 
+      <!-- com.omniupdate.div label="title" group="Everyone" button="734" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="230" --> 
+      <!-- /com.omniupdate.div -->
+     </div> 
+     <div id="omnicontent"> 
+      <!-- com.omniupdate.div label="home-image" group="Everyone" button="657" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="492" -->
+      <p></p>
+      <div id="1394578324eaf9066" class="flashcontent"> 
+       <div class="alert">
+        <p> <strong>Your Adobe Flash Player is missing or out of date or you do not have Javascript enabled in your browser.</strong><br /> <a class="external" href="http://www.adobe.com/products/flashplayer/" title="external site: Adobe Flash Player download"><img class="img_L_borderless" src="http://www.ucr.edu/images/design6/get_flashplayer.gif" />Install the latest Flash Player</a>. </p>
+       </div> 
+       <div class="clear"></div> 
+      </div> 
+      <script type="text/javascript">
+// <![CDATA[
+   var so = new SWFObject("http://ucdc.cmsdev.ucr.edu/images/banner_work.swf", "flash", "484", "144", "8", "#FFFFFF");
+   so.write("1394578324eaf9066");
+// ]]>
+</script>
+      <p></p> 
+      <p class="main_image_caption" align="center"><span style="font-size: x-large;">&quot;Live...Learn...Intern&quot;</span></p> 
+      <p class="main_image_caption" align="center"><strong>Live</strong> in our nation's capital, <strong>learn</strong> while experiencing the city of Washington, DC, and <strong>intern</strong> in a fast-paced and exciting organization of your choice. The possibilities are endless.</p>
+      <!-- /com.omniupdate.div --> 
+      <div class="column23"> 
+       <!-- com.omniupdate.div label="column2" group="Everyone" button="657" -->
+       <!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="347"/ -->
+       <h3><img src="/images/welcome.jpg" alt="Welcome" width="199" height="93" /></h3> The UC Washington Academic Internship Program offers qualified undergraduate students from any major an exciting opportunity to combine course work, field research and work experience during a quarter's residence in our nation's capital.
+       <br /> 
+       <p><a class="Morelink" href="/about.html">Read More</a></p> 
+       <h3>Program Dates</h3> 
+       <p>Fall 2013:<br />September 22 - December 7, 2013 (regular quarter)<br />August 25 - December 14, 2013 (extended quarter)<br /><br />Winter 2014:<br />January 5 - March 15, 2014<br /><br />Spring 2014:<br />March 23 - June 7, 2014</p> 
+       <p>Summer 2014:<br />June 15-August 23, 2014 (these dates are tentative)</p>
+       <!-- /com.omniupdate.div --> 
+      </div> 
+      <div class="column3R on_the_side"> 
+       <!-- com.omniupdate.div label="column3R" group="Everyone" button="657" -->
+       <!-- ouc:editor csspath="/z-omniupdate/css/style_on_the_side.css" cssmenu="/z-omniupdate/css/style.txt" width="145"/ -->
+       <h3>Upcoming Events</h3> 
+       <p><strong>UCDC Information Sessions</strong><strong><br /></strong>Come visit during <a href="/contact.html">office hours</a></p> 
+       <h3>Application Deadlines</h3> 
+       <p>Fall 2014 - April 11<br />Winter 2015 - May 30 (early deadline)</p> 
+       <p><a class="Morelink" href="/apply.html">Read More </a></p> 
+       <h3>Other News</h3> 
+       <p><a href="https://www.ucdc.edu/node/934">Photo of the Week Contest Winners</a><br /><br />Missed the UCDC deadline?&nbsp; Check out the <a href="http://uccs.ucdavis.edu/">UC Center Sacramento internship program (UCCS).&nbsp;</a>&nbsp;</p> 
+       <p><strong>UCCS Application Deadlines</strong><br />Summer 2014:<br />Policy - April 14<br />Journalism - April 14<br />Fall 2014: August 4</p>
+       <!-- /com.omniupdate.div --> 
+      </div> 
+      <!-- com.omniupdate.div label="relatedlinks" group="Everyone" button="657" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="347" -->
+      <!-- /com.omniupdate.div --> 
+      <!-- com.omniupdate.efp -->
+      <!-- /com.omniupdate.efp --> 
+     </div> 
+     <!-- End Related Links --> 
+     <hr /> 
+    </div> 
+    <!-- End Content Area --> 
+   </div> 
+   <!-- End Content --> 
+   <div id="footerwrapper"> 
+    <div id="prefooter"> 
+     <div class="column2"> 
+      <h3>General Campus Information</h3> 
+      <address><strong>University of California, Riverside</strong><br />900 University Ave.<br /> Riverside, CA 92521<br />Tel: (951) 827-1012<br /><br /> <a href="http://www.ucr.edu/employment.html">Career Opportunities</a></address> 
+     </div> 
+     <div class="column2"> 
+      <h3>Undergraduate Education</h3> 
+      <address><strong>Off Campus Educational Experiences<br />UCR-UC Washington Academic Internship Program</strong><br /> 2322 Olmsted Hall<br /><br /> Tel: (951) 827-2508<br /> Fax: (951) 827-2618<br />E-mail: <a href="mailto:ucrucdc@ucr.edu?subject=UCDC Web Site Inquiry">ucrucdc@ucr.edu</a></address> 
+     </div> 
+     <div class="column2R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://www.ucdc.edu/">UC Washington Center</a></li> 
+       <li><a href="/docs/ucdcapplication.pdf">UCDC Application</a></li> 
+       <li><a href="/finance.html">UCDC Financial Information</a></li> 
+       <li><a href="http://www.ue.ucr.edu">Undergraduate Education<br /></a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="mailto:webmaster@ucr.edu" accesskey="9">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html">Terms and Conditions</a></li> 
+      <li>&copy; 2014 Regents of the University of California</li> 
+      <li><a href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01272&amp;site=ucdcdev&amp;path=%2Findex.html">Last modified: 2014-Feb-26</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div>
+  <!-- end pagewrapper -->   
+ </body>
+</html><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+ <head>
+  <title>R'Web</title>  
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+  <link rel="R'Web" type="image/x-icon" href="favicon.ico" /> 
+  <script type="text/javascript" src="add-event.js"></script> 
+  <script type="text/javascript" src="popup.js"></script> 
+  <script type="text/javascript" src="prototype.js"></script> 
+  <script type="text/javascript" src="control.js"></script> 
+  <style type="text/css">
+.tab-header { position: relative; top: -58px; } 
+.style1 {
+	color: #128aa2;
+	font-weight: bold;
+}
+</style> 
+  <meta http-equiv="last-modified" content="2008-04-18" /> 
+  <meta name="version" content="1.133 1.90 " /> 
+  <link rel="stylesheet" type="text/css" href="css/design6.css" media="all" /> 
+  <!--<link rel="stylesheet" type="text/css" href="css/print6.css" media="print"> --> 
+  <link rel="stylesheet" type="text/css" href="css/intro.css" media="all" /> 
+  <script type="text/javascript">
+window.onbeforeunload = function(){ return; }
+/***********************************************
+* Bookmark site script- ï¿½ Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+/* Modified to support Opera */
+function bookmarksite(title,url){
+if (window.sidebar) // firefox
+	window.sidebar.addPanel(title, url, "");
+else if(window.opera && window.print){ // opera
+	var elem = document.createElement('a');
+	elem.setAttribute('href',url);
+	elem.setAttribute('title',title);
+	elem.setAttribute('rel','sidebar');
+	elem.click();
+} 
+else if(document.all)// ie
+	window.external.AddFavorite(url, title);
+}
+</script> 
+ </head> 
+ <body> 
+  <!-- Masthead Begin --> 
+  <div id="top">
+   <img src="images/ucr_name.gif" style="float:left;" /> 
+  </div> 
+  <div id="masthead"> 
+   <div align="center">
+    <img class="x" src="images/masthead.jpg" />
+   </div> 
+  </div> 
+  <!-- Masthead End --> 
+  <div class="pagewrapper"> 
+   <div id="content"> 
+    <div id="login_page"> 
+     <div id="intro"> 
+      <div id="login_button">
+       <a href="http://rspaceportal.ucr.edu/rspaceportal/portal_api.login?p_entry=1"><img src="images/login.png" alt="Login" /></a>
+      </div> 
+      <!-- com.omniupdate.div label="login_intro" group="Everyone" button="657"   -->
+      <div style="padding-top:43px; padding-left:18px; width:450px;">
+       <img style="padding-right:14px;" border="0" alt="Shuttle" width="126" height="97" src="images/facebook_button.png" />In R'Web you can connect to your 
+       <span style="color: rgb(63, 124, 181);"><strong>Facebook account</strong></span>--
+       <br /> socialize and take care of UCR business all at the same time! Access your most important UCR applications, like 
+       <span style="color: rgb(63, 124, 181);"><strong>Growl, Webmail, iLearn, Schedule of Classes</strong></span>--get special 
+       <span style="color: rgb(63, 124, 181);"><strong>Alerts</strong></span> about fees and due dates and 
+       <span style="color: rgb(63, 124, 181);"><strong>&quot;Shout-Outs&quot;</strong></span> that'll tell you what's happening on campus.
+       <br />Customize your homepage and get real-time traffic reports, the UCR shuttle schedule, and much more! 
+       <span style="color: rgb(63, 124, 181);"><strong>Log in now and get caught in R'Web.</strong></span>
+      </div>
+      <!-- /com.omniupdate.div --> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="help_page"> 
+    <div id="intro"> 
+     <div id="help_tab"> 
+      <div id="help_list">
+       <ul style="line-height:2.7em;"> 
+        <!-- com.omniupdate.div label="help_links" group="Everyone" button="657"   -->
+        <li><a rel="popup standard 1024 700 noicon" href="/portal_security_student.html">Security Precautions</a></li> 
+        <li><a rel="popup standard 1024 700 noicon" href="/general_overview.html">R'Web General Overview<br /></a></li> 
+        <li><a rel="popup standard 1024 700 noicon" href="/customize.html">Customize Your R'Web</a></li> 
+        <li><a rel="popup standard 1024 700 noicon" href="/facebook_help.html">Setting up and Adding Facebook</a></li>
+        <!-- /com.omniupdate.div --> 
+       </ul> 
+      </div> 
+      <p>
+       <!-- com.omniupdate.div label="help_text" group="Everyone" button="657"   --><strong><span style="color: #128aa2;">Your first time in R'Web?</span></strong><br /><strong><span style="color: #128aa2;">R'Web</span></strong> is a powerful tool, but like any tool, it is important to take a moment to learn how to use it correctly. If you are new to <strong><span style="color: #128aa2;">R'Web</span></strong>, we invite you to review our guidelines.<br /><br /> Also, we encourage you to <strong><span style="color: #128aa2;">bookmark this page</span></strong> in your Web browser, as we think you will be coming here often.
+       <!-- /com.omniupdate.div --> </p>
+     </div> 
+    </div> 
+   </div> 
+   <div id="bookmark"> 
+    <a href="javascript:bookmarksite('R Web', 'http://rweb.ucr.edu')" onfocus="if(this.blur)this.blur()" title="UCR Rspace Portal"><img id="addBookmarkContainer" src="images/bookmark.jpg" alt="Bookmark this page" width="197" height="33" /></a>
+   </div> 
+   <ul class="tab-control"> 
+    <div id="login"> 
+     <li><a class="active" onfocus="if(this.blur)this.blur()" href="#login_page" id="freshman-link"></a></li> 
+    </div> 
+    <div id="help"> 
+     <li><a class="" href="#help_page" onfocus="if(this.blur)this.blur()" id="transfer-link"></a></li> 
+    </div> 
+   </ul>
+   <br /> 
+   <div align="right" style="padding-top:65px; margin-right:9px;"> 
+    <br /> 
+    <a href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01129&amp;site=ucr4me&amp;path=/index.html">&copy; 2010 Regents of the University of California</a>
+   </div> 
+   <!-- com.omniupdate.efp -->
+   <!-- /com.omniupdate.efp --> 
+  </div>     
+ </body>
+</html><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://ogp.me/ns#" lang="en-US">
+ <head> 
+  <meta property="og:title" content="StopTheHacker.com | Making the web safer one site at a time." /> 
+  <meta property="og:image" content="https://www.stopthehacker.com/wp-content/themes/sth/img/StopTheHackerIcon.jpg" /> 
+  <meta property="og:description" content="StopTheHacker has a comprehensive suite of website healthcare services that safeguard your website, helping you prevent, detect and recover from a hacker attack. We catch more malware than anyone else, using Machine Learning (ML) and Artificial Intelligence (AI) techniques." /> 
+  <meta property="og:url" content="http://www.stopthehacker.com/ " /> 
+  <meta property="og:site_name" content="StopTheHacker.com" /> 
+  <meta property="og:type" content="website" /> 
+  <title>stopthehacker.com | Protect your website and your visitors now</title> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+  <link rel="stylesheet" type="text/css" href="https://www.stopthehacker.com/wp-content/themes/sth/css/import.css" /> 
+  <link rel="stylesheet" type="text/css" media="all" href="https://www.stopthehacker.com/wp-content/themes/sth/style.css" /> 
+  <link rel="stylesheet" type="text/css" media="all" href="https://www.stopthehacker.com/wp-content/themes/sth/js/jquery.qtip.css" /> 
+  <!--[if IE 7]><link rel="stylesheet" type="text/css" href="https://www.stopthehacker.com/wp-content/themes/sth/css/ie7.css" /><![endif]--> 
+  <!--[if lte IE 8]>
+		<link rel="stylesheet" type="text/css" href="https://www.stopthehacker.com/wp-content/themes/sth/css/ie.css" />
+		<style type="text/css">
+		#header .nav > ul > li.dropdown.hover,
+		#header .nav > ul > li > ul,
+		#header h2,
+		#header .facts,
+		#header .slider li a,
+		#header .slider li a img,
+		#header .slider li p,
+		#header .protect,
+		#container .video,
+		#container .features h3,
+		#container .testimonials li,
+		#container .partners-list,
+		#container #blog .posts li h2,
+		#blog .posts li h2,
+		#blog-sidebar .widget_social,
+		#blog-sidebar .widget_categories h3,
+		#blog-sidebar .widget_categories ul {
+			behavior: url('https://www.stopthehacker.com/wp-content/themes/sth/css/PIE.htc');
+		}
+		</style>
+		<![endif]--> 
+  <link rel="alternate" type="application/rss+xml" title="stopthehacker.com &raquo; Home Comments Feed" href="https://www.stopthehacker.com/home/feed/" /> 
+  <link rel="stylesheet" id="mailchimpSF_main_css-css" href="https://www.stopthehacker.com/?mcsf_action=main_css&amp;ver=3.6.1" type="text/css" media="all" /> 
+  <!--[if IE]>
+<link rel='stylesheet' id='mailchimpSF_ie_css-css'  href='https://www.stopthehacker.com/wp-content/plugins/mailchimp/css/ie.css?ver=3.6.1' type='text/css' media='all' />
+<![endif]--> 
+  <link rel="stylesheet" id="sociablecss-css" href="http://www.stopthehacker.com/wp-content/plugins/sociable/css/sociable.css?ver=3.6.1" type="text/css" media="all" /> 
+  <link rel="stylesheet" id="lightboxStyle-css" href="https://www.stopthehacker.com/wp-content/plugins/lightbox-plus/css/shadowed/colorbox.css?ver=2.6" type="text/css" media="screen" /> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-includes/js/jquery/jquery.js?ver=1.10.2"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script> 
+  <script type="text/javascript" src="http://www.stopthehacker.com/wp-content/plugins/sociable/js/sociable.js?ver=3.6.1"></script> 
+  <script type="text/javascript" src="http://www.stopthehacker.com/wp-content/plugins/sociable/js/vuible.js?ver=3.6.1"></script> 
+  <script type="text/javascript" src="http://www.stopthehacker.com/wp-content/plugins/sociable/js/addtofavorites.js?ver=3.6.1"></script> 
+  <script type="text/javascript" src="http://www.stopthehacker.com/wp-content/plugins/wp-greet-box/js/functions.js?ver=3.6.1"></script> 
+  <script type="text/javascript" src="http://www.stopthehacker.com/wp-content/plugins/wp-greet-box/js/js-mode.js?ver=3.6.1"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.4.5"></script> 
+  <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.stopthehacker.com/xmlrpc.php?rsd" /> 
+  <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.stopthehacker.com/wp-includes/wlwmanifest.xml" /> 
+  <link rel="prev" title="Website protection" href="https://www.stopthehacker.com/website-protection/" /> 
+  <link rel="next" title="Blog" href="https://www.stopthehacker.com/blog/" /> 
+  <meta name="generator" content="WordPress 3.6.1" /> 
+  <link rel="canonical" href="https://www.stopthehacker.com/" /> 
+  <meta name="framework" content="Alkivia Framework 0.8" /> 
+  <meta property="og:image" content="http://i.ytimg.com/vi/aR0RAEXAUf0/default.jpg" />
+  <script type="text/javascript">var base_url_sociable = 'http://www.stopthehacker.com/wp-content/plugins/sociable/'</script>
+  <script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+  <link type="text/css" rel="stylesheet" href="https://www.stopthehacker.com/wp-content/plugins/social-widget/style.css" />
+  <style type="text/css" media="all">
+/* <![CDATA[ */
+@import url("https://www.stopthehacker.com/wp-content/plugins/wp-table-reloaded/css/plugin.css?ver=1.9.4");
+/* ]]> */
+</style>
+  <style type="text/css" id="syntaxhighlighteranchor"></style> 
+  <!-- Google Analytics Tracking by Google Analyticator 6.4.5: http://www.videousermanuals.com/google-analyticator/ --> 
+  <script type="text/javascript">
+	var analyticsFileTypes = [''];
+	var analyticsEventTracking = 'enabled';
+</script> 
+  <script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-16809482-3']);
+        _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google 
+        
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script> 
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/themes/sth/js/jquery.cycle.min.js"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/themes/sth/js/jquery.smoothDivScroll-1.1.js"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/themes/sth/js/scripts.js"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/themes/sth/js/jquery.qtip.js"></script> 
+  <script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script> 
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-5015a0ad51ef1715"></script> 
+  <script type="text/javascript">
+			function submitComment(el)
+			{
+			
+				if(jQuery.trim(jQuery(el).find("#comment").val())=="")
+				{
+					jQuery(".comment-error").remove();
+					jQuery(el).find("input[type=submit]").before('<p class="comment-error">Please, type a comment!</p>');
+					return false;
+				}
+			}
+			
+		</script> 
+ </head> 
+ <body class="home page page-id-29 page-template page-template-page-home-php"> 
+  <!-- header --> 
+  <div id="header" class="clearfix"> 
+   <!-- nav --> 
+   <div class="nav"> 
+    <ul id="menu-main-navigation" class="left">
+     <li id="menu-item-3708" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3708"><a href="https://www.stopthehacker.com/features/">Features</a></li> 
+     <li id="menu-item-3712" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3712"><a href="https://www.stopthehacker.com/packages/">Pricing</a> 
+      <ul class="sub-menu"> 
+       <li id="menu-item-5071" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5071"><a href="/packages">Small Business</a></li> 
+       <li id="menu-item-5072" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5072"><a href="/enterprise">Enterprise</a></li> 
+       <li id="menu-item-5302" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5302"><a href="/packages#patching">Vulnerability Patching</a></li> 
+      </ul> </li> 
+     <li id="menu-item-3643" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3643"><a href="https://www.stopthehacker.com/blog/">Blog</a></li> 
+     <li id="menu-item-3670" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3670"><a href="https://www.stopthehacker.com/references/">Testimonials</a></li> 
+     <li id="menu-item-3650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3650"><a href="https://www.stopthehacker.com/document/">Resources</a> 
+      <ul class="sub-menu"> 
+       <li id="menu-item-3906" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3906"><a href="https://www.stopthehacker.com/press-awards/">Press &amp; Awards</a></li> 
+       <li id="menu-item-4100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4100"><a href="https://www.stopthehacker.com/case-studies/">Case Studies</a></li> 
+       <li id="menu-item-4099" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4099"><a href="https://www.stopthehacker.com/white-papers/">White Papers</a></li> 
+       <li id="menu-item-4098" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4098"><a href="https://www.stopthehacker.com/videos/">Videos</a></li> 
+      </ul> </li> 
+     <li id="menu-item-3647" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3647"><a href="https://www.stopthehacker.com/partners/">Partners</a> 
+      <ul class="sub-menu"> 
+       <li id="menu-item-3640" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3640"><a href="https://www.stopthehacker.com/partners/">Program</a></li> 
+       <li id="menu-item-3658" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3658"><a href="https://www.stopthehacker.com/overview/">Overview</a></li> 
+      </ul> </li> 
+     <li id="menu-item-4460" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4460"><a href="https://www.stopthehacker.com/support/">Support</a></li> 
+    </ul> 
+    <ul id="menu-top-right-nav" class="right">
+     <li id="menu-item-3613" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3613"><a href="http://panel.stopthehacker.com">Login</a></li> 
+    </ul> 
+   </div> 
+   <!-- /nav --> 
+   <a href="https://www.stopthehacker.com" class="logo ir">StopTheHacker - Making the internet safer, one website at a time.</a> 
+   <div class="breaker"></div> 
+  </div> 
+  <!-- /header --> 
+  <!-- container --> 
+  <div id="container"> 
+   <div id="homePageHeader" class="content clearfix"> 
+    <!-- facts --> 
+    <div class="facts"> 
+     <ul> 
+      <li>Detect malware that Antiviruses miss </li>
+      <li>Automatic Cleanup </li>
+      <li>Blacklist &amp; Reputation Monitoring </li>
+      <li>Find security vulnerabilities </li>
+      <li>No Installation needed </li>
+      <li>Protect your business and revenue stream</li> 
+     </ul> 
+    </div> 
+    <!-- /facts --> 
+    <!-- slider --> 
+    <div id="introVideoContainer"> 
+     <img id="videoPlaceHolder" src="https://www.stopthehacker.com/wp-content/themes/sth/img/videoHolder.jpg" alt="" /> 
+    </div> 
+    <!-- /slider --> 
+    <div class="breaker"></div> 
+    <!-- protect --> 
+   </div> 
+   <div class="breaker"></div> 
+   <div class="content clearfix"> 
+    <!-- /////////////////////////////////////////////////////////////////////// --> 
+    <ul id="homePageQuestions"> 
+     <li> <span> What is StopTheHacker? </span> 
+      <div class="toolTipContent">
+        StopTheHacker is suite of security technologies designed to keep a company's website safe. For a complete list, please visit our 
+       <a href="/packages/">Pricing&nbsp;</a>pages. Some of our technologies include: 
+       <ul> 
+        <li><strong><span style="text-decoration: underline;">Web Malware Detection</span></strong><strong>:</strong> Scans your website to determine if hackers have injected malicious code on your site. Removes the infected code automatically and immediately. Answers the question: <strong>&quot;Am I infected&quot;</strong>? and fixes the problem.</li> 
+        <ul> 
+         <li>Why? If your site is infected, you need to know so you can take action immediately before your customers get infected and/or your site gets blacklisted.</li> 
+        </ul> 
+        <li><strong><span style="text-decoration: underline;">Vulnerability Assessment</span></strong><strong>:&nbsp;</strong>Scans your website to let you know about any security holes that hackers may exploit. Answers the question: <strong>&quot;Am I Vulnerable for potential attacks&quot;</strong>?</li> 
+        <ul> 
+         <li>Why: If your site is vulnerable, you need to know so you can take action immediately before hackers break in and infect your website and visitors. If you need help patching your systems, our security experts are available to help.</li> 
+        </ul> 
+        <li><strong><span style="text-decoration: underline;">Uptime Monitoring</span></strong><strong>:&nbsp;</strong>Scans your website to report if your website has been down and unavailable.</li> 
+        <ul> 
+         <li>Why: If your site is unavailable, you need to figure out why so it doesn't happen again.</li> 
+        </ul> 
+        <li><strong><span style="text-decoration: underline;">Reputation Monitoring</span>:&nbsp;</strong>Scans of your website against malware, spam, and other blacklists (e.g. Google, Microsoft, Yahoo, and others). Answers the question: <strong>&quot;Am I Blacklisted&quot;</strong>?</li> 
+        <ul> 
+         <li>Why: If your site has bad reputation and is blacklisted by any search engines, you need to know so you can take action immediately.</li> 
+        </ul> 
+       </ul> 
+      </div> </li> 
+     <li> <span> Why do I need Website Security? </span> 
+      <div class="toolTipContent">
+        9,500 websites get blacklisted daily by Google, Microsoft, Yahoo, and others because hackers have injected malware on their website. The result of being blacklisted is that no one can get to your site until you have removed the malware, submitted a request to Google, and Google removes you from their blacklist. Depending on your website, the result is lost revenue, reputation, and a high chance that you’re infecting your customers. The problem is growing fast as hackers are attracted to the millions of new websites created as a result of easy and inexpensive ways to get companies online. Just like 99% of all companies protect their PCs from viruses using anti virus, responsible companies are now also protecting their websites from web malware. Many wrongly believe they’re already protected through their web hosting company or because they use common frameworks like WordPress, Joomla and more. This is not the case. 
+      </div> </li> 
+     <li> <span> Why is StopTheHacker better? </span> 
+      <div class="toolTipContent">
+        StopTheHacker’s technology was developed with financial backing from the US National Science Foundation which saw how the founders’ initial Ph.D. research would make the internet a safer place. Specifically: 
+       <ul> 
+        <li>&nbsp;<strong>StopTheHacker catches more malware</strong>: Our advanced artificial intelligence engine catches never before seen malware. Most solutions catch known malware and viruses already identified in signature databases. Unfortunately, the hackers also know these databases and as modern web technologies allow hackers to generate dynamic malware, more advanced methods are needed.</li> 
+        <li><strong>Automatic Cleanup</strong>: Other solutions only identify the malware, leaving the cleanup to you and or your web agency. Or they will remove it for you manually for a fee. StopTheHacker not only identifies the malware down to the line number, we also remove it programmatically with no human intervention. This ensures predictability, accuracy, automation, and scalability. And it means your malware is removed within seconds instead of having to wait for a person to remove it when they get into the office.</li> 
+        <li><strong>Facebook Protection:</strong> More and more companies have a social media presense on EG Facebook. As part of StopTheHacker’s solution, we also scan your corporate Facebook wall daily for malware.</li> 
+       </ul> 
+      </div> </li> 
+     <li> <span> Can you explain the technologies? </span> 
+      <div class="toolTipContent">
+        There are several technologies that can help securing your website. 
+       <ul> 
+        <li><strong>Malware Detection</strong>: The most important technology is malware detection which will let you know if your website is actually infected. And if you have StopTheHacker, we will remove the malware instantly from your website just like your Anti Virus software removes viruses form your PC.</li> 
+        <li><strong>Vulnerability Assessment (VA):</strong> VA will tell you f your website is vulnerable, i.e. if some of the software components need to be updated / patched. Since there are new vulnerabilities almost daily, it is virtually impossible to patch all systems to maintain a safe infrastructure. The result is that 90%+ of all websites are vulnerable all the time. Being vulnerable &nbsp;doesn't&nbsp;mean you’re infected, it means you CAN get infected and probably will be sooner or later. And that’s why you need to scan your website regularily so that IF you get infected you can take action immediately before you get blacklisted and before you infect your customers.</li> 
+        <li><strong>Blacklist and Reputation monitoring:</strong> These technologies report if you’re blacklisted somewhere on the internet (e.g. with Google, Microsoft, Yahoo, etc.) as well as what publicly available sources think of you on the internet. While this information can be useful, most companies want to know before they end up on a blacklist. Since being infected is what causes 99% of all problems, they sign up for regular malware detection to avoid getting blacklisted in the first place.</li> 
+       </ul> 
+      </div> </li> 
+     <li> <span> Can you show me a demo? </span> 
+      <div class="toolTipContent"> 
+       <p style="text-align: center;">Yes, please click to start this video.</p> 
+       <iframe src="http://www.youtube.com/embed/zZZGITuTDqc" frameborder="0" width="680" height="315"></iframe> 
+      </div> </li> 
+     <li> <span> How do I buy StopTheHacker? </span> 
+      <div class="toolTipContent">
+        To purchase one of our products, please visit our 
+       <a href="/packages/">pricing</a> page and choose the solution that’s best for you. If you have questions, please contact sales@stopthehacker.com. 
+      </div> </li> 
+    </ul> 
+    <script type="text/javascript">
+			jQuery(window).load(function(){
+				jQuery('#videoPlaceHolder').click(function(){
+					jQuery(this).parent().html('<iframe width="486" height="299" src="https://www.youtube.com/embed/mKRK-rXYuto?autoplay=1" frameborder="0" allowfullscreen></iframe>');
+				});
+			});
+
+			jQuery('#homePageQuestions li').qtip({
+				content: {
+					text: function(){
+						return jQuery(this).find('.toolTipContent').html();
+					},
+					title: {
+		                text : function(){
+		                	return '<b>'+jQuery(this).find('span').html()+'</b> | StopTheHacker.com';
+		                },
+		                button : 'Close'
+		            }
+				},
+		        position: {
+		            viewport : jQuery(window),
+		            my: 'center',
+		            at: 'center',
+					target: jQuery(window)
+		        },
+		        show : {
+					modal: {
+						on: true, // Make it modal (darken the rest of the page)...
+					},
+					event:'click'
+		        },
+		        hide : {
+		            fixed : true,
+		            // delay : 2000,
+		            effect: function(offset) {
+		                jQuery(this).fadeOut(500);
+		            }
+		        },
+		        style: {
+		            classes: 'ui-tooltip-dark ui-tooltip-shadow ui-tooltip-rounded',
+		            tip : {
+		                corner : false
+		            }
+		        }
+		    });
+		    jQuery('#homePageQuestions li').mouseenter(function(){
+		         jQuery('#homePageQuestions li').qtip('hide');
+		    });
+		</script> 
+    <script type="text/javascript">
+			jQuery(window).load(function(){
+				jQuery('input[name=domain]').focus(function(){
+					if( jQuery('input[name=domain]').val() == 'Find out if your site can be hacked and infected with malware.' ){
+						jQuery('input[name=domain]').val('');
+					}
+				});
+				jQuery('input[name=domain]').blur(function(){
+					if( jQuery('input[name=domain]').val() == '' ){
+						jQuery('input[name=domain]').val('Find out if your site can be hacked and infected with malware.');
+					}
+				});
+				jQuery('.protect > button').click(function(event){
+					event.preventDefault();
+					if( jQuery('input[name=domain]').val() == 'Find out if your site can be hacked and infected with malware.' ){
+						jQuery('input[name=domain]').val('');
+					}
+					//_gaq.push(['_trackEvent', 'User Actions', 'Submit', 'STH.com Web App VA']);
+					jQuery('.protect').submit();
+				});
+			});
+		</script> 
+    <div class="breaker"></div> 
+    <!-- testimonials --> 
+    <ul class="testimonials clearfix"> 
+     <li> 
+      <blockquote>
+       <p>StopTheHacker helped us protect our web site chrisimaging.com. It is comforting knowing that I have “StopTheHacker” here to protect my site since myself and my staff do not always have the knowledge to do so.</p> 
+      </blockquote> <strong>Todd Christopher – <a href="http://www.chrisimaging.com" target="_blank">www.chrisimaging.com</a></strong> </li> 
+     <li> 
+      <blockquote>
+       <p>Following two major virus attacks, and blacklisting by Google on our website we had to look for a company who could provide a professional and reliable virus scan to protect our customers and our site in the future. StopTheHacker.com have been very helpful and provided us with excellent customer service.</p> 
+      </blockquote> <strong>Adele Wiseman – <a href="http://www.props-n-frocks.co.uk" target="_blank">www.props-n-frocks.co.uk</a></strong> </li> 
+    </ul> 
+    <!-- /testimonials --> 
+    <!-- partners-list --> 
+    <div class="partners-list"> 
+     <h4>Our Partners</h4> 
+     <div class="slider" id="makeMeScrollable"> 
+      <div class="scrollWrapper"> 
+       <div class="scrollableArea">
+        <a href="http://www.hosteurope.com"><img src="http://www.stopthehacker.com/wp-content/uploads/2012/02/hodteurope12.gif" class="attachment-partner-logo wp-post-image" alt="Host Europe" /></a>
+        <a href="http://www.webfusion.co.uk"><img src="http://www.stopthehacker.com/wp-content/uploads/2012/02/webfusion22.gif" class="attachment-partner-logo wp-post-image" alt="webfusion" /></a>
+        <a href="http://www.heartinternet.co.uk/"><img src="http://www.stopthehacker.com/wp-content/uploads/2012/02/heart-internet.jpg" class="attachment-partner-logo wp-post-image" alt="heart-internet" /></a>
+        <a href="http://www.123-reg.co.uk"><img src="http://www.stopthehacker.com/wp-content/uploads/2012/02/123reg2.gif" class="attachment-partner-logo wp-post-image" alt="123reg Domain names registration and Web hosting" /></a>
+        <a href="http://www.parallels.com"><img src="http://www.stopthehacker.com/wp-content/uploads/2012/02/partner-parallels22.png" class="attachment-partner-logo wp-post-image" alt="partner-parallels" /></a>
+        <a href="http://www.cloudflare.com"><img src="http://www.stopthehacker.com/wp-content/uploads/2012/02/partner-cloudflare22.png" class="attachment-partner-logo wp-post-image" alt="partner-cloudflare" /></a>
+        <a href="http://www.mywot.com/en/trustseal/payment?affiliate=STH"><img src="http://www.stopthehacker.com/wp-content/uploads/2012/02/partner-wot22.png" class="attachment-partner-logo wp-post-image" alt="Logo - WOT" /></a>
+        <a href="http://www.readyspace.com/cloud-security/web-malware-protection/"><img src="http://www.stopthehacker.com/wp-content/uploads/2012/02/ready2.gif" class="attachment-partner-logo wp-post-image" alt="Logo - Readyspace" /></a>
+        <a href="http://www.softcom.com"><img src="http://www.stopthehacker.com/wp-content/uploads/2012/02/logo-softcom.jpg" class="attachment-partner-logo wp-post-image" alt="logo-softcom" /></a>
+        <a href="http://www.asmallorange.com"><img src="http://www.stopthehacker.com/wp-content/uploads/2012/02/partner-asmallorange22.png" class="attachment-partner-logo wp-post-image" alt="partner-asmallorange" /></a>
+        <a href="http://www.ozhosting.com/website-security/stopthehacker.aspx"></a>
+        <a href="http://www.servint.net/"><img src="http://www.stopthehacker.com/wp-content/uploads/2012/07/Screen-shot-2012-07-12-at-12.58.30-PM-146x40.png" class="attachment-partner-logo wp-post-image" alt="Screen shot 2012-07-12 at 12.58.30 PM" /></a>
+        <a href="http://dreamhost.com/"><img src="http://www.stopthehacker.com/wp-content/uploads/2012/07/Screen-shot-2012-07-12-at-12.59.17-PM.png" class="attachment-partner-logo wp-post-image" alt="Screen shot 2012-07-12 at 12.59.17 PM" /></a> 
+       </div> 
+      </div> 
+      <a href="javascript:void(0)" class="scrollingHotSpotLeft ir">Previous</a> 
+      <a href="javascript:void(0)" class="scrollingHotSpotRight ir">Next</a> 
+     </div> 
+    </div> 
+    <!-- /partners-list --> 
+    <!-- /////////////////////////////////////////////////////////////////////// --> 
+   </div> 
+   <div class="shadow top"></div> 
+   <div class="shadow bottom"></div> 
+  </div> 
+  <!-- /container --> 
+  <!-- footer --> 
+  <div id="footer"> 
+   <div class="content"> 
+    <ul class="clearfix"> 
+     <li id="nav_menu-3" class="widget-container widget widget_nav_menu"><h3 class="widget-title">Overview</h3>
+      <div class="menu-overview-container">
+       <ul id="menu-overview" class="menu">
+        <li id="menu-item-3641" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3641"><a href="https://www.stopthehacker.com/features/">Features</a></li> 
+        <li id="menu-item-3645" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3645"><a href="https://www.stopthehacker.com/packages/">Pricing</a></li> 
+        <li id="menu-item-3669" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3669"><a href="https://www.stopthehacker.com/references/">Testimonials</a></li> 
+        <li id="menu-item-4087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4087"><a href="https://www.stopthehacker.com/partners/">Partners</a></li> 
+        <li id="menu-item-3649" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3649"><a href="https://www.stopthehacker.com/support/">Support</a></li> 
+       </ul>
+      </div></li>
+     <li id="nav_menu-4" class="widget-container widget widget_nav_menu"><h3 class="widget-title">Resources</h3>
+      <div class="menu-resources-container">
+       <ul id="menu-resources" class="menu">
+        <li id="menu-item-4088" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4088"><a href="https://www.stopthehacker.com/press-awards/">Press &amp; Awards</a></li> 
+        <li id="menu-item-4101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4101"><a href="https://www.stopthehacker.com/case-studies/">Case Studies</a></li> 
+        <li id="menu-item-4102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4102"><a href="https://www.stopthehacker.com/white-papers/">White Papers</a></li> 
+        <li id="menu-item-4103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4103"><a href="https://www.stopthehacker.com/videos/">Videos</a></li> 
+       </ul>
+      </div></li>
+     <li id="nav_menu-5" class="widget-container widget widget_nav_menu"><h3 class="widget-title">StopTheHacker</h3>
+      <div class="menu-stopthehacker-container">
+       <ul id="menu-stopthehacker" class="menu">
+        <li id="menu-item-3720" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3720"><a href="https://www.stopthehacker.com/about-us/">About us</a></li> 
+        <li id="menu-item-3655" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3655"><a href="https://www.stopthehacker.com/terms-and-conditions/">Terms &amp; Conditions</a></li> 
+        <li id="menu-item-4504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4504"><a href="https://www.stopthehacker.com/privacy/">Privacy Policy</a></li> 
+        <li id="menu-item-3705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3705"><a href="https://www.stopthehacker.com/careers/">Careers</a></li> 
+        <li id="menu-item-3722" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3722"><a href="https://www.stopthehacker.com/privacy/">Privacy Policy</a></li> 
+       </ul>
+      </div></li>
+     <li id="contact-3" class="widget-container widget widget_contact"> <h3 class="widget-title">Contact Us</h3> 
+      <ul> 
+       <li> <a href="/contact-support/" class="formLink">Support Form</a> </li> 
+       <li><a href="tel:1-888-784-2257" class="telephone">1-888-784-2257</a></li> 
+       <li><a href="mailto:support@stopthehacker.com" class="email">email us</a></li> 
+      </ul> </li>
+     <li id="nav_menu-2" class="widget-container widget widget_nav_menu"><h3 class="widget-title">Social</h3>
+      <div class="menu-social-container">
+       <ul id="menu-social" class="menu">
+        <li id="menu-item-4687" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4687"><a href="http://www.facebook.com/stopthehacker">facebook</a></li> 
+        <li id="menu-item-4688" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4688"><a href="http://twitter.com/stopthehacker">twitter</a></li> 
+        <li id="menu-item-4689" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4689"><a href="http://www.stopthehacker.com/blog/">blog</a></li> 
+        <li id="menu-item-4690" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4690"><a href="http://stopthehacker.com/feed/">RSS</a></li> 
+        <li id="menu-item-4691" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4691"><a href="http://www.youtube.com/StopTheHackerVideo">youTube</a></li> 
+       </ul>
+      </div></li> 
+    </ul> 
+   </div> 
+  </div> 
+  <!-- footer --> 
+  <script type="text/javascript">
+	jQuery(document).ready(function(){
+		jQuery('#footer > .content').append('<div id="trustSeal"><!-- START StopTheHacker SEAL --><img width="145" height="54" border="0" style="cursor: pointer;" src="https://panel.stopthehacker.com/seal?domain=stopthehacker.com&id=12204" alt="This seal is issued to stopthehacker.com by StopTheHacker Inc." title="This seal is issued to stopthehacker.com by StopTheHacker Inc." onclick="window.open(\'https://panel.stopthehacker.com/seal/verify?domain=stopthehacker.com&id=12204\',\'StopTheHacker\',\'width=600,height=600,left=150,top=150\');" oncontextmenu="alert(\'Copying Prohibited by Law - Copyright &copy; 2012 StopTheHacker Inc., all rights reserved.\'); return false;"><!-- END StopTheHacker SEAL --></div>');
+	});
+</script> 
+  <div id="fb-root"></div> 
+  <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script> 
+  <div id="fb-root"> 
+   <script type="text/javascript">
+		window.fbAsyncInit = function() {
+  			FB.init({ status: true, cookie: true, xfbml: true});
+		};
+		(function() {
+			var e = document.createElement('script');
+			e.type = 'text/javascript';
+			e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+			e.async = true;
+			document.getElementById('fb-root').appendChild(e);
+		}());
+		(function() {
+			var e = document.createElement('script');
+			e.type = 'text/javascript';
+			e.src = 'http://platform.twitter.com/widgets.js';
+			e.async = true;
+			document.getElementById('fb-root').appendChild(e);
+		}());
+		window.___gcfg = {lang: 'en'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    		po.src = 'https://apis.google.com/js/plusone.js';
+   			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  		})();
+ 	</script> 
+  </div> 
+  <!-- Lightbox Plus ColorBox v2.6/1.3.32 - 2013.01.24 - Message: --> 
+  <script type="text/javascript">
+jQuery(document).ready(function($){
+  $("a[rel*=lightbox]").colorbox({speed:350,initialWidth:"300",initialHeight:"100",maxWidth:"80%",maxHeight:"80%",opacity:0.8,loop:false,scrolling:false,escKey:false,arrowKey:false,top:false,right:false,bottom:false,left:false});
+});
+</script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/syntaxhighlighter2/scripts/shCore.js?ver=2.1.364"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/syntaxhighlighter2/scripts/shBrushAS3.js?ver=2.1.364"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/syntaxhighlighter2/scripts/shBrushBash.js?ver=2.1.364"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/syntaxhighlighter2/scripts/shBrushColdFusion.js?ver=2.1.364"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/third-party-brushes/shBrushClojure.js?ver=20090602"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/syntaxhighlighter2/scripts/shBrushCpp.js?ver=2.1.364"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/syntaxhighlighter2/scripts/shBrushCSharp.js?ver=2.1.364"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/syntaxhighlighter2/scripts/shBrushCss.js?ver=2.1.364"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/syntaxhighlighter2/scripts/shBrushDelphi.js?ver=2.1.364"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/syntaxhighlighter2/scripts/shBrushDiff.js?ver=2.1.364"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/syntaxhighlighter2/scripts/shBrushErlang.js?ver=2.1.364"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/third-party-brushes/shBrushFSharp.js?ver=20091003"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/syntaxhighlighter2/scripts/shBrushGroovy.js?ver=2.1.364"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/syntaxhighlighter2/scripts/shBrushJava.js?ver=2.1.364"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/syntaxhighlighter2/scripts/shBrushJavaFX.js?ver=2.1.364"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/syntaxhighlighter2/scripts/shBrushJScript.js?ver=2.1.364"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/third-party-brushes/shBrushLatex.js?ver=20090613"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/third-party-brushes/shBrushMatlabKey.js?ver=20091209"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/third-party-brushes/shBrushObjC.js?ver=20091207"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/syntaxhighlighter2/scripts/shBrushPerl.js?ver=2.1.364"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/syntaxhighlighter2/scripts/shBrushPhp.js?ver=2.1.364"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/syntaxhighlighter2/scripts/shBrushPlain.js?ver=2.1.364"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/syntaxhighlighter2/scripts/shBrushPowerShell.js?ver=2.1.364"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/syntaxhighlighter2/scripts/shBrushPython.js?ver=2.1.364"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/third-party-brushes/shBrushR.js?ver=20100919"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/syntaxhighlighter2/scripts/shBrushRuby.js?ver=2.1.364"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/syntaxhighlighter2/scripts/shBrushScala.js?ver=2.1.364"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/syntaxhighlighter2/scripts/shBrushSql.js?ver=2.1.364"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/syntaxhighlighter2/scripts/shBrushVb.js?ver=2.1.364"></script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/syntaxhighlighter2/scripts/shBrushXml.js?ver=2.1.364"></script> 
+  <script type="text/javascript">
+	(function(){
+		var corecss = document.createElement('link');
+		var themecss = document.createElement('link');
+		var corecssurl = "https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/syntaxhighlighter2/styles/shCore.css?ver=2.1.364";
+		if ( corecss.setAttribute ) {
+				corecss.setAttribute( "rel", "stylesheet" );
+				corecss.setAttribute( "type", "text/css" );
+				corecss.setAttribute( "href", corecssurl );
+		} else {
+				corecss.rel = "stylesheet";
+				corecss.href = corecssurl;
+		}
+		document.getElementsByTagName("head")[0].insertBefore( corecss, document.getElementById("syntaxhighlighteranchor") );
+		var themecssurl = "https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/syntaxhighlighter2/styles/shThemeDefault.css?ver=2.1.364";
+		if ( themecss.setAttribute ) {
+				themecss.setAttribute( "rel", "stylesheet" );
+				themecss.setAttribute( "type", "text/css" );
+				themecss.setAttribute( "href", themecssurl );
+		} else {
+				themecss.rel = "stylesheet";
+				themecss.href = themecssurl;
+		}
+		//document.getElementById("syntaxhighlighteranchor").appendChild(themecss);
+		document.getElementsByTagName("head")[0].insertBefore( themecss, document.getElementById("syntaxhighlighteranchor") );
+	})();
+	SyntaxHighlighter.config.clipboardSwf = 'https://www.stopthehacker.com/wp-content/plugins/syntaxhighlighter/syntaxhighlighter2/scripts/clipboard.swf';
+	SyntaxHighlighter.config.strings.expandSource = 'show source';
+	SyntaxHighlighter.config.strings.viewSource = 'view source';
+	SyntaxHighlighter.config.strings.copyToClipboard = 'copy to clipboard';
+	SyntaxHighlighter.config.strings.copyToClipboardConfirmation = 'The code is in your clipboard now';
+	SyntaxHighlighter.config.strings.print = 'print';
+	SyntaxHighlighter.config.strings.help = '?';
+	SyntaxHighlighter.config.strings.alert = 'SyntaxHighlighter\n\n';
+	SyntaxHighlighter.config.strings.noBrush = 'Can\'t find brush for: ';
+	SyntaxHighlighter.config.strings.brushNotHtmlScript = 'Brush wasn\'t configured for html-script option: ';
+	SyntaxHighlighter.defaults['auto-links'] = false;
+	SyntaxHighlighter.defaults['pad-line-numbers'] = true;
+	SyntaxHighlighter.all();
+</script> 
+  <script type="text/javascript" src="https://www.stopthehacker.com/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.3.32.js?ver=1.3.32"></script>   
+  <!-- Dynamic page generated in 2.072 seconds. --> 
+  <!-- Cached page generated by WP-Super-Cache on 2014-03-10 19:13:31 --> 
+  <!-- Compression = gzip -->
+ </body>
+</html>

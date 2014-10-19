@@ -1,0 +1,1750 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>Human Resources: Staff Employment &amp; Development</title> 
+  <meta http-equiv="last-modified" content="2013-04-11" /> 
+  <meta name="version" content="2.45 2.62 " /> 
+  <!-- 03/11/14 15:50:49 03/11/14 15:50:49 --> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/medblue6.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all" /> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr-config.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/swfobject.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/prototype.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/scriptaculous.js?load=effects"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/lib.js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript" src="/highslide/highslide-with-html.js"></script> 
+  <script type="text/javascript" src="/highslide/highslide.config.js" charset="utf-8"></script> 
+  <link rel="stylesheet" type="text/css" href="/highslide/highslide.css" /> 
+  <!--[if lt IE 7]>
+<link rel="stylesheet" type="text/css" href="/highslide/highslide-ie6.css" />
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+// ]]>
+</script> 
+  <script type="text/javascript">
+// <![CDATA[
+try {
+var pageTracker = _gat._getTracker("UA-3051875-1");
+pageTracker._setDomainName("ucr.edu");
+pageTracker._trackPageview();
+} catch(err) {}
+// ]]>
+</script> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://hr.ucr.edu/" accesskey="1">Home Page</a></li> 
+   </ul> 
+   <hr /> 
+   <div id="brandingbar"> 
+    <img class="overlay" src="/images/overlays/masthead_lib.png" alt="" /> 
+    <h2><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_monogram.gif" width="55" height="53" alt="University of California, Riverside" title="UCR Home page" /></a></h2> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/images/masthead.jpg);"> 
+   <h1><a href="http://hr.ucr.edu/"><span class="printonly">Human Resources</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr /> 
+  <div class="breadcrumbs"> 
+   <h3 class="accessibility">Breadcrumbs</h3> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://hr.ucr.edu/">Human Resources</a> &gt;</li> 
+    <li class="lastitem">Staff Employment &amp; Development</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox" action="http://www.ucr.edu/search.php">
+     <p> <label for="SearchText" accesskey="4">Search for:</label> <input type="text" size="18" maxlength="255" id="SearchText" name="q" value="" /> <input type="hidden" id="sitesearch" name="sitesearch" value="hr.ucr.edu" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+    </form> 
+   </div> 
+   <hr /> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>Staff Employment &amp; Development</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li><a href="/" title="Home">Home<br /><span></span></a></li>
+       <li><a href="/jobs.html" title="Jobs">Jobs</a></li>
+       <li><a href="/salary.html" title="Salary Information">Salary Information</a></li>
+       <li><a href="/benefits.html" title="Benefits">Benefits</a></li>
+       <li class="currentpage"><h3><dfn>Current page is: </dfn>Education &amp; Development</h3>
+        <ul>
+         <li><a href="/education/certificate.html" title="Certificate Programs">Certificate Programs</a></li>
+         <li><a href="/education/class.html" title="Classes &amp; Workshops">Classes &amp; Workshops</a></li>
+         <li><a href="/education/development_assessments.html" title="Development Assessments">Development Assessments</a></li>
+         <li><a href="/education/diversity.html" title="Diversity Programs">Diversity Programs</a></li>
+         <li><a href="/education/management.html" title="Management Development">Management Development</a></li>
+         <li><a href="/education/comp/corecomp.html" title="UCR Core Competencies">UCR Core Competencies</a></li>
+         <li><a href="/education/yourguidetoprofdev.html" title="Your Guide to Professional Development">Your Guide to Professional Development</a></li>
+        </ul></li>
+       <li><a href="/recruitment/recruitment.html" title="Recruitment &amp; Selection">Recruitment &amp; Selection</a></li>
+       <li><a href="/policies.html" title="Policies &amp; Contracts">Policies &amp; Contracts</a></li>
+       <li><a href="/employee.html" title="Employee Resources">Employee Resources</a></li>
+       <li><a href="/supervisor.html" title="Supervisor Resources">Supervisor Resources</a></li>
+       <li><a href="/worklife.html" title="Work / Life &amp; Wellness">Work / Life &amp; Wellness</a></li>
+       <li><a href="/publicationsanddocuments.html" title="Forms and Documents">Forms and Documents</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <hr /> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy-wide.css" cssmenu="" width="992" --> 
+     <!-- com.omniupdate.div label="title" group="Everyone" button="734" -->
+     <!-- ouc:editor toolbar="TITLE" csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700"/ -->
+     <!-- /com.omniupdate.div --> 
+     <div id="omnicontent"> 
+      <!-- com.omniupdate.div label="home-image" group="Everyone" button="727" -->
+      <!-- ouc:editor toolbar="IMG_ONLY" csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700"/ -->
+      <img src="/images/banner_hr_staffemploymentdevelopment.png" alt="staff employment and development" width="700" height="144" />
+      <!-- /com.omniupdate.div --> 
+      <div class="column23"> 
+       <!-- com.omniupdate.div label="maincontent" group="Everyone" button="707" -->
+       <!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700"/ -->
+       <p>UCR offers a wide variety of developmental programs to build job skills for the role you have and to foster the career we hope you develop. Programs extend to all segments of the workforce. Check out the many opportunities — classes and workshops, career programs, management development, UC systemwide programs, and certificate programs.</p> 
+       <h3>Our Services</h3> 
+       <ul> 
+        <li>Provide staff development courses designed to help employees enhance their contributions to the University's mission and goals; provide opportunities for career growth; and assist employees in performing current and emerging position responsibilities effectively.</li> 
+        <li>Conducting organizational assessments and developing action plans.</li> 
+        <li>Facilitating department/team meetings.</li> 
+        <li>Facilitate assessments for personal and team development.</li> 
+        <li>Designing and delivering customized training for organizational units.</li> 
+        <li>To enroll in classes, please visit the <a href="http://ucrlearning.ucr.edu">UC Learning Center</a>.</li> 
+       </ul>
+       <!-- /com.omniupdate.div --> 
+      </div> 
+      <div class="column3R"> 
+       <div id="utility"> 
+        <img src="/images/rightnav/quick_links_titlebox.gif " alt="Quick Links" width="220" height="35" />
+        <h3 class="accessibility">Quick Links</h3> 
+        <ul class="quicklinks"> 
+         <!-- com.omniupdate.div label="quicklinks" group="Everyone" button="707" -->
+         <!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="220"/ -->
+         <ul> 
+          <li><a href="/education/benefits.html">Educational Benefits</a></li> 
+          <li><a href="/education/orientation.html">Staff Orientation</a></li> 
+          <li><a href="/education/toolbox.html">Trainer's Toolbox</a></li> 
+         </ul>
+         <!-- /com.omniupdate.div --> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="clear"></div> 
+      <!-- com.omniupdate.efp -->
+      <!-- /com.omniupdate.efp --> 
+     </div> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2>More Information</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span><br /><br /> </span> <a href="http://library.ucr.edu/">UCR Libraries</a> • <a href="http://campusstatus.ucr.edu/">Campus Status</a><br /> <a href="http://www.ucr.edu/employment.html">Career Opportunities</a> • <a href="http://diversity.ucr.edu/">Diversity</a><br /> <a href="http://my.ucr.edu/visit/Pages/default.aspx">Visit UCR</a> • <a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></address> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <address><strong>Human Resources</strong><br /> 1160 University Ave.<br /> Riverside, CA 92521<br /> 
+       <!--<a href="http://campusmap.ucr.edu/campusMap.php?loc=PRSNL" title="Campus Map">Human Resources</a><br /><br />
+Tel: (951) 827-2336--><br /> Fax: (951) 827-6493
+       <!--<br />E-mail: <a href="mailto:hrquestions@ucr.edu?subject=Web Site Inquiry">hrquestions@ucr.edu</a>--></address> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="/docs/hr_org_chart.pdf" target="_blank">HR/LR Organizational Chart</a></li> 
+       <li><a href="http://academicpersonnel.ucr.edu/" target="_blank">Academic Personnel</a></li> 
+       <li><a href="http://hrop.ucop.edu/index.php" target="_blank">UCOP Human Resources</a></li> 
+       <li><a href="http://bas.ucr.edu/" target="_blank">Business and Administrative Services</a></li> 
+       <li><a href="http://ucpath.ucr.edu/" target="_blank">UCPath @ UCR</a></li> 
+       <li><a href="http://retirementbenefits.ucr.edu/">UCR Post Employment Benefits</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://hr.ucr.edu/sendmail.html" title="Send Feedback E-mail" accesskey="9">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html">Terms and Conditions</a></li> 
+      <li>&copy; 2013 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01103&amp;site=hrdev&amp;path=%2Feducation.html">Last modified: 2013-Apr-11</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.175245 seconds using 2.00 MiB of memory. -->   
+ </body>
+</html><!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+  <title>eFile Report Tools: Home</title> 
+  <meta http-equiv="last-modified" content="2011-09-12" /> 
+  <meta name="version" content="2.60 2.122 " /> 
+  <!-- 03/11/14 15:53:32 03/11/14 15:53:32 --> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/g=6bis-bluea-narrow" media="all" /> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/f=css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="http://cnc.ucr.edu/css/cncmod.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="/efilereporttools/css/local.css" media="all" /> 
+  <script type="text/javascript" src="http://www.ucr.edu/min/g=js-sifr"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript" src="/highslide/highslide-full.packed.js"></script> 
+  <script type="text/javascript" src="/highslide/highslide.config.js" charset="utf-8"></script> 
+  <link rel="stylesheet" type="text/css" href="/highslide/highslide.css" /> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://cnc.cmsdev.ucr.edu/efilereporttools" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr /> 
+   <div id="brandingbar"> 
+    <img class="overlay" src="/efilereporttools/images/design6/overlay_home.png" alt="" /> 
+    <h1><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="" /><span class="accessibility">University of California, Riverside</span></a></h1> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/efilereporttools/images/design6/masthead.jpg);"> 
+   <h1><a href="http://cnc.cmsdev.ucr.edu/efilereporttools"><span class="printonly">eFile Report Tools</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr /> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://cnc.ucr.edu/">Computing &amp; Communications</a> &gt;</li> 
+    <li class="lastitem">eFile Report Tools</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox" action="http://www.ucr.edu/search.php">
+     <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" size="18" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+    </form> 
+    <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+   </div> 
+   <hr /> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>Home</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li class="currentpage"><h3><dfn>Current page is: </dfn>Home</h3></li>
+       <li><a href="/efilereporttools/access.html" title="Access to Reporting Tools">Access to Reporting Tools</a></li>
+       <li><a href="/efilereporttools/tools.html" title="Search &amp; Reporting Tools">Search &amp; Reporting Tools</a></li>
+       <li><a href="/efilereporttools/horizon.html" title="On The Horizon">On The Horizon</a></li>
+       <li><a href="/efilereporttools/contacts.html" title="Contacts">Contacts</a></li> 
+      </ul> 
+     </div> 
+     <p> <a class="img_link" href="http://cnc.ucr.edu/aconnect/efile/intro"><img alt="Learn more by viewing the e-file report tools tutorial" height="155" src="/efilereporttools/images/efiletutorial.png" width="230" /></a> </p> 
+    </div> 
+    <hr /> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy.css" cssmenu="" width="790" --> 
+     <div class="header"> 
+      <!-- com.omniupdate.div label="title" group="Everyone" button="734" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="484" -->
+      <!-- /com.omniupdate.div -->
+     </div> 
+     <div id="omnicontent"> 
+      <!-- com.omniupdate.div label="home-image" group="Everyone" button="657" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="484" -->
+      <p><img src="/efilereporttools/images/collage.gif" alt="Search Tools main page" width="484" height="144" /></p>
+      <!-- /com.omniupdate.div --> 
+      <!-- /com.omniupdate.div --> 
+      <!-- com.omniupdate.div label="maincontent" group="Everyone" button="657" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="484" --> 
+      <!-- com.omniupdate.div label="spotlight" group="Everyone" button="657" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="484" -->
+      <h3>eFile Search &amp; Reporting Tools Functionality for Faculty</h3> 
+      <p>UCR's Online Academic Merit and Promotion system, known as eFile, contains a database capable of storing every facet of a faculty member's professional career. eFile provides an electronically routed, paperless review of merit and other academic personnel actions, and it also supports automated generation of a variety of reports and queries, including curriculum vita, bio-sketches, and other reports supporting various faculty needs (e.g. for extramural funds proposals). Please review the eFile online <a href="/aconnect/efile/intro">Search &amp; Reporting Tools tutorial</a> for a step-by-step introduction to using the reporting systems.</p> 
+      <h3>Reporting and Query Tools</h3> 
+      <p>The eFile system provides four distinct query and reporting tools as follows:</p> 
+      <h4>eFile Search</h4> 
+      <p><strong></strong>Enables searching eFile by keywords or date ranges and allows specialized searches by eFile category (e.g. Professional Activity, Publications, etc.).</p> 
+      <h4>Report Generator</h4> 
+      <p><strong></strong>Enables the creation of a single report containing information from multiple eFile sections (facilitating creation of bio-bibs supporting contract/grant proposals). Reports may be output to Microsoft Word documents.</p> 
+      <h4>Curriculum Vita Generator</h4> 
+      <p><strong></strong>Enables the creation of multiple, distinct CVs with differing formats. The tools include the ability to format font type and size, create unique headings, and order each section as desired. CVs may be output to Microsoft Word documents.</p> 
+      <h4>Bio-sketch Generator</h4> 
+      <p><strong></strong>Enables the creation of the National Science Foundation (NSF) Bio-sketches. eFile populates the bio-sketch and formats the information per NSF requirements. Bio-sketches can be output as Microsoft Word documents.</p> 
+      <p>Please visit the <a href="/efilereporttools/tools.html">Search &amp; Reporting Tools </a>section of this website to read more about these reporting and query tools.</p> 
+      <!-- /com.omniupdate.div --> 
+      <!-- com.omniupdate.div label="relatedlinks" group="Everyone" button="657" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="484" -->
+      <!-- /com.omniupdate.div --> 
+      <!-- com.omniupdate.efp -->
+      <!-- /com.omniupdate.efp --> 
+     </div> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR">Visit UCR</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <address><strong>Computing &amp; Communications</strong><br /> <a href="http://campusmap.ucr.edu/campusMap.php?loc=CCCTR" title="Campus Map">Computing &amp; Communications Bldg.</a><br /> <br /> Tel: (951) 827-4741<br /> Fax: (951) 827-4541<br /> E-mail: <a href="mailto:helpdesk@ucr.edu?subject=Website%20Inquiry">helpdesk@ucr.edu</a></address> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a class="external" title="Academic Personnel" href="http://academicpersonnel.ucr.edu" target="_blank">Office of Academic Personnel</a><br /></li> 
+       <li><a class="external" title="Login to eFile" href="http://efile.ucr.edu" target="_blank">Login to eFile</a><br /></li> 
+       <li><a class="external" title="More eFile System Information" href="http://efileinfo.ucr.edu" target="_blank">More eFile System Information<br /></a><br /></li> 
+      </ul> 
+      <ul class="footer_links"> 
+       <li><a id="footer_link_facebook" class="footer_link_icon" href="http://www.facebook.com/UCRiverside" title="external site: Facebook">Visit UCR’s Facebook page</a></li> 
+       <li><a id="footer_link_twitter" class="footer_link_icon" href="http://twitter.com/UCRiverside" title="external site: Twitter">Follow UCR on Twitter</a></li> 
+       <li><a id="footer_link_youtube" class="footer_link_icon" href="http://www.youtube.com/UCRiverside" title="external site: YouTube">Visit UCR’s YouTube channel</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://cnc.cmsdev.ucr.edu/efilereporttoolssendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>&copy; 2011 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=ORG21&amp;site=cnc&amp;path=%2Fefilereporttools%2Findex.html">Last modified: 2011-Sep-12</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+  <!-- Generated in 0.394958 seconds using 2.00 MiB of memory. -->   
+ </body>
+</html><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html id="HTML" xmlns="http://www.w3.org/1999/xhtml" lang="en-us">
+ <head id="PageHead"> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>
+	UCR Alumni Association Event Calendar - UC Riverside Alumni Association
+</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema" />
+  <base id="baseId" target="_self" />
+  <link rel="stylesheet" href="/stylesheet0.634986888442170000.css?id=0&amp;iuqt=0" type="text/css" /> 
+  <link rel="stylesheet" href="/stylesheet9.634819502679030000.css?id=9&amp;nodefaults=1&amp;iuqt=0" type="text/css" /> 
+  <link rel="stylesheet" href="/Client/Styles/IE8Menu.css?&amp;iuqt=0" type="text/css" /> 
+  <link rel="SHORTCUT ICON" href="images/FavIcon.ico" type="image/x-icon" />
+  <link rel="ICON" href="images/FavIcon.ico" type="image/x-icon" />
+  <meta name="description" content="University of California Riverside UC Riverside UCR alumni events calendar" />
+  <meta name="keywords" content="university of california riverside alumni events calendar,uc riverside alumni events calendar,ucr alumni events calendar" />
+  <meta name="last-modified" content="3/10/2014 11:48:41 PM" />
+ </head> 
+ <body id="BodyId" style="margin: 0px; padding: 0px; border: 0px"> 
+  <form method="post" action="/alumni-calendar" id="form1"> 
+   <input type="hidden" name="ScriptManager1_HiddenField" id="ScriptManager1_HiddenField" value="" /> 
+   <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTUzODM0Njg4OA8WAh4KTW9kYWxMZXZlbGYWAmYPFgIeBGxhbmcFBWVuLXVzFgICAw9kFgICAQ8WAh4GYWN0aW9uBRAvYWx1bW5pLWNhbGVuZGFyFgQCAw9kFgJmD2QWBAIBD2QWAmYPDxYOHhFFdmVudENhbFJTU0ZlZWRJRAUBMx4IRXZlbnRDYWwFATUeC0N1cnJlbnREYXRlBRQzLzExLzIwMTQgMzowMDowMCBQTR4EbVRhYgspogFCbGFja2JhdWQuV2ViLkNvbnRlbnQuUG9ydGFsLkV2ZW50Q2FsZW5kYXJEaXNwbGF5K0VFdmVudENhbGVuZGFyRGlzcGxheVRhYiwgQmxhY2tiYXVkLldlYi5Db250ZW50LlBvcnRhbCwgVmVyc2lvbj02LjUxLjczNi44LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwAHg9FdmVudENhbEdyb3VwSUQFATAeCUlzQ2FsVmlldwUFRmFsc2UeDWhhc1NldERlZmF1bHQFBHRydWVkFgJmD2QWBmYPZBYCZg9kFgICAQ8PFgIeBFRleHQFJlVDUiBBbHVtbmkgQXNzb2NpYXRpb24gRXZlbnRzIENhbGVuZGFyZGQCAQ9kFgJmD2QWGgIBDw8WBB4ISW1hZ2VVcmwFFC9pbWFnZXMvTmV3RXZlbnQuZ2lmHgdWaXNpYmxlaGRkAgMPDxYCHwxoZGQCBQ8PFgQfCwUWL2ltYWdlcy90YWJsZXByb3BzLmdpZh8MaGRkAgcPDxYCHwxoZGQCCQ8PFgQfCwUdL2ltYWdlcy9FdmVudENhbGVuZGFyVmlldy5wbmcfDGhkZAILDw8WAh8MaGRkAg0PDxYCHwsFIS9pbWFnZXMvRXZlbnRDYWxlbmRhckxpc3RWaWV3LnBuZ2RkAhEPFgIeBGhyZWYFqQFqYXZhc2NyaXB0OkJMQUNLQkFVRC5uZXRjb21tdW5pdHkuUHJpbnREaXYoJ3ByaW50U3RhcnRDVicsIGZhbHNlLCAnVUMgUml2ZXJzaWRlIEFsdW1uaSBBc3NvY2lhdGlvbjogVUNSIEFsdW1uaSBBc3NvY2lhdGlvbiBFdmVudHMgQ2FsZW5kYXJcPGJyL1w+TWFyY2ggMjAxNCcsIHVuZGVmaW5lZCk7ZAITDw8WAh4NT25DbGllbnRDbGljawWrAUJMQUNLQkFVRC5uZXRjb21tdW5pdHkuUHJpbnREaXYoJ3ByaW50U3RhcnRDVicsIGZhbHNlLCAnVUMgUml2ZXJzaWRlIEFsdW1uaSBBc3NvY2lhdGlvbjogVUNSIEFsdW1uaSBBc3NvY2lhdGlvbiBFdmVudHMgQ2FsZW5kYXJcPGJyL1w+TWFyY2ggMjAxNCcsIHVuZGVmaW5lZCk7cmV0dXJuIGZhbHNlO2RkAhUPDxYEHwsFHy9pbWFnZXMvRXZlbnRDYWxlbmRhckV4cG9ydC5wbmcfDgUbT25FeHBvcnRFdmVudENsaWNrZWQodGhpcyk7FgYeCmZpbHRlcl9kaXYFIlBDMjI4MF9FdmVudENhbGVuZGFyMV9jdGwyMF9kaXZDYWweC2lzX2NhbGdyb3VwBQVGYWxzZR4PaGlkX2ZpbHRlcl9pbmZvBRZQQzIyODBfaGlkX2ZpbHRlcl9pbmZvZAIXDw8WAh8OBRtPbkV4cG9ydEV2ZW50Q2xpY2tlZCh0aGlzKTsWBh8PBSJQQzIyODBfRXZlbnRDYWxlbmRhcjFfY3RsMjBfZGl2Q2FsHxAFBUZhbHNlHxEFFlBDMjI4MF9oaWRfZmlsdGVyX2luZm9kAhkPDxYEHwsFIi9pbWFnZXMvRXZlbnRDYWxlbmRhclB1Ymxpc2hlZC5wbmcfDGhkZAIbDw8WAh8MaGRkAgIPZBYCZg9kFgICAQ9kFgJmDw8WDh4MU2VsZWN0ZWREYXRlBRQzLzExLzIwMTQgMzowMDowMCBQTR4PU2VsZWN0ZWREYXRlRW5kBRUzLzExLzIwMTQgMTE6NTk6MDAgUE0eCUFjdGl2ZURheQUCMTEeC0FjdGl2ZU1vbnRoBQEzHgpBY3RpdmVZZWFyBQQyMDE0HwYLKZQBQmxhY2tiYXVkLldlYi5Db250ZW50LlBvcnRhbC5FdmVudENhbGVuZGFyK0VDYWxlbmRhclZpZXdNb2RlLCBCbGFja2JhdWQuV2ViLkNvbnRlbnQuUG9ydGFsLCBWZXJzaW9uPTYuNTEuNzM2LjgsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAAeCG1EV01Nb2RlCymTAUJsYWNrYmF1ZC5XZWIuQ29udGVudC5Qb3J0YWwuRXZlbnRDYWxlbmRhcitFQ2FsZW5kYXJEV01Nb2RlLCBCbGFja2JhdWQuV2ViLkNvbnRlbnQuUG9ydGFsLCBWZXJzaW9uPTYuNTEuNzM2LjgsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbABkFgRmDxYCHwxoFgICAg9kFgJmD2QWAgIBD2QWBgIDDxAPZBYCHghvbmNoYW5nZQWdAU9uRGF0ZVJhbmdlU2VsZWN0aW9uQ2hhbmdlKHRoaXMub3B0aW9uc1t0aGlzLm9wdGlvbnMuc2VsZWN0ZWRJbmRleF0udmFsdWUsJ1BDMjI4MF9FdmVudENhbGVuZGFyMV9URERhdGVQaWNrZXJCZWdpbicsJ1BDMjI4MF9FdmVudENhbGVuZGFyMV9URERhdGVQaWNrZXJFbmQnKTtkFgFmZAIFDxYCHgVzdHlsZQUMZGlzcGxheTpub25lZAIHDxYCHxkFDGRpc3BsYXk6bm9uZWQCAg9kFgRmD2QWBmYPZBYCAgMPEGQQFQ4KVGhpcyBtb250aA5TZXB0ZW1iZXIgMjAxMwxPY3RvYmVyIDIwMTMNTm92ZW1iZXIgMjAxMw1EZWNlbWJlciAyMDEzDEphbnVhcnkgMjAxNA1GZWJydWFyeSAyMDE0Ck1hcmNoIDIwMTQKQXByaWwgMjAxNAhNYXkgMjAxNAlKdW5lIDIwMTQJSnVseSAyMDE0C0F1Z3VzdCAyMDE0DlNlcHRlbWJlciAyMDE0FQ4JMy8xMS8yMDE0FDkvMTEvMjAxMyAzOjAwOjAwIFBNFTEwLzExLzIwMTMgMzowMDowMCBQTRUxMS8xMS8yMDEzIDM6MDA6MDAgUE0VMTIvMTEvMjAxMyAzOjAwOjAwIFBNFDEvMTEvMjAxNCAzOjAwOjAwIFBNFDIvMTEvMjAxNCAzOjAwOjAwIFBNFDMvMTEvMjAxNCAzOjAwOjAwIFBNFDQvMTEvMjAxNCAzOjAwOjAwIFBNFDUvMTEvMjAxNCAzOjAwOjAwIFBNFDYvMTEvMjAxNCAzOjAwOjAwIFBNFDcvMTEvMjAxNCAzOjAwOjAwIFBNFDgvMTEvMjAxNCAzOjAwOjAwIFBNFDkvMTEvMjAxNCAzOjAwOjAwIFBNFCsDDmdnZ2dnZ2dnZ2dnZ2dnFgECB2QCAQ9kFgICAQ8PFgIfCgUKTWFyY2ggMjAxNGRkAgIPZBYEAgEPD2QWAh4Hb25jbGljawVuT25GaWx0ZXJFdnRDbGljaygnUEMyMjgwX0V2ZW50Q2FsZW5kYXIxX2xidG5GaWx0ZXJFdmVudHMyJywnUEMyMjgwX0V2ZW50Q2FsZW5kYXIxX2N0bDIwX2RpdkNhbCcpO3JldHVybiBmYWxzZTtkAgMPD2QWAh8aBU1PbkZpbHRlckV2dFRleHRDbGljayh0aGlzLCdQQzIyODBfRXZlbnRDYWxlbmRhcjFfY3RsMjBfZGl2Q2FsJyk7cmV0dXJuIGZhbHNlO2QCAQ9kFgJmD2QWBgIBD2QWAmYPZBYEAgEPFgYeDUlTX0ZJTFRFUl9ESVYFATAeDUZJTFRFUl9DQUxfSUQFATUeE0lOX0xJU1RWSUVXX0RJU1BMQVkFATAWBgIBDw8WAh8KBSZVQ1IgQWx1bW5pIEFzc29jaWF0aW9uIEV2ZW50cyBDYWxlbmRhcmRkAgMPFgIeC18hSXRlbUNvdW50AgYWDGYPZBYCAgMPEA8WAh8KBQdCYW5xdWV0FgIfGgVlT25DYXRlZ29yeUNsaWNrKHRoaXMsdGhpcy5jaGVja2VkLCdQQzIyODBfRXZlbnRDYWxlbmRhcjFfY3RsMjBfcnB0Q2F0ZWdvcmllc19oaWRDYXRlZ29yeUlEXzAnLCc1JywwKTtkZGQCAQ9kFgICAw8QDxYCHwoFC0NlbGVicmF0aW9uFgIfGgVlT25DYXRlZ29yeUNsaWNrKHRoaXMsdGhpcy5jaGVja2VkLCdQQzIyODBfRXZlbnRDYWxlbmRhcjFfY3RsMjBfcnB0Q2F0ZWdvcmllc19oaWRDYXRlZ29yeUlEXzEnLCc1JywwKTtkZGQCAg9kFgICAw8QDxYCHwoFB01lZXRpbmcWAh8aBWVPbkNhdGVnb3J5Q2xpY2sodGhpcyx0aGlzLmNoZWNrZWQsJ1BDMjI4MF9FdmVudENhbGVuZGFyMV9jdGwyMF9ycHRDYXRlZ29yaWVzX2hpZENhdGVnb3J5SURfMicsJzUnLDApO2RkZAIDD2QWAgIDDxAPFgIfCgULUGVyZm9ybWFuY2UWAh8aBWVPbkNhdGVnb3J5Q2xpY2sodGhpcyx0aGlzLmNoZWNrZWQsJ1BDMjI4MF9FdmVudENhbGVuZGFyMV9jdGwyMF9ycHRDYXRlZ29yaWVzX2hpZENhdGVnb3J5SURfMycsJzUnLDApO2RkZAIED2QWAgIDDxAPFgIfCgUJUmVjZXB0aW9uFgIfGgVlT25DYXRlZ29yeUNsaWNrKHRoaXMsdGhpcy5jaGVja2VkLCdQQzIyODBfRXZlbnRDYWxlbmRhcjFfY3RsMjBfcnB0Q2F0ZWdvcmllc19oaWRDYXRlZ29yeUlEXzQnLCc1JywwKTtkZGQCBQ9kFgICAw8QDxYCHwoFCFNwb3J0aW5nFgIfGgVlT25DYXRlZ29yeUNsaWNrKHRoaXMsdGhpcy5jaGVja2VkLCdQQzIyODBfRXZlbnRDYWxlbmRhcjFfY3RsMjBfcnB0Q2F0ZWdvcmllc19oaWRDYXRlZ29yeUlEXzUnLCc1JywwKTtkZGQCBQ8WAh8MaBYCAgMPFgIfGgW8AU9uU2F2ZUZpbHRlckNvbnRyb2xDbGljaygnUEMyMjgwX0V2ZW50Q2FsZW5kYXIxX2N0bDIwX2RpdkNhbCcsMCk7V2ViRm9ybV9Eb0NhbGxiYWNrKCdQQzIyODAkRXZlbnRDYWxlbmRhcjEkY3RsMjAnLHNGaWx0ZXJTZXR0aW5ncyxPbkZpbHRlckNvbnRyb2xDYWxsYmFjayx0aGlzLE9uRmlsdGVyQ29udHJvbENhbGxiYWNrLHRydWUpZAIDDxYCHwxoFgICAw8WAh8MaGQCAw88KwAKAQAPZBYEHgVUaXRsZWUeB3N1bW1hcnkFDkV2ZW50IENhbGVuZGFyZAIFD2QWAmYPFQEXVHVlc2RheSwgTWFyY2ggMTEsIDIwMTRkAgsPZBYCZg8PFg4fAwUBMx8EBQE1HwUFFDMvMTEvMjAxNCAzOjAwOjAwIFBNHwYLKwQAHwcFATAfCAUFRmFsc2UfCQUEdHJ1ZWQWAmYPZBYGZg9kFgJmD2QWAgIBDw8WAh8KBSZVQ1IgQWx1bW5pIEFzc29jaWF0aW9uIEV2ZW50cyBDYWxlbmRhcmRkAgEPZBYCZg9kFhoCAQ8PFgQfCwUUL2ltYWdlcy9OZXdFdmVudC5naWYfDGhkZAIDDw8WAh8MaGRkAgUPDxYEHwsFFi9pbWFnZXMvdGFibGVwcm9wcy5naWYfDGhkZAIHDw8WAh8MaGRkAgkPDxYEHwsFHS9pbWFnZXMvRXZlbnRDYWxlbmRhclZpZXcucG5nHwxoZGQCCw8PFgIfDGhkZAINDw8WAh8LBSEvaW1hZ2VzL0V2ZW50Q2FsZW5kYXJMaXN0Vmlldy5wbmdkZAIRDxYCHw0FqQFqYXZhc2NyaXB0OkJMQUNLQkFVRC5uZXRjb21tdW5pdHkuUHJpbnREaXYoJ3ByaW50U3RhcnRDVicsIGZhbHNlLCAnVUMgUml2ZXJzaWRlIEFsdW1uaSBBc3NvY2lhdGlvbjogVUNSIEFsdW1uaSBBc3NvY2lhdGlvbiBFdmVudHMgQ2FsZW5kYXJcPGJyL1w+TWFyY2ggMjAxNCcsIHVuZGVmaW5lZCk7ZAITDw8WAh8OBasBQkxBQ0tCQVVELm5ldGNvbW11bml0eS5QcmludERpdigncHJpbnRTdGFydENWJywgZmFsc2UsICdVQyBSaXZlcnNpZGUgQWx1bW5pIEFzc29jaWF0aW9uOiBVQ1IgQWx1bW5pIEFzc29jaWF0aW9uIEV2ZW50cyBDYWxlbmRhclw8YnIvXD5NYXJjaCAyMDE0JywgdW5kZWZpbmVkKTtyZXR1cm4gZmFsc2U7ZGQCFQ8PFgQfCwUfL2ltYWdlcy9FdmVudENhbGVuZGFyRXhwb3J0LnBuZx8OBRtPbkV4cG9ydEV2ZW50Q2xpY2tlZCh0aGlzKTsWBh8PBSJQQzYxNTFfRXZlbnRDYWxlbmRhcjFfY3RsMjBfZGl2Q2FsHxAFBUZhbHNlHxEFFlBDNjE1MV9oaWRfZmlsdGVyX2luZm9kAhcPDxYCHw4FG09uRXhwb3J0RXZlbnRDbGlja2VkKHRoaXMpOxYGHw8FIlBDNjE1MV9FdmVudENhbGVuZGFyMV9jdGwyMF9kaXZDYWwfEAUFRmFsc2UfEQUWUEM2MTUxX2hpZF9maWx0ZXJfaW5mb2QCGQ8PFgQfCwUiL2ltYWdlcy9FdmVudENhbGVuZGFyUHVibGlzaGVkLnBuZx8MaGRkAhsPDxYCHwxoZGQCAg9kFgJmD2QWAgIBD2QWAmYPDxYOHxIFFDMvMTEvMjAxNCAzOjAwOjAwIFBNHxMFFTMvMTEvMjAxNCAxMTo1OTowMCBQTR8UBQIxMR8VBQEzHxYFBDIwMTQfBgsrBQAfFwsrBgBkFgRmDxYCHwxoFgICAg9kFgJmD2QWAgIBD2QWBgIDDxAPZBYCHxgFnQFPbkRhdGVSYW5nZVNlbGVjdGlvbkNoYW5nZSh0aGlzLm9wdGlvbnNbdGhpcy5vcHRpb25zLnNlbGVjdGVkSW5kZXhdLnZhbHVlLCdQQzYxNTFfRXZlbnRDYWxlbmRhcjFfVEREYXRlUGlja2VyQmVnaW4nLCdQQzYxNTFfRXZlbnRDYWxlbmRhcjFfVEREYXRlUGlja2VyRW5kJyk7ZBYBZmQCBQ8WAh8ZBQxkaXNwbGF5Om5vbmVkAgcPFgIfGQUMZGlzcGxheTpub25lZAICD2QWBGYPZBYGZg9kFgICAw8QZBAVDgpUaGlzIG1vbnRoDlNlcHRlbWJlciAyMDEzDE9jdG9iZXIgMjAxMw1Ob3ZlbWJlciAyMDEzDURlY2VtYmVyIDIwMTMMSmFudWFyeSAyMDE0DUZlYnJ1YXJ5IDIwMTQKTWFyY2ggMjAxNApBcHJpbCAyMDE0CE1heSAyMDE0CUp1bmUgMjAxNAlKdWx5IDIwMTQLQXVndXN0IDIwMTQOU2VwdGVtYmVyIDIwMTQVDgkzLzExLzIwMTQUOS8xMS8yMDEzIDM6MDA6MDAgUE0VMTAvMTEvMjAxMyAzOjAwOjAwIFBNFTExLzExLzIwMTMgMzowMDowMCBQTRUxMi8xMS8yMDEzIDM6MDA6MDAgUE0UMS8xMS8yMDE0IDM6MDA6MDAgUE0UMi8xMS8yMDE0IDM6MDA6MDAgUE0UMy8xMS8yMDE0IDM6MDA6MDAgUE0UNC8xMS8yMDE0IDM6MDA6MDAgUE0UNS8xMS8yMDE0IDM6MDA6MDAgUE0UNi8xMS8yMDE0IDM6MDA6MDAgUE0UNy8xMS8yMDE0IDM6MDA6MDAgUE0UOC8xMS8yMDE0IDM6MDA6MDAgUE0UOS8xMS8yMDE0IDM6MDA6MDAgUE0UKwMOZ2dnZ2dnZ2dnZ2dnZ2cWAQIHZAIBD2QWAgIBDw8WAh8KBQpNYXJjaCAyMDE0ZGQCAg9kFgQCAQ8PZBYCHxoFbk9uRmlsdGVyRXZ0Q2xpY2soJ1BDNjE1MV9FdmVudENhbGVuZGFyMV9sYnRuRmlsdGVyRXZlbnRzMicsJ1BDNjE1MV9FdmVudENhbGVuZGFyMV9jdGwyMF9kaXZDYWwnKTtyZXR1cm4gZmFsc2U7ZAIDDw9kFgIfGgVNT25GaWx0ZXJFdnRUZXh0Q2xpY2sodGhpcywnUEM2MTUxX0V2ZW50Q2FsZW5kYXIxX2N0bDIwX2RpdkNhbCcpO3JldHVybiBmYWxzZTtkAgEPZBYCZg9kFgYCAQ9kFgJmD2QWBAIBDxYGHxsFATAfHAUBNR8dBQEwFgYCAQ8PFgIfCgUmVUNSIEFsdW1uaSBBc3NvY2lhdGlvbiBFdmVudHMgQ2FsZW5kYXJkZAIDDxYCHx4CBhYMZg9kFgICAw8QDxYCHwoFB0JhbnF1ZXQWAh8aBWVPbkNhdGVnb3J5Q2xpY2sodGhpcyx0aGlzLmNoZWNrZWQsJ1BDNjE1MV9FdmVudENhbGVuZGFyMV9jdGwyMF9ycHRDYXRlZ29yaWVzX2hpZENhdGVnb3J5SURfMCcsJzUnLDApO2RkZAIBD2QWAgIDDxAPFgIfCgULQ2VsZWJyYXRpb24WAh8aBWVPbkNhdGVnb3J5Q2xpY2sodGhpcyx0aGlzLmNoZWNrZWQsJ1BDNjE1MV9FdmVudENhbGVuZGFyMV9jdGwyMF9ycHRDYXRlZ29yaWVzX2hpZENhdGVnb3J5SURfMScsJzUnLDApO2RkZAICD2QWAgIDDxAPFgIfCgUHTWVldGluZxYCHxoFZU9uQ2F0ZWdvcnlDbGljayh0aGlzLHRoaXMuY2hlY2tlZCwnUEM2MTUxX0V2ZW50Q2FsZW5kYXIxX2N0bDIwX3JwdENhdGVnb3JpZXNfaGlkQ2F0ZWdvcnlJRF8yJywnNScsMCk7ZGRkAgMPZBYCAgMPEA8WAh8KBQtQZXJmb3JtYW5jZRYCHxoFZU9uQ2F0ZWdvcnlDbGljayh0aGlzLHRoaXMuY2hlY2tlZCwnUEM2MTUxX0V2ZW50Q2FsZW5kYXIxX2N0bDIwX3JwdENhdGVnb3JpZXNfaGlkQ2F0ZWdvcnlJRF8zJywnNScsMCk7ZGRkAgQPZBYCAgMPEA8WAh8KBQlSZWNlcHRpb24WAh8aBWVPbkNhdGVnb3J5Q2xpY2sodGhpcyx0aGlzLmNoZWNrZWQsJ1BDNjE1MV9FdmVudENhbGVuZGFyMV9jdGwyMF9ycHRDYXRlZ29yaWVzX2hpZENhdGVnb3J5SURfNCcsJzUnLDApO2RkZAIFD2QWAgIDDxAPFgIfCgUIU3BvcnRpbmcWAh8aBWVPbkNhdGVnb3J5Q2xpY2sodGhpcyx0aGlzLmNoZWNrZWQsJ1BDNjE1MV9FdmVudENhbGVuZGFyMV9jdGwyMF9ycHRDYXRlZ29yaWVzX2hpZENhdGVnb3J5SURfNScsJzUnLDApO2RkZAIFDxYCHwxoFgICAw8WAh8aBbwBT25TYXZlRmlsdGVyQ29udHJvbENsaWNrKCdQQzYxNTFfRXZlbnRDYWxlbmRhcjFfY3RsMjBfZGl2Q2FsJywwKTtXZWJGb3JtX0RvQ2FsbGJhY2soJ1BDNjE1MSRFdmVudENhbGVuZGFyMSRjdGwyMCcsc0ZpbHRlclNldHRpbmdzLE9uRmlsdGVyQ29udHJvbENhbGxiYWNrLHRoaXMsT25GaWx0ZXJDb250cm9sQ2FsbGJhY2ssdHJ1ZSlkAgMPFgIfDGgWAgIDDxYCHwxoZAIDDzwrAAoBAA9kFgQfH2UfIAUORXZlbnQgQ2FsZW5kYXJkAgUPZBYCZg8VARdUdWVzZGF5LCBNYXJjaCAxMSwgMjAxNGQCBQ9kFgJmDxYCHwxoZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WEgUaUEMyMjgwJEltYWdlQnV0dG9uVmlld0xpc3QFHVBDMjI4MCRJbWFnZUJ1dHRvbkV4cG9ydEV2ZW50BS5QQzIyODAkRXZlbnRDYWxlbmRhcjEkSW1hZ2VCdXR0b25GaWx0ZXJFdmVudHMyBTtQQzIyODAkRXZlbnRDYWxlbmRhcjEkY3RsMjAkcnB0Q2F0ZWdvcmllcyRjdGwwMCRjaGtDYXRlZ29yeQU7UEMyMjgwJEV2ZW50Q2FsZW5kYXIxJGN0bDIwJHJwdENhdGVnb3JpZXMkY3RsMDEkY2hrQ2F0ZWdvcnkFO1BDMjI4MCRFdmVudENhbGVuZGFyMSRjdGwyMCRycHRDYXRlZ29yaWVzJGN0bDAyJGNoa0NhdGVnb3J5BTtQQzIyODAkRXZlbnRDYWxlbmRhcjEkY3RsMjAkcnB0Q2F0ZWdvcmllcyRjdGwwMyRjaGtDYXRlZ29yeQU7UEMyMjgwJEV2ZW50Q2FsZW5kYXIxJGN0bDIwJHJwdENhdGVnb3JpZXMkY3RsMDQkY2hrQ2F0ZWdvcnkFO1BDMjI4MCRFdmVudENhbGVuZGFyMSRjdGwyMCRycHRDYXRlZ29yaWVzJGN0bDA1JGNoa0NhdGVnb3J5BRpQQzYxNTEkSW1hZ2VCdXR0b25WaWV3TGlzdAUdUEM2MTUxJEltYWdlQnV0dG9uRXhwb3J0RXZlbnQFLlBDNjE1MSRFdmVudENhbGVuZGFyMSRJbWFnZUJ1dHRvbkZpbHRlckV2ZW50czIFO1BDNjE1MSRFdmVudENhbGVuZGFyMSRjdGwyMCRycHRDYXRlZ29yaWVzJGN0bDAwJGNoa0NhdGVnb3J5BTtQQzYxNTEkRXZlbnRDYWxlbmRhcjEkY3RsMjAkcnB0Q2F0ZWdvcmllcyRjdGwwMSRjaGtDYXRlZ29yeQU7UEM2MTUxJEV2ZW50Q2FsZW5kYXIxJGN0bDIwJHJwdENhdGVnb3JpZXMkY3RsMDIkY2hrQ2F0ZWdvcnkFO1BDNjE1MSRFdmVudENhbGVuZGFyMSRjdGwyMCRycHRDYXRlZ29yaWVzJGN0bDAzJGNoa0NhdGVnb3J5BTtQQzYxNTEkRXZlbnRDYWxlbmRhcjEkY3RsMjAkcnB0Q2F0ZWdvcmllcyRjdGwwNCRjaGtDYXRlZ29yeQU7UEM2MTUxJEV2ZW50Q2FsZW5kYXIxJGN0bDIwJHJwdENhdGVnb3JpZXMkY3RsMDUkY2hrQ2F0ZWdvcnm23UYDt9iokDaJOVU1vloimChTkg==" /> 
+   <script src="/Client/Scripts/API/BBAPI-min.js" type="text/javascript"></script> 
+   <script src="/Client/Scripts/Bbnccore-min.js" type="text/javascript"></script> 
+   <script type="text/javascript">
+//<![CDATA[
+var LOGGEDIN = "";//]]>
+</script> 
+   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script> 
+   <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.19/jquery-ui.min.js" type="text/javascript"></script> 
+   <script type="text/javascript">
+//<![CDATA[
+BLACKBAUD.netcommunity.jQuery.setVersionReference();//]]>
+</script> 
+   <script src="/Client/Scripts/jquery/jquery.validate.js" type="text/javascript"></script> 
+   <script src="/Client/Scripts/jquery/additional-methods.js" type="text/javascript"></script> 
+   <script src="/Client/Scripts/jquery/jquery.maskedinput-1.1.4.js" type="text/javascript"></script> 
+   <script type="text/javascript">
+//<![CDATA[
+ROOT_PATH = 'http://www.alumni.ucr.edu/'; BLACKBAUD.api.pageInformation.rootPath = 'http://www.alumni.ucr.edu/';BLACKBAUD.netcommunity.WebMethodsURL = 'http://www.alumni.ucr.edu/webservices/webmethods.asmx';BLACKBAUD.netcommunity.images = BLACKBAUD.netcommunity.images || {}; BLACKBAUD.netcommunity.images.imageUrlPrefix = 'http://www.alumni.ucr.edu/view.image?id=';modallvl = 0; ;var isIE = false; ;var DebugMode = false; ;var isAdminPage = false;;BLACKBAUD.netcommunity.bbAppFxRoot = 'http://localhost/bbappfx';;BLACKBAUD.netcommunity.bbAppFxDB = 'BBInfinity';;BLACKBAUD.netcommunity.PageID = 682; BLACKBAUD.api.pageInformation.pageId = 682;;//]]>
+</script> 
+   <script src="/Client/Scripts/EventCalendarPrinter.js" type="text/javascript"></script> 
+   <script src="/Client/Scripts/EventCalendar.js" type="text/javascript"></script> 
+   <script src="/Client/Scripts/wz_tooltip.js" type="text/javascript"></script> 
+   <script src="/Client/Scripts/tip_centerwindow.js" type="text/javascript"></script> 
+   <script src="/Client/Scripts/tip_followscroll.js" type="text/javascript"></script> 
+   <script type="text/javascript">
+//<![CDATA[
+var ENUM_SPECIFICDATE = '1';var ENUM_DATERANGE = '2';var PRINT_DATE = 'March 2014';var PRINT_VIEW = 'CV';var ME = '0';var PAGE = '682';var NOT_CALENDAR_GROUP = 0;var IS_CALENDAR_GROUP = 1;var ATTR_IS_FILTER_DIV = 'IS_FILTER_DIV';var ATTR_CAL_ID = 'FILTER_CAL_ID';var ATTR_IN_LISTVIEW_DISPLAY = 'IN_LISTVIEW_DISPLAY';var PARAM_CAL = 'CAL:';var PARAM_CATG = 'CATG:';//]]>
+</script> 
+   <script src="/ScriptResource.axd?d=ClaoNSHtTHaWp2PFVZmPFfjlmH5NlEjEpE-ljczhMkt9C6PZAVwDQCvRkVWaIZuYhygZK7pVGPxyJptczoFHIh0n734whrW6iZdKgjfvGFBMMcwq0&amp;t=11e6618b" type="text/javascript"></script> 
+   <script src="/Client/Scripts/webkit.js" type="text/javascript"></script> 
+   <script type="text/javascript">
+//<![CDATA[
+//]]>
+</script> 
+   <!-- Setting CombinScripts=False to avoid bug in ToolkitScriptManager that happens under load.  This should be removed when the bug is fixed --> 
+   <!-- Begin layout --> 
+   <div class="pagewrapper"> 
+    <div id="brandingbar">
+     <img class="overlay" src="http://www.alumni.ucr.edu/view.image?Id=2528" /> 
+     <h1><a title="UCR Home Page" href="http://www.ucr.edu"><img height="53" src="http://www.alumni.ucr.edu/view.image?Id=2475" width="150" /><span class="accessibility">University of California, Riverside</span></a></h1> 
+    </div> 
+    <!-- end brandingbar -->
+   </div> 
+   <!-- end pagewrapper --> 
+   <div id="masthead"> 
+    <h1><a href="http://www.alumni.ucr.edu"><img src="http://www.alumni.ucr.edu/view.image?Id=2477" /></a></h1> 
+   </div> 
+   <!-- end masthead --> 
+   <div class="breadcrumbs"> 
+    <div class="accessibility">
+     You are here:
+    </div> 
+    <ul> 
+     <li><a href="http://www.ucr.edu">UCR Home</a> &gt;</li> 
+     <li><a href="http://advancement.ucr.edu/">University Advancement</a> &gt;</li> 
+     <li class="lastitem">UCR Alumni Association</li> 
+    </ul> 
+   </div> 
+   <!-- end breadcrumbs --> 
+   <div class="pagewrapper"> 
+    <div id="search"> 
+     <div id="nav_utility"> 
+      <ul> 
+       <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+       <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+       <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+      </ul> 
+     </div> 
+     <!-- end nav_utility -->
+    </div> 
+    <!-- end search -->
+    <hr /> 
+    <div id="content"> 
+     <div class="hide">
+      <table id="PC2280_tableMain" class="w100p BBFormTable" border="0" summary="Event Calendar"> 
+       <tbody>
+        <tr id="PC2280_trCalTitle"> 
+         <td> <span id="PC2280_lbTitle" class="EventCalendarName">UCR Alumni Association Events Calendar</span> </td> 
+        </tr> 
+        <tr> 
+         <td class="taRight EventCalendarButtonBar"> <input type="image" name="PC2280$ImageButtonViewList" id="PC2280_ImageButtonViewList" class="vaMiddle" src="/images/EventCalendarListView.png" alt="View Events in a List View" /> <a id="PC2280_lbtnListView" class="vaMiddle EventCalendarButtons" href="javascript:__doPostBack('PC2280$lbtnListView','')">List View</a> <a href="javascript:BLACKBAUD.netcommunity.PrintDiv('printStartCV', false, 'UC Riverside Alumni Association: UCR Alumni Association Events Calendar\&lt;br/\&gt;March 2014', undefined);" id="PC2280_ImageButtonPrint"> <img src="images/EventCalendarPrint.gif" style="border: none;" class="vaMiddle" alt="Printer-Friendly Version" title="Printer-Friendly Version" /></a> <a onclick="BLACKBAUD.netcommunity.PrintDiv('printStartCV', false, 'UC Riverside Alumni Association: UCR Alumni Association Events Calendar\&lt;br/\&gt;March 2014', undefined);return false;" id="PC2280_lbtnPrintView" class="vaMiddle EventCalendarButtons" href="javascript:__doPostBack('PC2280$lbtnPrintView','')">Print View</a> <input type="image" name="PC2280$ImageButtonExportEvent" id="PC2280_ImageButtonExportEvent" class="vaMiddle" filter_div="PC2280_EventCalendar1_ctl20_divCal" is_calgroup="False" hid_filter_info="PC2280_hid_filter_info" src="/images/EventCalendarExport.png" alt="Export Events as an iCalendar File" onclick="OnExportEventClicked(this);" /> <a onclick="OnExportEventClicked(this);" id="PC2280_lbtnExportICal" class="vaMiddle EventCalendarButtons" filter_div="PC2280_EventCalendar1_ctl20_divCal" is_calgroup="False" hid_filter_info="PC2280_hid_filter_info" href="javascript:__doPostBack('PC2280$lbtnExportICal','')">Export as iCalendar</a> </td> 
+        </tr> 
+        <tr> 
+         <td colspan="2" class="EventCalendarPartContainer"> 
+          <table id="PC2280_EventCalendar1_TableCalendarView" class="w100p BBFormTable CalendarViewContainer"> 
+           <tbody>
+            <tr> 
+             <td class="CalendarViewTopLeft"> <label for="PC2280_EventCalendar1_ddlMonthYear" id="PC2280_EventCalendar1_lblTxtDate">Date:</label> <select name="PC2280$EventCalendar1$ddlMonthYear" id="PC2280_EventCalendar1_ddlMonthYear"> <option value="3/11/2014">This month</option> <option value="9/11/2013 3:00:00 PM">September 2013</option> <option value="10/11/2013 3:00:00 PM">October 2013</option> <option value="11/11/2013 3:00:00 PM">November 2013</option> <option value="12/11/2013 3:00:00 PM">December 2013</option> <option value="1/11/2014 3:00:00 PM">January 2014</option> <option value="2/11/2014 3:00:00 PM">February 2014</option> <option selected="selected" value="3/11/2014 3:00:00 PM">March 2014</option> <option value="4/11/2014 3:00:00 PM">April 2014</option> <option value="5/11/2014 3:00:00 PM">May 2014</option> <option value="6/11/2014 3:00:00 PM">June 2014</option> <option value="7/11/2014 3:00:00 PM">July 2014</option> <option value="8/11/2014 3:00:00 PM">August 2014</option> <option value="9/11/2014 3:00:00 PM">September 2014</option> </select> </td> 
+             <td class="CalendarViewTopMiddle"> <span id="PC2280_EventCalendar1_lblMonthYear" class="CalendarViewMonthYearLabel">March 2014</span> </td> 
+             <td class="CalendarViewTopRight"> <input type="image" name="PC2280$EventCalendar1$ImageButtonFilterEvents2" id="PC2280_EventCalendar1_ImageButtonFilterEvents2" class="vaMiddle" src="images/Calendar_FilterEvt.gif" alt="Filter Events" align="top" onclick="OnFilterEvtClick('PC2280_EventCalendar1_lbtnFilterEvents2','PC2280_EventCalendar1_ctl20_divCal');return false;" /> <a onclick="OnFilterEvtTextClick(this,'PC2280_EventCalendar1_ctl20_divCal');return false;" id="PC2280_EventCalendar1_lbtnFilterEvents2" title="Show Event Filter" class="vaMiddle EventCalendarButtons" href="javascript:__doPostBack('PC2280$EventCalendar1$lbtnFilterEvents2','')">Show Event Filter</a> </td> 
+            </tr> 
+            <tr> 
+             <td id="PC2280_EventCalendar1_TDCalView" colspan="3"> 
+              <table cellpadding="0" cellspacing="0" border="0" style="width: 99%"> 
+               <tbody>
+                <tr> 
+                 <td> <style type="text/css">
+	.EventCalFilter_Hide{ position:relative; display:none;}
+	.EventCalFilter_Show{ position:relative; display:inline; padding:0px 3px 5px 3px; border: solid 1px silver; }
+</style> 
+                  <div id="PC2280_EventCalendar1_ctl20_divCal" class="EventCalFilter_Hide CalendarFilterContainer" is_filter_div="0" filter_cal_id="5" in_listview_display="0"> 
+                   <span id="PC2280_EventCalendar1_ctl20_lblCalName">UCR Alumni Association Events Calendar</span>
+                   <br /> 
+                   <input type="hidden" name="PC2280$EventCalendar1$ctl20$rptCategories$ctl00$hidCategoryID" id="PC2280_EventCalendar1_ctl20_rptCategories_hidCategoryID_0" value="9154c549-6915-43df-a32a-095ebd5ca18f" /> 
+                   <span class="CalendarFilterBoxes"><input id="PC2280_EventCalendar1_ctl20_rptCategories_chkCategory_0" type="checkbox" name="PC2280$EventCalendar1$ctl20$rptCategories$ctl00$chkCategory" checked="checked" onclick="OnCategoryClick(this,this.checked,'PC2280_EventCalendar1_ctl20_rptCategories_hidCategoryID_0','5',0);" /><label for="PC2280_EventCalendar1_ctl20_rptCategories_chkCategory_0">Banquet</label></span> 
+                   <input type="hidden" name="PC2280$EventCalendar1$ctl20$rptCategories$ctl01$hidCategoryID" id="PC2280_EventCalendar1_ctl20_rptCategories_hidCategoryID_1" value="05deffc9-a5f5-4845-91e4-b67f398ab8a5" /> 
+                   <span class="CalendarFilterBoxes"><input id="PC2280_EventCalendar1_ctl20_rptCategories_chkCategory_1" type="checkbox" name="PC2280$EventCalendar1$ctl20$rptCategories$ctl01$chkCategory" checked="checked" onclick="OnCategoryClick(this,this.checked,'PC2280_EventCalendar1_ctl20_rptCategories_hidCategoryID_1','5',0);" /><label for="PC2280_EventCalendar1_ctl20_rptCategories_chkCategory_1">Celebration</label></span> 
+                   <input type="hidden" name="PC2280$EventCalendar1$ctl20$rptCategories$ctl02$hidCategoryID" id="PC2280_EventCalendar1_ctl20_rptCategories_hidCategoryID_2" value="9ca6f8a9-5124-4dde-8ac6-df2ed2da7341" /> 
+                   <span class="CalendarFilterBoxes"><input id="PC2280_EventCalendar1_ctl20_rptCategories_chkCategory_2" type="checkbox" name="PC2280$EventCalendar1$ctl20$rptCategories$ctl02$chkCategory" checked="checked" onclick="OnCategoryClick(this,this.checked,'PC2280_EventCalendar1_ctl20_rptCategories_hidCategoryID_2','5',0);" /><label for="PC2280_EventCalendar1_ctl20_rptCategories_chkCategory_2">Meeting</label></span> 
+                   <input type="hidden" name="PC2280$EventCalendar1$ctl20$rptCategories$ctl03$hidCategoryID" id="PC2280_EventCalendar1_ctl20_rptCategories_hidCategoryID_3" value="a9090fd4-5fa2-4f63-9876-3f084468a0ff" /> 
+                   <span class="CalendarFilterBoxes"><input id="PC2280_EventCalendar1_ctl20_rptCategories_chkCategory_3" type="checkbox" name="PC2280$EventCalendar1$ctl20$rptCategories$ctl03$chkCategory" checked="checked" onclick="OnCategoryClick(this,this.checked,'PC2280_EventCalendar1_ctl20_rptCategories_hidCategoryID_3','5',0);" /><label for="PC2280_EventCalendar1_ctl20_rptCategories_chkCategory_3">Performance</label></span> 
+                   <input type="hidden" name="PC2280$EventCalendar1$ctl20$rptCategories$ctl04$hidCategoryID" id="PC2280_EventCalendar1_ctl20_rptCategories_hidCategoryID_4" value="c10de7fa-0061-49b0-9613-ed4af09608c2" /> 
+                   <span class="CalendarFilterBoxes"><input id="PC2280_EventCalendar1_ctl20_rptCategories_chkCategory_4" type="checkbox" name="PC2280$EventCalendar1$ctl20$rptCategories$ctl04$chkCategory" checked="checked" onclick="OnCategoryClick(this,this.checked,'PC2280_EventCalendar1_ctl20_rptCategories_hidCategoryID_4','5',0);" /><label for="PC2280_EventCalendar1_ctl20_rptCategories_chkCategory_4">Reception</label></span> 
+                   <input type="hidden" name="PC2280$EventCalendar1$ctl20$rptCategories$ctl05$hidCategoryID" id="PC2280_EventCalendar1_ctl20_rptCategories_hidCategoryID_5" value="21b1c62d-f23a-4c60-8642-ef0bf9c953ae" /> 
+                   <span class="CalendarFilterBoxes"><input id="PC2280_EventCalendar1_ctl20_rptCategories_chkCategory_5" type="checkbox" name="PC2280$EventCalendar1$ctl20$rptCategories$ctl05$chkCategory" checked="checked" onclick="OnCategoryClick(this,this.checked,'PC2280_EventCalendar1_ctl20_rptCategories_hidCategoryID_5','5',0);" /><label for="PC2280_EventCalendar1_ctl20_rptCategories_chkCategory_5">Sporting</label></span> 
+                  </div> </td> 
+                </tr> 
+               </tbody>
+              </table> 
+              <div id="printStartCV"> 
+               <table id="PC2280_EventCalendar1_Calendar2" class="CalendarViewCalendarContainer" cellspacing="0" cellpadding="2" title="" summary="Event Calendar" width="100%"> 
+                <tbody>
+                 <tr>
+                  <th class="CalendarViewDayHeader" align="center" abbr="Sunday" scope="col">Sun</th>
+                  <th class="CalendarViewDayHeader" align="center" abbr="Monday" scope="col">Mon</th>
+                  <th class="CalendarViewDayHeader" align="center" abbr="Tuesday" scope="col">Tue</th>
+                  <th class="CalendarViewDayHeader" align="center" abbr="Wednesday" scope="col">Wed</th>
+                  <th class="CalendarViewDayHeader" align="center" abbr="Thursday" scope="col">Thu</th>
+                  <th class="CalendarViewDayHeader" align="center" abbr="Friday" scope="col">Fri</th>
+                  <th class="CalendarViewDayHeader" align="center" abbr="Saturday" scope="col">Sat</th>
+                 </tr>
+                 <tr>
+                  <td class="CalendarViewOtherMonthDay" align="right" valign="top" width="14%">23
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewOtherMonthDay" align="right" valign="top" width="14%">24
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewOtherMonthDay" align="right" valign="top" width="14%">25
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewOtherMonthDay" align="right" valign="top" width="14%">26
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewOtherMonthDay" align="right" valign="top" width="14%">27
+                   <div class="CalendarViewEventItemContainer"> 
+                    <div id="evt5_c10de7fa-0061-49b0-9613-ed4af09608c2" class="CalendarViewEvent" name="evt5_c10de7fa-0061-49b0-9613-ed4af09608c2" onmouseover="try{Tip('Time:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Thu, 27 Feb, 2014 5:30 PM - 7:00 PM&lt;br /&gt;Category:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Reception&lt;br /&gt;', TITLE, 'IE Alumni Networking Event', WIDTH, 250, OFFSETX, -110)}catch(x){}" onmouseout="try{UnTip()}catch(x){}" align="left">
+                      5:30 PM
+                     <br />
+                     <a title="IE Alumni Networking Event Thu, 27 Feb, 2014 5:30 PM - 7:00 PM" href="/alumni-calendar?cid=5&amp;ceid=336&amp;cerid=0&amp;cdt=2%2f27%2f2014">IE Alumni Networking Event</a>
+                     <br /> 
+                    </div>
+                    <div id="evt5_c10de7fa-0061-49b0-9613-ed4af09608c2" class="CalendarViewEvent" name="evt5_c10de7fa-0061-49b0-9613-ed4af09608c2" onmouseover="try{Tip('Time:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Thu, 27 Feb, 2014 6:30 PM - 9:00 PM&lt;br /&gt;Category:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Reception&lt;br /&gt;', TITLE, 'OC Alumni Networking Event', WIDTH, 250, OFFSETX, -110)}catch(x){}" onmouseout="try{UnTip()}catch(x){}" align="left">
+                      6:30 PM
+                     <br />
+                     <a title="OC Alumni Networking Event Thu, 27 Feb, 2014 6:30 PM - 9:00 PM" href="/alumni-calendar?cid=5&amp;ceid=335&amp;cerid=0&amp;cdt=2%2f27%2f2014">OC Alumni Networking Event</a>
+                     <br /> 
+                    </div> 
+                   </div></td>
+                  <td class="CalendarViewOtherMonthDay" align="right" valign="top" width="14%">28
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewWeekendDay" align="right" valign="top" width="14%">1
+                   <div class="CalendarViewEventItemContainer"> 
+                    <div id="evt5_" class="CalendarViewEvent" name="evt5_" onmouseover="try{Tip('Time:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Sat, 1 Mar, 2014 7:00 PM - 9:00 PM&lt;br /&gt;', TITLE, 'HEAT Music Festival', WIDTH, 250, OFFSETX, -110)}catch(x){}" onmouseout="try{UnTip()}catch(x){}" align="left">
+                      7:00 PM
+                     <br />
+                     <a title="HEAT Music Festival Sat, 1 Mar, 2014 7:00 PM - 9:00 PM" href="/alumni-calendar?cid=5&amp;ceid=339&amp;cerid=0&amp;cdt=3%2f1%2f2014">HEAT Music Festival</a>
+                     <br /> 
+                    </div> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <td class="CalendarViewWeekendDay" align="right" valign="top" width="14%">2
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">3
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">4
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">5
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">6
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">7
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewWeekendDay" align="right" valign="top" width="14%">8
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <td class="CalendarViewWeekendDay" align="right" valign="top" width="14%">9
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">10
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewToday" align="right" valign="top" width="14%">11
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">12
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">13
+                   <div class="CalendarViewEventItemContainer"> 
+                    <div id="evt5_21b1c62d-f23a-4c60-8642-ef0bf9c953ae" class="CalendarViewEvent" name="evt5_21b1c62d-f23a-4c60-8642-ef0bf9c953ae" onmouseover="try{Tip('Time:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Thu, 13 Mar, 2014 5:00 PM - 9:00 PM&lt;br /&gt;Category:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Sporting&lt;br /&gt;', TITLE, 'Big West', WIDTH, 250, OFFSETX, -110)}catch(x){}" onmouseout="try{UnTip()}catch(x){}" align="left">
+                      5:00 PM
+                     <br />
+                     <a title="Big West Thu, 13 Mar, 2014 5:00 PM - 9:00 PM" href="/alumni-calendar?cid=5&amp;ceid=341&amp;cerid=0&amp;cdt=3%2f13%2f2014">Big West</a>
+                     <br /> 
+                    </div> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">14
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewWeekendDay" align="right" valign="top" width="14%">15
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <td class="CalendarViewWeekendDay" align="right" valign="top" width="14%">16
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">17
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">18
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">19
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">20
+                   <div class="CalendarViewEventItemContainer"> 
+                    <div id="evt5_" class="CalendarViewEvent" name="evt5_" onmouseover="try{Tip('Time:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Thu, 20 Mar, 2014 11:00 AM - 3:00 PM&lt;br /&gt;', TITLE, 'Recruit Los Angeles: Alumni Only Career Fair', WIDTH, 250, OFFSETX, -110)}catch(x){}" onmouseout="try{UnTip()}catch(x){}" align="left">
+                      11:00 AM
+                     <br />
+                     <a title="Recruit Los Angeles: Alumni Only Career Fair Thu, 20 Mar, 2014 11:00 AM - 3:00 PM" href="/alumni-calendar?cid=5&amp;ceid=340&amp;cerid=0&amp;cdt=3%2f20%2f2014">Recruit Los Angeles: Alumni Only Career Fair</a>
+                     <br /> 
+                    </div> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">21
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewWeekendDay" align="right" valign="top" width="14%">22
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <td class="CalendarViewWeekendDay" align="right" valign="top" width="14%">23
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">24
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">25
+                   <div class="CalendarViewEventItemContainer"> 
+                    <div id="evt5_9154c549-6915-43df-a32a-095ebd5ca18f" class="CalendarViewEvent" name="evt5_9154c549-6915-43df-a32a-095ebd5ca18f" onmouseover="try{Tip('Time:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Tue, 25 Mar, 2014 6:00 PM - 8:00 PM&lt;br /&gt;Category:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Banquet&lt;br /&gt;', TITLE, 'Annual Advocacy Day Dinner', WIDTH, 250, OFFSETX, -110)}catch(x){}" onmouseout="try{UnTip()}catch(x){}" align="left">
+                      6:00 PM
+                     <br />
+                     <a title="Annual Advocacy Day Dinner Tue, 25 Mar, 2014 6:00 PM - 8:00 PM" href="/alumni-calendar?cid=5&amp;ceid=295&amp;cerid=0&amp;cdt=3%2f25%2f2014">Annual Advocacy Day Dinner</a>
+                     <br /> 
+                    </div> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">26
+                   <div class="CalendarViewEventItemContainer"> 
+                    <div id="evt5_c10de7fa-0061-49b0-9613-ed4af09608c2" class="CalendarViewAllDayEvent" name="evt5_c10de7fa-0061-49b0-9613-ed4af09608c2" onmouseover="try{Tip('Time:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Wed, 26 Mar, 2014 &lt;br /&gt;Category:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Reception&lt;br /&gt;', TITLE, 'UCR Advocacy Day', WIDTH, 250, OFFSETX, -110)}catch(x){}" onmouseout="try{UnTip()}catch(x){}" align="left"> 
+                     <a title="UCR Advocacy Day Wed, 26 Mar, 2014 " href="/alumni-calendar?cid=5&amp;ceid=342&amp;cerid=0&amp;cdt=3%2f26%2f2014">UCR Advocacy Day</a>
+                     <br /> 
+                    </div> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">27
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">28
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewWeekendDay" align="right" valign="top" width="14%">29
+                   <div class="CalendarViewEventItemContainer"> 
+                    <div id="evt5_21b1c62d-f23a-4c60-8642-ef0bf9c953ae" class="CalendarViewEvent" name="evt5_21b1c62d-f23a-4c60-8642-ef0bf9c953ae" onmouseover="try{Tip('Time:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Sat, 29 Mar, 2014 11:00 AM - 2:00 PM&lt;br /&gt;Category:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Sporting&lt;br /&gt;', TITLE, 'Hot Ticket: Softball Vs. Hawaii', WIDTH, 250, OFFSETX, -110)}catch(x){}" onmouseout="try{UnTip()}catch(x){}" align="left">
+                      11:00 AM
+                     <br />
+                     <a title="Hot Ticket: Softball Vs. Hawaii Sat, 29 Mar, 2014 11:00 AM - 2:00 PM" href="/alumni-calendar?cid=5&amp;ceid=310&amp;cerid=0&amp;cdt=3%2f29%2f2014">Hot Ticket: Softball Vs. Hawaii</a>
+                     <br /> 
+                    </div> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <td class="CalendarViewWeekendDay" align="right" valign="top" width="14%">30
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">31
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewOtherMonthDay" align="right" valign="top" width="14%">1
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewOtherMonthDay" align="right" valign="top" width="14%">2
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewOtherMonthDay" align="right" valign="top" width="14%">3
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewOtherMonthDay" align="right" valign="top" width="14%">4
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewOtherMonthDay" align="right" valign="top" width="14%">5
+                   <div class="CalendarViewEventItemContainer"> 
+                    <div id="evt5_21b1c62d-f23a-4c60-8642-ef0bf9c953ae" class="CalendarViewEvent" name="evt5_21b1c62d-f23a-4c60-8642-ef0bf9c953ae" onmouseover="try{Tip('Time:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Sat, 5 Apr, 2014 1:00 PM - 5:00 PM&lt;br /&gt;Category:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Sporting&lt;br /&gt;', TITLE, 'L.A. Chapter Dodgers Baseball Game Outing', WIDTH, 250, OFFSETX, -110)}catch(x){}" onmouseout="try{UnTip()}catch(x){}" align="left">
+                      1:00 PM
+                     <br />
+                     <a title="L.A. Chapter Dodgers Baseball Game Outing Sat, 5 Apr, 2014 1:00 PM - 5:00 PM" href="/alumni-calendar?cid=5&amp;ceid=343&amp;cerid=0&amp;cdt=4%2f5%2f2014">L.A. Chapter Dodgers Baseball Game Outing</a>
+                     <br /> 
+                    </div> 
+                   </div></td>
+                 </tr> 
+                </tbody>
+               </table> 
+               <table style="width: 99%"> 
+                <tbody>
+                 <tr> 
+                  <td title="Today" class="CalendarViewToday"> &nbsp; </td> 
+                  <td> <span id="PC2280_EventCalendar1_spanToday" class="CalendarViewTodayText">Today (Tuesday, March 11, 2014)</span> </td> 
+                 </tr> 
+                 <tr> 
+                  <td class="wsNowrap CalendarViewBottomIcons" colspan="2"> <img src="images/Calendar_recurrence.gif" alt="Recurring event" title="Recurring event" class="vaMiddle" />:&nbsp; <span id="PC2280_EventCalendar1_lblTxtRecurring">Recurring</span>&nbsp;&nbsp;&nbsp; <img src="images/Calendar_timezone.gif" alt="Event time zone" title="Event time zone" class="vaMiddle" />:&nbsp; <span id="PC2280_EventCalendar1_lblTxtSpecificTimeZone">Specific time zone</span>&nbsp;&nbsp;&nbsp; <img src="images/Calendar_multidays.gif" alt="Event longer than a day" title="Event longer than a day" class="vaMiddle" />:&nbsp; <span id="PC2280_EventCalendar1_lblTxtLongerThanDay">Longer than a day</span> </td> 
+                 </tr> 
+                </tbody>
+               </table> 
+              </div> </td> 
+            </tr> 
+           </tbody>
+          </table> </td> 
+        </tr> 
+       </tbody>
+      </table> 
+      <input type="hidden" name="PC2280$hid_recur_info" id="PC2280_hid_recur_info" /> 
+      <input name="PC2280$hid_filter_info" type="hidden" id="PC2280_hid_filter_info" />
+     </div> 
+     <span class="sIFR-alternate"><h2>Events Calendar</h2> </span> 
+     <div id="sidebar"> 
+      <div class="nav"> 
+       <h3 class="accessibility">Main Navigation</h3> 
+       <ul> 
+        <li><a href="http://www.alumni.ucr.edu">Home</a></li> 
+        <li><a href="http://www.alumni.ucr.edu/membership">Membership</a></li> 
+        <li><a href="http://www.alumni.ucr.edu/events">Alumni Events</a></li> 
+        <li><a href="http://www.alumni.ucr.edu/career-resources">Career Resources</a></li> 
+        <li><a href="http://www.alumni.ucr.edu/getinvolved">Get Involved</a></li> 
+        <li><a href="http://www.alumni.ucr.edu/notable">Notable Alumni</a></li> 
+        <li><a href="http://www.alumni.ucr.edu/awards">Awards of Distinction</a></li> 
+        <li><a href="http://www.alumni.ucr.edu/avc">Alumni &amp; Visitors Center</a></li> 
+        <li><a href="http://www.alumni.ucr.edu/about">About Us</a></li> 
+        <li><a href="http://www.alumni.ucr.edu/faq">FAQ</a></li> 
+       </ul> 
+       <div class="hide"></div> 
+      </div> 
+      <!-- end nav -->
+     </div> 
+     <!-- end sidebar -->
+     <hr /> 
+     <div id="main">
+      <table id="PC6151_tableMain" class="w100p BBFormTable" border="0" summary="Event Calendar"> 
+       <tbody>
+        <tr id="PC6151_trCalTitle"> 
+         <td> <span id="PC6151_lbTitle" class="EventCalendarName">UCR Alumni Association Events Calendar</span> </td> 
+        </tr> 
+        <tr> 
+         <td class="taRight EventCalendarButtonBar"> <input type="image" name="PC6151$ImageButtonViewList" id="PC6151_ImageButtonViewList" class="vaMiddle" src="/images/EventCalendarListView.png" alt="View Events in a List View" /> <a id="PC6151_lbtnListView" class="vaMiddle EventCalendarButtons" href="javascript:__doPostBack('PC6151$lbtnListView','')">List View</a> <a href="javascript:BLACKBAUD.netcommunity.PrintDiv('printStartCV', false, 'UC Riverside Alumni Association: UCR Alumni Association Events Calendar\&lt;br/\&gt;March 2014', undefined);" id="PC6151_ImageButtonPrint"> <img src="images/EventCalendarPrint.gif" style="border: none;" class="vaMiddle" alt="Printer-Friendly Version" title="Printer-Friendly Version" /></a> <a onclick="BLACKBAUD.netcommunity.PrintDiv('printStartCV', false, 'UC Riverside Alumni Association: UCR Alumni Association Events Calendar\&lt;br/\&gt;March 2014', undefined);return false;" id="PC6151_lbtnPrintView" class="vaMiddle EventCalendarButtons" href="javascript:__doPostBack('PC6151$lbtnPrintView','')">Print View</a> <input type="image" name="PC6151$ImageButtonExportEvent" id="PC6151_ImageButtonExportEvent" class="vaMiddle" filter_div="PC6151_EventCalendar1_ctl20_divCal" is_calgroup="False" hid_filter_info="PC6151_hid_filter_info" src="/images/EventCalendarExport.png" alt="Export Events as an iCalendar File" onclick="OnExportEventClicked(this);" /> <a onclick="OnExportEventClicked(this);" id="PC6151_lbtnExportICal" class="vaMiddle EventCalendarButtons" filter_div="PC6151_EventCalendar1_ctl20_divCal" is_calgroup="False" hid_filter_info="PC6151_hid_filter_info" href="javascript:__doPostBack('PC6151$lbtnExportICal','')">Export as iCalendar</a> </td> 
+        </tr> 
+        <tr> 
+         <td colspan="2" class="EventCalendarPartContainer"> 
+          <table id="PC6151_EventCalendar1_TableCalendarView" class="w100p BBFormTable CalendarViewContainer"> 
+           <tbody>
+            <tr> 
+             <td class="CalendarViewTopLeft"> <label for="PC6151_EventCalendar1_ddlMonthYear" id="PC6151_EventCalendar1_lblTxtDate">Date:</label> <select name="PC6151$EventCalendar1$ddlMonthYear" id="PC6151_EventCalendar1_ddlMonthYear"> <option value="3/11/2014">This month</option> <option value="9/11/2013 3:00:00 PM">September 2013</option> <option value="10/11/2013 3:00:00 PM">October 2013</option> <option value="11/11/2013 3:00:00 PM">November 2013</option> <option value="12/11/2013 3:00:00 PM">December 2013</option> <option value="1/11/2014 3:00:00 PM">January 2014</option> <option value="2/11/2014 3:00:00 PM">February 2014</option> <option selected="selected" value="3/11/2014 3:00:00 PM">March 2014</option> <option value="4/11/2014 3:00:00 PM">April 2014</option> <option value="5/11/2014 3:00:00 PM">May 2014</option> <option value="6/11/2014 3:00:00 PM">June 2014</option> <option value="7/11/2014 3:00:00 PM">July 2014</option> <option value="8/11/2014 3:00:00 PM">August 2014</option> <option value="9/11/2014 3:00:00 PM">September 2014</option> </select> </td> 
+             <td class="CalendarViewTopMiddle"> <span id="PC6151_EventCalendar1_lblMonthYear" class="CalendarViewMonthYearLabel">March 2014</span> </td> 
+             <td class="CalendarViewTopRight"> <input type="image" name="PC6151$EventCalendar1$ImageButtonFilterEvents2" id="PC6151_EventCalendar1_ImageButtonFilterEvents2" class="vaMiddle" src="images/Calendar_FilterEvt.gif" alt="Filter Events" align="top" onclick="OnFilterEvtClick('PC6151_EventCalendar1_lbtnFilterEvents2','PC6151_EventCalendar1_ctl20_divCal');return false;" /> <a onclick="OnFilterEvtTextClick(this,'PC6151_EventCalendar1_ctl20_divCal');return false;" id="PC6151_EventCalendar1_lbtnFilterEvents2" title="Show Event Filter" class="vaMiddle EventCalendarButtons" href="javascript:__doPostBack('PC6151$EventCalendar1$lbtnFilterEvents2','')">Show Event Filter</a> </td> 
+            </tr> 
+            <tr> 
+             <td id="PC6151_EventCalendar1_TDCalView" colspan="3"> 
+              <table cellpadding="0" cellspacing="0" border="0" style="width: 99%"> 
+               <tbody>
+                <tr> 
+                 <td> <style type="text/css">
+	.EventCalFilter_Hide{ position:relative; display:none;}
+	.EventCalFilter_Show{ position:relative; display:inline; padding:0px 3px 5px 3px; border: solid 1px silver; }
+</style> 
+                  <div id="PC6151_EventCalendar1_ctl20_divCal" class="EventCalFilter_Hide CalendarFilterContainer" is_filter_div="0" filter_cal_id="5" in_listview_display="0"> 
+                   <span id="PC6151_EventCalendar1_ctl20_lblCalName">UCR Alumni Association Events Calendar</span>
+                   <br /> 
+                   <input type="hidden" name="PC6151$EventCalendar1$ctl20$rptCategories$ctl00$hidCategoryID" id="PC6151_EventCalendar1_ctl20_rptCategories_hidCategoryID_0" value="9154c549-6915-43df-a32a-095ebd5ca18f" /> 
+                   <span class="CalendarFilterBoxes"><input id="PC6151_EventCalendar1_ctl20_rptCategories_chkCategory_0" type="checkbox" name="PC6151$EventCalendar1$ctl20$rptCategories$ctl00$chkCategory" checked="checked" onclick="OnCategoryClick(this,this.checked,'PC6151_EventCalendar1_ctl20_rptCategories_hidCategoryID_0','5',0);" /><label for="PC6151_EventCalendar1_ctl20_rptCategories_chkCategory_0">Banquet</label></span> 
+                   <input type="hidden" name="PC6151$EventCalendar1$ctl20$rptCategories$ctl01$hidCategoryID" id="PC6151_EventCalendar1_ctl20_rptCategories_hidCategoryID_1" value="05deffc9-a5f5-4845-91e4-b67f398ab8a5" /> 
+                   <span class="CalendarFilterBoxes"><input id="PC6151_EventCalendar1_ctl20_rptCategories_chkCategory_1" type="checkbox" name="PC6151$EventCalendar1$ctl20$rptCategories$ctl01$chkCategory" checked="checked" onclick="OnCategoryClick(this,this.checked,'PC6151_EventCalendar1_ctl20_rptCategories_hidCategoryID_1','5',0);" /><label for="PC6151_EventCalendar1_ctl20_rptCategories_chkCategory_1">Celebration</label></span> 
+                   <input type="hidden" name="PC6151$EventCalendar1$ctl20$rptCategories$ctl02$hidCategoryID" id="PC6151_EventCalendar1_ctl20_rptCategories_hidCategoryID_2" value="9ca6f8a9-5124-4dde-8ac6-df2ed2da7341" /> 
+                   <span class="CalendarFilterBoxes"><input id="PC6151_EventCalendar1_ctl20_rptCategories_chkCategory_2" type="checkbox" name="PC6151$EventCalendar1$ctl20$rptCategories$ctl02$chkCategory" checked="checked" onclick="OnCategoryClick(this,this.checked,'PC6151_EventCalendar1_ctl20_rptCategories_hidCategoryID_2','5',0);" /><label for="PC6151_EventCalendar1_ctl20_rptCategories_chkCategory_2">Meeting</label></span> 
+                   <input type="hidden" name="PC6151$EventCalendar1$ctl20$rptCategories$ctl03$hidCategoryID" id="PC6151_EventCalendar1_ctl20_rptCategories_hidCategoryID_3" value="a9090fd4-5fa2-4f63-9876-3f084468a0ff" /> 
+                   <span class="CalendarFilterBoxes"><input id="PC6151_EventCalendar1_ctl20_rptCategories_chkCategory_3" type="checkbox" name="PC6151$EventCalendar1$ctl20$rptCategories$ctl03$chkCategory" checked="checked" onclick="OnCategoryClick(this,this.checked,'PC6151_EventCalendar1_ctl20_rptCategories_hidCategoryID_3','5',0);" /><label for="PC6151_EventCalendar1_ctl20_rptCategories_chkCategory_3">Performance</label></span> 
+                   <input type="hidden" name="PC6151$EventCalendar1$ctl20$rptCategories$ctl04$hidCategoryID" id="PC6151_EventCalendar1_ctl20_rptCategories_hidCategoryID_4" value="c10de7fa-0061-49b0-9613-ed4af09608c2" /> 
+                   <span class="CalendarFilterBoxes"><input id="PC6151_EventCalendar1_ctl20_rptCategories_chkCategory_4" type="checkbox" name="PC6151$EventCalendar1$ctl20$rptCategories$ctl04$chkCategory" checked="checked" onclick="OnCategoryClick(this,this.checked,'PC6151_EventCalendar1_ctl20_rptCategories_hidCategoryID_4','5',0);" /><label for="PC6151_EventCalendar1_ctl20_rptCategories_chkCategory_4">Reception</label></span> 
+                   <input type="hidden" name="PC6151$EventCalendar1$ctl20$rptCategories$ctl05$hidCategoryID" id="PC6151_EventCalendar1_ctl20_rptCategories_hidCategoryID_5" value="21b1c62d-f23a-4c60-8642-ef0bf9c953ae" /> 
+                   <span class="CalendarFilterBoxes"><input id="PC6151_EventCalendar1_ctl20_rptCategories_chkCategory_5" type="checkbox" name="PC6151$EventCalendar1$ctl20$rptCategories$ctl05$chkCategory" checked="checked" onclick="OnCategoryClick(this,this.checked,'PC6151_EventCalendar1_ctl20_rptCategories_hidCategoryID_5','5',0);" /><label for="PC6151_EventCalendar1_ctl20_rptCategories_chkCategory_5">Sporting</label></span> 
+                  </div> </td> 
+                </tr> 
+               </tbody>
+              </table> 
+              <div id="printStartCV"> 
+               <table id="PC6151_EventCalendar1_Calendar2" class="CalendarViewCalendarContainer" cellspacing="0" cellpadding="2" title="" summary="Event Calendar" width="100%"> 
+                <tbody>
+                 <tr>
+                  <th class="CalendarViewDayHeader" align="center" abbr="Sunday" scope="col">Sun</th>
+                  <th class="CalendarViewDayHeader" align="center" abbr="Monday" scope="col">Mon</th>
+                  <th class="CalendarViewDayHeader" align="center" abbr="Tuesday" scope="col">Tue</th>
+                  <th class="CalendarViewDayHeader" align="center" abbr="Wednesday" scope="col">Wed</th>
+                  <th class="CalendarViewDayHeader" align="center" abbr="Thursday" scope="col">Thu</th>
+                  <th class="CalendarViewDayHeader" align="center" abbr="Friday" scope="col">Fri</th>
+                  <th class="CalendarViewDayHeader" align="center" abbr="Saturday" scope="col">Sat</th>
+                 </tr>
+                 <tr>
+                  <td class="CalendarViewOtherMonthDay" align="right" valign="top" width="14%">23
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewOtherMonthDay" align="right" valign="top" width="14%">24
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewOtherMonthDay" align="right" valign="top" width="14%">25
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewOtherMonthDay" align="right" valign="top" width="14%">26
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewOtherMonthDay" align="right" valign="top" width="14%">27
+                   <div class="CalendarViewEventItemContainer"> 
+                    <div id="evt5_c10de7fa-0061-49b0-9613-ed4af09608c2" class="CalendarViewEvent" name="evt5_c10de7fa-0061-49b0-9613-ed4af09608c2" onmouseover="try{Tip('Time:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Thu, 27 Feb, 2014 5:30 PM - 7:00 PM&lt;br /&gt;Category:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Reception&lt;br /&gt;', TITLE, 'IE Alumni Networking Event', WIDTH, 250, OFFSETX, -110)}catch(x){}" onmouseout="try{UnTip()}catch(x){}" align="left">
+                      5:30 PM
+                     <br />
+                     <a title="IE Alumni Networking Event Thu, 27 Feb, 2014 5:30 PM - 7:00 PM" href="/alumni-calendar?cid=5&amp;ceid=336&amp;cerid=0&amp;cdt=2%2f27%2f2014">IE Alumni Networking Event</a>
+                     <br /> 
+                    </div>
+                    <div id="evt5_c10de7fa-0061-49b0-9613-ed4af09608c2" class="CalendarViewEvent" name="evt5_c10de7fa-0061-49b0-9613-ed4af09608c2" onmouseover="try{Tip('Time:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Thu, 27 Feb, 2014 6:30 PM - 9:00 PM&lt;br /&gt;Category:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Reception&lt;br /&gt;', TITLE, 'OC Alumni Networking Event', WIDTH, 250, OFFSETX, -110)}catch(x){}" onmouseout="try{UnTip()}catch(x){}" align="left">
+                      6:30 PM
+                     <br />
+                     <a title="OC Alumni Networking Event Thu, 27 Feb, 2014 6:30 PM - 9:00 PM" href="/alumni-calendar?cid=5&amp;ceid=335&amp;cerid=0&amp;cdt=2%2f27%2f2014">OC Alumni Networking Event</a>
+                     <br /> 
+                    </div> 
+                   </div></td>
+                  <td class="CalendarViewOtherMonthDay" align="right" valign="top" width="14%">28
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewWeekendDay" align="right" valign="top" width="14%">1
+                   <div class="CalendarViewEventItemContainer"> 
+                    <div id="evt5_" class="CalendarViewEvent" name="evt5_" onmouseover="try{Tip('Time:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Sat, 1 Mar, 2014 7:00 PM - 9:00 PM&lt;br /&gt;', TITLE, 'HEAT Music Festival', WIDTH, 250, OFFSETX, -110)}catch(x){}" onmouseout="try{UnTip()}catch(x){}" align="left">
+                      7:00 PM
+                     <br />
+                     <a title="HEAT Music Festival Sat, 1 Mar, 2014 7:00 PM - 9:00 PM" href="/alumni-calendar?cid=5&amp;ceid=339&amp;cerid=0&amp;cdt=3%2f1%2f2014">HEAT Music Festival</a>
+                     <br /> 
+                    </div> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <td class="CalendarViewWeekendDay" align="right" valign="top" width="14%">2
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">3
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">4
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">5
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">6
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">7
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewWeekendDay" align="right" valign="top" width="14%">8
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <td class="CalendarViewWeekendDay" align="right" valign="top" width="14%">9
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">10
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewToday" align="right" valign="top" width="14%">11
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">12
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">13
+                   <div class="CalendarViewEventItemContainer"> 
+                    <div id="evt5_21b1c62d-f23a-4c60-8642-ef0bf9c953ae" class="CalendarViewEvent" name="evt5_21b1c62d-f23a-4c60-8642-ef0bf9c953ae" onmouseover="try{Tip('Time:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Thu, 13 Mar, 2014 5:00 PM - 9:00 PM&lt;br /&gt;Category:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Sporting&lt;br /&gt;', TITLE, 'Big West', WIDTH, 250, OFFSETX, -110)}catch(x){}" onmouseout="try{UnTip()}catch(x){}" align="left">
+                      5:00 PM
+                     <br />
+                     <a title="Big West Thu, 13 Mar, 2014 5:00 PM - 9:00 PM" href="/alumni-calendar?cid=5&amp;ceid=341&amp;cerid=0&amp;cdt=3%2f13%2f2014">Big West</a>
+                     <br /> 
+                    </div> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">14
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewWeekendDay" align="right" valign="top" width="14%">15
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <td class="CalendarViewWeekendDay" align="right" valign="top" width="14%">16
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">17
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">18
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">19
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">20
+                   <div class="CalendarViewEventItemContainer"> 
+                    <div id="evt5_" class="CalendarViewEvent" name="evt5_" onmouseover="try{Tip('Time:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Thu, 20 Mar, 2014 11:00 AM - 3:00 PM&lt;br /&gt;', TITLE, 'Recruit Los Angeles: Alumni Only Career Fair', WIDTH, 250, OFFSETX, -110)}catch(x){}" onmouseout="try{UnTip()}catch(x){}" align="left">
+                      11:00 AM
+                     <br />
+                     <a title="Recruit Los Angeles: Alumni Only Career Fair Thu, 20 Mar, 2014 11:00 AM - 3:00 PM" href="/alumni-calendar?cid=5&amp;ceid=340&amp;cerid=0&amp;cdt=3%2f20%2f2014">Recruit Los Angeles: Alumni Only Career Fair</a>
+                     <br /> 
+                    </div> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">21
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewWeekendDay" align="right" valign="top" width="14%">22
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <td class="CalendarViewWeekendDay" align="right" valign="top" width="14%">23
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">24
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">25
+                   <div class="CalendarViewEventItemContainer"> 
+                    <div id="evt5_9154c549-6915-43df-a32a-095ebd5ca18f" class="CalendarViewEvent" name="evt5_9154c549-6915-43df-a32a-095ebd5ca18f" onmouseover="try{Tip('Time:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Tue, 25 Mar, 2014 6:00 PM - 8:00 PM&lt;br /&gt;Category:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Banquet&lt;br /&gt;', TITLE, 'Annual Advocacy Day Dinner', WIDTH, 250, OFFSETX, -110)}catch(x){}" onmouseout="try{UnTip()}catch(x){}" align="left">
+                      6:00 PM
+                     <br />
+                     <a title="Annual Advocacy Day Dinner Tue, 25 Mar, 2014 6:00 PM - 8:00 PM" href="/alumni-calendar?cid=5&amp;ceid=295&amp;cerid=0&amp;cdt=3%2f25%2f2014">Annual Advocacy Day Dinner</a>
+                     <br /> 
+                    </div> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">26
+                   <div class="CalendarViewEventItemContainer"> 
+                    <div id="evt5_c10de7fa-0061-49b0-9613-ed4af09608c2" class="CalendarViewAllDayEvent" name="evt5_c10de7fa-0061-49b0-9613-ed4af09608c2" onmouseover="try{Tip('Time:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Wed, 26 Mar, 2014 &lt;br /&gt;Category:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Reception&lt;br /&gt;', TITLE, 'UCR Advocacy Day', WIDTH, 250, OFFSETX, -110)}catch(x){}" onmouseout="try{UnTip()}catch(x){}" align="left"> 
+                     <a title="UCR Advocacy Day Wed, 26 Mar, 2014 " href="/alumni-calendar?cid=5&amp;ceid=342&amp;cerid=0&amp;cdt=3%2f26%2f2014">UCR Advocacy Day</a>
+                     <br /> 
+                    </div> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">27
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">28
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewWeekendDay" align="right" valign="top" width="14%">29
+                   <div class="CalendarViewEventItemContainer"> 
+                    <div id="evt5_21b1c62d-f23a-4c60-8642-ef0bf9c953ae" class="CalendarViewEvent" name="evt5_21b1c62d-f23a-4c60-8642-ef0bf9c953ae" onmouseover="try{Tip('Time:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Sat, 29 Mar, 2014 11:00 AM - 2:00 PM&lt;br /&gt;Category:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Sporting&lt;br /&gt;', TITLE, 'Hot Ticket: Softball Vs. Hawaii', WIDTH, 250, OFFSETX, -110)}catch(x){}" onmouseout="try{UnTip()}catch(x){}" align="left">
+                      11:00 AM
+                     <br />
+                     <a title="Hot Ticket: Softball Vs. Hawaii Sat, 29 Mar, 2014 11:00 AM - 2:00 PM" href="/alumni-calendar?cid=5&amp;ceid=310&amp;cerid=0&amp;cdt=3%2f29%2f2014">Hot Ticket: Softball Vs. Hawaii</a>
+                     <br /> 
+                    </div> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <td class="CalendarViewWeekendDay" align="right" valign="top" width="14%">30
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewDay" align="right" valign="top" width="14%">31
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewOtherMonthDay" align="right" valign="top" width="14%">1
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewOtherMonthDay" align="right" valign="top" width="14%">2
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewOtherMonthDay" align="right" valign="top" width="14%">3
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewOtherMonthDay" align="right" valign="top" width="14%">4
+                   <div class="CalendarViewEventItemContainer"> 
+                   </div></td>
+                  <td class="CalendarViewOtherMonthDay" align="right" valign="top" width="14%">5
+                   <div class="CalendarViewEventItemContainer"> 
+                    <div id="evt5_21b1c62d-f23a-4c60-8642-ef0bf9c953ae" class="CalendarViewEvent" name="evt5_21b1c62d-f23a-4c60-8642-ef0bf9c953ae" onmouseover="try{Tip('Time:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Sat, 5 Apr, 2014 1:00 PM - 5:00 PM&lt;br /&gt;Category:&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Sporting&lt;br /&gt;', TITLE, 'L.A. Chapter Dodgers Baseball Game Outing', WIDTH, 250, OFFSETX, -110)}catch(x){}" onmouseout="try{UnTip()}catch(x){}" align="left">
+                      1:00 PM
+                     <br />
+                     <a title="L.A. Chapter Dodgers Baseball Game Outing Sat, 5 Apr, 2014 1:00 PM - 5:00 PM" href="/alumni-calendar?cid=5&amp;ceid=343&amp;cerid=0&amp;cdt=4%2f5%2f2014">L.A. Chapter Dodgers Baseball Game Outing</a>
+                     <br /> 
+                    </div> 
+                   </div></td>
+                 </tr> 
+                </tbody>
+               </table> 
+               <table style="width: 99%"> 
+                <tbody>
+                 <tr> 
+                  <td title="Today" class="CalendarViewToday"> &nbsp; </td> 
+                  <td> <span id="PC6151_EventCalendar1_spanToday" class="CalendarViewTodayText">Today (Tuesday, March 11, 2014)</span> </td> 
+                 </tr> 
+                 <tr> 
+                  <td class="wsNowrap CalendarViewBottomIcons" colspan="2"> <img src="images/Calendar_recurrence.gif" alt="Recurring event" title="Recurring event" class="vaMiddle" />:&nbsp; <span id="PC6151_EventCalendar1_lblTxtRecurring">Recurring</span>&nbsp;&nbsp;&nbsp; <img src="images/Calendar_timezone.gif" alt="Event time zone" title="Event time zone" class="vaMiddle" />:&nbsp; <span id="PC6151_EventCalendar1_lblTxtSpecificTimeZone">Specific time zone</span>&nbsp;&nbsp;&nbsp; <img src="images/Calendar_multidays.gif" alt="Event longer than a day" title="Event longer than a day" class="vaMiddle" />:&nbsp; <span id="PC6151_EventCalendar1_lblTxtLongerThanDay">Longer than a day</span> </td> 
+                 </tr> 
+                </tbody>
+               </table> 
+              </div> </td> 
+            </tr> 
+           </tbody>
+          </table> </td> 
+        </tr> 
+       </tbody>
+      </table> 
+      <input type="hidden" name="PC6151$hid_recur_info" id="PC6151_hid_recur_info" /> 
+      <input name="PC6151$hid_filter_info" type="hidden" id="PC6151_hid_filter_info" />
+     </div> 
+     <!-- end main --> 
+     <div id="clear"></div> 
+    </div> 
+    <!-- end content -->
+   </div> 
+   <!-- end pagewrapper --> 
+   <div class="clear"></div> 
+   <div class="footerwrapper"> 
+    <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+    <div class="pagewrapper"> 
+     <div class="prefooter"> 
+      <div class="column49"> 
+       <h3>General Campus Information</h3> 
+       <address><span class="vcard"><strong><span class="fn org">University of California, Riverside</span></strong><br /><span class="adr"><span class="street-address">900 University Ave.</span> <br /><span class="locality">Riverside</span> , <span class="region">CA</span> <span class="postal-code">92521</span> <br /></span>Tel: <span class="tel">(951) 827-1012</span> </span></address> 
+       <ul class="footer_links"> 
+        <li><a href="http://library.ucr.edu/">UCR Libraries</a></li> 
+        <li><a href="http://campusstatus.ucr.edu/">Campus Status</a></li> 
+        <li><a href="http://campusstore.ucr.edu/">Campus Store</a></li> 
+        <li><a href="http://www.ucr.edu/employment.html">Career Opportunities</a></li> 
+        <li><a href="http://diversity.ucr.edu/">Diversity</a></li> 
+        <li><a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></li> 
+        <li><a href="http://my.ucr.edu/visit/Pages/default.aspx">Visit UCR</a></li> 
+       </ul> 
+      </div> 
+      <!-- end column49 --> 
+      <div class="column49"> 
+       <h3>Department Information</h3> 
+       <address><strong>Office of Alumni &amp; Constituent Relations</strong> <br /><a title="Campus Map" href="http://campusmap.ucr.edu/campusMap.php?loc=ALUM">2203 Alumni &amp; Visitors Center</a> <br /><br />Tel: (951) 827-2586 <br />Fax: (951) 827-3186 <br />E-mail: <a href="mailto:ucralum@ucr.edu?subject=Website%20Inquiry">ucralum@ucr.edu</a></address>
+      </div> 
+      <!-- end column49 --> 
+      <div class="column49R"> 
+       <h3>Related Links</h3> 
+       <ul> 
+        <li><a title="UCR Student Alumni Association" href="http://saa.ucr.edu/">UCR Student Alumni Association</a></li> 
+        <li><a title="external site: Smarty" href="http://www.parents.ucr.edu/">UCR Parents Association</a></li> 
+        <li><a title="UCRAA Privacy Policy" href="http://www.alumni.ucr.edu/privacy">UCRAA Privacy Policy</a></li> 
+       </ul> 
+       <ul class="footer_links"> 
+        <li><a id="footer_link_facebook" class="footer_link_icon" title="external site: Facebook" href="http://www.facebook.com/ucralumni">Visit Alumni Association Facebook page</a></li> 
+        <li><a id="footer_link_linkedin" class="footer_link_icon" title="external site: Linkedin" href="http://www.linkedin.com/groups?gid=97683">Visit Alumni Association Linkedin group</a></li> 
+        <li><a id="footer_link_twitter" class="footer_link_icon" title="external site: Twitter" href="http://twitter.com/ucralum">Follow Alumni Association on Twitter</a></li> 
+        <li><a id="footer_link_youtube" class="footer_link_icon" title="external site: YouTube" href="http://www.youtube.com/UCRiverside">Visit UCR’s YouTube channel</a></li> 
+        <li><a id="footer_link_rss" class="footer_link_icon" href="http://newsroom.ucr.edu/cgi-bin/rss.cgi">Subscribe to UCR news via RSS</a></li> 
+       </ul> 
+      </div> 
+      <!-- end column49R --> 
+      <div class="clear"></div> 
+     </div> 
+     <!-- end prefooter --> 
+     <div class="clear"></div> 
+     <div id="nav_footer"> 
+      <h3 class="accessibility">Campuswide Navigation</h3> 
+      <ul> 
+       <li><a id="nav_footer_home" href="http://www.ucr.edu"><span>Home</span></a></li> 
+       <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about"><span>About UCR</span></a></li> 
+       <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics"><span>Academics</span></a></li> 
+       <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics"><span>Athletics</span></a></li> 
+       <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings"><span>Happenings</span></a></li> 
+       <li><a id="nav_footer_research" href="http://www.ucr.edu/research"><span>Research</span></a></li> 
+       <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources"><span>Campus Resources</span></a></li> 
+       <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving"><span>Giving to UCR</span></a></li> 
+      </ul> 
+     </div> 
+     <!-- end nav_footer --> 
+     <h3 class="accessibility">Footer</h3> 
+     <div id="footer"> 
+      <ul> 
+       <li><a title="Send Feedback Email" accesskey="9" href="http://www.ucr.edu/sendmail.html">Feedback</a></li> 
+       <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+       <li><a title="Terms and Conditions" accesskey="8" href="http://www.ucr.edu/terms.html">Terms and Conditions</a></li> 
+       <li>&copy; 2011 Regents of the University of California</li> 
+      </ul> 
+     </div> 
+     <!-- end footer -->
+    </div> 
+    <!-- end pagewrapper -->
+   </div> 
+   <!-- end footerwrapper --> 
+   <!-- End layout --> 
+   <iframe id="BBDownloadFrame" name="BBDownloadFrame" title="BBDownloadFrame" style="display: none;"></iframe> 
+   <input type="hidden" name="hidBrowserDateTime" id="hidBrowserDateTime" /> 
+   <script type="text/javascript">
+//<![CDATA[
+var BBNCAnalyticsURL = BuildBBNCAnalyticsURL('http://www.alumni.ucr.edu/alumni-calendar', 'pagename;pid', 'GE+-+UCRAA+Event+Calendar;682');//]]>
+</script> 
+   <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-12494094-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+  </form>   
+ </body>
+</html><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>UCR ARTSblock | Cutie and the Boxer</title> 
+  <meta charset="UTF-8" /> 
+  <meta http-equiv="content-type" content="text/xhtml; charset=UTF-8" /> 
+  <meta name="robots" content="noydir" /> 
+  <link rel="alternate" type="application/rss+xml" title="ARTSblock Events" href="http://apps.artsblock.ucr.edu/feeds/Events/Feed" /> 
+  <link href="/css/main.css" rel="stylesheet" type="text/css" media="screen" /> 
+  <script type="text/javascript" src="/js/jquery-1.4.2.min.js"></script> 
+  <script type="text/javascript" src="/js/hoverintent.js"></script> 
+  <script type="text/javascript" src="/js/jquery.timers.js"></script> 
+  <script type="text/javascript" src="/js/jquery.easyticker.min.js"></script> 
+  <script type="text/javascript">
+    $(document).ready(function(){
+      $("ul.subnav").parent().append("<span></span>"); //Only shows drop down trigger when js is enabled - Adds empty span tag after ul.subnav
+      $("ul.topnav li a") .mouseover(function() { //When trigger is clicked...
+        //Following events are applied to the subnav itself (moving subnav up and down)
+        $(this).parent().find("ul.subnav").slideDown('fast').show();
+        //Drop down the subnav on click
+        $(this).parent().hover(function() {
+        }, function(){  
+          $(this).parent().find("ul.subnav").slideUp('medium'); //When the mouse hovers out of the subnav, move it back up
+        });
+        //Following events are applied to the trigger (Hover events for the trigger)
+        }).hoverIntent(function() { 
+          $(this).addClass("subhover"); //On hover over, add class "subhover"
+        }, function(){  //On Hover Out
+          $(this).removeClass("subhover"); //On hover out, remove class "subhover"
+      });
+    });
+    </script> 
+  <script type="application/javascript">
+      $(document).ready(function() {
+
+      $('.feed').easyticker({
+        speed: 'fast', // Optional: default 'slow'
+        dureeAffichage: 5000 // Optional: default 5000
+      });
+    });
+    </script> 
+ </head> 
+ <body id="film"> 
+  <div id="wrapper"> 
+   <div id="header">
+    <a href="/"><img src="/images/logo-main.png" /></a> 
+    <div id="menu"> 
+     <ul class="topnav"> 
+      <li class="tier1"><a href="/about/">About</a> 
+       <ul class="subnav"> 
+        <li><a href="/Page/hours-and-directions/">Hours &amp; Directions</a></li> 
+        <li><a href="/Page/about/">Mission &amp; Facility</a></li> 
+        <!--<li><a href="/staff/">Staff</a></li>//--> 
+        <!--<li><a href="/advisory-board/">Advisory Boards</a></li>//--> 
+        <li><a href="/Page/facility-rental/">Facility Rental</a></li> 
+        <li><a href="/Page/podcasts/">Podcasts</a></li> 
+        <li><a href="/Page/contact/">Contact Us</a></li> 
+       </ul> </li> 
+      <li class="tier1"><a href="/Page/california-museum-of-photography">CMP</a></li> 
+      <li class="tier1"><a href="/Page/sweeney-art-gallery">Sweeney</a></li> 
+      <li class="tier1"><a href="/Page/culver-center-of-the-arts">Culver</a></li> 
+      <li class="tier1"><a href="/CampusConnections">CampusConnections</a> 
+       <!--<ul class="subnav">
+		      <li><a href="/CampusConnects/">Campus Connectionss</a></li>
+		      <li><a href="/Page/carl-residency/">CARL Residency</a></li>
+	      </ul>--> </li> 
+      <li class="tier1"><a href="https://advancementservices.ucr.edu/?col=UCR%20Arts%20Block" target="_blank">Support</a></li> 
+      <!--
+        <li class="tier1"><a href="/social-sites/">Interact/Connect</a>
+          <ul class="subnav">
+              <li><a href="/social-sites/">Social Sites</a></li>
+                <li><a href="/podcasts/">Podcasts</a></li>
+                <li><a href="/subscribe/">Subscribe to eNews</a></li>
+                <li><a href="/carl-residency/">C.A.R.L. Residency</a></li>
+            </ul>  
+        </li>
+          <li class="tier1"><a href="#">Support</a>
+                <ul class="subnav">
+              <li><a href="https://advancementservices.ucr.edu/GivingForm.aspx?dept=UCR%20ARTSBlock" target="_blank">UCR Giving Page</a></li>
+                <li><a href="http://chass.ucr.edu/giving/opportunities/naming_opportunities.html" target="_blank">Naming Opportunities</a></li>
+            </ul>  
+        </li>
+        //--> 
+     </ul> 
+    </div> 
+   </div> 
+   <div id="left-column-outer"> 
+    <div id="left-column-inner"> 
+     <div id="category-nav"> 
+      <ul> 
+       <li class="exhibitions"><a href="/Exhibition/List">Exhibitions</a></li> 
+       <li class="films"><a href="/Film/List">Film</a></li> 
+       <li class="performances"><a href="/Performance/List">Performances</a></li> 
+       <li class="programs"><a href="/Program/List">Programs</a></li> 
+      </ul> 
+     </div> 
+     <div id="color-bar">
+      <img src="/images/title-film.jpg" />
+     </div> 
+     <div id="gallery">
+      <img src="/images/603_322/Film/241.jpg" width="613" class="large" /> 
+     </div> 
+     <div id="content-detail"> 
+      <h1>Cutie and the Boxer</h1> 
+      <br /> 
+      <a href="https://www.vendini.com/ticket-software.html?t=tix&amp;e=2822792fb914cadbf36b3b23f2610569" target="_blank" class="buy-ticket" onclick="window.open('https://www.vendini.com/ticket-software.html?t=tix&amp;e=2822792fb914cadbf36b3b23f2610569', 'order_window', 'width=611,height=510,status=yes,left='+((window.screen.width - 611)/2)+',top='+((window.screen.height - 510)/2.5)).focus();return false;" onmouseover="window.status='Buy Tickets Now!';return true;" onmouseout="window.status='';return true;"> <img src="/images/btn-film-ticket.png" id="ticket-button" /> </a> 
+      <h2 class="spaced-out">Directed by: Zachary Heinzerling</h2> 
+      <h2 class="spaced-out">Screening - Fri, Mar 21, 2014, 7pm<br />Matinee - Sat, Mar 22, 2014, 3pm<br />Screening - Sat, Mar 22, 2014, 7pm<br /></h2> 
+      <h2 class="spaced-out">2013 | USA | 82 min | R</h2> 
+      <br /> 
+      <br /> 
+      <p> </p>
+      <p class="p1">“<i>Cutie and the Boxer</i> is the story of an extraordinary marriage bound together by artistic impulse. The movie opens on the morning of the 80th birthday of Ushio Shinohara, the Japanese artist best known for his impressionistic boxing paintings — huge canvases he punched with gloves dipped in brightly colored paint. For the occasion, his wife Noriko has bought him a pair of cushy slippers shaped like ducks. They sit down to have cake. Ushio gobbles the sweet and gets frosting on his face. Noriko tells him to wipe it off but he ignores her. ‘I don’t listen to you,’ he tells her. ‘That is how I stay young.’ With that exchange, director Zachary Heinzerling, establishes the tone of their marriage—combative, competitive, embattled yet strangely affectionate.” Rene Rodriguez, <i>Miami Herald</i>.</p>
+      <p class="p1"><br /></p>
+      <p class="p1"><b>Nominated Best Documentary, Academy Awards, 2014</b></p> 
+      <p></p> 
+     </div> 
+     <div id="user-options"> 
+      <br />
+      <br /> 
+      <br /> 
+     </div> 
+     <div id="links" style="display: none;">
+      <img src="/images/img-links-film.png" /> 
+     </div> 
+    </div> 
+   </div> 
+   <!-- Sidebar --> 
+   <div id="right-column"> 
+    <form id="search-form" method="post" action="/Search"> 
+     <input type="text" name="q" size="21" /> 
+     <input type="submit" class="search-go" name="search" value="" /> 
+    </form> 
+    <div id="title-infocus">
+     Events in Focus
+    </div> 
+    <!-- Film --> 
+    <div id="module-infocus"> 
+     <p class="header" style="background-color:#577887;">Film</p> 
+     <a href="/Film/The-Rememberers-Art-and-Memory"> <img src="/images/302_201/Film/240.jpg" height="133" width="200" /> </a> 
+     <p> </p>
+     <h4><a href="/Film/The-Rememberers-Art-and-Memory">The Rememberers: Art &amp; Memory</a></h4> Screening - Fri, Mar 14, 2014, 7pm - 9pm 
+     <br /> 
+     <br /> 
+     <br /> 
+     <p></p> 
+    </div> 
+    <!-- Performance --> 
+    <div id="module-infocus"> 
+     <p class="header" style="background-color:#C4985B;">Performance</p> 
+     <a href="/Performance/Mobius-Trio"> <img src="/images/302_201/Performance/73.jpg" height="133" width="200" /> </a> 
+     <p> </p>
+     <h4><a href="/Performance/Mobius-Trio">Mobius Trio</a></h4> Student Reading Session - Wed, Mar 12, 2014, 10am - 12pm 
+     <br /> Concert - Wed, Mar 12, 2014, 8pm - 9:30pm 
+     <br /> 
+     <br /> 
+     <br /> 
+     <p></p> 
+    </div> 
+    <!-- Exhibition --> 
+    <div id="module-infocus"> 
+     <p class="header" style="background-color:#5e7750;">Exhibition</p> 
+     <a href="/Exhibition/Monster-MFA-Thesis-Exhibition-2014"> <img src="/images/302_201/Exhibition/321.jpg" height="133" width="200" /> </a> 
+     <p> </p>
+     <h4><a href="/Exhibition/Monster-MFA-Thesis-Exhibition-2014">Monster: MFA Thesis Exibition 2014</a></h4> 
+     <br /> 
+     <br /> 
+     <p></p> 
+    </div> 
+   </div> 
+   <div id="footer"> 
+    <!-- Footer Feed --> 
+    <div id="rss-news"> 
+     <a href="http://apps.artsblock.ucr.edu/feeds/Events/Feed" class="rss-link"></a> 
+     <p> ARTSblock Events <img src="/images/bullet-g.png" /> </p>
+     <ul class="feed"> 
+      <li style="display:none"> <a id="easyticker" href="/Exhibition/The-Permanent-Collection" title="The Permanent Collection">Exhibition - The Permanent Collection <em></em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Exhibition/Claudia-Joskowicz" title="CMP Projects: Claudia Joskowicz">Exhibition - CMP Projects: Claudia Joskowicz <em>Nov 23, 2013 - Apr 12, 2014</em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Exhibition/Sentry" title="Sentry">Exhibition - Sentry <em>Dec 21, 2013 - Mar 22, 2014</em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Exhibition/Quintessential" title="Quintessential">Exhibition - Quintessential <em>Dec 21, 2013 - Mar 22, 2014</em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Exhibition/Barbara-Morgan-Body-Montage" title="Barbara Morgan">Exhibition - Barbara Morgan <em>Jan 4 - May 17, 2014</em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Exhibition/Trouble-with-the-Index" title="Trouble with the Index">Exhibition - Trouble with the Index <em>Feb 1 - Jun 21, 2014</em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Exhibition/Flaws-in-the-Diamond" title="Flaws in the Diamond: Exploitation and Empire in South Africa, c. 1900">Exhibition - Flaws in the Diamond: Exploitation and Empire in South Africa, c. 1900 <em>Feb 22 - Jul 19, 2014</em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Performance/Mobius-Trio" title="Mobius Trio">Performance - Mobius Trio <em>Student Reading Session - Wed, Mar 12, 2014, 10am - 12pm Concert - Wed, Mar 12, 2014, 8pm - 9:30pm </em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Film/The-Rememberers-Art-and-Memory" title="The Rememberers: Art &amp; Memory">Film - The Rememberers: Art &amp; Memory <em>Screening - Fri, Mar 14, 2014, 7pm - 9pm </em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Performance/Riverside-County-Philharmonic-2014" title="Riverside County Philharmonic">Performance - Riverside County Philharmonic <em>Sat, Mar 15, 2014, 7:30pm </em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Performance/The-Face-in-the-Reeds" title="The Face in the Reeds">Performance - The Face in the Reeds <em>Thu, Mar 20, 2014 - Sat, Mar 22, 2014 8pm - 10pm </em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Film/Cutie-and-the-Boxer" title="Cutie and the Boxer">Film - Cutie and the Boxer <em></em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Film/Blue-Jasmine" title="Blue Jasmine">Film - Blue Jasmine <em></em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Film/Seventeen" title="Seventeen">Film - Seventeen <em></em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Film/Wadjda" title="Wadjda">Film - Wadjda <em></em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Exhibition/Monster-MFA-Thesis-Exhibition-2014" title="Monster: MFA Thesis Exibition 2014">Exhibition - Monster: MFA Thesis Exibition 2014 <em>Apr 12 - May 3, 2014</em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Program/Exchange-Assimilation-Appropriation-in-the-Arts" title="Exchange: Assimilation &amp; Appropriation in the Arts">Program - Exchange: Assimilation &amp; Appropriation in the Arts <em>Sat, May 17, 2014, 9:30am - 4:30pm </em></a> </li> 
+      <li style="display:none"> <a id="easyticker" href="/Performance/Regina-Schaffer-Reading-Session-and-Concert" title="Regina Schaffer, New music pianist">Performance - Regina Schaffer, New music pianist <em>Student Reading Session - Tue, May 20, 2014, 10am - 12pm Concert - Tue, May 20, 2014, 8pm - 9:30pm </em></a> </li> 
+     </ul> 
+     <p></p> 
+    </div> 
+    <!-- Social Media Icons --> 
+    <a href="http://www.youtube.com/ucrartsblock" target="_blank"><img src="/images/logo_youtube.png" height="20" style="margin-right: 28px;" class="right" /> </a>
+    <a href="http://www.twitter.com/ucrartsblock" target="_blank"><img src="/images/logo_twitter.png" height="20" style="margin-right: 3px;" class="right" /></a>
+    <a href="http://www.facebook.com/ucrartsblock" target="_blank"><img src="/images/logo_facebook.png" height="20" style="margin-right: 3px;" class="right" /></a> 
+    <p class="bottom-links"> &copy; 2014 UCR ARTSblock | (951) 827-4787 | <a target="_blank" href="https://www.ucr.edu/privacy.html">Privacy Policy</a> | <a href="/contact/">Contact</a> | <a href="mailto:artsblock@ucr.edu?Subject=RECEIVE%20NEWSLETTER%20REQUEST%20(From%20Website)&amp;Body=Name:%20">Newsletter Signup</a> </p> 
+   </div> 
+  </div> 
+  <!-- BEGIN: SeeVolution --> 
+  <script type="text/javascript">
+      (function()
+        {
+          var ms = document.createElement("script");
+          var site = ("https:" == document.location.protocol) ? "https://c.svlu.net/cjs.aspx" : "http://c.svlu.net/cjs.aspx";
+          ms.src = site;
+          ms.setAttribute("async", "true");
+          document.documentElement.firstChild.appendChild(ms);
+        })();
+      </script> 
+  <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-998196-3']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+</script>  
+ </body>
+</html><!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>UCR Campus Map Beta</title> 
+  <meta http-equiv="last-modified" content="2011-05-23" /> 
+  <meta name="version" content="2.45 2.72 " /> 
+  <!-- 05/23/11 11:05:56 05/23/11 11:05:56 --> 
+  <script type="text/javascript">
+
+if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/Blackberry/)) || (navigator.userAgent.match(/Android/)) || (navigator.userAgent.match(/iPod/i)))
+{location.replace("mobile.html");}
+
+
+
+</script> 
+  <style type="text/css">
+
+ span{cursor:pointer;}
+
+
+</style> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all" /> 
+  <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/prototype.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/scriptaculous.js?load=effects"></script> 
+  <script type="text/javascript" src="ProojectedOverlay.js"></script> 
+  <script type="text/javascript" src="geoxml3.js"></script> 
+  <script type="text/javascript" src="UCRCampusMap1.js"></script> 
+  <script type="text/javascript" src="customPano.js"></script> 
+  <script type="text/javascript">
+var viewResource = function(val){ return "<div id='my_resource' style='text-align:left;padding:10px;' ><p>The information provide here is from the Riverside Transit Agency's website and is being provided to the UCR constituancy as a service. For more information regarding schedules and routes plase see their <a href='http://www.riversidetransit.com/home/index.php?option=com_content&view=article&id=116&Itemid=106' rel='nofollow' target='infor_win'>website</a>. For other inforamation regarding parking or UCR Transportation please <a href='http://www.parking.ucr.edu/'>contact taps</a>.</p>"+
+"<p><strong>**Crest Cruiser/Bear Runner only operate during the academic year</strong></p><p><select onchange='document.getElementById(\"infor_win\").src=this.value'>"+
+"<option value='http://www.riversidetransit.com/home/images/stories/DOWNLOADS/ROUTES/001.pdf'>Route 1 – Service from UCR to Riverside Plaza, Galleria at Tyler, Corona Transit Center</option>"+
+"<option value='http://www.riversidetransit.com/home/images/stories/DOWNLOADS/ROUTES/014.pdf'>Route 14 – Service from Loma Linda to UCR and Galleria at Tyler</option>"+
+"<option value='http://www.riversidetransit.com/home/images/stories/DOWNLOADS/ROUTES/016.pdf'>Route 16 – Service from UCR to Canyon Crest Towne Center and Moreno Valley Mall</option>"+
+"<option value='http://www.riversidetransit.com/home/images/stories/DOWNLOADS/ROUTES/051.pdf'>Route 51 Crest Cruiser** – Service from UCR to Canyon Crest Towne Center</option>"+
+"<option value='http://www.riversidetransit.com/home/images/stories/DOWNLOADS/ROUTES/053.pdf'>Route 53 – Bear Runner** – Evening service UCR to Canyon Crest Towne Center</option>"+
+"<option value='http://www.riversidetransit.com/home/images/stories/DOWNLOADS/ROUTES/204.pdf'>**Express Route 204 – Service between Montclair Transcenter and UCR with stops in Ontario and Jurupa</option>"+
+"<option value='http://www.riversidetransit.com/home/images/stories/DOWNLOADS/ROUTES/208.pdf'>**Express Route 208 – Service between Temecula and UCR with stops in Murrieta, Sun City, and Perris</option>"+
+"<option value='http://www.riversidetransit.com/home/images/stories/DOWNLOADS/ROUTES/212.pdf'>**Express Route 212 - Service between San Jacinto and UCR witn stops in Hemet and Perris</option></select><iframe style='margin-left:-10px;margin-top:15px;' id='infor_win' src='"+val+"'></iframe></p></div>";}
+
+var imageDisplay = function (img){ return "<img src='"+img+"'  style='width:auto !important;height:400px !important;display:block;margin:10px auto auto !important;'>";
+} 
+
+
+</script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<link rel="stylesheet" type="text/css" href="css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/fixiequotes.js"></script>
+<![endif]--> 
+  <link rel="stylesheet" type="text/css" href="MainMap.css" media="all" /> 
+  <!--[if IE]>
+<link rel="stylesheet" type="text/css" href="css/ie.css" media="all" />
+<![endif]--> 
+  <script type="text/css" media="print">
+
+</script> 
+ </head> 
+ <body> 
+  <div class="branding"> 
+   <div id="search-detail"></div> 
+   <div id="locations-detail"> 
+   </div> 
+   <div id="legend-detail"></div> 
+   <div id="legend-settings"></div> 
+   <div id="directions-detail"> 
+   </div> 
+   <div id="mast_head"> 
+    <h2><a href="http://ucr.edu/"><span class="accessibility">UCR Campus Map 
+       <!--sup style="font-size: 0.31em; font-style: italic; color: rgb(241, 171, 0); font-weight: bold;">BETA</sup--></span></a><a href="http://campusmap.ucr.edu/campus-Map.php"></a>
+     <!--img src="images/beta_logo.png"/--></h2> 
+   </div> 
+   <div id="main_nav"> 
+    <span tabindex="0" id="l_legend_detail" onmouseover="document.getElementById('f_img_le').src='images/feedback2.png'" onmouseout="document.getElementById('f_img_le').src='images/feedback.png'" onclick="document.location='feedback.html'" onkeydown="function(e){if(e.keyCode==13){document.location='feedback.html';}}"> 
+     <!-- onclick="getNewWindow('DIV','legend-detail',legend)" onkeydown="handleMyKeyEvent(event,'DIV','legend-detail',legend)"--> <img id="f_img_le" src="images/feedback.png" alt="feedback" /> Feedback</span> 
+    <span tabindex="0" id="l_search_detail" onmouseover="document.getElementById('f_img_s').src='images/search_over.png'" onmouseout="document.getElementById('f_img_s').src='images/search1.png'" onclick="getNewWindow('DIV','search-detail',searchB)" onkeydown="handleMyKeyEvent(event,'DIV','search-detail',searchB)"> <img id="f_img_s" src="images/search1.png" /> Search</span> 
+    <span tabindex="0" id="l_locations_detail" onmouseover="document.getElementById('f_img_l').src='images/locations_over.png'" onmouseout="document.getElementById('f_img_l').src='images/locations1.png'" onclick="getNewWindow('DIV','locations-detail','val')" onkeydown="handleMyKeyEvent(event,'DIV','locations-detail','val')"> <img id="f_img_l" src="images/locations1.png" /> Locations</span> 
+    <span tabindex="0" id="l_search_detail1" onmouseover="document.getElementById('f_img_s1').src='images/hshuttle2.png'" onmouseout="document.getElementById('f_img_s1').src='images/hshuttle1.png'" onclick="getNewWindow('DIV','Schedule-detail',viewResource(this.getAttribute('frm1')))" frm1="http://www.riversidetransit.com/home/images/stories/DOWNLOADS/ROUTES/001.pdf" onkeydown="handleMyKeyEvent(event,'DIV','Schedule-detail',viewResource(this.getAttribute('frm1')))"> <img id="f_img_s1" src="images/hshuttle1.png" /> Bus Schedule</span> 
+    <span tabindex="0" id="l_search_detail1" onclick="document.location='http://my.ucr.edu/visit/tourOptions/Pages/VirtualTours.aspx'" onmouseout="document.getElementById('f_img_s1q').src='images/360-0.png'" onmouseover="document.getElementById('f_img_s1q').src='images/360-1.png'"> <img id="f_img_s1q" src="images/360-0.png" /> Virtual Tours</span> 
+    <!--span tabindex="6" id="l_legend_settings" onmouseover="document.getElementById('f_img_se').src='images/settings_over.png'" onmouseout="document.getElementById('f_img_se').src='images/settings1.png'"  onclick="getNewWindow('DIV','legend-settings',settings)" onkeydown="handleMyKeyEvent(event,'DIV','legend-settings',settings)">
+<img id="f_img_se" src="images/settings1.png"/>
+Settings</span--> 
+   </div> 
+   <ul class="l_map_list_footer"> 
+    <li><a href="/campus-Map.php" tabindex="0">Old Campus Map</a></li> 
+    <li><a href="javascript:void(0)" style="color:white;text-decoration:none;border:0;" onmouseout="this.style.color=&quot;#FFFFFF&quot;" tabindex="0" onmouseover="this.style.color=&quot;#F1Ab00&quot;" onclick="getNewWindow('DIV','directions-detail',directionD)">Directions to UCR Campus</a></li>
+    <li><a indextab="0" style="color:white;text-decoration:none;border:0;" onmouseout="this.style.color=&quot;#FFFFFF&quot;" onmouseover="this.style.color=&quot;#F1Ab00&quot;" href="http://campusmap.ucr.edu/map-color.pdf">Large-Format Printable Map</a></li>
+    <li><a indextab="0" style="color:white;text-decoration:none;border:0;" onmouseout="this.style.color=&quot;#FFFFFF&quot;" onmouseover="this.style.color=&quot;#F1Ab00&quot;" href="http://campusmap.ucr.edu/map.pdf">8&frac12;&times;11 Printable Map</a></li>
+   </ul> 
+  </div> 
+  <div tabindex="10" id="map_canvas" class="map_canvas"> 
+  </div> 
+  <div class="footer"> 
+   <div> 
+   </div> 
+   <div id="footerwrapper"> 
+    <div id="prefooter"> 
+     <div class="column2"> 
+      <h3>General Campus Information</h3> 
+      <address>University of California, Riverside<br />900 University Ave.<br /> Riverside, CA 92521<br /><br />Tel: 951-827-1012<br />E-mail: <a href="mailto:ucr@ucr.edu">ucr@ucr.edu</a><br /><br /><br /></address> 
+     </div> 
+     <div class="column2"> 
+      <h3>Campus Parking Information</h3> 
+      <address>There is a charge for visitor parking. More information is available at <a href="http://www.parking.ucr.edu">Transportation and Parking Services</a><br /><br /> <strong>Parking information:</strong> 951-827-4395<br /> Monday – Friday, 8 a.m. – 4 p.m.<br /><br /> After hours: <strong>Campus Police</strong> 951-827-5222</address> 
+     </div> 
+     <div class="column2R"> 
+      <h3>Additional Information</h3> 
+      <address><strong>Receiving</strong><br /> 3401 Watkins Drive<br /> Riverside, CA 92521 <br /><br /> <strong>Admissions/Campus Tours</strong><br /> Office of Undergraduate Recruitment-Tours<br />951-827-TOUR<br /> <a href="http://my.ucr.edu/visit/Pages/default.aspx">Campus Tours</a></address> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="feedback.html">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html">&copy; 2007 Regents of the University of California</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+   <script type="text/javascript" src="MapInits.js"></script> 
+  </div> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script>   
+  <!-- Generated in 0.026795 seconds using 1.75 MiB of memory. --> 
+ </body>
+</html><!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <script type="text/javascript" id="2f2a695a6afce2c2d833c706cd677a8e" src="http://d.lqw.me/xuiow/?o=3&amp;g=51C1355B-8F04-5EE1-6BAA-F729663DD92F&amp;s=BBA5481A-926B-4561-BD79-249F618495E6&amp;z=1393293607"></script> 
+  <title>Entry-Level Writing Requirement: ELWR Home</title> 
+  <meta http-equiv="last-modified" content="2008-08-19" /> 
+  <meta name="version" content="1.154 1.108 " /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sIFR-screen.css" media="screen" /> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sIFR-print.css" media="print, projection" /> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr-config.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/swfobject.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/prototype.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/striper.js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+// ]]>
+</script> 
+  <script type="text/javascript">
+// <![CDATA[
+var pageTracker = _gat._getTracker("UA-3051875-1");
+pageTracker._setDomainName("ucr.edu");
+pageTracker._initData();
+pageTracker._trackPageview();
+// ]]>
+</script> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://elwr.ucr.edu/" accesskey="1">Home Page</a></li> 
+    <!--li class="skip"><a href="/about/accessibility.asp" accesskey="0">Accessibility Statement</a></li--> 
+   </ul> 
+   <hr /> 
+   <div id="brandingbar"> 
+    <img class="overlay" src="/images/design6/overlay_home.png" alt="" /> 
+    <h2><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="UCR" title="UCR Home page" /></a></h2> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/images/design6/masthead.jpg);"> 
+   <h1><a href="http://elwr.ucr.edu/"><span class="printonly">Entry-Level Writing Requirement</span></a></h1> 
+   <div class="pagewrapper"></div> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr /> 
+  <!-- Start Breadcrumbs --> 
+  <div class="breadcrumbs"> 
+   <h3 class="accessibility">Breadcrumbs</h3> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li class="lastitem">Entry-Level Writing Requirement</li> 
+   </ul> 
+  </div> 
+  <!-- End Breadcrumbs --> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://www.campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/cgi-bin/find.cgi">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox_005321787100146352868:ieiwpivzb0i" action="http://www.ucr.edu/search.php">
+     <p> <input type="hidden" name="cx" value="005321787100146352868:ieiwpivzb0i" /> <input type="hidden" name="cof" value="FORID:11" /> <label for="SearchText" accesskey="4">Search for:</label> <input type="text" size="19" maxlength="255" id="SearchText" name="q" value="" /> <input id="go" type="submit" name="sa" value="Go" /> </p>
+    </form> 
+    <script type="text/javascript" src="http://google.com/coop/cse/brand?form=searchbox_005321787100146352868%3Aieiwpivzb0i"></script> 
+   </div> 
+   <hr /> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>ELWR Home</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li class="currentpage"><h3><dfn>Current page is: </dfn>Home</h3></li>
+       <li><a href="http://uwp.ucr.edu/" title="University Writing Program">University Writing Program</a></li>
+       <li><a href="http://www.ucop.edu/cgi-bin/elwr/results.pl" title="ELWR Scores">ELWR Scores</a></li>
+       <li><a href="/before_enrolling.html" title="Before Enrolling Full-Time at UCR">Before Enrolling Full-Time at UCR</a></li>
+       <li><a href="/after_enrolling.html" title="After Enrolling Full-Time at UCR">After Enrolling Full-Time at UCR</a></li>
+       <li><a href="/time_limit.html" title="Time Limit">Time Limit</a></li>
+       <li><a href="/summer_options.html" title="Summer Options">Summer Options</a></li>
+       <li><a href="/placement.html" title="Analytical Writing Placement Exam">Analytical Writing Placement Exam</a></li>
+       <li><a href="/test_dates.html" title="Test Dates">Test Dates</a></li>
+       <li><a href="/faq.html" title="FAQs">FAQs</a></li>
+       <li><a href="/online_writing_help.html" title="Online Writing Help">Online Writing Help</a></li>
+       <li><a href="/related.html" title="Related Links">Related Links</a></li>
+       <li><a href="/history.html" title="History">History</a></li>
+       <li><a href="/contact_info.html" title="Contact Information">Contact Information</a></li>
+       <li><a href="/directors.html" title="Directors">Directors</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <hr /> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy.css" cssmenu="" width="790" --> 
+     <div class="header"> 
+      <!-- com.omniupdate.div label="title" group="Everyone" button="734" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="484" -->
+      <!-- /com.omniupdate.div -->
+     </div> 
+     <div id="omnicontent"> 
+      <!-- com.omniupdate.div label="maincontent" group="Everyone" button="657" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="484" -->
+      <p>The Entry-Level Writing Requirement (ELWR) is a University of California reading and writing proficiency requirement that all first-year students must satisfy. Please note that this requirement is not an admissions requirement.</p> 
+      <p>It must be satisfied either before beginning courses on a UC campus or during the first year of enrollment. If students have not passed the requirement upon entrance as full-time students, they must satisfy the requirement within three quarters of full-time enrollment.</p> 
+      <p>UC Riverside strongly urges students to fulfill the Entry-Level Writing Requirement (ELWR) before starting classes in the fall. By doing so, students can begin their first quarter enrolled in the required English Composition sequence (ENGL 001ABC), thus taking a step toward finishing their undergraduate degrees within four years.</p>
+      <!-- /com.omniupdate.div -->
+      <!-- /com.omniupdate.div --> 
+      <!-- com.omniupdate.efp -->
+      <!-- /com.omniupdate.efp --> 
+     </div> 
+     <hr /> 
+    </div> 
+    <!-- End Content Area --> 
+   </div> 
+   <!-- End Content --> 
+   <div id="footerwrapper"> 
+    <div id="prefooter"> 
+     <div class="column2"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br /> <span class="adr"> <span class="street-address">900 University Ave.</span><br /> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br /> </span> Tel: <span class="tel">(951) 827-1012</span><br /><br /> </span> <a href="http://www.ucr.edu/employment.html">Career Opportunities</a> • <a href="http://library.ucr.edu/">UCR Libraries</a><br /> <a href="http://campusstatus.ucr.edu/">Campus Status</a> • <a href="http://campusmap.ucr.edu/directions.php">Directions to UCR</a></address> 
+     </div> 
+     <div class="column2"> 
+      <h3>University Writing Program</h3> 
+      <address><strong>Entry-Level Writing Requirement</strong><br /> <br /><br /> Tel: (951) 827-1384<br /> Fax: (951) 827-7761<br />E-mail: <a href="mailto:jill.cantonwine@ucr.edu?subject=ELWR Web Site Inquiry">jill.cantonwine@ucr.edu</a></address> 
+     </div> 
+     <div class="column2R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://uwp.ucr.edu/">University Writing Program</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="mailto:egomez@ucr.edu" accesskey="9">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html">Terms and Conditions</a></li> 
+      <li>&copy; 2008 Regents of the University of California</li> 
+      <li><a href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01305&amp;site=elwr&amp;path=%2Findex.html">Last modified: 2008-Aug-19</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div>
+  <!-- end pagewrapper -->   
+ </body>
+</html>
